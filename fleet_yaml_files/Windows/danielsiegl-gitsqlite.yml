@@ -1,4 +1,4 @@
-url: https://download-installer.cdn.mozilla.net/pub/devedition/releases/143.0b4/win64/rm/Firefox%20Setup%20143.0b4.exe
+url: https://github.com/danielsiegl/gitsqlite/releases/download/v0.7.8/gitsqlite-windows-amd64.exe
 automatic_install: false
 self_service: false
 categories: []

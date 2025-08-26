@@ -1,10 +1,7 @@
-url: https://fineprint.com/release/fp1215.exe
+url: https://d37drm4t2jghv5.cloudfront.net/distributions/50.4.0/macosx_arm64/GAMS50.4.0.pkg
 automatic_install: false
 self_service: false
 categories: []
-install_script: '# TODO: Add install script for this EXE'
-uninstall_script: '# TODO: Add uninstall script for this EXE'
 
 # Categories are currently limited to Browsers, Communication, Developer tools, and Productivity.
 # This is a minimum version of this file. All configurable parameters can be seen at https://fleetdm.com/docs/rest-api/rest-api#parameters139
-# Note: Any exe requires an install script and uninstall script to be defined
