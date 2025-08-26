@@ -1,0 +1,7 @@
+url: https://education.ti.com/download/en/ed-tech/F6A4DD4C150B4F63BE370EBFA15BCFEF/83F487E175C8474A893A83BD2EDA2B74/TI-SmartView-CE-84-6.0.3.619.msi
+automatic_install: false
+self_service: false
+categories: []
+
+# Categories are currently limited to Browsers, Communication, Developer tools, and Productivity.
+# This is a minimum version of this file. All configurable parameters can be seen at https://fleetdm.com/docs/rest-api/rest-api#parameters139
