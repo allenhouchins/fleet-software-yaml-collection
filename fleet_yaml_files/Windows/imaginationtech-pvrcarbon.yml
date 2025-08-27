@@ -1,4 +1,4 @@
-url: https://github.com/DataDog/dd-trace-dotnet/releases/download/v3.25.0/datadog-dotnet-apm-3.25.0-x64.msi
+url: https://cdn.imgtec.com/sdk/OFFLINE/PVRCarbonSetup-2025_R1.msi
 automatic_install: false
 self_service: false
 categories: []
