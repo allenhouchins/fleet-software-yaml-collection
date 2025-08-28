@@ -1,4 +1,4 @@
-url: https://github.com/apple/container/releases/download/0.3.0/container-0.3.0-installer-signed.pkg
+url: https://github.com/apple/container/releases/download/0.4.1/container-0.4.1-installer-signed.pkg
 automatic_install: false
 self_service: false
 categories: []
