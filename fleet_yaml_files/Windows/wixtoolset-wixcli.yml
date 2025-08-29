@@ -1,4 +1,4 @@
-url: https://github.com/wixtoolset/wix/releases/download/v6.0.1/wix-cli-x64.msi
+url: https://github.com/wixtoolset/wix/releases/download/v6.0.2/wix-cli-x64.msi
 automatic_install: false
 self_service: false
 categories: []

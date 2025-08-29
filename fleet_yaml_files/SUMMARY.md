@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-08-28 18:04:41 UTC
+Generated on: 2025-08-29 06:04:48 UTC
 
 ## Summary
 
@@ -2692,7 +2692,7 @@ Total entries processed: 6475
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `salt.yml`
-- **URL**: https://packages.broadcom.com/artifactory/saltproject-generic/macos/3007.6/salt-3007.6-py3-arm64.pkg
+- **URL**: https://packages.broadcom.com/artifactory/saltproject-generic/macos/3007.7/salt-3007.7-py3-arm64.pkg
 
 #### samsung-magician
 
@@ -3675,7 +3675,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `360-namiai.yml`
-- **URL**: https://down.360safe.com/se/360namiai1.3.1440.64.exe
+- **URL**: https://down.360safe.com/se/360namiai1.3.1458.64.exe
 
 #### 3cx-callflowdesigner
 
@@ -5250,7 +5250,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `alibaba-qoder.yml`
-- **URL**: https://qoder-ide.oss-accelerate.aliyuncs.com/release/0.1.17/QoderUserSetup-x64-0.1.17.exe
+- **URL**: https://qoder-ide.oss-accelerate.aliyuncs.com/release/0.1.18/QoderUserSetup-x64.exe
 
 #### alibaba-quark
 
@@ -6825,7 +6825,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `anysphere-cursor.yml`
-- **URL**: https://downloads.cursor.com/production/823f58d4f60b795a6aefb9955933f3a2f0331d7b/win32/x64/user-setup/CursorUserSetup-x64-1.5.5.exe
+- **URL**: https://downloads.cursor.com/production/6aa7b3af0d578b9a3aa3ab443571e1a51ebb4e83/win32/x64/user-setup/CursorUserSetup-x64-1.5.7.exe
 
 #### apache-directorystudio
 
@@ -8625,7 +8625,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bandicamcompany-bandicam.yml`
-- **URL**: https://dl.bandicam.com/old/BDCAMSETUP_ENG_8_1_1_2518.EXE
+- **URL**: https://dl.bandicam.com/bdcamsetup.exe
 
 #### bandicamcompany-bandicam2024
 
@@ -10947,7 +10947,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `brave-brave-nightly.yml`
-- **URL**: https://github.com/brave/brave-browser/releases/download/v1.83.83/BraveBrowserStandaloneSilentNightlySetup.exe
+- **URL**: https://github.com/brave/brave-browser/releases/download/v1.84.3/BraveBrowserStandaloneSilentNightlySetup.exe
 
 #### brave-brave
 
@@ -11091,7 +11091,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `browseros-browseros.yml`
-- **URL**: https://github.com/browseros-ai/BrowserOS/releases/download/v0.22.0/BrowserOS_137.0.7202.69_x64_installer.exe
+- **URL**: https://github.com/browseros-ai/BrowserOS/releases/download/v0.23.0/BrowserOS_v0.23.0_x64_installer.exe
 
 #### browserstack-browserstacklocal
 
@@ -14837,15 +14837,6 @@ Total entries processed: 6475
 - **File**: `datev-smartitconnect.yml`
 - **URL**: https://download.datev.de/download/smartit/smartitconnect.exe
 
-#### datev-smartverify
-
-- **Source**: winget
-- **Name**: datev-smartverify
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `datev-smartverify.yml`
-- **URL**: https://download.datev.de/download/smartverify/datev.smartverify.exe
-
 #### datronicsoft-spacedeskdriver-server
 
 - **Source**: winget
@@ -15888,7 +15879,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `discord-discord-ptb.yml`
-- **URL**: https://ptb.dl2.discordapp.net/distro/app/ptb/win/x64/1.0.1157/DiscordPTBSetup.exe
+- **URL**: https://ptb.dl2.discordapp.net/distro/app/ptb/win/x64/1.0.1158/DiscordPTBSetup.exe
 
 #### discord-discord
 
@@ -16257,7 +16248,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dokan-dev-dokany.yml`
-- **URL**: https://github.com/dokan-dev/dokany/releases/download/v2.2.1.1000/Dokan_x64.msi
+- **URL**: https://github.com/dokan-dev/dokany/releases/download/v2.3.0.1000/Dokan_x64.msi
 
 #### dolphinemulator-dolphin
 
@@ -19047,7 +19038,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `fineprintsoftware-fineprint.yml`
-- **URL**: https://fineprint.com/release/fp1215.exe
+- **URL**: https://fineprint.com/release/fp1216.exe
 
 #### fineprintsoftware-pdffactory-pro
 
@@ -19056,7 +19047,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `fineprintsoftware-pdffactory-pro.yml`
-- **URL**: https://fineprint.com/release/pdf915pro.exe
+- **URL**: https://fineprint.com/release/pdf916pro.exe
 
 #### fineprintsoftware-pdffactory
 
@@ -19065,7 +19056,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `fineprintsoftware-pdffactory.yml`
-- **URL**: https://fineprint.com/release/pdf915std.exe
+- **URL**: https://fineprint.com/release/pdf916std.exe
 
 #### fing-fing
 
@@ -21342,7 +21333,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/cjga4blkzxrw37kq7okpmfhh6y_141.0.7380.0/141.0.7380.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/admwfogr6lb6bsx6xupet4njdisa_141.0.7381.3/141.0.7381.3_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -21351,7 +21342,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-dev-exe.yml`
-- **URL**: https://dl.google.com/release2/chrome/acepbqcnx4u3h3xpv33fbevzltbq_141.0.7367.5/141.0.7367.5_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/advlv6rv6memccwdpy3447ya4zeq_141.0.7378.3/141.0.7378.3_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev
 
@@ -21532,6 +21523,15 @@ Total entries processed: 6475
 - **Version**: 
 - **File**: `goto-gotoassistagentdesktopconsole.yml`
 - **URL**: https://cdn.console.gotoassist.com/dtc/G2AAgentDesktopConsole-x64.msi
+
+#### goto-gotomachine
+
+- **Source**: winget
+- **Name**: goto-gotomachine
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `goto-gotomachine.yml`
+- **URL**: https://goto-desktop.goto.com/GoToSetupMachine-4.16.0-x64.msi
 
 #### gotson-komga
 
@@ -24537,7 +24537,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ipfs-ipfs-desktop.yml`
-- **URL**: https://github.com/ipfs/ipfs-desktop/releases/download/v0.44.0/ipfs-desktop-setup-0.44.0-win-x64.exe
+- **URL**: https://github.com/ipfs/ipfs-desktop/releases/download/v0.45.0/ipfs-desktop-setup-0.45.0-win-x64.exe
 
 #### ipip-besttrace
 
@@ -26825,6 +26825,15 @@ Total entries processed: 6475
 - **File**: `kamitsubaki-kafu.yml`
 - **URL**: https://cevio.jp/storage/cevio_ai/CeVIO_AI_Voice_KAFU_Song_Setup_(1.0.4).msi
 
+#### kamjin-chatless
+
+- **Source**: winget
+- **Name**: kamjin-chatless
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `kamjin-chatless.yml`
+- **URL**: https://github.com/kamjin3086/chatless/releases/download/v0.2.21/Chatless_0.2.21_x64-setup.exe
+
 #### kamranahmedse-pennywise
 
 - **Source**: winget
@@ -27372,7 +27381,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-konsole.yml`
-- **URL**: https://cdn.kde.org/ci-builds/utilities/konsole/master/windows/konsole-master-4209-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/utilities/konsole/master/windows/konsole-master-4218-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kontact
 
@@ -29262,7 +29271,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `linwoodcloud-butterfly-nightly.yml`
-- **URL**: https://github.com/LinwoodDev/Butterfly/releases/download/v2.4.0-beta.1/linwood-butterfly-windows-setup-x86_64.exe
+- **URL**: https://github.com/LinwoodDev/Butterfly/releases/download/v2.4.0-beta.3/linwood-butterfly-windows-setup-x86_64.exe
 
 #### linwoodcloud-butterfly
 
@@ -32097,7 +32106,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-officedeploymenttool.yml`
-- **URL**: https://download.microsoft.com/download/2/7/A/27AF1BE6-DD20-4CB4-B154-EBAB8A7D4A7E/officedeploymenttool_17830-20162.exe
+- **URL**: https://download.microsoft.com/download/6c1eeb25-cf8b-41d9-8d0d-cc1dbc032140/officedeploymenttool_19029-20136.exe
 
 #### microsoft-onedrive
 
@@ -32925,7 +32934,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mikf-gallery-dl-nightly.yml`
-- **URL**: https://github.com/gdl-org/builds/releases/download/2025.08.26/gallery-dl_windows.exe
+- **URL**: https://github.com/gdl-org/builds/releases/download/2025.08.28/gallery-dl_windows.exe
 
 #### mikrotik-thedude
 
@@ -40134,7 +40143,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `obsproject-obsstudio-pre-release.yml`
-- **URL**: https://github.com/obsproject/obs-studio/releases/download/31.1.0-rc1/OBS-Studio-31.1.0-rc1-Windows-x64-Installer.exe
+- **URL**: https://github.com/obsproject/obs-studio/releases/download/32.0.0-beta1/OBS-Studio-32.0.0-beta1-Windows-x64-Installer.exe
 
 #### obsproject-obsstudio
 
@@ -40620,7 +40629,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `oneware-onewarestudio.yml`
-- **URL**: https://github.com/one-ware/OneWare/releases/download/0.21.7.0/OneWareStudio-0.21.7.0-win-x64.msi
+- **URL**: https://github.com/one-ware/OneWare/releases/download/0.21.9.0/OneWareStudio-0.21.9.0-win-x64.msi
 
 #### onionshare-onionshare-dev
 
@@ -40917,7 +40926,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `openlistteam-openlistdesktop.yml`
-- **URL**: https://github.com/OpenListTeam/OpenList-Desktop/releases/download/v0.6.1/OpenList.Desktop_0.6.1_x64-setup.exe
+- **URL**: https://github.com/OpenListTeam/OpenList-Desktop/releases/download/v0.7.0/OpenList.Desktop_0.7.0_x64-setup.exe
 
 #### openlivewriter-openlivewriter
 
@@ -44067,7 +44076,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pushplaylabs-sidekick.yml`
-- **URL**: https://cdn.meetsidekick.com/browser-builds/sidekick-win-release-x64-124.61.1.50294-646391b-df.exe
+- **URL**: https://cdn.meetsidekick.com/browser-builds/sidekick-win-release-x64-120.57.1.37619-3beee6a-df.exe
 
 #### putty-putty
 
@@ -50441,15 +50450,6 @@ Total entries processed: 6475
 - **File**: `superflexiblesoftware-szarchiver.yml`
 - **URL**: https://www.syncovery.com/release/SzArchiver64Setup0.90.exe
 
-#### superhuman-superhuman
-
-- **Source**: winget
-- **Name**: superhuman-superhuman
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `superhuman-superhuman.yml`
-- **URL**: https://download.superhuman.com/Superhuman.exe
-
 #### supertiger1234-nertivia
 
 - **Source**: winget
@@ -51087,7 +51087,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tabulareditor-tabulareditor-3.yml`
-- **URL**: https://cdn.tabulareditor.com/files/TabularEditor.3.22.1.x64.Net8.msi
+- **URL**: https://cdn.tabulareditor.com/files/TabularEditor.3.23.0.x64.Net8.msi
 
 #### tagspaces-tagspaces
 
@@ -51789,7 +51789,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-codebuddy.yml`
-- **URL**: https://codebuddy-1328495429.cos.accelerate.myqcloud.com/aiide/win32-x64-user/CodeBuddy-win32-x64-user-0.1.27.5524633-4ea14116.exe
+- **URL**: https://codebuddy-1328495429.cos.accelerate.myqcloud.com/aiide/win32-x64-user/CodeBuddy-win32-x64-user-0.1.28.5694720-4ca376ba.exe
 
 #### tencent-cosbrowser
 
@@ -52590,7 +52590,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `thinkinaixyz-deepchat.yml`
-- **URL**: https://github.com/ThinkInAIXYZ/deepchat/releases/download/v0.3.1/DeepChat-0.3.1-windows-x64.exe
+- **URL**: https://github.com/ThinkInAIXYZ/deepchat/releases/download/v0.3.2/DeepChat-0.3.2-windows-x64.exe
 
 #### thinkingmansoftware-dimension4
 
@@ -52815,7 +52815,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `thunderhead-pathfinder-2025.yml`
-- **URL**: https://www.thunderheadeng.net/releases/Pathfinder-2025-1-0728-x64-en.msi
+- **URL**: https://www.thunderheadeng.net/releases/Pathfinder-2025-1-0826-x64-en.msi
 
 #### thunderhead-pyrosim-2024
 
@@ -52833,7 +52833,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `thunderhead-pyrosim-2025.yml`
-- **URL**: https://www.thunderheadeng.net/releases/PyroSim-2025-1-0728-x64-en.msi
+- **URL**: https://www.thunderheadeng.net/releases/PyroSim-2025-1-0826-x64-en.msi
 
 #### thunderhead-ventus-2024
 
@@ -53913,7 +53913,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `twintailteam-ttl.yml`
-- **URL**: https://github.com/TwintailTeam/TwintailLauncher/releases/download/ttl-v1.1.0/twintaillauncher_1.1.0_x64-setup.exe
+- **URL**: https://github.com/TwintailTeam/TwintailLauncher/releases/download/ttl-v1.1.1/twintaillauncher_1.1.1_x64-setup.exe
 
 #### twistedst-scale-serial-reader
 
@@ -56001,7 +56001,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `windirstat-windirstat-beta.yml`
-- **URL**: https://github.com/windirstat/windirstat/releases/download/beta/v2.2.3/2025-06-02/WinDirStat-x64.msi
+- **URL**: https://github.com/windirstat/windirstat/releases/download/beta/v2.3.1/2025-08-28/WinDirStat-x64.msi
 
 #### windirstat-windirstat
 
@@ -56172,7 +56172,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wiresharkfoundation-wireshark.yml`
-- **URL**: https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.4.8-x64.exe
+- **URL**: https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.4.9-x64.exe
 
 #### wisecleaner-wisedatarecovery
 
@@ -56253,7 +56253,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wixtoolset-wixcli.yml`
-- **URL**: https://github.com/wixtoolset/wix/releases/download/v6.0.1/wix-cli-x64.msi
+- **URL**: https://github.com/wixtoolset/wix/releases/download/v6.0.2/wix-cli-x64.msi
 
 #### wizardsofthecoast-mtgalauncher
 
