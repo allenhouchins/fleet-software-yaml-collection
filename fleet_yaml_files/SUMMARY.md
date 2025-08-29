@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-08-29 06:04:48 UTC
+Generated on: 2025-08-29 18:04:37 UTC
 
 ## Summary
 
-Total entries processed: 6475
+Total entries processed: 6474
 - macOS files: 392
-- Windows files: 6083
+- Windows files: 6082
 
 ## Generated Files
 
@@ -847,7 +847,7 @@ Total entries processed: 6475
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `daedalus-mainnet.yml`
-- **URL**: https://update-cardano-mainnet.iohk.io/daedalus-7.1.0-72909-mainnet-5472147d9-x86_64-darwin.pkg
+- **URL**: https://update-cardano-mainnet.iohk.io/daedalus-7.2.0-77924-mainnet-1458fc3a2-x86_64-darwin.pkg
 
 #### depnotify
 
@@ -1054,7 +1054,7 @@ Total entries processed: 6475
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `enpass.yml`
-- **URL**: https://dl.enpass.io/stable/mac/package/6.11.13.2033/Enpass.pkg
+- **URL**: https://dl.enpass.io/stable/mac/package/6.11.14.2071/Enpass.pkg
 
 #### entry
 
@@ -1567,7 +1567,7 @@ Total entries processed: 6475
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `krisp.yml`
-- **URL**: https://cdn.krisp.ai/mp/mn/3.4/mac/Krisp_3.4.7_arm64.pkg
+- **URL**: https://cdn.krisp.ai/mp/mn/3.5/mac/Krisp_3.5.5_arm64.pkg
 
 #### libndi
 
@@ -2044,7 +2044,7 @@ Total entries processed: 6475
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `netbeans.yml`
-- **URL**: https://github.com/Friends-of-Apache-NetBeans/netbeans-installers/releases/download/v26-build1/Apache-NetBeans-26-aarch64.pkg
+- **URL**: https://github.com/Friends-of-Apache-NetBeans/netbeans-installers/releases/download/v27-build1/Apache-NetBeans-27-arm64.pkg
 
 #### netdownloadhelpercoapp
 
@@ -2557,7 +2557,7 @@ Total entries processed: 6475
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `quarto.yml`
-- **URL**: https://github.com/quarto-dev/quarto-cli/releases/download/v1.7.33/quarto-1.7.33-macos.pkg
+- **URL**: https://github.com/quarto-dev/quarto-cli/releases/download/v1.7.34/quarto-1.7.34-macos.pkg
 
 #### r-app
 
@@ -3918,7 +3918,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `abb-i-bustool.yml`
-- **URL**: https://library.e.abb.com/public/669077566dee4a6cb2de0d195bae3239/i-bus%20Tool%201.9.55.0.msi
+- **URL**: https://library.e.abb.com/public/8389380d8a1f42db8203a03f1f672f52/i-bus%20Tool%201.9.56.0.msi
 
 #### abbodi1406-vcredist
 
@@ -13017,7 +13017,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cockos-reaper.yml`
-- **URL**: https://www.reaper.fm/files/7.x/reaper744_x64-install.exe
+- **URL**: https://www.reaper.fm/files/7.x/reaper745_x64-install.exe
 
 #### cocos-cocosdashboard
 
@@ -14259,7 +14259,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `crystaldewworld-crystalmarkretro-aoiedition.yml`
-- **URL**: https://sourceforge.net/projects/crystalmarkretro/files/2.0.5/CrystalMarkRetro2_0_5AoiAds.exe
+- **URL**: https://sourceforge.net/projects/crystalmarkretro/files/2.0.6/CrystalMarkRetro2_0_6Aoi.exe
 
 #### crystaldewworld-crystalmarkretro-shizukuedition
 
@@ -14268,7 +14268,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `crystaldewworld-crystalmarkretro-shizukuedition.yml`
-- **URL**: https://sourceforge.net/projects/crystalmarkretro/files/2.0.5/CrystalMarkRetro2_0_5ShizukuAds.exe
+- **URL**: https://sourceforge.net/projects/crystalmarkretro/files/2.0.6/CrystalMarkRetro2_0_6Shizuku.exe
 
 #### crystaldewworld-crystalmarkretro
 
@@ -14277,7 +14277,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `crystaldewworld-crystalmarkretro.yml`
-- **URL**: https://sourceforge.net/projects/crystalmarkretro/files/2.0.5/CrystalMarkRetro2_0_5Ads.exe
+- **URL**: https://sourceforge.net/projects/crystalmarkretro/files/2.0.6/CrystalMarkRetro2_0_6.exe
 
 #### crystalideasoftware-uninstalltool
 
@@ -16284,7 +16284,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `donmar-bonsai.yml`
-- **URL**: https://github.com/Mario185/bonsai/releases/download/release_0.1.6/bonsai.exe
+- **URL**: https://github.com/Mario185/bonsai/releases/download/release_0.1.7/bonsai.exe
 
 #### donutware-fladder-nightly
 
@@ -21333,7 +21333,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/admwfogr6lb6bsx6xupet4njdisa_141.0.7381.3/141.0.7381.3_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/hxcssgvkghzrg3t2nbaxx6es4a_141.0.7382.0/141.0.7382.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -22215,7 +22215,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `haiying-aionui.yml`
-- **URL**: https://github.com/iOfficeAI/AionUi/releases/download/v1.1.4/AionUi_1.1.4_win_x64.exe
+- **URL**: https://github.com/iOfficeAI/AionUi/releases/download/v1.1.5/AionUi_1.1.5_win_x64.exe
 
 #### hakuneko-hakuneko-nightly
 
@@ -24564,7 +24564,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ipu-packcalculationpro.yml`
-- **URL**: https://www.ipu.dk/wp-content/uploads/2025/06/packcalculationpro-5640.exe
+- **URL**: https://www.ipu.dk/wp-content/uploads/2025/08/packcalculationpro-5650.exe
 
 #### ipu-seccool
 
@@ -25194,7 +25194,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `janprochazka-dbgate.yml`
-- **URL**: https://github.com/dbgate/dbgate/releases/download/v6.6.1/dbgate-6.6.1-win_x64.exe
+- **URL**: https://github.com/dbgate/dbgate/releases/download/v6.6.2/dbgate-6.6.2-win_x64.exe
 
 #### japplis-antcommander-personal
 
@@ -25833,7 +25833,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-intellijidea-community.yml`
-- **URL**: https://download.jetbrains.com/idea/ideaIC-2025.2.exe
+- **URL**: https://download.jetbrains.com/idea/ideaIC-2025.2.1.exe
 
 #### jetbrains-intellijidea-educational
 
@@ -25860,7 +25860,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-intellijidea-ultimate.yml`
-- **URL**: https://download.jetbrains.com/idea/ideaIU-2025.2.exe
+- **URL**: https://download.jetbrains.com/idea/ideaIU-2025.2.1.exe
 
 #### jetbrains-ktorcli
 
@@ -25932,7 +25932,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-pycharm-community.yml`
-- **URL**: https://download.jetbrains.com/python/pycharm-community-2025.2.0.1.exe
+- **URL**: https://download.jetbrains.com/python/pycharm-community-2025.2.1.exe
 
 #### jetbrains-pycharm-professional-eap
 
@@ -28452,7 +28452,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kuingsmile-piclist.yml`
-- **URL**: https://github.com/Kuingsmile/PicList/releases/download/v3.0.2/PicList-Setup-3.0.2.exe
+- **URL**: https://github.com/Kuingsmile/PicList/releases/download/v3.0.3/PicList-Setup-3.0.3.exe
 
 #### kumospace-kumospace
 
@@ -43194,7 +43194,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `posit-quarto.yml`
-- **URL**: https://github.com/quarto-dev/quarto-cli/releases/download/v1.7.33/quarto-1.7.33-win.msi
+- **URL**: https://github.com/quarto-dev/quarto-cli/releases/download/v1.7.34/quarto-1.7.34-win.msi
 
 #### posit-rig
 
@@ -44068,15 +44068,6 @@ Total entries processed: 6475
 - **Version**: 
 - **File**: `pushbullet-pushbullet.yml`
 - **URL**: https://update.pushbullet.com/pushbullet_installer.exe
-
-#### pushplaylabs-sidekick
-
-- **Source**: winget
-- **Name**: pushplaylabs-sidekick
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `pushplaylabs-sidekick.yml`
-- **URL**: https://cdn.meetsidekick.com/browser-builds/sidekick-win-release-x64-120.57.1.37619-3beee6a-df.exe
 
 #### putty-putty
 
@@ -47001,7 +46992,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sangoma-sangomameet.yml`
-- **URL**: https://meet.sangoma.com/apps/desktop/5.8.4/windows/sangoma-meet-x64.exe
+- **URL**: https://meet.sangoma.com/apps/desktop/5.9.0-721/windows/sangoma-meet-x64.exe
 
 #### sangoma-sangomaphone
 
@@ -51924,7 +51915,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-tencentmeetingrooms.yml`
-- **URL**: https://updatecdn.meeting.qq.com/cos/20240624215954/TMRInstaller_1410000391_3.26.280.594.x64.exe
+- **URL**: https://updatecdn.meeting.qq.com/cos/20250814113854/TMRInstaller_1410000391_3.35.350.520.x64.exe
 
 #### tencent-tim
 
@@ -52698,7 +52689,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `thorlabs-kinesis-x64.yml`
-- **URL**: https://www.thorlabs.com/Software/Motion%20Control/KINESIS/Application/v1.14.53/kinesis_24776_setup_x64.exe
+- **URL**: https://www.thorlabs.com/Software/Motion%20Control/KINESIS/Application/V1.14.55/Thorlabs_Kinesis_Setup_25822_x64.exe
 
 #### thorlabs-kinesis-x86
 
@@ -53796,7 +53787,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tsutsu3-pi-hole-client.yml`
-- **URL**: https://github.com/tsutsu3/pi-hole-client/releases/download/1.5.1_(57)/PiHoleClient_1.5.1_Windows_x64.exe
+- **URL**: https://github.com/tsutsu3/pi-hole-client/releases/download/1.6.0_(59)/PiHoleClient_1.6.0_Windows_x64.exe
 
 #### tuittuwien-tutoolbox
 
@@ -54822,7 +54813,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `viarotel-escrcpy.yml`
-- **URL**: https://github.com/viarotel-org/escrcpy/releases/download/v1.30.2/Escrcpy-1.30.2-win-setup-x64.exe
+- **URL**: https://github.com/viarotel-org/escrcpy/releases/download/v1.31.1/Escrcpy-1.31.1-win-setup-x64.exe
 
 #### vicon-viflow-8
 
@@ -55074,7 +55065,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vivaldi-vivaldi-snapshot.yml`
-- **URL**: https://downloads.vivaldi.com/snapshot/Vivaldi.7.6.3793.3.x64.exe
+- **URL**: https://downloads.vivaldi.com/snapshot/Vivaldi.7.6.3794.4.x64.exe
 
 #### vivaldi-vivaldi
 
@@ -56667,7 +56658,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wondershare-uniconverter-16.yml`
-- **URL**: https://download.wondershare.com/cbs_down/uniconverter16_64bit_16.5.9_full14204.exe
+- **URL**: https://download.wondershare.com/cbs_down/uniconverter16_64bit_16.7.0_full14204.exe
 
 #### wondershare-uniconverter-cn
 
@@ -57729,7 +57720,7 @@ Total entries processed: 6475
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yy-yyanchor.yml`
-- **URL**: https://yydl.yy.com/client/yyanchor/3.4.0.0/YYAnchorSetup-3.4.0.0.exe
+- **URL**: https://yydl.yy.com/client/yyanchor/3.5.0.0/YYAnchorSetup-3.5.0.0.exe
 
 #### z--------------cpod-pre-release
 
