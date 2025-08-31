@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-08-31 06:04:39 UTC
+Generated on: 2025-08-31 18:04:38 UTC
 
 ## Summary
 
-Total entries processed: 6474
+Total entries processed: 6472
 - macOS files: 390
-- Windows files: 6084
+- Windows files: 6082
 
 ## Generated Files
 
@@ -2017,7 +2017,7 @@ Total entries processed: 6474
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `naps2.yml`
-- **URL**: https://github.com/cyanfish/naps2/releases/download/v8.2.0/naps2-8.2.0-mac-arm64.pkg
+- **URL**: https://github.com/cyanfish/naps2/releases/download/v8.2.1/naps2-8.2.1-mac-arm64.pkg
 
 #### ndi-tools
 
@@ -4928,15 +4928,6 @@ Total entries processed: 6474
 - **File**: `albion-online.yml`
 - **URL**: https://live.albiononline.com/clients/20240821101118/albion-online-setup.exe
 
-#### albrechtl-welloio
-
-- **Source**: winget
-- **Name**: albrechtl-welloio
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `albrechtl-welloio.yml`
-- **URL**: https://github.com/AlbrechtL/welle.io/releases/download/v2.7/welle.io-2.7-Windows_setup-x86_x64.exe
-
 #### alcpu-coretemp
 
 - **Source**: winget
@@ -5026,15 +5017,6 @@ Total entries processed: 6474
 - **Version**: 
 - **File**: `alex313031-thorium.yml`
 - **URL**: https://github.com/Alex313031/Thorium-Win/releases/download/M130.0.6723.174/thorium_SSE3_mini_installer.exe
-
-#### alexander-firefox-ong-moonscrapercharteditor
-
-- **Source**: winget
-- **Name**: alexander-firefox-ong-moonscrapercharteditor
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `alexander-firefox-ong-moonscrapercharteditor.yml`
-- **URL**: https://github.com/FireFox2000000/Moonscraper-Chart-Editor/releases/download/1.5.9/MSCE.1.5.9.Installer.Win64.exe
 
 #### alexanderkojevnikov-spek
 
@@ -5232,7 +5214,7 @@ Total entries processed: 6474
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `alibaba-qoder.yml`
-- **URL**: https://qoder-ide.oss-accelerate.aliyuncs.com/release/0.1.19/QoderUserSetup-x64.exe
+- **URL**: https://qoder-ide.oss-accelerate.aliyuncs.com/release/0.1.20/QoderUserSetup-x64.exe
 
 #### alibaba-quark
 
@@ -11190,7 +11172,7 @@ Total entries processed: 6474
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `buchen-portfolio.yml`
-- **URL**: https://github.com/portfolio-performance/portfolio/releases/download/0.79.0/PortfolioPerformance-0.79.0-setup.exe
+- **URL**: https://github.com/portfolio-performance/portfolio/releases/download/0.79.1/PortfolioPerformance-0.79.1-setup.exe
 
 #### bufbuild-buf
 
@@ -12711,7 +12693,7 @@ Total entries processed: 6474
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `clanmonsterxd-cmd-game-menu.yml`
-- **URL**: https://github.com/clanmonsterxd-cmd/Game-Menu/releases/download/v1.0.0.1/setup_game_menu.exe
+- **URL**: https://github.com/clanmonsterxd-cmd/Game-Menu/releases/download/v1.0.1.1/setup_game_menu.exe
 
 #### clashvergerev-clashvergerev
 
@@ -14421,7 +14403,7 @@ Total entries processed: 6474
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cyanfish-naps2.yml`
-- **URL**: https://github.com/cyanfish/naps2/releases/download/v8.2.0/naps2-8.2.0-win-x64.exe
+- **URL**: https://github.com/cyanfish/naps2/releases/download/v8.2.1/naps2-8.2.1-win-x64.exe
 
 #### cyanreg-cyanrip
 
@@ -21306,7 +21288,7 @@ Total entries processed: 6474
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/hjyqdj6gae4hv27354rfemxtxu_141.0.7384.0/141.0.7384.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/acyubnqstcyfnspu6saeyjtossla_141.0.7386.0/141.0.7386.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -23898,7 +23880,7 @@ Total entries processed: 6474
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `imagemagick-imagemagick-q16.yml`
-- **URL**: https://imagemagick.org/archive/binaries/ImageMagick-7.1.2-2-Q16-x64-dll.exe
+- **URL**: https://imagemagick.org/archive/binaries/ImageMagick-7.1.2-3-Q16-x64-dll.exe
 
 #### imagemagick-imagemagick-q8
 
@@ -27687,7 +27669,7 @@ Total entries processed: 6474
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kenkun-aviutlexedit2.yml`
-- **URL**: https://spring-fragrance.mints.ne.jp/aviutl/AviUtl2beta8_setup.exe
+- **URL**: https://spring-fragrance.mints.ne.jp/aviutl/AviUtl2beta9_setup.exe
 
 #### kensington-kensingtonkonnect
 
@@ -28101,7 +28083,7 @@ Total entries processed: 6474
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kopi-vm-kopi.yml`
-- **URL**: https://github.com/kopi-vm/kopi/releases/download/v0.1.3/kopi-0.1.3-windows-x64.msi
+- **URL**: https://github.com/kopi-vm/kopi/releases/download/v0.1.4/kopi-0.1.4-windows-x64.msi
 
 #### kopia-kopiaui
 
@@ -34536,7 +34518,7 @@ Total entries processed: 6474
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-pt-br.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/143.0b5/win64/pt-BR/Firefox%20Setup%20143.0b5.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/143.0b6/win64/pt-BR/Firefox%20Setup%20143.0b6.exe
 
 #### mozilla-firefox-developeredition-pt-pt
 
@@ -40854,7 +40836,7 @@ Total entries processed: 6474
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `opengoal-launcher.yml`
-- **URL**: https://github.com/open-goal/launcher/releases/download/v2.8.3/OpenGOAL-Launcher_2.8.3_x64_en-US.msi
+- **URL**: https://github.com/open-goal/launcher/releases/download/v2.8.6/OpenGOAL-Launcher_2.8.6_x64_en-US.msi
 
 #### openhpsdr-tapr-thetis
 
@@ -41700,7 +41682,7 @@ Total entries processed: 6474
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `oxc-project-oxlint.yml`
-- **URL**: https://github.com/oxc-project/oxc/releases/download/oxlint_v1.13.0/oxlint-win32-x64.exe
+- **URL**: https://github.com/oxc-project/oxc/releases/download/oxlint_v1.14.0/oxlint-win32-x64.exe
 
 #### oxen-io-lokinet
 
@@ -57594,7 +57576,7 @@ Total entries processed: 6474
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yt-dlp-yt-dlp-nightly.yml`
-- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.08.29.232845/yt-dlp.exe
+- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.08.30.232839/yt-dlp.exe
 
 #### yt-dlp-yt-dlp
 
