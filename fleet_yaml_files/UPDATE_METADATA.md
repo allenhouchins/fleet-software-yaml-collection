@@ -1,10 +1,10 @@
 # Fleet YAML Files Update Metadata
 
 ## Last Update
-- **Timestamp**: 2025-08-30 18:04:27 UTC
-- **GitHub Actions Run**: https://github.com/allenhouchins/fleet-software-yaml-collection/actions/runs/17346917772
-- **Total Files Generated**: 6476
-- **macOS Files**: 392
+- **Timestamp**: 2025-08-31 06:04:39 UTC
+- **GitHub Actions Run**: https://github.com/allenhouchins/fleet-software-yaml-collection/actions/runs/17353309150
+- **Total Files Generated**: 6474
+- **macOS Files**: 390
 - **Windows Files**: 6084
 
 ## Sources

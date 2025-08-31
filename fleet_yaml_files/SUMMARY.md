@@ -1,11 +1,11 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-08-30 18:04:27 UTC
+Generated on: 2025-08-31 06:04:39 UTC
 
 ## Summary
 
-Total entries processed: 6476
-- macOS files: 392
+Total entries processed: 6474
+- macOS files: 390
 - Windows files: 6084
 
 ## Generated Files
@@ -1524,15 +1524,6 @@ Total entries processed: 6476
 - **File**: `kdrive.yml`
 - **URL**: https://download.storage.infomaniak.com/drive/desktopclient/kDrive-3.7.5.20250812.pkg
 
-#### kern
-
-- **Source**: homebrew/installomator
-- **Name**: kern
-- **Description**: Generated from Homebrew cask or Installomator script
-- **Version**: 
-- **File**: `kern.yml`
-- **URL**: https://www.fullbucket.de/music/dl/kern_1_2_0_mac.pkg
-
 #### kindle-create
 
 - **Source**: homebrew/installomator
@@ -2674,7 +2665,7 @@ Total entries processed: 6476
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `rwts-pdfwriter.yml`
-- **URL**: https://github.com/rodyager/RWTS-PDFwriter/releases/download/v3.1a/RWTS-PDFwriter.pkg
+- **URL**: https://github.com/rodyager/RWTS-PDFwriter/releases/download/v3.1b/RWTS-PDFwriter.pkg
 
 #### salesforcecli
 
@@ -3413,15 +3404,6 @@ Total entries processed: 6476
 - **Version**: 
 - **File**: `xsplit-vcam.yml`
 - **URL**: https://cdn2.xsplit.com/download/vc/macos/builds/4.0.2206.0801/XSplit_VCam_4.0.2206.0801_arm.pkg
-
-#### yggdrasil
-
-- **Source**: homebrew/installomator
-- **Name**: yggdrasil
-- **Description**: Generated from Homebrew cask or Installomator script
-- **Version**: 
-- **File**: `yggdrasil.yml`
-- **URL**: https://github.com/yggdrasil-network/yggdrasil-go/releases/download/v0.5.12/yggdrasil-0.5.12-macos-arm64.pkg
 
 #### yo-app
 
@@ -8625,7 +8607,7 @@ Total entries processed: 6476
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bandicamcompany-bandicam.yml`
-- **URL**: https://dl.bandicam.com/bdcamsetup.exe
+- **URL**: https://dl.bandicam.com/old/BDCAMSETUP_ENG_8_2_0_2524.EXE
 
 #### bandicamcompany-bandicam2024
 
@@ -11208,7 +11190,7 @@ Total entries processed: 6476
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `buchen-portfolio.yml`
-- **URL**: https://github.com/portfolio-performance/portfolio/releases/download/0.78.1/PortfolioPerformance-0.78.1-setup.exe
+- **URL**: https://github.com/portfolio-performance/portfolio/releases/download/0.79.0/PortfolioPerformance-0.79.0-setup.exe
 
 #### bufbuild-buf
 
@@ -28641,7 +28623,7 @@ Total entries processed: 6476
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lapce-lapce.yml`
-- **URL**: https://github.com/lapce/lapce/releases/download/v0.4.3/Lapce-windows.msi
+- **URL**: https://github.com/lapce/lapce/releases/download/v0.4.4/Lapce-windows.msi
 
 #### laserweb-laserweb
 
@@ -33078,7 +33060,7 @@ Total entries processed: 6476
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mintty-wsltty.yml`
-- **URL**: https://github.com/mintty/wsltty/releases/download/3.8.0.2/wsltty-3.8.0.2-x86_64-install-quiet.exe
+- **URL**: https://github.com/mintty/wsltty/releases/download/3.8.0.3/wsltty-3.8.0.3-x86_64-install-quiet.exe
 
 #### mirantis-lens
 
@@ -34518,7 +34500,7 @@ Total entries processed: 6476
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-nn-no.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/143.0b5/win64/nn-NO/Firefox%20Setup%20143.0b5.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/143.0b6/win64/nn-NO/Firefox%20Setup%20143.0b6.exe
 
 #### mozilla-firefox-developeredition-oc
 
@@ -34725,7 +34707,7 @@ Total entries processed: 6476
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-tl.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/143.0b5/win64/tl/Firefox%20Setup%20143.0b5.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/143.0b6/win64/tl/Firefox%20Setup%20143.0b6.exe
 
 #### mozilla-firefox-developeredition-tr
 
@@ -47604,7 +47586,7 @@ Total entries processed: 6476
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sedwards2009-extraterm.yml`
-- **URL**: https://github.com/sedwards2009/extraterm/releases/download/v0.81.3/extratermqt-setup-0.81.3.exe
+- **URL**: https://github.com/sedwards2009/extraterm/releases/download/v0.81.4/extratermqt-setup-0.81.4.exe
 
 #### seelen-seelenui
 
@@ -53256,7 +53238,7 @@ Total entries processed: 6476
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `topalasoftwaresolutions-siw.yml`
-- **URL**: https://www.gtopala.com/download/20250817b/siwtrial-setup.exe
+- **URL**: https://www.gtopala.com/download/20250817c/siwtrial-setup.exe
 
 #### topazlabs-topazdenoiseai
 
@@ -57612,7 +57594,7 @@ Total entries processed: 6476
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yt-dlp-yt-dlp-nightly.yml`
-- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.08.28.232853/yt-dlp.exe
+- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.08.29.232845/yt-dlp.exe
 
 #### yt-dlp-yt-dlp
 
