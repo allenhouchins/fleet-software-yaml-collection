@@ -1,10 +1,7 @@
-url: https://github.com/DuckDuckStudio/Sundry/releases/download/1.3.8/Sundry_Setup.exe
+url: https://pcstwinget.blob.core.windows.net/pc-servicetool-images/My_Baxi_PRO_2025_8_291.msi
 automatic_install: false
 self_service: false
 categories: []
-install_script: '# TODO: Add install script for this EXE'
-uninstall_script: '# TODO: Add uninstall script for this EXE'
 
 # Categories are currently limited to Browsers, Communication, Developer tools, and Productivity.
 # This is a minimum version of this file. All configurable parameters can be seen at https://fleetdm.com/docs/rest-api/rest-api#parameters139
-# Note: Any exe requires an install script and uninstall script to be defined
