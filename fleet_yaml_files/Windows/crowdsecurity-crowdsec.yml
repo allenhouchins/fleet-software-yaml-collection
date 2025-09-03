@@ -1,4 +1,4 @@
-url: https://github.com/crowdsecurity/crowdsec/releases/download/v1.6.9/crowdsec_1.6.9.msi
+url: https://github.com/crowdsecurity/crowdsec/releases/download/v1.7.0/crowdsec_1.7.0.msi
 automatic_install: false
 self_service: false
 categories: []

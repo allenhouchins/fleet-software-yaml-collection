@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-09-02 18:04:54 UTC
+Generated on: 2025-09-03 06:05:02 UTC
 
 ## Summary
 
 Total entries processed: 6484
-- macOS files: 390
-- Windows files: 6094
+- macOS files: 389
+- Windows files: 6095
 
 ## Generated Files
 
@@ -1605,15 +1605,6 @@ Total entries processed: 6484
 - **File**: `logdna-agent.yml`
 - **URL**: https://github.com/logdna/logdna-agent/releases/download/2.2.2/logdna-agent-2.2.2.pkg
 
-#### logdna-cli
-
-- **Source**: homebrew/installomator
-- **Name**: logdna-cli
-- **Description**: Generated from Homebrew cask or Installomator script
-- **Version**: 
-- **File**: `logdna-cli.yml`
-- **URL**: https://github.com/logdna/logdna-cli/releases/download/2.0.0/logdna-cli.pkg
-
 #### logitech-camera-settings
 
 - **Source**: homebrew/installomator
@@ -1765,7 +1756,7 @@ Total entries processed: 6484
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `microsoft-auto-update.yml`
-- **URL**: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.79.25033028_Updater.pkg
+- **URL**: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.80.25073044_Updater.pkg
 
 #### microsoft-excel
 
@@ -1774,7 +1765,7 @@ Total entries processed: 6484
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `microsoft-excel.yml`
-- **URL**: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.100.25082415_Installer.pkg
+- **URL**: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.100.25083017_Installer.pkg
 
 #### microsoft-office-businesspro
 
@@ -1846,7 +1837,7 @@ Total entries processed: 6484
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `microsoft-powerpoint.yml`
-- **URL**: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.100.25082415_Installer.pkg
+- **URL**: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.100.25083017_Installer.pkg
 
 #### microsoft-teams
 
@@ -1864,7 +1855,7 @@ Total entries processed: 6484
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `microsoft-word.yml`
-- **URL**: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.100.25082415_Installer.pkg
+- **URL**: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.100.25083017_Installer.pkg
 
 #### microsoftteams-rollingout
 
@@ -7916,6 +7907,15 @@ Total entries processed: 6484
 - **File**: `axelrietschin-fastpictureviewer-professional.yml`
 - **URL**: https://cdn.fastpictureviewer.com/bin/FastPictureViewer64.msi
 
+#### axeprpr-sshcopyid
+
+- **Source**: winget
+- **Name**: axeprpr-sshcopyid
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `axeprpr-sshcopyid.yml`
+- **URL**: https://github.com/axeprpr/ssh-copy-id-windows/releases/download/v1.0.0/ssh-copy-id.exe
+
 #### axialis-iconworkshop
 
 - **Source**: winget
@@ -8626,15 +8626,6 @@ Total entries processed: 6484
 - **Version**: 
 - **File**: `bandicamcompany-bandicut.yml`
 - **URL**: https://dl.bandicam.com/bandicut/old/bandicut-setup-4.1.0.2527.exe
-
-#### bandicamcompany-bandicut2024
-
-- **Source**: winget
-- **Name**: bandicamcompany-bandicut2024
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `bandicamcompany-bandicut2024.yml`
-- **URL**: https://dl.bandicam.com/bdcutsetup-2024.exe
 
 #### bandisoft-bandiview
 
@@ -11993,6 +11984,15 @@ Total entries processed: 6484
 - **File**: `certifytheweb-certifysslmanager.yml`
 - **URL**: https://downloads.certifytheweb.com/CertifyTheWebSetup_V6.1.9.exe
 
+#### certum-smartsignsimplysigndesktop
+
+- **Source**: winget
+- **Name**: certum-smartsignsimplysigndesktop
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `certum-smartsignsimplysigndesktop.yml`
+- **URL**: https://files.certum.eu/software/SimplySignDesktop/Windows/9.3.2.67/SimplySignDesktop-9.3.2.67-64-bit-en.msi
+
 #### cevio-cevioai
 
 - **Source**: winget
@@ -14133,7 +14133,7 @@ Total entries processed: 6484
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `crowdsecurity-crowdsec.yml`
-- **URL**: https://github.com/crowdsecurity/crowdsec/releases/download/v1.6.9/crowdsec_1.6.9.msi
+- **URL**: https://github.com/crowdsecurity/crowdsec/releases/download/v1.7.0/crowdsec_1.7.0.msi
 
 #### crowdsecurity-crowdsecwindowsfirewallbouncer
 
@@ -15078,7 +15078,7 @@ Total entries processed: 6484
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `deanxv-donehub.yml`
-- **URL**: https://github.com/deanxv/done-hub/releases/download/v1.4.7/done-hub.exe
+- **URL**: https://github.com/deanxv/done-hub/releases/download/v1.4.8/done-hub.exe
 
 #### debaucheeopensourcegroup-barrier
 
@@ -19974,7 +19974,7 @@ Total entries processed: 6484
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `funroutine-workflowy.yml`
-- **URL**: https://github.com/workflowy/desktop/releases/download/v4.3.2508271936/WorkFlowy-Installer.exe
+- **URL**: https://github.com/workflowy/desktop/releases/download/v4.3.2509021557/WorkFlowy-Installer.exe
 
 #### fupdec-mediachips
 
@@ -22665,7 +22665,7 @@ Total entries processed: 6484
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hestudiocommunity-apksignergui-machine-msi-.yml`
-- **URL**: https://github.com/hestudio-community/apksigner-gui/releases/download/v1.3.0/apksignergui_1.3.0_amd64.msi
+- **URL**: https://github.com/hestudio-community/apksigner-gui/releases/download/v1.3.1/apksignergui_1.3.1_amd64.msi
 
 #### hex-rays-ida-free
 
@@ -26850,7 +26850,7 @@ Total entries processed: 6484
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kamjin-chatless.yml`
-- **URL**: https://github.com/kamjin3086/chatless/releases/download/v0.3.7/Chatless_0.3.7_x64-setup.exe
+- **URL**: https://github.com/kamjin3086/chatless/releases/download/v0.3.9/Chatless_0.3.9_x64-setup.exe
 
 #### kamranahmedse-pennywise
 
@@ -26877,7 +26877,7 @@ Total entries processed: 6484
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kangfenmao-cherrystudio.yml`
-- **URL**: https://github.com/CherryHQ/cherry-studio/releases/download/v1.5.7/Cherry-Studio-1.5.7-x64-setup.exe
+- **URL**: https://github.com/CherryHQ/cherry-studio/releases/download/v1.5.9/Cherry-Studio-1.5.9-x64-setup.exe
 
 #### kapibala-shuitun
 
@@ -36894,7 +36894,7 @@ Total entries processed: 6484
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-esr-eu.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/140.2.0esr/win64/eu/Thunderbird%20Setup%20140.2.0esr.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/140.2.1esr/win64/eu/Thunderbird%20Setup%20140.2.1esr.exe
 
 #### mozilla-thunderbird-esr-fi
 
@@ -41133,7 +41133,7 @@ Total entries processed: 6484
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `openrefine-openrefine.yml`
-- **URL**: https://github.com/OpenRefine/OpenRefine/releases/download/3.9.3/openrefine-win-with-java-installer-3.9.3.exe
+- **URL**: https://github.com/OpenRefine/OpenRefine/releases/download/3.9.5/openrefine-win-with-java-installer-3.9.5.exe
 
 #### openrgb-openrgb
 
@@ -49998,7 +49998,7 @@ Total entries processed: 6484
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `stellar-stellarcli.yml`
-- **URL**: https://github.com/stellar/stellar-cli/releases/download/v23.0.1/stellar-cli-installer-23.0.1-x86_64-pc-windows-msvc.exe
+- **URL**: https://github.com/stellar/stellar-cli/releases/download/v23.1.1/stellar-cli-installer-23.1.1-x86_64-pc-windows-msvc.exe
 
 #### stellardatarecovery-stellarextractorforwindowsbackup
 
@@ -54957,7 +54957,7 @@ Total entries processed: 6484
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc-nightly.yml`
-- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20250827-0428/vlc-4.0.0-dev-win64-6a9d6e8e.msi
+- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20250902-0429/vlc-4.0.0-dev-win64-b194800f.msi
 
 #### videolan-vlc
 
@@ -55011,7 +55011,7 @@ Total entries processed: 6484
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.1725/gvim_9.1.1725_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.1730/gvim_9.1.1730_x64.exe
 
 #### vim-vim
 
