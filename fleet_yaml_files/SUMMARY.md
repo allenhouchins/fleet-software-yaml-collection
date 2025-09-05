@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-09-05 06:04:54 UTC
+Generated on: 2025-09-05 18:04:50 UTC
 
 ## Summary
 
@@ -3648,7 +3648,7 @@ Total entries processed: 6491
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `360-namiai.yml`
-- **URL**: https://down.360safe.com/se/360namiai1.3.1458.64.exe
+- **URL**: https://down.360safe.com/se/360namiai1.3.1467.64.exe
 
 #### 3cx-callflowdesigner
 
@@ -14061,7 +14061,7 @@ Total entries processed: 6491
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `creality-crealityprint.yml`
-- **URL**: https://file2-cdn.creality.com/file/df0847dea77c04810e912ee409d089f6/CrealityPrint_6.2.2.3203_Release%20(1).exe
+- **URL**: https://github.com/CrealityOfficial/CrealityPrint/releases/download/v6.2.2/CrealityPrint_6.2.2.3203_Release.exe
 
 #### creality-crealityscan-4
 
@@ -15618,7 +15618,7 @@ Total entries processed: 6491
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `diamondburned-dissent.yml`
-- **URL**: https://github.com/diamondburned/dissent/releases/download/v0.0.35/dissent-windows-amd64.exe
+- **URL**: https://github.com/diamondburned/dissent/releases/download/v0.0.37/dissent-windows-amd64.exe
 
 #### dicarne-thecenter
 
@@ -15897,7 +15897,7 @@ Total entries processed: 6491
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `discord-discord-canary.yml`
-- **URL**: https://canary.dl2.discordapp.net/distro/app/canary/win/x64/1.0.705/DiscordCanarySetup.exe
+- **URL**: https://canary.dl2.discordapp.net/distro/app/canary/win/x64/1.0.706/DiscordCanarySetup.exe
 
 #### discord-discord-development
 
@@ -15924,7 +15924,7 @@ Total entries processed: 6491
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `discord-discord.yml`
-- **URL**: https://stable.dl2.discordapp.net/distro/app/stable/win/x64/1.0.9206/DiscordSetup.exe
+- **URL**: https://stable.dl2.discordapp.net/distro/app/stable/win/x64/1.0.9207/DiscordSetup.exe
 
 #### diskuv-dk
 
@@ -16194,7 +16194,7 @@ Total entries processed: 6491
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dnscrypt-dnscrypt-proxy.yml`
-- **URL**: https://github.com/DNSCrypt/dnscrypt-proxy/releases/download/2.1.13/dnscrypt-proxy-x64-2.1.13.msi
+- **URL**: https://github.com/DNSCrypt/dnscrypt-proxy/releases/download/2.1.14/dnscrypt-proxy-x64-2.1.14.msi
 
 #### docker-dockercompose
 
@@ -17355,7 +17355,7 @@ Total entries processed: 6491
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `edrawsoft-edrawmax-cn.yml`
-- **URL**: https://cc-download.edrawsoft.cn/cbs_down/edraw-max_cn_64bit_14.6.1_full5374.exe
+- **URL**: https://cc-download.edrawsoft.cn/cbs_down/edraw-max_cn_64bit_14.7.1_full5374.exe
 
 #### edrawsoft-edrawmax
 
@@ -19857,7 +19857,7 @@ Total entries processed: 6491
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `freedomscientific-jaws-2025.yml`
-- **URL**: https://software.vfo.digital/JAWS/2025/2025.2506.170.400/4C9BEE0D-A48E-4DDC-99FC-C1D5E1090528/J2025.2506.170.400-Offline-x64.exe
+- **URL**: https://software.vfo.digital/JAWS/2025/2025.2508.120.400/56B705E6-BE2D-4DB8-A7A3-B9B7A42B9361/J2025.2508.120.400-Offline-x64.exe
 
 #### freedroidrpg-freedroidrpg
 
@@ -21378,7 +21378,7 @@ Total entries processed: 6491
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/apvbgoewzadvnid3e36jqhezoi_142.0.7393.0/142.0.7393.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/hvbkngyk75trcgyz6nu6fc7obq_142.0.7395.0/142.0.7395.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -23025,7 +23025,7 @@ Total entries processed: 6491
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `houmain-keymapper.yml`
-- **URL**: https://github.com/houmain/keymapper/releases/download/4.9.1/keymapper-4.9.1-win64.msi
+- **URL**: https://github.com/houmain/keymapper/releases/download/5.0.0/keymapper-5.0.0-Windows-x86_64.msi
 
 #### housatonic-projectplan365
 
@@ -27012,7 +27012,7 @@ Total entries processed: 6491
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-akregator.yml`
-- **URL**: https://cdn.kde.org/ci-builds/pim/akregator/master/windows/akregator-master-2324-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/pim/akregator/master/windows/akregator-master-2331-windows-cl-msvc2022-x86_64.exe
 
 #### kde-ark
 
@@ -27156,7 +27156,7 @@ Total entries processed: 6491
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kalarm.yml`
-- **URL**: https://cdn.kde.org/ci-builds/pim/kalarm/master/windows/kalarm-master-2880-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/pim/kalarm/master/windows/kalarm-master-2906-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kapman
 
@@ -27246,7 +27246,7 @@ Total entries processed: 6491
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kbruch.yml`
-- **URL**: https://cdn.kde.org/ci-builds/education/kbruch/master/windows/kbruch-master-722-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/education/kbruch/master/windows/kbruch-master-726-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kdeconnect
 
@@ -27381,7 +27381,7 @@ Total entries processed: 6491
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-klines.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/klines/master/windows/klines-master-714-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/klines/master/windows/klines-master-717-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kmahjongg
 
@@ -27453,7 +27453,7 @@ Total entries processed: 6491
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kontact.yml`
-- **URL**: https://cdn.kde.org/ci-builds/pim/kontact/master/windows/kontact-master-1979-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/pim/kontact/master/windows/kontact-master-1996-windows-cl-msvc2022-x86_64.exe
 
 #### kde-konversation
 
@@ -27660,7 +27660,7 @@ Total entries processed: 6491
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-parley.yml`
-- **URL**: https://cdn.kde.org/ci-builds/education/parley/master/windows/parley-master-809-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/education/parley/master/windows/parley-master-810-windows-cl-msvc2022-x86_64.exe
 
 #### kde-picmi
 
@@ -27669,7 +27669,7 @@ Total entries processed: 6491
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-picmi.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/picmi/master/windows/picmi-master-671-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/picmi/master/windows/picmi-master-676-windows-cl-msvc2022-x86_64.exe
 
 #### kde-rkward
 
@@ -29838,7 +29838,7 @@ Total entries processed: 6491
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lseg-refinitivworkspace.yml`
-- **URL**: https://cdn.refinitiv.com/public/packages/Workspace/RefinitivWorkspace-installer_1.26.312.exe
+- **URL**: https://cdn.refinitiv.com/public/packages/Workspace/RefinitivWorkspace-installer_1.26.412.exe
 
 #### lsofttechnologies-activebootdisk
 
@@ -32358,7 +32358,7 @@ Total entries processed: 6491
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-remotedesktopclient.yml`
-- **URL**: https://res.cdn.office.net/remote-desktop-windows-client/85469565-f22e-49bb-918c-c4872f06eb19/RemoteDesktop_1.2.6511.0_x64.msi
+- **URL**: https://res.cdn.office.net/remote-desktop-windows-client/453f06e3-6296-42e3-a9f2-6869d9bf27f1/RemoteDesktop_1.2.6513.0_x64.msi
 
 #### microsoft-remotedesktopmmrservice
 
@@ -33006,7 +33006,7 @@ Total entries processed: 6491
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mikf-gallery-dl-nightly.yml`
-- **URL**: https://github.com/gdl-org/builds/releases/download/2025.08.31/gallery-dl_windows.exe
+- **URL**: https://github.com/gdl-org/builds/releases/download/2025.09.02/gallery-dl_windows.exe
 
 #### mikrotik-thedude
 
@@ -33438,7 +33438,7 @@ Total entries processed: 6491
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `modelscope-flowbench.yml`
-- **URL**: https://muse-ai.oss-cn-hangzhou.aliyuncs.com/flowbench/release/win/FlowBench-0.1.0-beta-20250829.exe
+- **URL**: https://muse-ai.oss-cn-hangzhou.aliyuncs.com/flowbench/release/win/FlowBench-0.1.0-beta-20250902.exe
 
 #### modorganizer2-modorganizer
 
@@ -33582,7 +33582,7 @@ Total entries processed: 6491
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mongodb-compass-isolated.yml`
-- **URL**: https://github.com/mongodb-js/compass/releases/download/v1.46.8/mongodb-compass-isolated-1.46.8-win32-x64.msi
+- **URL**: https://github.com/mongodb-js/compass/releases/download/v1.46.9/mongodb-compass-isolated-1.46.9-win32-x64.msi
 
 #### mongodb-compass-readonly
 
@@ -33591,7 +33591,7 @@ Total entries processed: 6491
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mongodb-compass-readonly.yml`
-- **URL**: https://github.com/mongodb-js/compass/releases/download/v1.46.8/mongodb-compass-readonly-1.46.8-win32-x64.msi
+- **URL**: https://github.com/mongodb-js/compass/releases/download/v1.46.9/mongodb-compass-readonly-1.46.9-win32-x64.msi
 
 #### mongodb-databasetools
 
@@ -34419,7 +34419,7 @@ Total entries processed: 6491
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-id.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/143.0b7/win64/id/Firefox%20Setup%20143.0b7.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/143.0b8/win64/id/Firefox%20Setup%20143.0b8.exe
 
 #### mozilla-firefox-developeredition-is
 
@@ -34455,7 +34455,7 @@ Total entries processed: 6491
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-ka.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/143.0b7/win64/ka/Firefox%20Setup%20143.0b7.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/143.0b8/win64/ka/Firefox%20Setup%20143.0b8.exe
 
 #### mozilla-firefox-developeredition-kab
 
@@ -39252,7 +39252,7 @@ Total entries processed: 6491
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nikkho-fileoptimizer.yml`
-- **URL**: https://sourceforge.net/projects/nikkhokkho/files/FileOptimizer/17.00.2842/FileOptimizerSetup.exe/download
+- **URL**: https://sourceforge.net/projects/nikkhokkho/files/FileOptimizer/17.10.2857/FileOptimizerSetup.exe/download
 
 #### niklasrast-amienrollmentuser
 
@@ -40314,7 +40314,7 @@ Total entries processed: 6491
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `octopusdeploy-server.yml`
-- **URL**: https://download.octopusdeploy.com/octopus/Octopus.2025.2.13043-x64.msi
+- **URL**: https://download.octopusdeploy.com/octopus/Octopus.2025.2.13071-x64.msi
 
 #### octopusdeploy-tentacle
 
@@ -43689,7 +43689,7 @@ Total entries processed: 6491
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `primatelabs-geekbenchai.yml`
-- **URL**: https://cdn.geekbench.com/GeekbenchAI-1.3.0-WindowsSetup.exe
+- **URL**: https://cdn.geekbench.com/GeekbenchAI-1.4.0-WindowsSetup.exe
 
 #### primecount-primecount
 
@@ -50115,7 +50115,7 @@ Total entries processed: 6491
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `stirlingtools-stirlingpdf.yml`
-- **URL**: https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v1.2.0/Stirling-PDF-win-installer.exe
+- **URL**: https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v1.3.1/Stirling-PDF-win-installer.exe
 
 #### stnkl-everythingtoolbar-beta
 
@@ -51285,7 +51285,7 @@ Total entries processed: 6491
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tangshimin-mujing.yml`
-- **URL**: https://github.com/tangshimin/MuJing/releases/download/v2.6.5/MuJing-2.6.5.msi
+- **URL**: https://github.com/tangshimin/MuJing/releases/download/v2.9.0/MuJing-2.9.0.msi
 
 #### tanshuai-alphabiz
 
