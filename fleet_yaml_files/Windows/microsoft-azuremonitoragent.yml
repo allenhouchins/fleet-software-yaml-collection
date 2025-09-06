@@ -1,4 +1,4 @@
-url: https://download.microsoft.com/download/31552825-352c-46fa-91d8-9c8984ea0545/AzureMonitorAgentClientSetup.msi
+url: https://download.microsoft.com/download/a610b144-40da-4e96-8cec-84926fb632d1/AzureMonitorAgentClientSetup.msi
 automatic_install: false
 self_service: false
 categories: []
