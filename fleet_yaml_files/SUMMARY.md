@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-09-07 06:04:38 UTC
+Generated on: 2025-09-07 18:04:49 UTC
 
 ## Summary
 
-Total entries processed: 6497
+Total entries processed: 6496
 - macOS files: 389
-- Windows files: 6108
+- Windows files: 6107
 
 ## Generated Files
 
@@ -3927,7 +3927,7 @@ Total entries processed: 6497
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `abgox-inputtip.yml`
-- **URL**: https://github.com/abgox/InputTip/releases/download/v2025.09.03/InputTip.exe
+- **URL**: https://github.com/abgox/InputTip/releases/download/v2025.09.06/InputTip.exe
 
 #### ablaze-floorp-daylight
 
@@ -6897,7 +6897,7 @@ Total entries processed: 6497
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `appbytroye-koodoreader.yml`
-- **URL**: https://dl.koodoreader.com/v2.1.3/Koodo-Reader-2.1.3-x64.exe
+- **URL**: https://dl.koodoreader.com/v2.1.4/Koodo-Reader-2.1.4-x64.exe
 
 #### appest-dida
 
@@ -15123,7 +15123,7 @@ Total entries processed: 6497
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `deanxv-donehub.yml`
-- **URL**: https://github.com/deanxv/done-hub/releases/download/v1.4.8/done-hub.exe
+- **URL**: https://github.com/deanxv/done-hub/releases/download/v1.5.4/done-hub.exe
 
 #### debaucheeopensourcegroup-barrier
 
@@ -21387,7 +21387,7 @@ Total entries processed: 6497
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/actbv6amcdoiwp3ktrubngiw2tiq_142.0.7398.0/142.0.7398.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/hlprztrtzsanbtciixuoi5dzim_142.0.7399.0/142.0.7399.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -27471,7 +27471,7 @@ Total entries processed: 6497
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kontact.yml`
-- **URL**: https://cdn.kde.org/ci-builds/pim/kontact/master/windows/kontact-master-1998-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/pim/kontact/master/windows/kontact-master-1999-windows-cl-msvc2022-x86_64.exe
 
 #### kde-konversation
 
@@ -39423,7 +39423,7 @@ Total entries processed: 6497
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nitrorcr-aiasworkspace.yml`
-- **URL**: https://github.com/NitroRCr/AIaW/releases/download/v1.8.0/AI.as.Workspace_1.8.0_x64-setup.exe
+- **URL**: https://github.com/NitroRCr/AIaW/releases/download/v1.8.1/AI.as.Workspace_1.8.1_x64-setup.exe
 
 #### nitrosoftware-nitropro-nls
 
@@ -45435,7 +45435,7 @@ Total entries processed: 6497
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rem0o-fancontrol.yml`
-- **URL**: https://github.com/Rem0o/FanControl.Releases/releases/download/V235/FanControl_235_net_8_0_Installer.exe
+- **URL**: https://github.com/Rem0o/FanControl.Releases/releases/download/V236/FanControl_236_net_8_0_Installer.exe
 
 #### remarkable-remarkablecompanionapp
 
@@ -46201,15 +46201,6 @@ Total entries processed: 6497
 - **Version**: 
 - **File**: `robinsontechnologies-dinksmallwoodhd.yml`
 - **URL**: https://www.dinknetwork.com/download/dink_smallwood_hd-1_99.exe
-
-#### roblox-roblox
-
-- **Source**: winget
-- **Name**: roblox-roblox
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `roblox-roblox.yml`
-- **URL**: https://setup.rbxcdn.com/version-429d03ccdcbb4161-Roblox.exe
 
 #### robware-rvtools
 
@@ -51861,7 +51852,7 @@ Total entries processed: 6497
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `telegram-telegramdesktop.yml`
-- **URL**: https://td.telegram.org/tx64/tsetup-x64.6.1.2.exe
+- **URL**: https://td.telegram.org/tx64/tsetup-x64.6.1.3.exe
 
 #### telerik-fiddler-classic
 
@@ -55299,7 +55290,7 @@ Total entries processed: 6497
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vladelaina-catime.yml`
-- **URL**: https://github.com/vladelaina/Catime/releases/download/v1.1.2/catime_1.1.2.exe
+- **URL**: https://github.com/vladelaina/Catime/releases/download/v1.2.0/catime_1.2.0.exe
 
 #### vladimiryakovlev-electronmail
 
@@ -57801,7 +57792,7 @@ Total entries processed: 6497
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yt-dlp-yt-dlp-nightly.yml`
-- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.09.05.224711/yt-dlp.exe
+- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.09.07.000655/yt-dlp.exe
 
 #### yt-dlp-yt-dlp
 
