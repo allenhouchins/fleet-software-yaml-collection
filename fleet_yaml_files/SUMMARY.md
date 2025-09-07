@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-09-06 18:04:39 UTC
+Generated on: 2025-09-07 06:04:38 UTC
 
 ## Summary
 
-Total entries processed: 6496
+Total entries processed: 6497
 - macOS files: 389
-- Windows files: 6107
+- Windows files: 6108
 
 ## Generated Files
 
@@ -6503,6 +6503,15 @@ Total entries processed: 6496
 - **File**: `androidwg-corkscrew.yml`
 - **URL**: https://github.com/androidWG/Corkscrew/releases/download/v1.1.0/corkscrew-win-1.1.0.exe
 
+#### andromeda-andromeda
+
+- **Source**: winget
+- **Name**: andromeda-andromeda
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `andromeda-andromeda.yml`
+- **URL**: https://github.com/tryandromeda/andromeda/releases/download/0.1.0-draft-33/andromeda-windows-amd64.exe
+
 #### angeloconvento-overkeys
 
 - **Source**: winget
@@ -12774,7 +12783,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `clanmonsterxd-cmd-game-menu.yml`
-- **URL**: https://github.com/clanmonsterxd-cmd/Game-Menu/releases/download/v1.1.1.3/setup_game_menu.exe
+- **URL**: https://github.com/clanmonsterxd-cmd/Game-Menu/releases/download/v1.1.2.4/setup_game_menu.exe
 
 #### clashvergerev-clashvergerev
 
@@ -12783,7 +12792,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `clashvergerev-clashvergerev.yml`
-- **URL**: https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.1/Clash.Verge_2.4.1_x64-setup.exe
+- **URL**: https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.2/Clash.Verge_2.4.2_x64-setup.exe
 
 #### classicdiy-modbustool
 
@@ -13017,7 +13026,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cmlanche-lightningvine.yml`
-- **URL**: https://sdt-1314690352.cos.ap-nanjing.myqcloud.com/310/sdt-3.1.0-windows-installer.exe
+- **URL**: https://sdt-1314690352.cos.ap-nanjing.myqcloud.com/315/sdt-3.1.5-windows-installer.exe
 
 #### cmu-alice-3
 
@@ -16635,7 +16644,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `duckstudio-sundry.yml`
-- **URL**: https://github.com/DuckDuckStudio/Sundry/releases/download/1.3.8/Sundry_Setup.exe
+- **URL**: https://github.com/DuckDuckStudio/Sundry/releases/download/1.3.9/Sundry_Setup.exe
 
 #### dukus-digicamcontrol
 
@@ -17707,15 +17716,6 @@ Total entries processed: 6496
 - **Version**: 
 - **File**: `electronicteam-flexihub.yml`
 - **URL**: https://cdn.electronic.us/products/flexihub/windows/download/flexihub.exe
-
-#### electronicteam-usbnetworkgate
-
-- **Source**: winget
-- **Name**: electronicteam-usbnetworkgate
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `electronicteam-usbnetworkgate.yml`
-- **URL**: https://cdn.electronic.us/products/usb-over-ethernet/windows/download/usb_network_gate.exe
 
 #### electronicteam-virtualserialportdriver
 
@@ -21387,7 +21387,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/ac7dxwjr5rufq6p7zjdtlui47oha_142.0.7397.0/142.0.7397.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/actbv6amcdoiwp3ktrubngiw2tiq_142.0.7398.0/142.0.7398.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -23016,7 +23016,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hoppscotch-hoppscotch.yml`
-- **URL**: https://github.com/hoppscotch/releases/releases/download/v25.8.0-0/Hoppscotch_win_x64.msi
+- **URL**: https://github.com/hoppscotch/releases/releases/download/v25.8.1-0/Hoppscotch_win_x64.msi
 
 #### horizoneda-horizon-eda
 
@@ -23295,7 +23295,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hydralauncher-hydra.yml`
-- **URL**: https://github.com/hydralauncher/hydra/releases/download/v3.6.7/hydralauncher-3.6.7-setup.exe
+- **URL**: https://github.com/hydralauncher/hydra/releases/download/v3.6.8/hydralauncher-3.6.8-setup.exe
 
 #### hydrogen-music-hydrogen
 
@@ -23916,7 +23916,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `igoogolx-lux.yml`
-- **URL**: https://github.com/igoogolx/lux/releases/download/v1.38.1/lux-1.38.1-x64-windows.exe
+- **URL**: https://github.com/igoogolx/lux/releases/download/v1.38.2/lux-1.38.2-x64-windows.exe
 
 #### igoravl-tfscmdlets
 
@@ -24556,6 +24556,15 @@ Total entries processed: 6496
 - **Version**: 
 - **File**: `invo-invoconnect.yml`
 - **URL**: https://invo.blob.core.windows.net/clienttools/InvoConnect/InvoConnect.msi
+
+#### iobit-uninstaller
+
+- **Source**: winget
+- **Name**: iobit-uninstaller
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `iobit-uninstaller.yml`
+- **URL**: https://cdn.iobit.com/dl/iobituninstaller.exe
 
 #### iosgods-sideloadly
 
@@ -29649,7 +29658,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `logitech-lgs.yml`
-- **URL**: https://download01.logi.com/web/ftp/pub/techsupport/gaming/LGS_9.04.28_x64_Logitech.exe
+- **URL**: https://download01.logi.com/web/ftp/pub/techsupport/gaming/LGS_9.04.49_x64_Logitech.exe
 
 #### logitech-logibolt
 
@@ -33024,7 +33033,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mikf-gallery-dl-nightly.yml`
-- **URL**: https://github.com/gdl-org/builds/releases/download/2025.09.05/gallery-dl_windows.exe
+- **URL**: https://github.com/gdl-org/builds/releases/download/2025.09.06/gallery-dl_windows.exe
 
 #### mikrotik-thedude
 
@@ -43878,7 +43887,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `prometheus-windowsexporter.yml`
-- **URL**: https://github.com/prometheus-community/windows_exporter/releases/download/v0.31.2/windows_exporter-0.31.2-amd64.exe
+- **URL**: https://github.com/prometheus-community/windows_exporter/releases/download/v0.31.3/windows_exporter-0.31.3-amd64.exe
 
 #### prosa-log4view
 
@@ -45426,7 +45435,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rem0o-fancontrol.yml`
-- **URL**: https://github.com/Rem0o/FanControl.Releases/releases/download/V234/FanControl_234_net_8_0_Installer.exe
+- **URL**: https://github.com/Rem0o/FanControl.Releases/releases/download/V235/FanControl_235_net_8_0_Installer.exe
 
 #### remarkable-remarkablecompanionapp
 
@@ -46200,7 +46209,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `roblox-roblox.yml`
-- **URL**: https://setup.rbxcdn.com/version-e1da58b32b1c4d64-RobloxPlayerInstaller.exe
+- **URL**: https://setup.rbxcdn.com/version-429d03ccdcbb4161-Roblox.exe
 
 #### robware-rvtools
 
@@ -48081,7 +48090,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sharefile-sharefileforwindows.yml`
-- **URL**: https://dl.sharefile.com/sfwin-msi/ShareFileForWindows_x64_v25.7.4.0.msi
+- **URL**: https://dl.sharefile.com/sfwin-msi/ShareFileForWindows_x64_v25.7.5.0.msi
 
 #### sharex-sharex
 
@@ -50124,7 +50133,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `stevencohn-onemore.yml`
-- **URL**: https://github.com/stevencohn/OneMore/releases/download/6.7.3/OneMore_6.7.3_Setupx64.msi
+- **URL**: https://github.com/stevencohn/OneMore/releases/download/6.7.6/OneMore_6.7.6_Setupx64.msi
 
 #### steventhanna-proton
 
@@ -50889,7 +50898,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `symphony-symphony.yml`
-- **URL**: https://resources.symphony.com/SymphonyDesktopApplication-Win64-25.7.0.msi
+- **URL**: http://resources.symphony.com/SymphonyDesktopApplication-Win64-25.8.0.msi
 
 #### syncany-syncany
 
@@ -51150,7 +51159,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `t-troll-alienfxtools.yml`
-- **URL**: https://github.com/T-Troll/alienfx-tools/releases/download/9.3.3/alienfx-tools.msi
+- **URL**: https://github.com/T-Troll/alienfx-tools/releases/download/9.3.3.1/alienfx-tools.msi
 
 #### t1m0thyj-windynamicdesktop
 
@@ -55038,7 +55047,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc-nightly.yml`
-- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20250905-0422/vlc-4.0.0-dev-win64-ee40fe3e.msi
+- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20250906-0435/vlc-4.0.0-dev-win64-ee40fe3e.msi
 
 #### videolan-vlc
 
@@ -55092,7 +55101,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.1734/gvim_9.1.1734_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.1738/gvim_9.1.1738_x64.exe
 
 #### vim-vim
 
