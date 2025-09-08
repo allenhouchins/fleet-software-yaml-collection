@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-09-07 18:04:49 UTC
+Generated on: 2025-09-08 06:05:13 UTC
 
 ## Summary
 
@@ -2341,7 +2341,7 @@ Total entries processed: 6496
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `osquery.yml`
-- **URL**: https://github.com/osquery/osquery/releases/download/5.18.1/osquery-5.18.1.pkg
+- **URL**: https://github.com/osquery/osquery/releases/download/5.19.0/osquery-5.19.0.pkg
 
 #### outset
 
@@ -3864,7 +3864,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aandrew-me-ytdownloader.yml`
-- **URL**: https://github.com/aandrew-me/ytDownloader/releases/download/v3.19.1/YTDownloader_Win.msi
+- **URL**: https://github.com/aandrew-me/ytDownloader/releases/download/v3.19.3/YTDownloader_Win.msi
 
 #### aas-worldwidetelescope
 
@@ -6322,15 +6322,6 @@ Total entries processed: 6496
 - **Version**: 
 - **File**: `amn-yasb.yml`
 - **URL**: https://github.com/amnweb/yasb/releases/download/v1.8.0/yasb-1.8.0-win64.msi
-
-#### amneziavpn-amnezia
-
-- **Source**: winget
-- **Name**: amneziavpn-amnezia
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `amneziavpn-amnezia.yml`
-- **URL**: https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.9.2/AmneziaVPN_4.8.9.2_windows_x64.exe
 
 #### amrdeveloper-fileql
 
@@ -33033,7 +33024,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mikf-gallery-dl-nightly.yml`
-- **URL**: https://github.com/gdl-org/builds/releases/download/2025.09.06/gallery-dl_windows.exe
+- **URL**: https://github.com/gdl-org/builds/releases/download/2025.09.07/gallery-dl_windows.exe
 
 #### mikrotik-thedude
 
@@ -40872,7 +40863,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `oomol-oomolstudio.yml`
-- **URL**: https://static.oomol.com/release/stable/win32/x64/OOMOL%20Studio-1.3.6-2025-08-19.08.exe
+- **URL**: https://static.oomol.com/release/stable/win32/x64/OOMOL%20Studio-1.4.0-2025-09-07.23.exe
 
 #### ooni-ooni-probe
 
@@ -54255,7 +54246,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `unibo-alchemist.yml`
-- **URL**: https://github.com/AlchemistSimulator/Alchemist/releases/download/42.2.9/alchemist-42.2.9.msi
+- **URL**: https://github.com/AlchemistSimulator/Alchemist/releases/download/42.3.1/alchemist-42.3.1.msi
 
 #### uniconta-uniconta
 
@@ -55337,6 +55328,15 @@ Total entries processed: 6496
 - **File**: `vogan-tinycodes.yml`
 - **URL**: https://github.com/y-not-u/tinycodes/releases/download/v0.7.1/TinyCodes-Setup-0.7.1.exe
 
+#### voiceattack-voiceattack
+
+- **Source**: winget
+- **Name**: voiceattack-voiceattack
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `voiceattack-voiceattack.yml`
+- **URL**: https://voiceattack.com/filesend.aspx?id=voiceattackinstaller_2.1.7.0.exe
+
 #### voidtools-everything-alpha
 
 - **Source**: winget
@@ -55344,7 +55344,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `voidtools-everything-alpha.yml`
-- **URL**: https://www.voidtools.com/Everything-1.5.0.1396a.x64-Setup.exe
+- **URL**: https://www.voidtools.com/Everything-1.5.0.1397a.x64-Setup.exe
 
 #### voidtools-everything-lite
 
