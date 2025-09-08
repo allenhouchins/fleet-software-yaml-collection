@@ -1,10 +1,7 @@
-url: https://github.com/deanxv/done-hub/releases/download/v1.5.5/done-hub.exe
+url: https://pcstwinget.blob.core.windows.net/pc-servicetool-images/BRÖTJE_ProfiTool_2025_8_291.msi
 automatic_install: false
 self_service: false
 categories: []
-install_script: '# TODO: Add install script for this EXE'
-uninstall_script: '# TODO: Add uninstall script for this EXE'
 
 # Categories are currently limited to Browsers, Communication, Developer tools, and Productivity.
 # This is a minimum version of this file. All configurable parameters can be seen at https://fleetdm.com/docs/rest-api/rest-api#parameters139
-# Note: Any exe requires an install script and uninstall script to be defined

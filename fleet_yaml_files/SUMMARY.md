@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-09-08 06:05:13 UTC
+Generated on: 2025-09-08 18:04:55 UTC
 
 ## Summary
 
-Total entries processed: 6496
+Total entries processed: 6498
 - macOS files: 389
-- Windows files: 6107
+- Windows files: 6109
 
 ## Generated Files
 
@@ -4899,7 +4899,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `akiflow-akiflow.yml`
-- **URL**: https://download.akiflow.com/builds/Akiflow-2.56.7-4c763d68-x64.exe
+- **URL**: https://download.akiflow.com/builds/Akiflow-2.57.9-c1bee1b4-x64.exe
 
 #### akko-clouddriver
 
@@ -5241,7 +5241,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `alibaba-quark.yml`
-- **URL**: https://umcdn.quark.cn/download/37212/quarkpc/pcquark@homepage_oficial/QuarkPC_V4.4.0.496_pc_pf30002_(zh-cn)_release_(Build2405481-1000-x64).exe
+- **URL**: https://umcdn.quark.cn/download/37212/quarkpc/pcquark@homepage_oficial/QuarkPC_V4.4.5.501_pc_pf30002_(zh-cn)_release_(Build2416945-1000-x64).exe
 
 #### alibaba-quarkclouddrive
 
@@ -7572,7 +7572,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `atomixproductions-virtualdj.yml`
-- **URL**: https://download.virtualdj.com/b8678/11B237C8/install_virtualdj_2025_b8678_pc.msi
+- **URL**: https://download.virtualdj.com/b8729/BB04CB90/install_virtualdj_2025_b8729_pc.msi
 
 #### atticus64-juice
 
@@ -10903,6 +10903,15 @@ Total entries processed: 6496
 - **Version**: 
 - **File**: `bozbez-wincaptureaudio-beta.yml`
 - **URL**: https://github.com/bozbez/win-capture-audio/releases/download/v2.2.3-beta/win-capture-audio-2.2.3-beta-setup.exe
+
+#### br-tje-profitool
+
+- **Source**: winget
+- **Name**: br-tje-profitool
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `br-tje-profitool.yml`
+- **URL**: https://pcstwinget.blob.core.windows.net/pc-servicetool-images/BRÖTJE_ProfiTool_2025_8_291.msi
 
 #### brackets-cont-brackets
 
@@ -15114,7 +15123,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `deanxv-donehub.yml`
-- **URL**: https://github.com/deanxv/done-hub/releases/download/v1.5.4/done-hub.exe
+- **URL**: https://github.com/deanxv/done-hub/releases/download/v1.5.5/done-hub.exe
 
 #### debaucheeopensourcegroup-barrier
 
@@ -16608,7 +16617,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `duckstudio-githubview-nightly.yml`
-- **URL**: https://github.com/DuckDuckStudio/GitHubView/releases/download/2025.07.17.16336851664/GitHubView-2025.07.17.16336851664-windows-latest-Setup-SingleFile.exe
+- **URL**: https://github.com/DuckDuckStudio/GitHubView/releases/download/2025.09.08.17538371202/GitHubView-2025.09.08.17538371202-windows-2022-Setup-SingleFile.exe
 
 #### duckstudio-githubview
 
@@ -18921,7 +18930,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `feraxhp-grp.yml`
-- **URL**: https://github.com/feraxhp/grp/releases/download/v0.7.3-beta/grp-0.7.3-x86_64.msi
+- **URL**: https://github.com/feraxhp/grp/releases/download/v0.7.4-beta/grp-0.7.4-x86_64.msi
 
 #### ferdium-ferdium-beta
 
@@ -20579,6 +20588,15 @@ Total entries processed: 6496
 - **File**: `gerardog-gsudo.yml`
 - **URL**: https://github.com/gerardog/gsudo/releases/download/v2.6.0/gsudo.setup.x64.msi
 
+#### germancoding-synctrayzor
+
+- **Source**: winget
+- **Name**: germancoding-synctrayzor
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `germancoding-synctrayzor.yml`
+- **URL**: https://github.com/GermanCoding/SyncTrayzor/releases/download/v2.0.1/SyncTrayzorSetup-x64.exe
+
 #### getscreenme-dashboard-beta
 
 - **Source**: winget
@@ -21378,7 +21396,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/hlprztrtzsanbtciixuoi5dzim_142.0.7399.0/142.0.7399.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/dd5cluagdzhs66ax7dyjawkun4_142.0.7401.0/142.0.7401.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -23070,7 +23088,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hp-hpclick.yml`
-- **URL**: https://ftp.hp.com/pub/softlib/software13/printers/hpclick/NormalVersion/win10-11/HPClick-64bit-Setup-4.2.54.exe
+- **URL**: https://ftp.hp.com/pub/softlib/software13/printers/hpclick/NormalVersion/win10-11/HPClick-64bit-Setup-4.3.27.exe
 
 #### hp-hpcloudrecoverytool
 
@@ -24915,7 +24933,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ivyscience-ivysci.yml`
-- **URL**: https://package.cdn.ivysci.com/ivysci-release-updater/ivySCI-6.4.0.exe
+- **URL**: https://package.cdn.ivysci.com/ivysci-release-updater/ivySCI-6.4.1.exe
 
 #### iwalton3-plex-mpv-shim
 
@@ -27021,7 +27039,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-akregator.yml`
-- **URL**: https://cdn.kde.org/ci-builds/pim/akregator/master/windows/akregator-master-2334-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/pim/akregator/master/windows/akregator-master-2337-windows-cl-msvc2022-x86_64.exe
 
 #### kde-ark
 
@@ -27084,7 +27102,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-dolphin.yml`
-- **URL**: https://cdn.kde.org/ci-builds/system/dolphin/release-25.08/windows/dolphin-release_25.08-6352-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/system/dolphin/release-25.08/windows/dolphin-release_25.08-6367-windows-cl-msvc2022-x86_64.exe
 
 #### kde-elisa
 
@@ -27462,7 +27480,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kontact.yml`
-- **URL**: https://cdn.kde.org/ci-builds/pim/kontact/master/windows/kontact-master-1999-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/pim/kontact/master/windows/kontact-master-2000-windows-cl-msvc2022-x86_64.exe
 
 #### kde-konversation
 
@@ -30657,7 +30675,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `martinrotter-rssguard.yml`
-- **URL**: https://github.com/martinrotter/rssguard/releases/download/4.8.5/rssguard-4.8.5-df05aad68-win10.exe
+- **URL**: https://github.com/martinrotter/rssguard/releases/download/4.8.6/rssguard-4.8.6-ff032516b-win10.exe
 
 #### masterpackager-masterpackager
 
@@ -38028,7 +38046,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mullvadvpn-mullvadvpn.yml`
-- **URL**: https://github.com/mullvad/mullvadvpn-app/releases/download/2025.8/MullvadVPN-2025.8_x64.exe
+- **URL**: https://github.com/mullvad/mullvadvpn-app/releases/download/2025.9/MullvadVPN-2025.9_x64.exe
 
 #### multilogin-multilogin
 
@@ -38487,7 +38505,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ncsoft-purple.yml`
-- **URL**: https://gs-purple-inst.download.ncupdate.com/Purple/PurpleInstaller_2_25_825_21.exe
+- **URL**: https://gs-purple-inst.download.ncupdate.com/Purple/PurpleInstaller_2_25_908_19.exe
 
 #### ncyxie-notepad-dot-qt
 
@@ -40566,7 +40584,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `oliverbetz-exiftool.yml`
-- **URL**: https://oliverbetz.de/cms/files/Artikel/ExifTool-for-Windows/ExifTool_install_13.34_64.exe
+- **URL**: https://oliverbetz.de/cms/files/Artikel/ExifTool-for-Windows/ExifTool_install_13.35_64.exe
 
 #### oliverfida-fsimman
 
@@ -44814,7 +44832,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `radekyspec-startlive.yml`
-- **URL**: https://github.com/Radekyspec/StartLive/releases/download/0.6.0/StartLive-Setup.exe
+- **URL**: https://github.com/Radekyspec/StartLive/releases/download/0.6.1/StartLive-Setup.exe
 
 #### radius-radius
 
@@ -47064,7 +47082,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sandboxie-classic.yml`
-- **URL**: https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.16.2/Sandboxie-Classic-x64-v5.71.2.exe
+- **URL**: https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.16.3/Sandboxie-Classic-x64-v5.71.3.exe
 
 #### sandboxie-plus
 
@@ -53994,7 +54012,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tutanota-tutanota.yml`
-- **URL**: https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-304.250825.0/tutanota-desktop-win.exe
+- **URL**: https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-304.250901.0/tutanota-desktop-win.exe
 
 #### tuxguitar-tuxguitar
 
@@ -54975,7 +54993,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `viarotel-escrcpy.yml`
-- **URL**: https://github.com/viarotel-org/escrcpy/releases/download/v1.31.3/Escrcpy-1.31.3-win-setup-x64.exe
+- **URL**: https://github.com/viarotel-org/escrcpy/releases/download/v1.32.0/Escrcpy-1.32.0-win-setup-x64.exe
 
 #### vicon-viflow-8
 
@@ -55083,7 +55101,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.1738/gvim_9.1.1738_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.1740/gvim_9.1.1740_x64.exe
 
 #### vim-vim
 
@@ -55344,7 +55362,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `voidtools-everything-alpha.yml`
-- **URL**: https://www.voidtools.com/Everything-1.5.0.1397a.x64-Setup.exe
+- **URL**: https://www.voidtools.com/Everything-1.5.0.1398a.x64-Setup.exe
 
 #### voidtools-everything-lite
 
@@ -57261,7 +57279,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ximalaya-ximalayalive.yml`
-- **URL**: https://s1.xmcdn.com/yx/xmly-live-release/last/dist/Ximalaya-Live-Setup-4.66.976.exe
+- **URL**: https://s1.xmcdn.com/yx/xmly-live-release/last/dist/Ximalaya-Live-Setup-4.67.987.exe
 
 #### xinginc-akasakiminato
 
@@ -57819,7 +57837,7 @@ Total entries processed: 6496
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yuanfudao-yuanfudao.yml`
-- **URL**: https://apphub.fbcontent.cn/ape-gallery/app/yuanfudao-student-7.6.0.19058-installer-x64.exe
+- **URL**: https://apphub.fbcontent.cn/ape-gallery/app/yuanfudao-student-7.7.0.19164-installer-x64.exe
 
 #### yuanli-utools
 
