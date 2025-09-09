@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-09-09 06:05:03 UTC
+Generated on: 2025-09-09 18:05:12 UTC
 
 ## Summary
 
@@ -2377,7 +2377,7 @@ Total entries processed: 6499
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `perimeter81.yml`
-- **URL**: https://static.perimeter81.com/agents/mac/Harmony_SASE_11.7.0.5477.pkg
+- **URL**: https://static.perimeter81.com/agents/mac/Harmony_SASE_12.0.0.6019.pkg
 
 #### philips-hue-sync
 
@@ -2386,7 +2386,7 @@ Total entries processed: 6499
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `philips-hue-sync.yml`
-- **URL**: https://firmware.meethue.com/storage/huesyncmac/75/c091f498-0e07-4088-9650-b5df076b4a90/HueSyncInstaller_1.12.5.75.pkg
+- **URL**: https://firmware.meethue.com/storage/huesyncmac/77/cb2f5b01-9dde-40c1-abe8-b7b02dc4e302/HueSyncInstaller_1.13.0.77.pkg
 
 #### photoninja
 
@@ -2935,7 +2935,7 @@ Total entries processed: 6499
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `steelseries-gg.yml`
-- **URL**: https://engine.steelseriescdn.com/SteelSeriesGG93.0.0.pkg
+- **URL**: https://engine.steelseriescdn.com/SteelSeriesGG94.0.0.pkg
 
 #### suitestudio
 
@@ -4332,7 +4332,7 @@ Total entries processed: 6499
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `adobe-connect.yml`
-- **URL**: https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectAppSetup11_2025_5_5.exe
+- **URL**: https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectAppSetup11_2025_8_189.exe
 
 #### adobe-cryptr
 
@@ -5214,7 +5214,7 @@ Total entries processed: 6499
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `alibaba-qoder.yml`
-- **URL**: https://qoder-ide.oss-accelerate.aliyuncs.com/release/0.1.21/QoderUserSetup-x64.exe
+- **URL**: https://qoder-ide.oss-accelerate.aliyuncs.com/release/0.1.22/QoderUserSetup-x64.exe
 
 #### alibaba-quark
 
@@ -11460,7 +11460,7 @@ Total entries processed: 6499
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bytedance-sodamusic.yml`
-- **URL**: https://lf-luna-release.qishui.com/obj/luna-release/2.7.0/203820289/SodaMusic-v2.7.0-official-win32_x64.exe
+- **URL**: https://lf-luna-release.qishui.com/obj/luna-release/2.8.0/215473042/SodaMusic-v2.8.0-official-win32_x64.exe
 
 #### bytedance-streamingtool
 
@@ -20001,7 +20001,7 @@ Total entries processed: 6499
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `funroutine-workflowy.yml`
-- **URL**: https://github.com/workflowy/desktop/releases/download/v4.3.2509040805/WorkFlowy-Installer.exe
+- **URL**: https://github.com/workflowy/desktop/releases/download/v4.3.2509091515/WorkFlowy-Installer.exe
 
 #### fupdec-mediachips
 
@@ -24186,7 +24186,7 @@ Total entries processed: 6499
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `insco-picguard-pro.yml`
-- **URL**: https://github.com/picguard/picguard/releases/download/v4.0.3/picguard-pro-4.0.3-windows-x64-en-US.msi
+- **URL**: https://github.com/picguard/picguard/releases/download/v5.0.0/picguard-pro-5.0.0-windows-x64-en-US.msi
 
 #### insco-picguard
 
@@ -27057,7 +27057,7 @@ Total entries processed: 6499
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-bovo.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/bovo/master/windows/bovo-master-699-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/bovo/master/windows/bovo-master-700-windows-cl-msvc2022-x86_64.exe
 
 #### kde-crowtranslate
 
@@ -27291,7 +27291,7 @@ Total entries processed: 6499
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kdiamond.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kdiamond/master/windows/kdiamond-master-730-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kdiamond/master/windows/kdiamond-master-731-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kdiff3
 
@@ -27318,7 +27318,7 @@ Total entries processed: 6499
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kgoldrunner.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kgoldrunner/master/windows/kgoldrunner-master-959-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kgoldrunner/master/windows/kgoldrunner-master-960-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kigo
 
@@ -27444,7 +27444,7 @@ Total entries processed: 6499
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kollision.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kollision/master/windows/kollision-master-693-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kollision/master/windows/kollision-master-694-windows-cl-msvc2022-x86_64.exe
 
 #### kde-konsole
 
@@ -27651,7 +27651,7 @@ Total entries processed: 6499
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-neochat.yml`
-- **URL**: https://cdn.kde.org/ci-builds/network/neochat/release-25.08/windows/neochat-release_25.08-13112-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/network/neochat/release-25.08/windows/neochat-release_25.08-13169-windows-cl-msvc2022-x86_64.exe
 
 #### kde-okular
 
@@ -45588,7 +45588,7 @@ Total entries processed: 6499
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `resolume-arena.yml`
-- **URL**: https://dd5sgwxv3xok.cloudfront.net/Resolume_Arena_7_23_1_rev_49731_Installer.exe
+- **URL**: https://dd5sgwxv3xok.cloudfront.net/Resolume_Arena_7_23_2_rev_51094_Installer.exe
 
 #### resolume-avenue
 
@@ -45714,7 +45714,7 @@ Total entries processed: 6499
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ria-eidsoftware.yml`
-- **URL**: https://installer.id.ee/media/win/Open-EID-25.6.9.8395.exe
+- **URL**: https://installer.id.ee/media/win/Open-EID-25.8.18.8398.exe
 
 #### ria-libdigidocpp
 
@@ -50295,7 +50295,7 @@ Total entries processed: 6499
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `streamlink-streamlink.yml`
-- **URL**: https://github.com/streamlink/windows-builds/releases/download/7.5.0-1/streamlink-7.5.0-1-py313-x86_64.exe
+- **URL**: https://github.com/streamlink/windows-builds/releases/download/7.6.0-1/streamlink-7.6.0-1-py313-x86_64.exe
 
 #### streamway-obsplugin
 
@@ -55254,7 +55254,7 @@ Total entries processed: 6499
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vivaldi-vivaldi-snapshot.yml`
-- **URL**: https://downloads.vivaldi.com/snapshot/Vivaldi.7.6.3797.28.x64.exe
+- **URL**: https://downloads.vivaldi.com/snapshot/Vivaldi.7.6.3797.35.x64.exe
 
 #### vivaldi-vivaldi
 
@@ -58422,7 +58422,7 @@ Total entries processed: 6499
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zwsoft-zwcad-2026.yml`
-- **URL**: https://upgrade-online.zwsoft.cn/zwcad/cad/2026/Release1.1/ZWCAD_2026_Chs_Win_64bit_20250822.exe
+- **URL**: https://upgrade-online.zwsoft.cn/zwcad/cad/2026/Release1.1_NEW1/ZWCAD_2026_Chs_Win_64bit_20250905.exe
 
 #### zwsoft-zwcad-landscape-2025
 
