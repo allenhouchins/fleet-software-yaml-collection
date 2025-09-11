@@ -1,4 +1,4 @@
-url: https://github.com/playit-cloud/playit-agent/releases/download/v0.15.9/playit-windows-x86_64-signed.msi
+url: https://github.com/playit-cloud/playit-agent/releases/download/v0.16.2/playit-windows-x86_64-signed.msi
 automatic_install: false
 self_service: false
 categories: []
