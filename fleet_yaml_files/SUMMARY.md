@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-09-12 06:05:18 UTC
+Generated on: 2025-09-12 18:05:14 UTC
 
 ## Summary
 
-Total entries processed: 6523
+Total entries processed: 6524
 - macOS files: 388
-- Windows files: 6135
+- Windows files: 6136
 
 ## Generated Files
 
@@ -1396,7 +1396,7 @@ Total entries processed: 6523
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `hackolade.yml`
-- **URL**: https://hackolade.s3.amazonaws.com/previous/v8.4.1/Hackolade-macARM64-setup-signed.pkg
+- **URL**: https://hackolade.s3.amazonaws.com/previous/v8.4.2/Hackolade-macARM64-setup-signed.pkg
 
 #### hancom-docs
 
@@ -2494,7 +2494,7 @@ Total entries processed: 6523
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `privileges.yml`
-- **URL**: https://github.com/SAP/macOS-enterprise-privileges/releases/download/2.4.0/Privileges_2.4.0.pkg
+- **URL**: https://github.com/SAP/macOS-enterprise-privileges/releases/download/2.4.1/Privileges_2.4.1.pkg
 
 #### ptpwebcam
 
@@ -2530,7 +2530,7 @@ Total entries processed: 6523
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `quarto.yml`
-- **URL**: https://github.com/quarto-dev/quarto-cli/releases/download/v1.7.34/quarto-1.7.34-macos.pkg
+- **URL**: https://github.com/quarto-dev/quarto-cli/releases/download/v1.8.24/quarto-1.8.24-macos.pkg
 
 #### r-app
 
@@ -44140,6 +44140,15 @@ Total entries processed: 6523
 - **Version**: 
 - **File**: `proxyman-proxyman.yml`
 - **URL**: https://download.proxyman.io/windows/3.2.0/build/Proxyman%20Setup%203.2.0.exe
+
+#### prsyahmi-wicheic
+
+- **Source**: winget
+- **Name**: prsyahmi-wicheic
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `prsyahmi-wicheic.yml`
+- **URL**: https://github.com/prsyahmi/wic_heic/releases/download/v1.0.7/wicheic_v1.0.7-x64.msi
 
 #### prusa3d-prusaslicer
 
