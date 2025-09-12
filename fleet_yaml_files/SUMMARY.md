@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-09-11 18:04:43 UTC
+Generated on: 2025-09-12 06:05:18 UTC
 
 ## Summary
 
-Total entries processed: 6519
-- macOS files: 387
-- Windows files: 6132
+Total entries processed: 6523
+- macOS files: 388
+- Windows files: 6135
 
 ## Generated Files
 
@@ -2566,7 +2566,7 @@ Total entries processed: 6519
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `realvnc-connect.yml`
-- **URL**: https://downloads.realvnc.com/download/file/realvnc-connect/RealVNC-Connect-8.1.0-MacOSX-universal.pkg
+- **URL**: https://downloads.realvnc.com/download/file/realvnc-connect/RealVNC-Connect-8.2.0-MacOSX-universal.pkg
 
 #### red-canary-mac-monitor
 
@@ -2989,7 +2989,7 @@ Total entries processed: 6519
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `tailscale-app.yml`
-- **URL**: https://pkgs.tailscale.com/stable/Tailscale-1.86.4-macos.pkg
+- **URL**: https://pkgs.tailscale.com/stable/Tailscale-1.88.1-macos.pkg
 
 #### teamviewer
 
@@ -3153,13 +3153,22 @@ Total entries processed: 6519
 - **File**: `twonkyserver.yml`
 - **URL**: https://download.twonky.com/8.5.2/TwonkyServerInstaller-8.5.2.pkg
 
-#### ui
+#### unifi-identity-endpoint
 
 - **Source**: homebrew/installomator
-- **Name**: ui
+- **Name**: unifi-identity-endpoint
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
-- **File**: `ui.yml`
+- **File**: `unifi-identity-endpoint.yml`
+- **URL**: https://fw-download.ubnt.com/data/uid-identity-standard-desktop-app/a73c-macOS-3.3.1-16645096-85aa-42af-9593-2c13f3280dda.pkg
+
+#### unifi-identity-enterprise
+
+- **Source**: homebrew/installomator
+- **Name**: unifi-identity-enterprise
+- **Description**: Generated from Homebrew cask or Installomator script
+- **Version**: 
+- **File**: `unifi-identity-enterprise.yml`
 - **URL**: https://fw-download.ubnt.com/data/uid-ui-desktop-app/6ae9-macOS-0.89.1-7ee8d102-d6c2-472d-9d0b-38b3627d11be.pkg
 
 #### unity-android-support-for-editor
@@ -3430,7 +3439,7 @@ Total entries processed: 6519
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `zerotier-one.yml`
-- **URL**: https://download.zerotier.com/RELEASES/1.14.2/dist/ZeroTier%20One.pkg
+- **URL**: https://download.zerotier.com/RELEASES/1.16.0/dist/ZeroTier%20One.pkg
 
 #### zerotier
 
@@ -8778,7 +8787,7 @@ Total entries processed: 6519
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bazel-bazel.yml`
-- **URL**: https://github.com/bazelbuild/bazel/releases/download/8.4.0/bazel-8.4.0-windows-x86_64.exe
+- **URL**: https://github.com/bazelbuild/bazel/releases/download/8.4.1/bazel-8.4.1-windows-x86_64.exe
 
 #### bazel-bazelisk
 
@@ -12477,7 +12486,7 @@ Total entries processed: 6519
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `chrisant996-clink.yml`
-- **URL**: https://github.com/chrisant996/clink/releases/download/v1.8.1/clink.1.8.1.8778fa_setup.exe
+- **URL**: https://github.com/chrisant996/clink/releases/download/v1.8.2/clink.1.8.2.4e1c6d_setup.exe
 
 #### chrisklimas-twine
 
@@ -15719,6 +15728,15 @@ Total entries processed: 6519
 - **File**: `digimezzo-knowte.yml`
 - **URL**: https://github.com/digimezzo/knowte/releases/download/v3.0.0/Knowte-3.0.0.exe
 
+#### digitalextremes-soulframe
+
+- **Source**: winget
+- **Name**: digitalextremes-soulframe
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `digitalextremes-soulframe.yml`
+- **URL**: https://content.soulframe.com/dl/Soulframe.msi
+
 #### digitalextremes-warframe
 
 - **Source**: winget
@@ -15818,6 +15836,15 @@ Total entries processed: 6519
 - **File**: `digitalvolcanosoftware-textcrawler.yml`
 - **URL**: https://www.digitalvolcano.co.uk/download/TextCrawler_Setup.exe
 
+#### digiteqautomotive-dqviewer
+
+- **Source**: winget
+- **Name**: digiteqautomotive-dqviewer
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `digiteqautomotive-dqviewer.yml`
+- **URL**: https://github.com/digiteqautomotive/dqview/releases/download/v4.3/DQView-4.3.97.exe
+
 #### diladele-webproxy
 
 - **Source**: winget
@@ -15915,7 +15942,7 @@ Total entries processed: 6519
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `discord-discord-canary.yml`
-- **URL**: https://canary.dl2.discordapp.net/distro/app/canary/win/x64/1.0.711/DiscordCanarySetup.exe
+- **URL**: https://canary.dl2.discordapp.net/distro/app/canary/win/x64/1.0.712/DiscordCanarySetup.exe
 
 #### discord-discord-development
 
@@ -15933,7 +15960,7 @@ Total entries processed: 6519
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `discord-discord-ptb.yml`
-- **URL**: https://ptb.dl2.discordapp.net/distro/app/ptb/win/x64/1.0.1159/DiscordPTBSetup.exe
+- **URL**: https://ptb.dl2.discordapp.net/distro/app/ptb/win/x64/1.0.1160/DiscordPTBSetup.exe
 
 #### discord-discord
 
@@ -20028,7 +20055,7 @@ Total entries processed: 6519
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `funroutine-workflowy.yml`
-- **URL**: https://github.com/workflowy/desktop/releases/download/v4.3.2509091805/WorkFlowy-Installer.exe
+- **URL**: https://github.com/workflowy/desktop/releases/download/v4.3.2509111340/WorkFlowy-Installer.exe
 
 #### fupdec-mediachips
 
@@ -21414,7 +21441,7 @@ Total entries processed: 6519
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-dev-exe.yml`
-- **URL**: https://dl.google.com/release2/chrome/adoaoigkushdgepl4i7s6oim6zwa_142.0.7393.7/142.0.7393.7_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/d3rs2cauearxb5myh4golwgosi_142.0.7405.3/142.0.7405.3_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev
 
@@ -31062,7 +31089,7 @@ Total entries processed: 6519
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `megadev-plitch.yml`
-- **URL**: https://cdn.plitch.com/auto-updater/PLITCH_Setup_2.15.0.exe
+- **URL**: https://cdn.plitch.com/auto-updater/PLITCH_Setup_2.15.2.exe
 
 #### mehdi-appmehdi
 
@@ -38784,7 +38811,7 @@ Total entries processed: 6519
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `netbird-netbird.yml`
-- **URL**: https://github.com/netbirdio/netbird/releases/download/v0.56.1/netbird_installer_0.56.1_windows_amd64.msi
+- **URL**: https://github.com/netbirdio/netbird/releases/download/v0.57.0/netbird_installer_0.57.0_windows_amd64.msi
 
 #### netease-cloudmusic
 
@@ -38947,6 +38974,15 @@ Total entries processed: 6519
 - **Version**: 
 - **File**: `nevcairiel-lavfilters.yml`
 - **URL**: https://github.com/Nevcairiel/LAVFilters/releases/download/0.79.2/LAVFilters-0.79.2-Installer.exe
+
+#### nevercenter-milo
+
+- **Source**: winget
+- **Name**: nevercenter-milo
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `nevercenter-milo.yml`
+- **URL**: https://nevercenter.com/silo/download/filearchive/Install_Milo_2025_00_win.exe
 
 #### nevercenter-pixelmash
 
@@ -41520,7 +41556,7 @@ Total entries processed: 6519
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `opera-opera-dev.yml`
-- **URL**: https://get.geo.opera.com/pub/opera-developer/123.0.5644.0/win/Opera_Developer_123.0.5644.0_Setup_x64.exe
+- **URL**: https://get.geo.opera.com/pub/opera-developer/123.0.5652.0/win/Opera_Developer_123.0.5652.0_Setup_x64.exe
 
 #### opera-opera
 
@@ -44715,7 +44751,7 @@ Total entries processed: 6519
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `qmplay2-qmplay2.yml`
-- **URL**: https://github.com/zaps166/QMPlay2/releases/download/25.09.03/QMPlay2-Win64-25.09.03.exe
+- **URL**: https://github.com/zaps166/QMPlay2/releases/download/25.09.11/QMPlay2-Win64-25.09.11.exe
 
 #### qnap-externalraidmanager
 
@@ -57621,7 +57657,7 @@ Total entries processed: 6519
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xmediarecode-xmediarecode.yml`
-- **URL**: https://www.xmedia-recode.de/download/XMediaRecode3617_x64_setup.exe
+- **URL**: https://www.xmedia-recode.de/download/XMediaRecode3618_x64_setup.exe
 
 #### xmind-xmind
 
