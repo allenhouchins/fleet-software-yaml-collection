@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-09-13 06:05:00 UTC
+Generated on: 2025-09-13 18:04:25 UTC
 
 ## Summary
 
-Total entries processed: 6529
-- macOS files: 388
-- Windows files: 6141
+Total entries processed: 6527
+- macOS files: 387
+- Windows files: 6140
 
 ## Generated Files
 
@@ -2469,15 +2469,6 @@ Total entries processed: 6529
 - **File**: `powershell-preview.yml`
 - **URL**: https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.4/powershell-7.6.0-preview.4-osx-arm64.pkg
 
-#### powershell
-
-- **Source**: homebrew/installomator
-- **Name**: powershell
-- **Description**: Generated from Homebrew cask or Installomator script
-- **Version**: 
-- **File**: `powershell.yml`
-- **URL**: https://github.com/PowerShell/PowerShell/releases/download/v7.5.2/powershell-7.5.2-osx-arm64.pkg
-
 #### presentation
 
 - **Source**: homebrew/installomator
@@ -3016,7 +3007,7 @@ Total entries processed: 6529
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `teleport-suite.yml`
-- **URL**: https://cdn.teleport.dev/teleport-18.2.0.pkg
+- **URL**: https://cdn.teleport.dev/teleport-18.2.1.pkg
 
 #### temurin-11
 
@@ -21459,7 +21450,7 @@ Total entries processed: 6529
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/mdurdbkqdmkrebd23x7rsvosvy_142.0.7410.0/142.0.7410.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/gtafiebmijuavfgbpsnoptaxd4_142.0.7411.0/142.0.7411.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -21468,7 +21459,7 @@ Total entries processed: 6529
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-dev-exe.yml`
-- **URL**: https://dl.google.com/release2/chrome/d3rs2cauearxb5myh4golwgosi_142.0.7405.3/142.0.7405.3_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/adzsqgn4eefraje544jcuibdcsdq_142.0.7405.4/142.0.7405.4_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev
 
@@ -22143,7 +22134,7 @@ Total entries processed: 6529
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gruntwork-terragrunt.yml`
-- **URL**: https://github.com/gruntwork-io/terragrunt/releases/download/v0.87.0/terragrunt_windows_amd64.exe
+- **URL**: https://github.com/gruntwork-io/terragrunt/releases/download/v0.87.2/terragrunt_windows_amd64.exe
 
 #### grz-meshcam
 
@@ -24348,7 +24339,7 @@ Total entries processed: 6529
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `integrit-hackolade.yml`
-- **URL**: https://s3-eu-west-1.amazonaws.com/hackolade/previous/v8.4.1/Hackolade-win64-setup-signed.exe
+- **URL**: https://s3-eu-west-1.amazonaws.com/hackolade/previous/v8.4.2/Hackolade-win64-setup-signed.exe
 
 #### intel-fortrancompiler
 
@@ -26940,7 +26931,7 @@ Total entries processed: 6529
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kaedei-dandanplay.yml`
-- **URL**: https://github.com/kaedei/dandanplay/releases/download/windows-16.2.0.0/dandanplay-x64_16.2.0.exe
+- **URL**: https://github.com/kaedei/dandanplay/releases/download/windows-16.2.2.0/dandanplay-x64_16.2.2.exe
 
 #### kafan-kafaninput
 
@@ -27777,7 +27768,7 @@ Total entries processed: 6529
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-okular.yml`
-- **URL**: https://cdn.kde.org/ci-builds/graphics/okular/release-25.08/windows/okular-release_25.08-6693-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/graphics/okular/release-25.08/windows/okular-release_25.08-6731-windows-cl-msvc2022-x86_64.exe
 
 #### kde-parley
 
@@ -40170,7 +40161,7 @@ Total entries processed: 6529
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `numericpath-vectorstyler.yml`
-- **URL**: https://www.vectorstyler.com/release/release1_2_077/vectorstyler.msi
+- **URL**: https://www.vectorstyler.com/release/release1_2_081/vectorstyler.msi
 
 #### nushell-nushell
 
@@ -43212,7 +43203,7 @@ Total entries processed: 6529
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `plebone-nos.yml`
-- **URL**: https://github.com/PlebOne/nos/releases/download/v1.1.3/nos-1.1.3-windows-amd64.exe
+- **URL**: https://github.com/PlebOne/nos/releases/download/v1.1.4/nos-1.1.4-windows-amd64.exe
 
 #### plex-plex
 
@@ -43779,7 +43770,7 @@ Total entries processed: 6529
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `premiumsoft-navicatpremium.yml`
-- **URL**: https://download3.navicat.com/download/navicat161_premium_cs_x64.exe
+- **URL**: https://download3.navicat.com/download/navicat17_premium_es_x64.exe
 
 #### premiumsoft-navicatpremiumlite
 
@@ -44679,7 +44670,7 @@ Total entries processed: 6529
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `qgis-qfield.yml`
-- **URL**: https://github.com/opengisch/QField/releases/download/v3.7.6/qfield-v3.7.6-windows-x64.exe
+- **URL**: https://github.com/opengisch/QField/releases/download/v3.7.7/qfield-v3.7.7-windows-x64.exe
 
 #### qiagen-clcgenomicsworkbench
 
@@ -48045,7 +48036,7 @@ Total entries processed: 6529
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sejda-pdfdesktop.yml`
-- **URL**: https://downloads.sejda-cdn.com/sejda-desktop_7.9.0_x64.msi
+- **URL**: https://downloads.sejda-cdn.com/sejda-desktop_7.9.3_x64.msi
 
 #### sejinchun-imagine
 
@@ -48675,7 +48666,7 @@ Total entries processed: 6529
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `simplex-simplex-chat.yml`
-- **URL**: https://github.com/simplex-chat/simplex-chat/releases/download/v6.4.4/simplex-desktop-windows-x86_64.msi
+- **URL**: https://github.com/simplex-chat/simplex-chat/releases/download/v6.4.5/simplex-desktop-windows-x86_64.msi
 
 #### singular-recast
 
@@ -50916,7 +50907,7 @@ Total entries processed: 6529
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `surrealdb-surrealdb.yml`
-- **URL**: https://github.com/surrealdb/surrealdb/releases/download/v2.3.7/surreal-v2.3.7.windows-amd64.exe
+- **URL**: https://github.com/surrealdb/surrealdb/releases/download/v2.3.8/surreal-v2.3.8.windows-amd64.exe
 
 #### suse-rancherdesktop
 
@@ -51960,7 +51951,7 @@ Total entries processed: 6529
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `techsmith-audiate.yml`
-- **URL**: https://cdn-audiate.cloud.techsmith.com/audiate/Audiate%20Setup%202025.3.1.exe
+- **URL**: https://cdn-audiate.cloud.techsmith.com/audiate/Audiate%20Setup%202025.4.1.exe
 
 #### techsmith-camtasia
 
@@ -54246,7 +54237,7 @@ Total entries processed: 6529
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tutanota-tutanota.yml`
-- **URL**: https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-304.250901.0/tutanota-desktop-win.exe
+- **URL**: https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-308.250911.0/tutanota-desktop-win.exe
 
 #### tuxguitar-tuxguitar
 
@@ -54498,7 +54489,7 @@ Total entries processed: 6529
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `unibo-alchemist.yml`
-- **URL**: https://github.com/AlchemistSimulator/Alchemist/releases/download/42.3.3/alchemist-42.3.3.msi
+- **URL**: https://github.com/AlchemistSimulator/Alchemist/releases/download/42.3.4/alchemist-42.3.4.msi
 
 #### uniconta-uniconta
 
@@ -54787,15 +54778,6 @@ Total entries processed: 6529
 - **Version**: 
 - **File**: `unlimitedbacon-stl-thumb.yml`
 - **URL**: https://github.com/unlimitedbacon/stl-thumb/releases/download/v0.5.0/STL-Thumb-Windows_0.5.0.exe
-
-#### unrealsoftware-cs2d
-
-- **Source**: winget
-- **Name**: unrealsoftware-cs2d
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `unrealsoftware-cs2d.yml`
-- **URL**: https://www.unrealsoftware.de/get.php?get=cs2d_1013_setup.exe&p=1&cid=12595
 
 #### untis-untis-2025
 
@@ -55281,7 +55263,7 @@ Total entries processed: 6529
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc-nightly.yml`
-- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20250911-0432/vlc-4.0.0-dev-win64-6835f76f.msi
+- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20250913-0430/vlc-4.0.0-dev-win64-62b8ce43.msi
 
 #### videolan-vlc
 
@@ -58089,7 +58071,7 @@ Total entries processed: 6529
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yt-dlp-yt-dlp-nightly.yml`
-- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.09.10.232823/yt-dlp.exe
+- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.09.12.232737/yt-dlp.exe
 
 #### yt-dlp-yt-dlp
 
@@ -58584,7 +58566,7 @@ Total entries processed: 6529
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zoom-zoom-vdi.yml`
-- **URL**: https://zoom.us/download/vdi/6.4.12.26620/ZoomInstallerVDI.msi?archType=x64
+- **URL**: https://zoom.us/download/vdi/6.5.10.26710/ZoomInstallerVDI.msi?archType=x64
 
 #### zoom-zoom
 
