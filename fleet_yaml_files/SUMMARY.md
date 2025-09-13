@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-09-12 18:05:14 UTC
+Generated on: 2025-09-13 06:05:00 UTC
 
 ## Summary
 
-Total entries processed: 6524
+Total entries processed: 6529
 - macOS files: 388
-- Windows files: 6136
+- Windows files: 6141
 
 ## Generated Files
 
@@ -4730,6 +4730,15 @@ Total entries processed: 6524
 - **File**: `ai-shifu-chatall.yml`
 - **URL**: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-win-x64.exe
 
+#### aignesberger-websitewatcher
+
+- **Source**: winget
+- **Name**: aignesberger-websitewatcher
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `aignesberger-websitewatcher.yml`
+- **URL**: https://www.aignes.com/download/wsw2504.exe
+
 #### aignesberger-websitewatcherfree
 
 - **Source**: winget
@@ -6493,6 +6502,15 @@ Total entries processed: 6524
 - **Version**: 
 - **File**: `andrewbrey-flot.yml`
 - **URL**: https://github.com/andrewbrey/flot/releases/download/v3.0.0/Flot.setup.3.0.0.exe
+
+#### andrewwhewell-virtualradarserver
+
+- **Source**: winget
+- **Name**: andrewwhewell-virtualradarserver
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `andrewwhewell-virtualradarserver.yml`
+- **URL**: https://www.virtualradarserver.co.uk/Files/VirtualRadarSetup-x64.exe
 
 #### androidwg-corkscrew
 
@@ -12792,7 +12810,7 @@ Total entries processed: 6524
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `clanmonsterxd-cmd-game-menu.yml`
-- **URL**: https://github.com/clanmonsterxd-cmd/Game-Menu/releases/download/v1.1.2.4/setup_game_menu.exe
+- **URL**: https://github.com/clanmonsterxd-cmd/Game-Menu/releases/download/v2.0.0.1/setup_game_menu.exe
 
 #### clashvergerev-clashvergerev
 
@@ -14062,6 +14080,15 @@ Total entries processed: 6524
 - **Version**: 
 - **File**: `cpuid-hwmonitor.yml`
 - **URL**: https://download.cpuid.com/hwmonitor/hwmonitor_1.58.exe
+
+#### cpvalente-ontime
+
+- **Source**: winget
+- **Name**: cpvalente-ontime
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `cpvalente-ontime.yml`
+- **URL**: https://github.com/cpvalente/ontime/releases/download/v3.16.1/ontime-win64.exe
 
 #### crashplan-crashplan
 
@@ -15942,7 +15969,7 @@ Total entries processed: 6524
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `discord-discord-canary.yml`
-- **URL**: https://canary.dl2.discordapp.net/distro/app/canary/win/x64/1.0.712/DiscordCanarySetup.exe
+- **URL**: https://canary.dl2.discordapp.net/distro/app/canary/win/x64/1.0.713/DiscordCanarySetup.exe
 
 #### discord-discord-development
 
@@ -20847,7 +20874,7 @@ Total entries processed: 6524
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gitbutler-gitbutler.yml`
-- **URL**: https://releases.gitbutler.com/releases/release/0.15.9-2293/windows/x86_64/GitButler_0.15.9_x64_en-US.msi
+- **URL**: https://releases.gitbutler.com/releases/release/0.16.1-2393/windows/x86_64/GitButler_0.16.1_x64_en-US.msi
 
 #### gitea-tea
 
@@ -21432,7 +21459,7 @@ Total entries processed: 6524
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/acirdw2uetor7ggaeekqrs7q63tq_142.0.7407.0/142.0.7407.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/mdurdbkqdmkrebd23x7rsvosvy_142.0.7410.0/142.0.7410.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -21972,7 +21999,7 @@ Total entries processed: 6524
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gravitational-teleportconnect.yml`
-- **URL**: https://cdn.teleport.dev/Teleport%20Connect%20Setup-18.2.0.exe
+- **URL**: https://cdn.teleport.dev/Teleport%20Connect%20Setup-18.2.1.exe
 
 #### grayloginc-graylogsidecar
 
@@ -28209,7 +28236,7 @@ Total entries processed: 6524
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `klayout-klayout.yml`
-- **URL**: https://www.klayout.org/downloads/Windows/klayout-0.30.3-win64-install.exe
+- **URL**: https://www.klayout.org/downloads/Windows/klayout-0.30.4-win64-install.exe
 
 #### klinker24-google-calendar-desktop
 
@@ -31863,7 +31890,7 @@ Total entries processed: 6524
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-dotnet-desktopruntime-9.yml`
-- **URL**: https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/9.0.8/windowsdesktop-runtime-9.0.8-win-x64.exe
+- **URL**: https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/9.0.9/windowsdesktop-runtime-9.0.9-win-x64.exe
 
 #### microsoft-dotnet-desktopruntime-preview
 
@@ -32439,7 +32466,7 @@ Total entries processed: 6524
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-powershell.yml`
-- **URL**: https://github.com/PowerShell/PowerShell/releases/download/v7.5.2/PowerShell-7.5.2-win-x64.msi
+- **URL**: https://github.com/PowerShell/PowerShell/releases/download/v7.5.3/PowerShell-7.5.3-win-x64.msi
 
 #### microsoft-powertoys
 
@@ -41133,7 +41160,7 @@ Total entries processed: 6524
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `opendatalab-mineru.yml`
-- **URL**: https://webpub.shlab.tech/MinerU/latest/win/MinerU-0.7.6-setup.exe
+- **URL**: https://webpub.shlab.tech/MinerU/latest/win/MinerU-0.8.0-setup.exe
 
 #### opengoal-launcher
 
@@ -43178,6 +43205,15 @@ Total entries processed: 6524
 - **File**: `plazmaburst2-plazmaburst2.yml`
 - **URL**: https://plazmaburst2.com/pb2/Plazma%20Burst%202%20installer%20by%20Lin.msi
 
+#### plebone-nos
+
+- **Source**: winget
+- **Name**: plebone-nos
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `plebone-nos.yml`
+- **URL**: https://github.com/PlebOne/nos/releases/download/v1.1.3/nos-1.1.3-windows-amd64.exe
+
 #### plex-plex
 
 - **Source**: winget
@@ -43473,7 +43509,7 @@ Total entries processed: 6524
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `posit-rstudio.yml`
-- **URL**: https://download1.rstudio.org/electron/windows/RStudio-2025.05.1-513.exe
+- **URL**: https://download1.rstudio.org/electron/windows/RStudio-2025.09.0-387.exe
 
 #### postgresql-pgadmin
 
@@ -48495,7 +48531,7 @@ Total entries processed: 6524
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sigil-ebook-pageedit.yml`
-- **URL**: https://github.com/Sigil-Ebook/PageEdit/releases/download/2.5.0/PageEdit-2.5.0-Windows-x64-Setup.exe
+- **URL**: https://github.com/Sigil-Ebook/PageEdit/releases/download/2.6.2/PageEdit-2.6.2-Windows-x64-Setup.exe
 
 #### sigil-ebook-sigil
 
@@ -48504,7 +48540,7 @@ Total entries processed: 6524
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sigil-ebook-sigil.yml`
-- **URL**: https://github.com/Sigil-Ebook/Sigil/releases/download/2.6.0/Sigil-2.6.0-Windows-x64-Setup.exe
+- **URL**: https://github.com/Sigil-Ebook/Sigil/releases/download/2.6.2/Sigil-2.6.2-Windows-x64-Setup.exe
 
 #### sigmanight-basiliskllm
 
@@ -48540,7 +48576,7 @@ Total entries processed: 6524
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sigstore-cosign.yml`
-- **URL**: https://github.com/sigstore/cosign/releases/download/v2.5.3/cosign-windows-amd64.exe
+- **URL**: https://github.com/sigstore/cosign/releases/download/v2.6.0/cosign-windows-amd64.exe
 
 #### sikalabs-slu
 
@@ -53481,7 +53517,7 @@ Total entries processed: 6524
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `todesktop-todesktop.yml`
-- **URL**: https://download.todesktop.com/2108257l5oobyoe/ToDesktop%20Builder%20Setup%200.31.0%20-%20Build%20250909b8378o797-x64.exe
+- **URL**: https://download.todesktop.com/2108257l5oobyoe/ToDesktop%20Builder%20Setup%200.32.0%20-%20Build%20250912n1egfq950-x64.exe
 
 #### toeverything-affine
 
@@ -56668,6 +56704,15 @@ Total entries processed: 6524
 - **Version**: 
 - **File**: `wjjsoft-mybasedesktop.yml`
 - **URL**: https://www.wjjsoft.com/downloads/Mybase-Desktop-Ver831-Win64.exe
+
+#### wjjsoft-mybaseserver
+
+- **Source**: winget
+- **Name**: wjjsoft-mybaseserver
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `wjjsoft-mybaseserver.yml`
+- **URL**: https://www.wjjsoft.com/downloads/Mybase-Server-Ver820-Win64-RunAsAdmin.exe
 
 #### wk-wkradar
 
