@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-09-13 18:04:25 UTC
+Generated on: 2025-09-14 06:05:08 UTC
 
 ## Summary
 
-Total entries processed: 6527
+Total entries processed: 6525
 - macOS files: 387
-- Windows files: 6140
+- Windows files: 6138
 
 ## Generated Files
 
@@ -1531,7 +1531,7 @@ Total entries processed: 6527
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `jyutping.yml`
-- **URL**: https://github.com/yuetyam/jyutping/releases/download/0.63.0/Jyutping-v0.63.0-Mac.pkg
+- **URL**: https://github.com/yuetyam/jyutping/releases/download/0.65.0/Jyutping-v0.65.0-Mac.pkg
 
 #### kdrive
 
@@ -8499,7 +8499,7 @@ Total entries processed: 6527
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `badboysm890-clara.yml`
-- **URL**: https://github.com/badboysm890/ClaraVerse/releases/download/v0.1.46/Clara.Setup.0.1.46.exe
+- **URL**: https://github.com/badboysm890/ClaraVerse/releases/download/v0.2.0/Clara.Setup.0.2.0.exe
 
 #### badlion-badlionclient
 
@@ -20318,15 +20318,6 @@ Total entries processed: 6527
 - **File**: `gam-team-gam.yml`
 - **URL**: https://github.com/GAM-team/GAM/releases/download/v7.05.00/gam-7.05.00-windows-x86_64.msi
 
-#### gam-team-gotyourback
-
-- **Source**: winget
-- **Name**: gam-team-gotyourback
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `gam-team-gotyourback.yml`
-- **URL**: https://github.com/GAM-team/got-your-back/releases/download/v1.90/gyb-1.90-windows-x86_64.msi
-
 #### gamaplatform-gama
 
 - **Source**: winget
@@ -21450,7 +21441,7 @@ Total entries processed: 6527
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/gtafiebmijuavfgbpsnoptaxd4_142.0.7411.0/142.0.7411.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/m52jtozbbvtt25nqomuxpx6j6u_142.0.7412.0/142.0.7412.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -33438,7 +33429,7 @@ Total entries processed: 6527
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mklabs-staruml.yml`
-- **URL**: https://update.staruml.io/releases-v6/StarUML%20Setup%206.3.4.exe
+- **URL**: https://update.staruml.io/releases-v7/StarUML%20Setup%207.0.0.exe
 
 #### mkproj-minerva
 
@@ -48018,7 +48009,7 @@ Total entries processed: 6527
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sefinek-genshinstellamod.yml`
-- **URL**: https://github.com/sefinek/Genshin-Impact-ReShade/releases/download/v8.7.8.0/Stella-Mod-Setup_8.7.8.0.exe
+- **URL**: https://github.com/sefinek/Genshin-Impact-ReShade/releases/download/v8.8.0.0/Stella-Mod-Setup_8.8.0.0.exe
 
 #### segger-embeddedstudioarm
 
@@ -51483,7 +51474,7 @@ Total entries processed: 6527
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tailscale-tailscale.yml`
-- **URL**: https://pkgs.tailscale.com/stable/tailscale-setup-full-1.86.2.exe
+- **URL**: https://pkgs.tailscale.com/stable/tailscale-setup-full-1.88.1.exe
 
 #### tailwindlabs-tailwindcss
 
@@ -54184,15 +54175,6 @@ Total entries processed: 6527
 - **Version**: 
 - **File**: `tulip-tulipplayer.yml`
 - **URL**: https://download.tulip.co/releases/prod/win/Tulip%20Player%20Setup.exe
-
-#### tuneflow-tuneflow
-
-- **Source**: winget
-- **Name**: tuneflow-tuneflow
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `tuneflow-tuneflow.yml`
-- **URL**: https://auto-update.tuneflow.com/win/x64/TuneFlow%20Setup%201.9.2.exe
 
 #### tunein-tunein
 
