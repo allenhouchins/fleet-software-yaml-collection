@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-09-14 18:04:20 UTC
+Generated on: 2025-09-15 06:05:32 UTC
 
 ## Summary
 
@@ -1486,7 +1486,7 @@ Total entries processed: 6525
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `iriunwebcam.yml`
-- **URL**: https://1758658189.rsc.cdn77.org/IriunWebcam-2.8.12.pkg
+- **URL**: https://1758658189.rsc.cdn77.org/dl/IriunWebcam-2.8.12.pkg
 
 #### isyncr
 
@@ -6519,7 +6519,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `andromeda-andromeda.yml`
-- **URL**: https://github.com/tryandromeda/andromeda/releases/download/0.1.0-draft-33/andromeda-windows-amd64.exe
+- **URL**: https://github.com/tryandromeda/andromeda/releases/download/0.1.0-draft-38/andromeda-windows-amd64.exe
 
 #### angeloconvento-overkeys
 
@@ -7914,7 +7914,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `avogadro-avogadro-2.yml`
-- **URL**: https://github.com/OpenChemistry/avogadrolibs/releases/download/1.100.0/Avogadro2-1.100.0-win64.exe
+- **URL**: https://github.com/OpenChemistry/avogadrolibs/releases/download/1.101.0/Avogadro2-1.101.0-win64.exe
 
 #### awehook-blinkmind
 
@@ -18381,7 +18381,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `espanso-espanso.yml`
-- **URL**: https://github.com/espanso/espanso/releases/download/v2.2.3/Espanso-Win-Installer-x86_64.exe
+- **URL**: https://github.com/espanso/espanso/releases/download/v2.2.5/Espanso-Win-Installer-x86_64.exe
 
 #### espeak-espeak
 
@@ -21441,7 +21441,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/aci2byvez4po6zmy6r63z3ffp5qa_142.0.7413.0/142.0.7413.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/ac4wakvkadd6n32mpp7wxapcsmlq_142.0.7414.0/142.0.7414.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -27255,7 +27255,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kaidan.yml`
-- **URL**: https://cdn.kde.org/ci-builds/network/kaidan/master/windows/kaidan-master-5381-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/network/kaidan/master/windows/kaidan-master-5391-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kalarm
 
@@ -27561,7 +27561,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kontact.yml`
-- **URL**: https://cdn.kde.org/ci-builds/pim/kontact/master/windows/kontact-master-2003-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/pim/kontact/master/windows/kontact-master-2015-windows-cl-msvc2022-x86_64.exe
 
 #### kde-konversation
 
@@ -32412,7 +32412,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-powerbi.yml`
-- **URL**: https://download.microsoft.com/download/8/8/0/880BCA75-79DD-466A-927D-1ABF1F5454B0/PBIDesktopSetup-2025-08_x64.exe
+- **URL**: https://download.microsoft.com/download/8/8/0/880BCA75-79DD-466A-927D-1ABF1F5454B0/PBIDesktopSetup-2025-09_x64.exe
 
 #### microsoft-powerbireportbuilder
 
@@ -38532,7 +38532,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nativesoft-nativerest.yml`
-- **URL**: https://nativesoft.com/download/nativerest.2.8.2.installer.exe
+- **URL**: https://nativesoft.com/download/nativerest.2.9.0.installer.exe
 
 #### naver-mybox
 
@@ -42195,7 +42195,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `papercutsoftware-mobilityprint.yml`
-- **URL**: https://cdn.papercut.com/web/products/mobility-print/installers/server/windows/pc-mobility-print-1.0.3770.exe
+- **URL**: https://cdn.papercut.com/web/products/mobility-print/installers/server/windows/pc-mobility-print-1.0.3776.exe
 
 #### papercutsoftware-ng
 
@@ -49170,7 +49170,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `softfever-orcaslicer.yml`
-- **URL**: https://github.com/SoftFever/OrcaSlicer/releases/download/v2.3.0/OrcaSlicer_Windows_Installer_V2.3.0.exe
+- **URL**: https://github.com/SoftFever/OrcaSlicer/releases/download/v2.3.1-beta/OrcaSlicer_Windows_Installer_V2.3.1-beta.exe
 
 #### softmaker-freeoffice-2021
 
@@ -53499,7 +53499,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `todesktop-todesktop.yml`
-- **URL**: https://download.todesktop.com/2108257l5oobyoe/ToDesktop%20Builder%20Setup%200.32.0%20-%20Build%20250912n1egfq950-x64.exe
+- **URL**: https://download.todesktop.com/2108257l5oobyoe/ToDesktop%20Builder%20Setup%200.32.1%20-%20Build%20250914w0likgvyt-x64.exe
 
 #### toeverything-affine
 
@@ -53562,7 +53562,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tominlab-wonderpen.yml`
-- **URL**: https://file.tominlab.com/WonderPen/desktop/2.6/WonderPen_win_installer_x64_2.6.9(7832).exe
+- **URL**: https://file.tominlab.com/WonderPen/desktop/3.0/WonderPen_win_installer_x64_3.0.0(8056).exe
 
 #### tomlm-electron-outlook-365
 
@@ -55479,7 +55479,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vkbo-novelwriter.yml`
-- **URL**: https://github.com/vkbo/novelWriter/releases/download/v2.7.4/novelwriter-2.7.4-amd64-setup.exe
+- **URL**: https://github.com/vkbo/novelWriter/releases/download/v2.7.5/novelwriter-2.7.5-amd64-setup.exe
 
 #### vkontakte-vkmessenger
 
