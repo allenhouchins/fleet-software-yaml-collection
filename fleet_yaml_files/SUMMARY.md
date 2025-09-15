@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-09-15 06:05:32 UTC
+Generated on: 2025-09-15 18:05:23 UTC
 
 ## Summary
 
@@ -1045,7 +1045,7 @@ Total entries processed: 6525
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `elgato-wave-link.yml`
-- **URL**: https://edge.elgato.com/egc/macos/wavelink/2.0.6/WaveLink_2.0.6.3780.pkg
+- **URL**: https://edge.elgato.com/egc/macos/wavelink/2.0.7/WaveLink_2.0.7.3795.pkg
 
 #### emclient-beta
 
@@ -3457,7 +3457,7 @@ Total entries processed: 6525
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `zoom-for-it-admins.yml`
-- **URL**: https://cdn.zoom.us/prod/6.5.12.63499/ZoomInstallerIT.pkg
+- **URL**: https://cdn.zoom.us/prod/6.6.0.64511/ZoomInstallerIT.pkg
 
 #### zoom
 
@@ -3630,7 +3630,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `360-namiai.yml`
-- **URL**: https://down.360safe.com/se/360namiai1.3.1467.64.exe
+- **URL**: https://down.360safe.com/se/360namiai1.3.1483.64.exe
 
 #### 3cx-callflowdesigner
 
@@ -4494,7 +4494,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aelassas-servy.yml`
-- **URL**: https://github.com/aelassas/servy/releases/download/v1.0/servy-1.0-net8.0-x64-installer.exe
+- **URL**: https://github.com/aelassas/servy/releases/download/v1.2/servy-1.2-net8.0-x64-installer.exe
 
 #### aerosoft-one
 
@@ -8571,7 +8571,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `baidu-comate.yml`
-- **URL**: https://comate-ide.cdn.bcebos.com/download/stable/798f097e54a97519dea9454c8df61939387c7c70-219775453/Comate-win32-x64-user-setup.exe
+- **URL**: https://comate-ide.cdn.bcebos.com/download/stable/38ca1be42edd0e9184ea6fa2579de67aef361794-220721122/Comate-win32-x64-user-setup.exe
 
 #### baidu-swanide
 
@@ -14844,7 +14844,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `datadog-agent.yml`
-- **URL**: https://s3.amazonaws.com/ddagent-windows-stable/ddagent-cli-7.70.1.msi
+- **URL**: https://s3.amazonaws.com/ddagent-windows-stable/ddagent-cli-7.70.2.msi
 
 #### datadog-dd-trace-dotnet
 
@@ -14853,7 +14853,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `datadog-dd-trace-dotnet.yml`
-- **URL**: https://github.com/DataDog/dd-trace-dotnet/releases/download/v3.25.0/datadog-dotnet-apm-3.25.0-x64.msi
+- **URL**: https://github.com/DataDog/dd-trace-dotnet/releases/download/v3.26.1/datadog-dotnet-apm-3.26.1-x64.msi
 
 #### dataflare-dataflare
 
@@ -15150,7 +15150,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `deanxv-donehub.yml`
-- **URL**: https://github.com/deanxv/done-hub/releases/download/v1.5.7/done-hub.exe
+- **URL**: https://github.com/deanxv/done-hub/releases/download/v1.5.8/done-hub.exe
 
 #### debaucheeopensourcegroup-barrier
 
@@ -15609,7 +15609,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `devproxy-devproxy-beta.yml`
-- **URL**: https://github.com/dotnet/dev-proxy/releases/download/v1.1.0-beta.3/dev-proxy-installer-win-x64-v1.1.0-beta.3.exe
+- **URL**: https://github.com/dotnet/dev-proxy/releases/download/v1.2.0-beta.1/dev-proxy-installer-win-x64-v1.2.0-beta.1.exe
 
 #### devproxy-devproxy
 
@@ -18273,7 +18273,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `erlang-erlangotp.yml`
-- **URL**: https://github.com/erlang/otp/releases/download/OTP-28.0.2/otp_win64_28.0.2.exe
+- **URL**: https://github.com/erlang/otp/releases/download/OTP-28.0.4/otp_win64_28.0.4.exe
 
 #### errorflynn-ytdlp-interface
 
@@ -19155,7 +19155,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `fing-fing.yml`
-- **URL**: https://get.fing.com/fing-desktop-releases/win/Fing-3.9.0.exe
+- **URL**: https://get.fing.com/fing-desktop-releases/win/Fing-3.9.1.exe
 
 #### fio-fio
 
@@ -20298,7 +20298,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gajim-gajim.yml`
-- **URL**: https://gajim.org/downloads/2.3/Gajim-2.3.4-64bit.exe
+- **URL**: https://gajim.org/downloads/2.3/Gajim-2.3.5-64bit.exe
 
 #### galvanizeinc-galvanizecirrus
 
@@ -20487,7 +20487,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gdevelop-gdevelop.yml`
-- **URL**: https://github.com/4ian/GDevelop/releases/download/v5.5.239/GDevelop-5-Setup-5.5.239.exe
+- **URL**: https://github.com/4ian/GDevelop/releases/download/v5.5.240/GDevelop-5-Setup-5.5.240.exe
 
 #### gdgsoftware-paquetbuilder
 
@@ -21117,7 +21117,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `glab-glab.yml`
-- **URL**: https://gitlab.com/gitlab-org/cli/-/releases/v1.68.0/downloads/glab_1.68.0_Windows_x86_64_installer.exe
+- **URL**: https://gitlab.com/gitlab-org/cli/-/releases/v1.70.0/downloads/glab_1.70.0_Windows_x86_64_installer.exe
 
 #### glassdevtools-void
 
@@ -21441,7 +21441,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/ac4wakvkadd6n32mpp7wxapcsmlq_142.0.7414.0/142.0.7414.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/ad5lxywq5tbsisvawt6jkg6bbfha_142.0.7415.0/142.0.7415.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -22161,7 +22161,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gstreamerproject-gstreamer.yml`
-- **URL**: https://gstreamer.freedesktop.org/data/pkg/windows/1.26.5/msvc/gstreamer-1.0-msvc-x86_64-1.26.5.msi
+- **URL**: https://gstreamer.freedesktop.org/data/pkg/windows/1.26.6/msvc/gstreamer-1.0-msvc-x86_64-1.26.6.msi
 
 #### gtamas-etcdmanager
 
@@ -23448,7 +23448,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hydrusnetwork-hydrusnetwork.yml`
-- **URL**: https://github.com/hydrusnetwork/hydrus/releases/download/v637/Hydrus.Network.637.-.Windows.-.Installer.exe
+- **URL**: https://github.com/hydrusnetwork/hydrus/releases/download/v638/Hydrus.Network.638.-.Windows.-.Installer.exe
 
 #### hyperion-hyperion
 
@@ -24897,7 +24897,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `iterate-cyberduck.yml`
-- **URL**: https://update.cyberduck.io//Cyberduck-Installer-9.2.3.43590.exe
+- **URL**: https://update.cyberduck.io//Cyberduck-Installer-9.2.4.43667.exe
 
 #### iterate-cyberduckcli
 
@@ -30090,7 +30090,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lukilabs-craft.yml`
-- **URL**: https://res.craft.do/windows-app/Craft%20Installer%203.1.9.exe
+- **URL**: https://res.craft.do/windows-app/Craft%20Installer%203.2.6.exe
 
 #### lumivero-citavi-6
 
@@ -39576,7 +39576,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nitrorcr-aiasworkspace.yml`
-- **URL**: https://github.com/NitroRCr/AIaW/releases/download/v1.8.2/AI.as.Workspace_1.8.2_x64-setup.exe
+- **URL**: https://github.com/NitroRCr/AIaW/releases/download/v1.8.3/AI.as.Workspace_1.8.3_x64-setup.exe
 
 #### nitrosoftware-nitropro-nls
 
@@ -40494,7 +40494,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `octopusdeploy-server.yml`
-- **URL**: https://download.octopusdeploy.com/octopus/Octopus.2025.2.13071-x64.msi
+- **URL**: https://download.octopusdeploy.com/octopus/Octopus.2025.2.13082-x64.msi
 
 #### octopusdeploy-tentacle
 
@@ -41079,7 +41079,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `openagentplatform-dive.yml`
-- **URL**: https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.5/Dive-electron-0.9.5-win-x64.exe
+- **URL**: https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.6/Dive-electron-0.9.6-win-x64.exe
 
 #### openaudible-openaudible
 
@@ -44175,7 +44175,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `prusa3d-prusaslicer.yml`
-- **URL**: https://cdn.prusa3d.com/downloads/drivers/prusa3d_win_2_9_2.exe
+- **URL**: https://cdn.prusa3d.com/downloads/drivers/prusa3d_win_2_9_3.exe
 
 #### ps-kubedevdashboard
 
@@ -44724,7 +44724,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `qingfeng-heyboxchat.yml`
-- **URL**: https://macc.max-c.com/chat/pc/chat_installer_x64_new_1.48.0.1131.exe
+- **URL**: https://macc.max-c.com/chat/pc/chat_installer_x64_new_1.48.0.1133.exe
 
 #### qingfeng-heyboxwow
 
@@ -47172,7 +47172,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `saladtechnologies-salad.yml`
-- **URL**: https://github.com/SaladTechnologies/salad-applications/releases/download/1.8.8/Salad-1.8.8.exe
+- **URL**: https://github.com/SaladTechnologies/salad-applications/releases/download/1.8.9/Salad-1.8.9.exe
 
 #### salesforce-sfdx-cli
 
@@ -53499,7 +53499,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `todesktop-todesktop.yml`
-- **URL**: https://download.todesktop.com/2108257l5oobyoe/ToDesktop%20Builder%20Setup%200.32.1%20-%20Build%20250914w0likgvyt-x64.exe
+- **URL**: https://download.todesktop.com/2108257l5oobyoe/ToDesktop%20Builder%20Setup%200.32.2%20-%20Build%202509150lyztpmpo-x64.exe
 
 #### toeverything-affine
 
@@ -54921,7 +54921,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `valinet-explorerpatcher-prerelease.yml`
-- **URL**: https://github.com/valinet/ExplorerPatcher/releases/download/22631.5335.68.2_14807a5/ep_setup.exe
+- **URL**: https://github.com/valinet/ExplorerPatcher/releases/download/26100.4946.69.2_f112719/ep_setup.exe
 
 #### valinet-explorerpatcher
 
@@ -55245,7 +55245,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc-nightly.yml`
-- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20250914-0428/vlc-4.0.0-dev-win64-90659dd5.msi
+- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20250915-0422/vlc-4.0.0-dev-win64-17bebed8.msi
 
 #### videolan-vlc
 
@@ -57828,7 +57828,7 @@ Total entries processed: 6525
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xushengfeng-esearch.yml`
-- **URL**: https://github.com/xushengfeng/eSearch/releases/download/15.0.0/eSearch-15.0.0-win32-x64.exe
+- **URL**: https://github.com/xushengfeng/eSearch/releases/download/15.2.1/eSearch-15.2.1-win32-x64.exe
 
 #### xwartz-pupafm
 
