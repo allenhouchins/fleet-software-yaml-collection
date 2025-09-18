@@ -1,4 +1,4 @@
-url: https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-9.1.4-windows-x86_64.msi
+url: https://cdn.mullvad.net/app/desktop/releases/2025.10-beta1/MullvadVPN-2025.10-beta1.pkg
 automatic_install: false
 self_service: false
 categories: []
