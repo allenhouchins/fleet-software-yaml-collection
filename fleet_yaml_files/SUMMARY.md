@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-09-20 06:05:18 UTC
+Generated on: 2025-09-20 18:04:21 UTC
 
 ## Summary
 
@@ -1981,7 +1981,7 @@ Total entries processed: 6575
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `motu-m-series.yml`
-- **URL**: https://cdn-data.motu.com/downloads/audio/mseries/driver/RC/MOTU%20M%20Series%20Installer%20(96480).pkg
+- **URL**: https://cdn-data.motu.com/downloads/audio/mseries/driver/RC/MOTU%20MSeries%20Installer%20(fb961a2c0).pkg
 
 #### mozilla-vpn
 
@@ -4521,7 +4521,7 @@ Total entries processed: 6575
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aelassas-servy.yml`
-- **URL**: https://github.com/aelassas/servy/releases/download/v1.4/servy-1.4-net8.0-x64-installer.exe
+- **URL**: https://github.com/aelassas/servy/releases/download/v1.5/servy-1.5-net8.0-x64-installer.exe
 
 #### aerosoft-one
 
@@ -17859,7 +17859,7 @@ Total entries processed: 6575
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `electerm-electerm.yml`
-- **URL**: https://github.com/electerm/electerm/releases/download/v2.1.8/electerm-2.1.8-win-x64-installer.exe
+- **URL**: https://github.com/electerm/electerm/releases/download/v2.2.0/electerm-2.2.0-win-x64-installer.exe
 
 #### electron-store-electron-app-store
 
@@ -21729,7 +21729,7 @@ Total entries processed: 6575
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/adhmczwreku4uhlcbdgb5yt5o3wa_142.0.7423.0/142.0.7423.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/c2wsgmzfdreu4d6uxwr7euwpd4_142.0.7424.0/142.0.7424.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -22269,7 +22269,7 @@ Total entries processed: 6575
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gravitational-teleportconnect.yml`
-- **URL**: https://cdn.teleport.dev/Teleport%20Connect%20Setup-18.2.1.exe
+- **URL**: https://cdn.teleport.dev/Teleport%20Connect%20Setup-18.2.2.exe
 
 #### grayloginc-graylogsidecar
 
@@ -24573,7 +24573,7 @@ Total entries processed: 6575
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `insco-picguard-pro.yml`
-- **URL**: https://github.com/picguard/picguard/releases/download/v5.0.1/picguard-pro-5.0.1-windows-x64-en-US.msi
+- **URL**: https://github.com/picguard/picguard/releases/download/v5.0.3/picguard-pro-5.0.3-windows-x64-en-US.msi
 
 #### insco-picguard
 
@@ -24582,7 +24582,7 @@ Total entries processed: 6575
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `insco-picguard.yml`
-- **URL**: https://github.com/picguard/picguard/releases/download/v5.0.1/picguard-5.0.1-windows-x64-en-US.msi
+- **URL**: https://github.com/picguard/picguard/releases/download/v5.0.3/picguard-5.0.3-windows-x64-en-US.msi
 
 #### insomnia-insomnia
 
@@ -27237,7 +27237,7 @@ Total entries processed: 6575
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kaedei-dandanplay.yml`
-- **URL**: https://github.com/kaedei/dandanplay/releases/download/windows-16.2.2.0/dandanplay-x64_16.2.2.exe
+- **URL**: https://github.com/kaedei/dandanplay/releases/download/windows-16.2.3.0/dandanplay-x64_16.2.3.exe
 
 #### kafan-kafaninput
 
@@ -27867,7 +27867,7 @@ Total entries processed: 6575
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-konsole.yml`
-- **URL**: https://cdn.kde.org/ci-builds/utilities/konsole/master/windows/konsole-master-4253-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/utilities/konsole/master/windows/konsole-master-4267-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kontact
 
@@ -38325,7 +38325,7 @@ Total entries processed: 6575
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mq1-tinywiibackupmanager.yml`
-- **URL**: https://github.com/mq1/TinyWiiBackupManager/releases/download/2.4.11/TinyWiiBackupManager_2.4.11_x64-setup.exe
+- **URL**: https://github.com/mq1/TinyWiiBackupManager/releases/download/2.4.13/TinyWiiBackupManager_2.4.13_x64-setup.exe
 
 #### mremoteng-mremoteng-nightly
 
@@ -39135,7 +39135,7 @@ Total entries processed: 6575
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `neovide-neovide.yml`
-- **URL**: https://github.com/neovide/neovide/releases/download/0.15.1/neovide.msi
+- **URL**: https://github.com/neovide/neovide/releases/download/0.15.2/neovide.msi
 
 #### neovim-neovim-nightly
 
@@ -47073,7 +47073,7 @@ Total entries processed: 6575
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rssnext-folo.yml`
-- **URL**: https://github.com/RSSNext/Folo/releases/download/v0.6.2/Folo-0.6.2-windows-x64.exe
+- **URL**: https://github.com/RSSNext/Folo/releases/download/v0.7.0/Folo-0.7.0-windows-x64.exe
 
 #### rtkktr-writeimage
 
@@ -48036,7 +48036,7 @@ Total entries processed: 6575
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `schemacrawler-schemacrawler.yml`
-- **URL**: https://github.com/schemacrawler/SchemaCrawler-Installers/releases/download/v16.28.1/SchemaCrawler-16.28.1.msi
+- **URL**: https://github.com/schemacrawler/SchemaCrawler-Installers/releases/download/v16.28.2/SchemaCrawler-16.28.2.msi
 
 #### schezo-lhaplus
 
@@ -49224,7 +49224,7 @@ Total entries processed: 6575
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `smapitproject-smapit.yml`
-- **URL**: https://github.com/studzt/SmapIt/releases/download/v0.1.0/SmapIt-v0.1.0.exe
+- **URL**: https://github.com/studzt/SmapIt/releases/download/v0.2.0/SmapIt-v0.2.0.exe
 
 #### smartbear-readyapi
 
@@ -50232,7 +50232,7 @@ Total entries processed: 6575
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `spotify-spotify.yml`
-- **URL**: https://upgrade.scdn.co/upgrade/client/win32-x86_64/spotify_installer-1.2.73.451.g3cd20529-362.exe
+- **URL**: https://upgrade.scdn.co/upgrade/client/win32-x86_64/spotify_installer-1.2.73.465.g421365a8-493.exe
 
 #### springlobby-springlobby
 
@@ -51888,7 +51888,7 @@ Total entries processed: 6575
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `taiizor-sucrosewallpaperengine.yml`
-- **URL**: https://github.com/Taiizor/Sucrose/releases/download/v25.7.28.0/Sucrose_Bundle_.NET_Framework_4.8_x64_25.7.28.0.exe
+- **URL**: https://github.com/Taiizor/Sucrose/releases/download/v25.9.19.0/Sucrose_Bundle_.NET_Framework_4.8_x64_25.9.19.0.exe
 
 #### taiko2k-tauonmusicbox
 
@@ -55695,7 +55695,7 @@ Total entries processed: 6575
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc-nightly.yml`
-- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20250919-0426/vlc-4.0.0-dev-win64-777a8a09.msi
+- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20250920-0422/vlc-4.0.0-dev-win64-dda21a9c.msi
 
 #### videolan-vlc
 
@@ -57369,7 +57369,7 @@ Total entries processed: 6575
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wondershare-mobiletrans.yml`
-- **URL**: https://download.wondershare.com/cbs_down/mobiletrans_5.0.5_full5793.exe
+- **URL**: https://download.wondershare.com/cbs_down/mobiletrans_5.0.6_full5793.exe
 
 #### wondershare-mockitt-cn
 
