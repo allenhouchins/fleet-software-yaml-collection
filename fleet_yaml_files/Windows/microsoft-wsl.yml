@@ -1,4 +1,4 @@
-url: https://github.com/microsoft/WSL/releases/download/2.5.9/wsl.2.5.9.0.x64.msi
+url: https://github.com/microsoft/WSL/releases/download/2.6.1/wsl.2.6.1.0.x64.msi
 automatic_install: false
 self_service: false
 categories: []
