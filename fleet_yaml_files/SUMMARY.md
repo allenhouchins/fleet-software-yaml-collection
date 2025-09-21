@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-09-21 06:05:18 UTC
+Generated on: 2025-09-21 18:05:07 UTC
 
 ## Summary
 
-Total entries processed: 6602
+Total entries processed: 6613
 - macOS files: 390
-- Windows files: 6212
+- Windows files: 6223
 
 ## Generated Files
 
@@ -3936,7 +3936,7 @@ Total entries processed: 6602
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `abgox-inputtip.yml`
-- **URL**: https://github.com/abgox/InputTip/releases/download/v2025.09.06/InputTip.exe
+- **URL**: https://github.com/abgox/InputTip/releases/download/v2025.09.21/InputTip.exe
 
 #### ablaze-floorp-daylight
 
@@ -6042,7 +6042,7 @@ Total entries processed: 6602
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `amarbego-rscoop.yml`
-- **URL**: https://github.com/AmarBego/Rscoop/releases/download/v1.3.0/rscoop_1.3.0_x64_en-US.msi
+- **URL**: https://github.com/AmarBego/Rscoop/releases/download/v1.3.1/rscoop_1.3.1_x64_en-US.msi
 
 #### amazon-appstream
 
@@ -6069,7 +6069,7 @@ Total entries processed: 6602
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `amazon-athenaodbcdriver-2.yml`
-- **URL**: https://downloads.athena.us-east-1.amazonaws.com/drivers/ODBC/v2.0.4.0/Windows/AmazonAthenaODBC-2.0.4.0.msi
+- **URL**: https://downloads.athena.us-east-1.amazonaws.com/drivers/ODBC/v2.0.5.0/Windows/AmazonAthenaODBC-2.0.5.0.msi
 
 #### amazon-awscli
 
@@ -8032,6 +8032,15 @@ Total entries processed: 6602
 - **Version**: 
 - **File**: `axis-axisdevicemanager.yml`
 - **URL**: https://www.axis.com/ftp/pub_soft/cam_srv/adm/5_32_137/AXISDeviceManagerSetup.exe
+
+#### axis-axisstreamingassistant-x64
+
+- **Source**: winget
+- **Name**: axis-axisstreamingassistant-x64
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `axis-axisstreamingassistant-x64.yml`
+- **URL**: https://www.axis.com/ftp/pub_soft/cam_srv/asa/x64/latest/AxisStreamingAssistantSetupX64.msi
 
 #### axosoft-gitkraken
 
@@ -14457,7 +14466,7 @@ Total entries processed: 6602
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `crystaldewworld-crystaldiskmark-aoiedition.yml`
-- **URL**: https://sourceforge.net/projects/crystaldiskmark/files/9.0.0/CrystalDiskMark9_0_0AoiAds.exe
+- **URL**: https://sourceforge.net/projects/crystaldiskmark/files/9.0.1/CrystalDiskMark9_0_1Aoi.exe
 
 #### crystaldewworld-crystaldiskmark-shizukuedition
 
@@ -14466,7 +14475,7 @@ Total entries processed: 6602
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `crystaldewworld-crystaldiskmark-shizukuedition.yml`
-- **URL**: https://sourceforge.net/projects/crystaldiskmark/files/9.0.0/CrystalDiskMark9_0_0ShizukuAds.exe
+- **URL**: https://sourceforge.net/projects/crystaldiskmark/files/9.0.1/CrystalDiskMark9_0_1Shizuku.exe
 
 #### crystaldewworld-crystaldiskmark
 
@@ -14475,7 +14484,7 @@ Total entries processed: 6602
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `crystaldewworld-crystaldiskmark.yml`
-- **URL**: https://sourceforge.net/projects/crystaldiskmark/files/9.0.0/CrystalDiskMark9_0_0Ads.exe
+- **URL**: https://sourceforge.net/projects/crystaldiskmark/files/9.0.1/CrystalDiskMark9_0_1.exe
 
 #### crystaldewworld-crystalmarkretro-aoiedition
 
@@ -16735,6 +16744,15 @@ Total entries processed: 6602
 - **Version**: 
 - **File**: `dsheiko-puppetry.yml`
 - **URL**: https://github.com/dsheiko/puppetry/releases/download/v3.2.6/puppetry-win-v3.2.6-x64.msi
+
+#### dswiss-securesafe
+
+- **Source**: winget
+- **Name**: dswiss-securesafe
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `dswiss-securesafe.yml`
+- **URL**: https://app.securesafe.com/app/download/securesafe-2.25.0.exe
 
 #### dualitysoftware-dsclock
 
@@ -21954,7 +21972,7 @@ Total entries processed: 6602
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/acqamts4fp6xx4ytucxd3xlwvh6q_142.0.7425.0/142.0.7425.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/e2lvdufmmw4oukm2voedpi5i3y_142.0.7426.0/142.0.7426.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -21963,7 +21981,7 @@ Total entries processed: 6602
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-dev-exe.yml`
-- **URL**: https://dl.google.com/release2/chrome/jlltyignnsredgrpff7ewobcye_142.0.7420.2/142.0.7420.2_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/azuap4y2m454j3xewmmd76daaa_142.0.7420.3/142.0.7420.3_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev
 
@@ -22442,6 +22460,15 @@ Total entries processed: 6602
 - **File**: `gramps-gramps.yml`
 - **URL**: https://github.com/gramps-project/gramps/releases/download/v6.0.0/GrampsAIO-6.0.0--1_win64.exe
 
+#### granola-granola
+
+- **Source**: winget
+- **Name**: granola-granola
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `granola-granola.yml`
+- **URL**: https://api.granola.ai/v1/check-for-update/Granola-6.214.0-win-x64.exe
+
 #### graphcool-graphqlplayground
 
 - **Source**: winget
@@ -22836,7 +22863,7 @@ Total entries processed: 6602
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `haiying-aionui.yml`
-- **URL**: https://github.com/iOfficeAI/AionUi/releases/download/v1.2.3/AionUi-1.2.3-win-x64.exe
+- **URL**: https://github.com/iOfficeAI/AionUi/releases/download/v1.2.4/AionUi-1.2.4-win-x64.exe
 
 #### hakuneko-hakuneko-nightly
 
@@ -26400,7 +26427,7 @@ Total entries processed: 6602
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-clion-eap.yml`
-- **URL**: https://download.jetbrains.com/cpp/CLion-252.23892.173.exe
+- **URL**: https://download.jetbrains.com/cpp/CLion-253.17525.83.exe
 
 #### jetbrains-clion
 
@@ -26409,7 +26436,7 @@ Total entries processed: 6602
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-clion.yml`
-- **URL**: https://download.jetbrains.com/cpp/CLion-2025.2.1.exe
+- **URL**: https://download.jetbrains.com/cpp/CLion-2025.2.2.exe
 
 #### jetbrains-datagrip-eap
 
@@ -26697,7 +26724,7 @@ Total entries processed: 6602
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-rider-eap.yml`
-- **URL**: https://download.jetbrains.com/rider/JetBrains.Rider-2025.2-EAP8-252.23892.102.Checked.exe
+- **URL**: https://download.jetbrains.com/rider/JetBrains.Rider-2025.3-EAP1-253.17525.91.Checked.exe
 
 #### jetbrains-rider
 
@@ -26706,7 +26733,7 @@ Total entries processed: 6602
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-rider.yml`
-- **URL**: https://download.jetbrains.com/rider/JetBrains.Rider-2025.2.1.exe
+- **URL**: https://download.jetbrains.com/rider/JetBrains.Rider-2025.2.2.exe
 
 #### jetbrains-rubymine-eap
 
@@ -27804,7 +27831,7 @@ Total entries processed: 6602
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kalarm.yml`
-- **URL**: https://cdn.kde.org/ci-builds/pim/kalarm/master/windows/kalarm-master-2913-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/pim/kalarm/master/windows/kalarm-master-2924-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kapman
 
@@ -28227,7 +28254,7 @@ Total entries processed: 6602
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kturtle.yml`
-- **URL**: https://cdn.kde.org/ci-builds/education/kturtle/master/windows/kturtle-master-1009-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/education/kturtle/master/windows/kturtle-master-1013-windows-cl-msvc2022-x86_64.exe
 
 #### kde-labplot
 
@@ -28272,7 +28299,7 @@ Total entries processed: 6602
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-marknote.yml`
-- **URL**: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-899-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-926-windows-cl-msvc2022-x86_64.exe
 
 #### kde-merkuro
 
@@ -31485,7 +31512,25 @@ Total entries processed: 6602
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `maxon-maxonapp.yml`
-- **URL**: https://mx-app-blob-prod.maxon.net/mx-package-production/website/windows/maxon/maxonapp/releases/2025.4.2/Maxon_App_2025.4.2_Win.exe
+- **URL**: https://mx-app-blob-prod.maxon.net/mx-package-production/website/windows/maxon/maxonapp/releases/2026.0.0/Maxon_App_2026.0.0_Win.exe
+
+#### maxon-zbrush-2025
+
+- **Source**: winget
+- **Name**: maxon-zbrush-2025
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `maxon-zbrush-2025.yml`
+- **URL**: https://mx-app-blob-prod.maxon.net/mx-package-production/installer/windows/maxon/zbrush/releases/2025.2.2/ZBrush_2025.2.2_Installer.exe
+
+#### maxon-zbrush-2026
+
+- **Source**: winget
+- **Name**: maxon-zbrush-2026
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `maxon-zbrush-2026.yml`
+- **URL**: https://mx-app-blob-prod.maxon.net/mx-package-production/installer/windows/maxon/zbrush/releases/2026.0.0/Maxon_ZBrush_2026_Installer.exe
 
 #### maxprograms-tmxvalidator
 
@@ -39587,6 +39632,24 @@ Total entries processed: 6602
 - **File**: `nevcairiel-lavfilters.yml`
 - **URL**: https://github.com/Nevcairiel/LAVFilters/releases/download/0.79.2/LAVFilters-0.79.2-Installer.exe
 
+#### nevercenter-camerabagphoto
+
+- **Source**: winget
+- **Name**: nevercenter-camerabagphoto
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `nevercenter-camerabagphoto.yml`
+- **URL**: https://nevercenter.com/camerabag/download/filearchive/Install_CameraBag_Photo_2025_2_0_win.exe
+
+#### nevercenter-camerabagpro
+
+- **Source**: winget
+- **Name**: nevercenter-camerabagpro
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `nevercenter-camerabagpro.yml`
+- **URL**: https://nevercenter.com/camerabag/download/filearchive/Install_CameraBag_Pro_2025_2_0_win.exe
+
 #### nevercenter-milo
 
 - **Source**: winget
@@ -44420,6 +44483,15 @@ Total entries processed: 6602
 - **File**: `premiumsoft-navicatsqlite.yml`
 - **URL**: https://download3.navicat.com/download/navicat17_sqlite_en_x64.exe
 
+#### presono-presono
+
+- **Source**: winget
+- **Name**: presono-presono
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `presono-presono.yml`
+- **URL**: https://presono-desktop-app.s3-eu-west-1.amazonaws.com/presono-Setup.3.22.4.exe
+
 #### presonus-universalcontrol
 
 - **Source**: winget
@@ -48675,7 +48747,7 @@ Total entries processed: 6602
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sejinchun-imagine.yml`
-- **URL**: https://github.com/nyam1003/imagine/raw/main/x64/Imagine_2.1.1_x64_Unicode_Full.exe
+- **URL**: https://github.com/nyam1003/imagine/raw/main/x64/Imagine_2.2.0_x64_Unicode_Full.exe
 
 #### selur-hybrid
 
@@ -49072,6 +49144,15 @@ Total entries processed: 6602
 - **Version**: 
 - **File**: `shure-wirelessworkbench.yml`
 - **URL**: https://content-files.shure.com/Software/wireless-workbench/6-15-4/Wireless-Workbench-win-6.15.4.exe
+
+#### sia-siareader
+
+- **Source**: winget
+- **Name**: sia-siareader
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `sia-siareader.yml`
+- **URL**: https://shop.sia.ch/Downloads/SIA/SecureReader_WIN2016/SIA%20Reader%203.1.0.12%20-%20Setup.exe
 
 #### siarheikuchuk-butil
 
@@ -50484,7 +50565,7 @@ Total entries processed: 6602
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `spotify-spotify.yml`
-- **URL**: https://upgrade.scdn.co/upgrade/client/win32-x86_64/spotify_installer-1.2.73.465.g421365a8-493.exe
+- **URL**: https://upgrade.scdn.co/upgrade/client/win32-x86_64/spotify_installer-1.2.73.466.gd9dcf250-507.exe
 
 #### springlobby-springlobby
 
@@ -50764,6 +50845,15 @@ Total entries processed: 6602
 - **Version**: 
 - **File**: `stardock-curtains.yml`
 - **URL**: https://cdn.stardock.us/downloads/public/software/curtains/Curtains_setup.exe
+
+#### stardustai-datasetviewer
+
+- **Source**: winget
+- **Name**: stardustai-datasetviewer
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `stardustai-datasetviewer.yml`
+- **URL**: https://github.com/stardustai/dataset-viewer/releases/download/v1.5.0/DatasetViewer_1.5.0_x64-setup.exe
 
 #### starface-starfaceapp
 
@@ -55938,7 +56028,7 @@ Total entries processed: 6602
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc-nightly.yml`
-- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20250920-0422/vlc-4.0.0-dev-win64-dda21a9c.msi
+- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20250921-0422/vlc-4.0.0-dev-win64-faef6d70.msi
 
 #### videolan-vlc
 
@@ -56757,7 +56847,7 @@ Total entries processed: 6602
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `webosbrew-webosdevmanager.yml`
-- **URL**: https://github.com/webosbrew/dev-manager-desktop/releases/download/v1.99.13/webOS.Dev.Manager_1.99.13_x64_en-US.msi
+- **URL**: https://github.com/webosbrew/dev-manager-desktop/releases/download/v1.99.16/webOS.Dev.Manager_1.99.16_x64_en-US.msi
 
 #### webrecorder-replayweb-page
 
@@ -58306,6 +58396,15 @@ Total entries processed: 6602
 - **Version**: 
 - **File**: `xk72-charles.yml`
 - **URL**: https://www.charlesproxy.com/assets/release/4.6.7/charles-proxy-4.6.7-win64.msi
+
+#### xkaguya-lenovolegiontoolkit
+
+- **Source**: winget
+- **Name**: xkaguya-lenovolegiontoolkit
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `xkaguya-lenovolegiontoolkit.yml`
+- **URL**: https://github.com/XKaguya/LenovoLegionToolkit/releases/download/v2.26.9.5/LenovoLegionToolkitSetup.exe
 
 #### xlightftp-xlightftp
 
