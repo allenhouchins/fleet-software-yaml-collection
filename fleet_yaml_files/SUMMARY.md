@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-09-25 06:05:22 UTC
+Generated on: 2025-09-25 18:05:24 UTC
 
 ## Summary
 
-Total entries processed: 6629
+Total entries processed: 6632
 - macOS files: 390
-- Windows files: 6239
+- Windows files: 6242
 
 ## Generated Files
 
@@ -64,7 +64,7 @@ Total entries processed: 6629
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `alfaview.yml`
-- **URL**: https://assets.alfaview.com/stable/mac/alfaview-mac-production-9.23.1.pkg
+- **URL**: https://assets.alfaview.com/stable/mac/alfaview-mac-production-9.23.2.pkg
 
 #### amazon-workdocs-drive
 
@@ -1099,7 +1099,7 @@ Total entries processed: 6629
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `entry.yml`
-- **URL**: https://playentry.org/uploads/data/installers/Entry-2.1.29.pkg
+- **URL**: https://playentry.org/uploads/data/installers/Entry-2.1.30.pkg
 
 #### epichrome
 
@@ -1216,7 +1216,7 @@ Total entries processed: 6629
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `foxit-pdf-editor.yml`
-- **URL**: https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/mac/14.x/14.0.0/FoxitPDFEditor1400.L10N.Setup.pkg
+- **URL**: https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/mac/14.x/14.0.1/FoxitPDFEditor1401.L10N.Setup.pkg
 
 #### foxitreader
 
@@ -1234,7 +1234,7 @@ Total entries processed: 6629
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `fujifilm-tether-app.yml`
-- **URL**: https://dl.fujifilm-x.com/support/software/tether-app-mac1340-ym6rhx10/FUJIFILM_TetherApp_Mac1340.pkg
+- **URL**: https://dl.fujifilm-x.com/support/software/tether-app-mac1341-9dhb25wz/FUJIFILM_TetherApp_Mac1341.pkg
 
 #### fuse-t
 
@@ -1477,7 +1477,7 @@ Total entries processed: 6629
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `insta360-link-controller.yml`
-- **URL**: https://file.insta360.com/static/04c833fad3031d5143f4037e09252c77/Insta360LinkController_2.0.5(build10).pkg
+- **URL**: https://file.insta360.com/static/856568d8f7035cc900f130c4b18904ff/Insta360LinkController_2.0.6(build3).pkg
 
 #### intune-company-portal
 
@@ -2719,7 +2719,7 @@ Total entries processed: 6629
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `segger-jlink.yml`
-- **URL**: https://www.segger.com/downloads/jlink/JLink_MacOSX_V872_universal.pkg
+- **URL**: https://www.segger.com/downloads/jlink/JLink_MacOSX_V872a_universal.pkg
 
 #### segger-ozone
 
@@ -2998,7 +2998,7 @@ Total entries processed: 6629
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `tailscale-app.yml`
-- **URL**: https://pkgs.tailscale.com/stable/Tailscale-1.88.2-macos.pkg
+- **URL**: https://pkgs.tailscale.com/stable/Tailscale-1.88.3-macos.pkg
 
 #### teamviewer
 
@@ -3558,7 +3558,7 @@ Total entries processed: 6629
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `123-123pan.yml`
-- **URL**: https://app.123957.com/pc-pro/windows/254/123pan_2.5.4.exe
+- **URL**: https://app.123957.com/pc-pro/windows/255/123pan_2.5.5.exe
 
 #### 1357310795-jboxtransfer
 
@@ -5160,7 +5160,7 @@ Total entries processed: 6629
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `alfaview-alfaview.yml`
-- **URL**: https://assets.alfaview.com/stable/win/alfaview-setup-win-production-9.23.1.exe
+- **URL**: https://assets.alfaview.com/stable/win/alfaview-setup-win-production-9.23.2.exe
 
 #### algento-botim
 
@@ -5259,7 +5259,7 @@ Total entries processed: 6629
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `alibaba-miniprogramstudio.yml`
-- **URL**: https://alipay-miniapp-public.oss-cn-hangzhou.aliyuncs.com/mfupload/MiniProgramStudio-3.9.82-x64.exe
+- **URL**: https://alipay-miniapp-public.oss-cn-hangzhou.aliyuncs.com/mfupload/MiniProgramStudio-3.9.91-x64.exe
 
 #### alibaba-qoder
 
@@ -6033,7 +6033,7 @@ Total entries processed: 6629
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `alvesvaren-resizer2.yml`
-- **URL**: https://github.com/alvesvaren/resizer2/releases/download/v2.0.1/resizer2-setup.exe
+- **URL**: https://github.com/alvesvaren/resizer2/releases/download/v2.0.2/resizer2-setup.exe
 
 #### amacneil-dbmate
 
@@ -8724,7 +8724,7 @@ Total entries processed: 6629
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `baidu-comate.yml`
-- **URL**: https://comate-ide.cdn.bcebos.com/download/stable/e825d3173e65c500fa337d1cd4617fce5ed8db45-221889479/Comate-win32-x64-user-setup.exe
+- **URL**: https://comate-ide.cdn.bcebos.com/download/stable/7c99e84f5831daa6441477e91b5bb7f0f97ec157-222287100/Comate-win32-x64-user-setup.exe
 
 #### baidu-swanide
 
@@ -8760,7 +8760,7 @@ Total entries processed: 6629
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `balena-balenacli.yml`
-- **URL**: https://github.com/balena-io/balena-cli/releases/download/v22.4.8/balena-cli-v22.4.8-windows-x64-installer.exe
+- **URL**: https://github.com/balena-io/balena-cli/releases/download/v22.4.9/balena-cli-v22.4.9-windows-x64-installer.exe
 
 #### balena-etcher
 
@@ -10047,7 +10047,7 @@ Total entries processed: 6629
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `binancetech-binance.yml`
-- **URL**: https://github.com/binance/desktop/releases/download/v1.54.8/binance-setup-1.54.8.exe
+- **URL**: https://github.com/binance/desktop/releases/download/v2.0.1/binance-setup-2.0.1.exe
 
 #### binaryfortress-clipboardfusion
 
@@ -11622,7 +11622,7 @@ Total entries processed: 6629
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bytedance-doubao.yml`
-- **URL**: https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao_pc/1.73.4/Doubao_installer_1.73.4.exe
+- **URL**: https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao_pc/1.74.5/Doubao_installer_1.74.5.exe
 
 #### bytedance-douyin
 
@@ -17652,7 +17652,7 @@ Total entries processed: 6629
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `edpb-websiteaudittool.yml`
-- **URL**: https://code.europa.eu/api/v4/projects/615/packages/generic/wat/1.2.5/website-audit-Setup-1.2.5.exe
+- **URL**: https://code.europa.eu/api/v4/projects/615/packages/generic/wat/2.0.0/website-audit-Setup-2.0.0.exe
 
 #### edrawsoft-edrawmax-cn
 
@@ -17724,7 +17724,7 @@ Total entries processed: 6629
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `eeo-classin.yml`
-- **URL**: https://download.eeo.cn/client/classin_win_install_6.0.4.2951_x64.exe
+- **URL**: https://download.eeo.cn/client/classin_win_install_6.0.4.3041_x64.exe
 
 #### eeo-classinx
 
@@ -17733,7 +17733,7 @@ Total entries processed: 6629
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `eeo-classinx.yml`
-- **URL**: https://download.eeo.cn/client/classinx_win_install_6.0.4.2953_x64.exe
+- **URL**: https://download.eeo.cn/client/classinx_win_install_6.0.4.3043_x64.exe
 
 #### eff-certbot
 
@@ -20361,7 +20361,7 @@ Total entries processed: 6629
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `foxit-foxitreader.yml`
-- **URL**: https://cdn01.foxitsoftware.com/product/reader/desktop/win/2025.2.0/FoxitPDFReader20252_L10N_Setup_x64.exe
+- **URL**: https://cdn01.foxitsoftware.com/product/reader/desktop/win/2025.2.1/FoxitPDFReader202521_L10N_Setup_x64.exe
 
 #### foxit-phantompdf-subscription-msi
 
@@ -22503,7 +22503,7 @@ Total entries processed: 6629
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `grafanalabs-alloy.yml`
-- **URL**: https://github.com/grafana/alloy/releases/download/v1.11.0-rc.1/alloy-installer-windows-amd64.exe
+- **URL**: https://github.com/grafana/alloy/releases/download/v1.11.0-rc.2/alloy-installer-windows-amd64.exe
 
 #### grafanalabs-grafana-enterprise
 
@@ -25437,7 +25437,7 @@ Total entries processed: 6629
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ironben-5ire.yml`
-- **URL**: https://github.com/nanbingxyz/5ire/releases/download/v0.14.0/5ire-Setup-0.14.0.exe
+- **URL**: https://github.com/nanbingxyz/5ire/releases/download/v0.14.1/5ire-Setup-0.14.1.exe
 
 #### ironmansoftware-powershelluniversal-desktop
 
@@ -25509,7 +25509,7 @@ Total entries processed: 6629
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `isl-kocher-isl-baustellenmanager.yml`
-- **URL**: https://www.isl-kocher.de/medien/downloads/setups/8.12/isl-baustellenmanager-8.12.2.5.msi
+- **URL**: https://www.isl-kocher.de/medien/downloads/setups/9.0/isl-baustellenmanager-9.0.17.4.msi
 
 #### ispring-ispring-free
 
@@ -26697,7 +26697,7 @@ Total entries processed: 6629
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-intellijidea-ultimate-eap.yml`
-- **URL**: https://download.jetbrains.com/idea/idea-253.20558.43.exe
+- **URL**: https://download.jetbrains.com/idea/idea-253.22441.33.exe
 
 #### jetbrains-intellijidea-ultimate
 
@@ -26868,7 +26868,7 @@ Total entries processed: 6629
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-rustrover-eap.yml`
-- **URL**: https://download.jetbrains.com/rustrover/RustRover-253.20558.40.exe
+- **URL**: https://download.jetbrains.com/rustrover/RustRover-253.22441.30.exe
 
 #### jetbrains-rustrover
 
@@ -28443,7 +28443,7 @@ Total entries processed: 6629
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-parley.yml`
-- **URL**: https://cdn.kde.org/ci-builds/education/parley/master/windows/parley-master-819-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/education/parley/master/windows/parley-master-821-windows-cl-msvc2022-x86_64.exe
 
 #### kde-picmi
 
@@ -33186,7 +33186,7 @@ Total entries processed: 6629
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-powerbireportserver.yml`
-- **URL**: https://download.microsoft.com/download/3/7/5/3754bf6e-e422-46ec-b9f8-fb3dc3993cab/PowerBIReportServer.exe
+- **URL**: https://download.microsoft.com/download/2/d/a/2da81ea3-040a-4d08-a593-6bebc3bf97e8/PowerBIReportServer.exe
 
 #### microsoft-powershell-preview
 
@@ -33683,6 +33683,15 @@ Total entries processed: 6629
 - **File**: `microsoft-visualstudio-2022-remotetools.yml`
 - **URL**: https://download.visualstudio.microsoft.com/download/pr/7ebf5fdb-36dc-4145-b0a0-90d3d5990a61/4f3a9bb0ac443eff807c8ff04fad7683e98acfe67c0bc293da89cc673e1186a3/VS_RemoteTools.exe
 
+#### microsoft-visualstudio-community-insiders
+
+- **Source**: winget
+- **Name**: microsoft-visualstudio-community-insiders
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `microsoft-visualstudio-community-insiders.yml`
+- **URL**: https://download.visualstudio.microsoft.com/download/pr/b31a28a4-576c-4254-b5ec-72e5e893d7b5/dc6b9e6416475c46761ec6eef509528bb1e7b1d0d5af6133243a6d0043b51202/vs_Community.exe
+
 #### microsoft-visualstudio-configfinder
 
 - **Source**: winget
@@ -33691,6 +33700,24 @@ Total entries processed: 6629
 - **Version**: 
 - **File**: `microsoft-visualstudio-configfinder.yml`
 - **URL**: https://github.com/microsoft/VSConfigFinder/releases/download/1.0.47-beta/VSConfigFinder.exe
+
+#### microsoft-visualstudio-enterprise-insiders
+
+- **Source**: winget
+- **Name**: microsoft-visualstudio-enterprise-insiders
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `microsoft-visualstudio-enterprise-insiders.yml`
+- **URL**: https://download.visualstudio.microsoft.com/download/pr/b31a28a4-576c-4254-b5ec-72e5e893d7b5/77e033b38a20724485977375df51b5384105d332264932b4392e866c10c1cc1b/vs_Enterprise.exe
+
+#### microsoft-visualstudio-professional-insiders
+
+- **Source**: winget
+- **Name**: microsoft-visualstudio-professional-insiders
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `microsoft-visualstudio-professional-insiders.yml`
+- **URL**: https://download.visualstudio.microsoft.com/download/pr/b31a28a4-576c-4254-b5ec-72e5e893d7b5/397a33e533773c345205f89f8ed28632603964d55daf084281863947048e6548/vs_Professional.exe
 
 #### microsoft-visualstudiocode-insiders
 
@@ -39648,7 +39675,7 @@ Total entries processed: 6629
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `netease-uuremote.yml`
-- **URL**: https://a56.gdl.netease.com/UURemote_Setup_4.5.0.5283_0916142222_gwqd.exe
+- **URL**: https://a56.gdl.netease.com/UURemote_Setup_4.6.0.5400_0925200907_gwqd.exe
 
 #### netease-youdaonote
 
@@ -41295,7 +41322,7 @@ Total entries processed: 6629
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `octopusdeploy-server.yml`
-- **URL**: https://download.octopusdeploy.com/octopus/Octopus.2025.3.14320-x64.msi
+- **URL**: https://download.octopusdeploy.com/octopus/Octopus.2025.3.14327-x64.msi
 
 #### octopusdeploy-tentacle
 
@@ -42366,7 +42393,7 @@ Total entries processed: 6629
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `opera-opera-dev.yml`
-- **URL**: https://get.geo.opera.com/pub/opera-developer/123.0.5658.0/win/Opera_Developer_123.0.5658.0_Setup_x64.exe
+- **URL**: https://get.geo.opera.com/pub/opera-developer/123.0.5666.0/win/Opera_Developer_123.0.5666.0_Setup_x64.exe
 
 #### opera-opera
 
@@ -42546,7 +42573,7 @@ Total entries processed: 6629
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `oracle-oci-cli.yml`
-- **URL**: https://github.com/oracle/oci-cli/releases/download/v3.66.1/oci-cli-3.66.1-Windows-Server-Installer.msi
+- **URL**: https://github.com/oracle/oci-cli/releases/download/v3.66.2/oci-cli-3.66.2-Windows-Server-Installer.msi
 
 #### oracle-virtualbox
 
@@ -45165,7 +45192,7 @@ Total entries processed: 6629
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `puredevsoftware-10x.yml`
-- **URL**: https://www.puredevsoftware.com/download.php?file=10x_prev_versions/10xInstaller_1_0_365_0.exe&type=exe
+- **URL**: https://www.puredevsoftware.com/download.php?file=10x_prev_versions/10xInstaller_1_0_366_0.exe&type=exe
 
 #### puredevsoftware-framepro
 
@@ -46470,7 +46497,7 @@ Total entries processed: 6629
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rem0o-fancontrol.yml`
-- **URL**: https://github.com/Rem0o/FanControl.Releases/releases/download/V240/FanControl_240_net_8_0_Installer.exe
+- **URL**: https://github.com/Rem0o/FanControl.Releases/releases/download/V241/FanControl_241_net_8_0_Installer.exe
 
 #### remarkable-remarkablecompanionapp
 
@@ -47424,7 +47451,7 @@ Total entries processed: 6629
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `roxybrowser-roxybrowser.yml`
-- **URL**: https://lumibrowser-hk.oss-cn-hongkong.aliyuncs.com/public/package/app/Windows/64/3.5.7/RoxyBrowser_x64_3.5.7.exe
+- **URL**: https://lumibrowser-hk.oss-cn-hongkong.aliyuncs.com/public/package/app/Windows/64/3.5.8/RoxyBrowser_x64_3.5.8.exe
 
 #### royalapps-royalserver
 
@@ -49737,7 +49764,7 @@ Total entries processed: 6629
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `smartbear-readyapivirtserver.yml`
-- **URL**: https://dl.eviware.com/virtserver/3.28.0/VirtServer-x64-3.28.0.exe
+- **URL**: https://dl.eviware.com/virtserver/3.29.0/VirtServer-x64-3.29.0.exe
 
 #### smartbear-soapui
 
@@ -53094,7 +53121,7 @@ Total entries processed: 6629
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-deskgo.yml`
-- **URL**: https://webcdn.m.qq.com/spcmgr/download/DeskGo_4_2_1667_127_lite_S15000.exe
+- **URL**: https://webcdn.m.qq.com/spcmgr/download/DeskGo_4_2_1673_127_lite_S15000.exe
 
 #### tencent-effidit
 
@@ -56163,7 +56190,7 @@ Total entries processed: 6629
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc-nightly.yml`
-- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20250924-0432/vlc-4.0.0-dev-win64-10c3d865.msi
+- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20250925-0426/vlc-4.0.0-dev-win64-f2523148.msi
 
 #### videolan-vlc
 
