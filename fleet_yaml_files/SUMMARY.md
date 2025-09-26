@@ -1,11 +1,11 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-09-25 18:05:24 UTC
+Generated on: 2025-09-26 06:05:03 UTC
 
 ## Summary
 
-Total entries processed: 6632
-- macOS files: 390
+Total entries processed: 6633
+- macOS files: 391
 - Windows files: 6242
 
 ## Generated Files
@@ -1830,6 +1830,15 @@ Total entries processed: 6632
 - **File**: `microsoft-openjdk-17.yml`
 - **URL**: https://aka.ms/download-jdk/microsoft-jdk-17.0.16-macos-aarch64.pkg
 
+#### microsoft-openjdk-21
+
+- **Source**: homebrew/installomator
+- **Name**: microsoft-openjdk-21
+- **Description**: Generated from Homebrew cask or Installomator script
+- **Version**: 
+- **File**: `microsoft-openjdk-21.yml`
+- **URL**: https://aka.ms/download-jdk/microsoft-jdk-21.0.8-macos-aarch64.pkg
+
 #### microsoft-openjdk
 
 - **Source**: homebrew/installomator
@@ -1837,7 +1846,7 @@ Total entries processed: 6632
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `microsoft-openjdk.yml`
-- **URL**: https://aka.ms/download-jdk/microsoft-jdk-21.0.8-macos-aarch64.pkg
+- **URL**: https://aka.ms/download-jdk/microsoft-jdk-25.0.0-macos-aarch64.pkg
 
 #### microsoft-outlook
 
@@ -2881,7 +2890,7 @@ Total entries processed: 6632
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `sokim.yml`
-- **URL**: https://github.com/kiding/SokIM/releases/download/v1.2.0/SokIM.pkg
+- **URL**: https://github.com/kiding/SokIM/releases/download/v1.2.1/SokIM.pkg
 
 #### sony-ps-remote-play
 
@@ -5268,7 +5277,7 @@ Total entries processed: 6632
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `alibaba-qoder.yml`
-- **URL**: https://qoder-ide.oss-accelerate.aliyuncs.com/release/0.2.3/QoderUserSetup-x64.exe
+- **URL**: https://qoder-ide.oss-accelerate.aliyuncs.com/release/0.2.4/QoderUserSetup-x64.exe
 
 #### alibaba-quark
 
@@ -6600,7 +6609,7 @@ Total entries processed: 6632
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `angeloconvento-overkeys.yml`
-- **URL**: https://github.com/conventoangelo/OverKeys/releases/download/v0.3.0/overkeys_0.3.0_x64_setup.exe
+- **URL**: https://github.com/conventoangelo/OverKeys/releases/download/v0.3.1/overkeys_0.3.1_x64_setup.exe
 
 #### angrymiao-ammaster
 
@@ -7464,7 +7473,7 @@ Total entries processed: 6632
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `asciinema-agg.yml`
-- **URL**: https://github.com/asciinema/agg/releases/download/v1.5.0/agg-x86_64-pc-windows-msvc.exe
+- **URL**: https://github.com/asciinema/agg/releases/download/v1.6.0/agg-x86_64-pc-windows-msvc.exe
 
 #### asdfjkl-jerrychess
 
@@ -11955,7 +11964,7 @@ Total entries processed: 6632
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `caphyon-advancedinstaller.yml`
-- **URL**: https://www.advancedinstaller.com/downloads/23.0.1/advinst.msi
+- **URL**: https://www.advancedinstaller.com/downloads/23.1/advinst.msi
 
 #### capricornconsultinggmbh-vigoon
 
@@ -16176,7 +16185,7 @@ Total entries processed: 6632
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `discord-discord-canary.yml`
-- **URL**: https://canary.dl2.discordapp.net/distro/app/canary/win/x64/1.0.717/DiscordCanarySetup.exe
+- **URL**: https://canary.dl2.discordapp.net/distro/app/canary/win/x64/1.0.718/DiscordCanarySetup.exe
 
 #### discord-discord-development
 
@@ -19416,7 +19425,7 @@ Total entries processed: 6632
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `fineprintsoftware-fineprint.yml`
-- **URL**: https://fineprint.com/release/fp1216.exe
+- **URL**: https://fineprint.com/release/fp1217.exe
 
 #### fineprintsoftware-pdffactory-pro
 
@@ -19425,7 +19434,7 @@ Total entries processed: 6632
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `fineprintsoftware-pdffactory-pro.yml`
-- **URL**: https://fineprint.com/release/pdf916pro.exe
+- **URL**: https://fineprint.com/release/pdf917pro.exe
 
 #### fineprintsoftware-pdffactory
 
@@ -19434,7 +19443,7 @@ Total entries processed: 6632
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `fineprintsoftware-pdffactory.yml`
-- **URL**: https://fineprint.com/release/pdf916std.exe
+- **URL**: https://fineprint.com/release/pdf917std.exe
 
 #### fing-fing
 
@@ -20379,7 +20388,7 @@ Total entries processed: 6632
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `foxit-phantompdf-subscription.yml`
-- **URL**: https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/2025.2.0/FoxitPDFEditor20252_L10N_Setup_Website_x64.exe
+- **URL**: https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/2025.2.0/FoxitPDFEditor20252_L10N_Setup_x64.exe
 
 #### foxit-phantompdf
 
@@ -20703,7 +20712,7 @@ Total entries processed: 6632
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `funroutine-workflowy.yml`
-- **URL**: https://github.com/workflowy/desktop/releases/download/v4.3.2509240841/WorkFlowy-Installer.exe
+- **URL**: https://github.com/workflowy/desktop/releases/download/v4.3.2509251001/WorkFlowy-Installer.exe
 
 #### fupdec-mediachips
 
@@ -21450,7 +21459,7 @@ Total entries processed: 6632
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gisinternals-gdal.yml`
-- **URL**: https://download.gisinternals.com/sdk/downloads/release-1930-x64-gdal-3-10-0-mapserver-8-2-2/gdal-3.10.0-1930-x64-core.msi
+- **URL**: https://build2.gisinternals.com/sdk/downloads/release-1930-x64-gdal-3-10-0-mapserver-8-2-2/gdal-3.10.0-1930-x64-core.msi
 
 #### git-git
 
@@ -21486,7 +21495,7 @@ Total entries processed: 6632
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gitbutler-gitbutler.yml`
-- **URL**: https://releases.gitbutler.com/releases/release/0.16.6-2429/windows/x86_64/GitButler_0.16.6_x64_en-US.msi
+- **URL**: https://releases.gitbutler.com/releases/release/0.16.7-2433/windows/x86_64/GitButler_0.16.7_x64_en-US.msi
 
 #### gitea-tea
 
@@ -22080,7 +22089,7 @@ Total entries processed: 6632
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-dev-exe.yml`
-- **URL**: https://dl.google.com/release2/chrome/azuap4y2m454j3xewmmd76daaa_142.0.7420.3/142.0.7420.3_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/fhfnizvlctntjd6lxrmqqqvqka_142.0.7432.4/142.0.7432.4_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev
 
@@ -22773,7 +22782,7 @@ Total entries processed: 6632
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gruntwork-terragrunt.yml`
-- **URL**: https://github.com/gruntwork-io/terragrunt/releases/download/v0.87.5/terragrunt_windows_amd64.exe
+- **URL**: https://github.com/gruntwork-io/terragrunt/releases/download/v0.87.6/terragrunt_windows_amd64.exe
 
 #### grz-meshcam
 
@@ -24969,7 +24978,7 @@ Total entries processed: 6632
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `insta360-link-controller.yml`
-- **URL**: https://file.insta360.com/static/ec705aa645d8c45ae5b03c947420f7bb/Insta360LinkController_2.0.5(build9).exe
+- **URL**: https://file.insta360.com/static/5a4527e29ac55b69a481e0e1187fe4c5/Insta360LinkController_2.0.6(build2).exe
 
 #### instatus-out
 
@@ -26553,7 +26562,7 @@ Total entries processed: 6632
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-datagrip-eap.yml`
-- **URL**: https://download.jetbrains.com/datagrip/datagrip-253.20558.12.exe
+- **URL**: https://download.jetbrains.com/datagrip/datagrip-253.22441.28.exe
 
 #### jetbrains-datagrip
 
@@ -26643,7 +26652,7 @@ Total entries processed: 6632
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-goland-eap.yml`
-- **URL**: https://download.jetbrains.com/go/goland-253.20558.37.exe
+- **URL**: https://download.jetbrains.com/go/goland-253.22441.23.exe
 
 #### jetbrains-goland
 
@@ -26913,7 +26922,7 @@ Total entries processed: 6632
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-webstorm-eap.yml`
-- **URL**: https://download.jetbrains.com/webstorm/WebStorm-253.20558.45.exe
+- **URL**: https://download.jetbrains.com/webstorm/WebStorm-253.22441.34.exe
 
 #### jetbrains-webstorm
 
@@ -27732,7 +27741,7 @@ Total entries processed: 6632
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `karingx-clashmi.yml`
-- **URL**: https://github.com/KaringX/clashmi/releases/download/v1.0.8.123/clashmi_1.0.8.123_windows_x64.exe
+- **URL**: https://github.com/KaringX/clashmi/releases/download/v1.0.9.137/clashmi_1.0.9.137_windows_x64.exe
 
 #### karingx-karing
 
@@ -27741,7 +27750,7 @@ Total entries processed: 6632
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `karingx-karing.yml`
-- **URL**: https://github.com/KaringX/karing/releases/download/v1.2.3.857/karing_1.2.3.857_windows_x64.exe
+- **URL**: https://github.com/KaringX/karing/releases/download/v1.2.4.869/karing_1.2.4.869_windows_x64.exe
 
 #### kaseya-liveconnect
 
@@ -32817,7 +32826,7 @@ Total entries processed: 6632
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-edge.yml`
-- **URL**: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/2a73712e-5743-4ea5-a5f1-c537d22a1c18/MicrosoftEdgeEnterpriseX64.msi
+- **URL**: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/84c9e323-3f78-476c-8f29-68fb27fcd9c4/MicrosoftEdgeEnterpriseX64.msi
 
 #### microsoft-edgewebview2runtime
 
@@ -33690,7 +33699,7 @@ Total entries processed: 6632
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-visualstudio-community-insiders.yml`
-- **URL**: https://download.visualstudio.microsoft.com/download/pr/b31a28a4-576c-4254-b5ec-72e5e893d7b5/dc6b9e6416475c46761ec6eef509528bb1e7b1d0d5af6133243a6d0043b51202/vs_Community.exe
+- **URL**: https://download.visualstudio.microsoft.com/download/pr/4a20375b-1f01-4fb8-a805-581b3f284958/0fac681feb646f1818850383003f4d548b6cd1ce2a22834eaadc597b94e4abdc/vs_Community.exe
 
 #### microsoft-visualstudio-configfinder
 
@@ -33708,7 +33717,7 @@ Total entries processed: 6632
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-visualstudio-enterprise-insiders.yml`
-- **URL**: https://download.visualstudio.microsoft.com/download/pr/b31a28a4-576c-4254-b5ec-72e5e893d7b5/77e033b38a20724485977375df51b5384105d332264932b4392e866c10c1cc1b/vs_Enterprise.exe
+- **URL**: https://download.visualstudio.microsoft.com/download/pr/4a20375b-1f01-4fb8-a805-581b3f284958/28290592a409a7aecea925a3457b7a6ea1b23fa8600fdf5c1fbd0f380623b5eb/vs_Enterprise.exe
 
 #### microsoft-visualstudio-professional-insiders
 
@@ -33717,7 +33726,7 @@ Total entries processed: 6632
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-visualstudio-professional-insiders.yml`
-- **URL**: https://download.visualstudio.microsoft.com/download/pr/b31a28a4-576c-4254-b5ec-72e5e893d7b5/397a33e533773c345205f89f8ed28632603964d55daf084281863947048e6548/vs_Professional.exe
+- **URL**: https://download.visualstudio.microsoft.com/download/pr/4a20375b-1f01-4fb8-a805-581b3f284958/03053e0fe234f702ad73eda9326ba1400e15f4d5bbb9a9cad7587b898a619281/vs_Professional.exe
 
 #### microsoft-visualstudiocode-insiders
 
@@ -38766,7 +38775,7 @@ Total entries processed: 6632
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mq1-tinywiibackupmanager.yml`
-- **URL**: https://github.com/mq1/TinyWiiBackupManager/releases/download/2.5.0/TinyWiiBackupManager_2.5.0_x64-setup.exe
+- **URL**: https://github.com/mq1/TinyWiiBackupManager/releases/download/2.5.2/TinyWiiBackupManager_2.5.2_x64-setup.exe
 
 #### mremoteng-mremoteng-nightly
 
@@ -39765,7 +39774,7 @@ Total entries processed: 6632
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `networkoptix-nxwitness-server.yml`
-- **URL**: https://updates.networkoptix.com/default/41290/windows/nxwitness-server-6.0.5.41290-windows_x64.exe
+- **URL**: https://updates.networkoptix.com/default/41837/windows/nxwitness-server-6.0.6.41837-windows_x64.exe
 
 #### neumetrix-httpwatch-basic
 
@@ -56235,7 +56244,7 @@ Total entries processed: 6632
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vijua-kotobeeauthor.yml`
-- **URL**: https://files.kotobee.com/author/releases/kotobeeauthor-1.9.2-win64.exe
+- **URL**: https://files.kotobee.com/author/releases/kotobeeauthor-1.9.3-win64.exe
 
 #### vim-vim-nightly
 
@@ -56244,7 +56253,7 @@ Total entries processed: 6632
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.1788/gvim_9.1.1788_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.1792/gvim_9.1.1792_x64.exe
 
 #### vim-vim
 
