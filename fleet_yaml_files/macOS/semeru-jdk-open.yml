@@ -1,4 +1,4 @@
-url: https://github.com/ibmruntimes/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jdk_aarch64_mac_24.0.2_12_openj9-0.54.0.pkg
+url: https://github.com/ibmruntimes/semeru25-binaries/releases/download/jdk-25%2B36_openj9-0.55.0/ibm-semeru-open-jdk_aarch64_mac_25_36_openj9-0.55.0.pkg
 automatic_install: false
 self_service: false
 categories: []

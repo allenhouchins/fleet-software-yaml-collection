@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-09-26 06:05:03 UTC
+Generated on: 2025-09-26 18:04:25 UTC
 
 ## Summary
 
@@ -874,7 +874,7 @@ Total entries processed: 6633
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `defguard-client.yml`
-- **URL**: https://github.com/DefGuard/client/releases/download/v1.5.0/defguard-aarch64-apple-darwin-1.5.0.pkg
+- **URL**: https://github.com/DefGuard/client/releases/download/v1.5.1/defguard-aarch64-apple-darwin-1.5.1.pkg
 
 #### depnotify
 
@@ -2782,7 +2782,7 @@ Total entries processed: 6633
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `semeru-jdk-open.yml`
-- **URL**: https://github.com/ibmruntimes/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jdk_aarch64_mac_24.0.2_12_openj9-0.54.0.pkg
+- **URL**: https://github.com/ibmruntimes/semeru25-binaries/releases/download/jdk-25%2B36_openj9-0.55.0/ibm-semeru-open-jdk_aarch64_mac_25_36_openj9-0.55.0.pkg
 
 #### senadevicemanager
 
@@ -8733,7 +8733,7 @@ Total entries processed: 6633
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `baidu-comate.yml`
-- **URL**: https://comate-ide.cdn.bcebos.com/download/stable/7c99e84f5831daa6441477e91b5bb7f0f97ec157-222287100/Comate-win32-x64-user-setup.exe
+- **URL**: https://comate-ide.cdn.bcebos.com/download/stable/c75b2897cd541b60190163560256236716f0313b-222459566/Comate-win32-x64-user-setup.exe
 
 #### baidu-swanide
 
@@ -11523,7 +11523,7 @@ Total entries processed: 6633
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `buxuku-smartsub-cpu.yml`
-- **URL**: https://github.com/buxuku/SmartSub/releases/download/v2.6.0/SmartSub_Windows_2.6.0_x64_no-cuda_generic.exe
+- **URL**: https://github.com/buxuku/SmartSub/releases/download/v2.7.0/SmartSub_Windows_2.7.0_x64_no-cuda_generic.exe
 
 #### buxuku-smartsub-cuda-11-8-optimized
 
@@ -11532,7 +11532,7 @@ Total entries processed: 6633
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `buxuku-smartsub-cuda-11-8-optimized.yml`
-- **URL**: https://github.com/buxuku/SmartSub/releases/download/v2.6.0/SmartSub_Windows_2.6.0_x64_11.8.0_optimized.exe
+- **URL**: https://github.com/buxuku/SmartSub/releases/download/v2.7.0/SmartSub_Windows_2.7.0_x64_11.8.0_optimized.exe
 
 #### buxuku-smartsub-cuda-11-8
 
@@ -11541,7 +11541,7 @@ Total entries processed: 6633
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `buxuku-smartsub-cuda-11-8.yml`
-- **URL**: https://github.com/buxuku/SmartSub/releases/download/v2.6.0/SmartSub_Windows_2.6.0_x64_11.8.0_generic.exe
+- **URL**: https://github.com/buxuku/SmartSub/releases/download/v2.7.0/SmartSub_Windows_2.7.0_x64_11.8.0_generic.exe
 
 #### buxuku-smartsub-cuda-12-2-optimized
 
@@ -11550,7 +11550,7 @@ Total entries processed: 6633
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `buxuku-smartsub-cuda-12-2-optimized.yml`
-- **URL**: https://github.com/buxuku/SmartSub/releases/download/v2.6.0/SmartSub_Windows_2.6.0_x64_12.2.0_optimized.exe
+- **URL**: https://github.com/buxuku/SmartSub/releases/download/v2.7.0/SmartSub_Windows_2.7.0_x64_12.2.0_optimized.exe
 
 #### buxuku-smartsub-cuda-12-2
 
@@ -11559,7 +11559,7 @@ Total entries processed: 6633
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `buxuku-smartsub-cuda-12-2.yml`
-- **URL**: https://github.com/buxuku/SmartSub/releases/download/v2.6.0/SmartSub_Windows_2.6.0_x64_12.2.0_generic.exe
+- **URL**: https://github.com/buxuku/SmartSub/releases/download/v2.7.0/SmartSub_Windows_2.7.0_x64_12.2.0_generic.exe
 
 #### buxuku-smartsub-cuda-12-4-optimized
 
@@ -11568,7 +11568,7 @@ Total entries processed: 6633
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `buxuku-smartsub-cuda-12-4-optimized.yml`
-- **URL**: https://github.com/buxuku/SmartSub/releases/download/v2.6.0/SmartSub_Windows_2.6.0_x64_12.4.1_optimized.exe
+- **URL**: https://github.com/buxuku/SmartSub/releases/download/v2.7.0/SmartSub_Windows_2.7.0_x64_12.4.1_optimized.exe
 
 #### buxuku-smartsub-cuda-12-4
 
@@ -11577,7 +11577,7 @@ Total entries processed: 6633
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `buxuku-smartsub-cuda-12-4.yml`
-- **URL**: https://github.com/buxuku/SmartSub/releases/download/v2.6.0/SmartSub_Windows_2.6.0_x64_12.4.1_generic.exe
+- **URL**: https://github.com/buxuku/SmartSub/releases/download/v2.7.0/SmartSub_Windows_2.7.0_x64_12.4.1_generic.exe
 
 #### bycrookie-typecode
 
@@ -11694,7 +11694,7 @@ Total entries processed: 6633
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bytedance-sodamusic.yml`
-- **URL**: https://lf-luna-release.qishui.com/obj/luna-release/2.8.2/220858405/SodaMusic-v2.8.2-official-win32_x64.exe
+- **URL**: https://lf-luna-release.qishui.com/obj/luna-release/2.8.3/226228957/SodaMusic-v2.8.3-official-win32_x64.exe
 
 #### bytedance-streamingtool
 
@@ -15141,7 +15141,7 @@ Total entries processed: 6633
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `datronicsoft-spacedeskdriver-server.yml`
-- **URL**: https://downloads.spacedesk.net/downloads/spacedesk_driver_Win_10_64_v2204.msi
+- **URL**: https://downloads.spacedesk.net/downloads/spacedesk_driver_Win_10_64_v2205.msi
 
 #### datto-cloudcontinuityagent
 
@@ -17328,7 +17328,7 @@ Total entries processed: 6633
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ebkr-r2modman.yml`
-- **URL**: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.7/r2modman-Setup-3.2.7.exe
+- **URL**: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.8/r2modman-Setup-3.2.8.exe
 
 #### eccam-reqview
 
@@ -17976,7 +17976,7 @@ Total entries processed: 6633
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `electerm-electerm.yml`
-- **URL**: https://github.com/electerm/electerm/releases/download/v2.2.0/electerm-2.2.0-win-x64-installer.exe
+- **URL**: https://github.com/electerm/electerm/releases/download/v2.3.6/electerm-2.3.6-win-x64-installer.exe
 
 #### electron-store-electron-app-store
 
@@ -21126,7 +21126,7 @@ Total entries processed: 6633
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gdevelop-gdevelop.yml`
-- **URL**: https://github.com/4ian/GDevelop/releases/download/v5.5.241/GDevelop-5-Setup-5.5.241.exe
+- **URL**: https://github.com/4ian/GDevelop/releases/download/v5.5.242/GDevelop-5-Setup-5.5.242.exe
 
 #### gdgsoftware-paquetbuilder
 
@@ -22512,7 +22512,7 @@ Total entries processed: 6633
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `grafanalabs-alloy.yml`
-- **URL**: https://github.com/grafana/alloy/releases/download/v1.11.0-rc.2/alloy-installer-windows-amd64.exe
+- **URL**: https://github.com/grafana/alloy/releases/download/v1.11.0-rc.3/alloy-installer-windows-amd64.exe
 
 #### grafanalabs-grafana-enterprise
 
@@ -22782,7 +22782,7 @@ Total entries processed: 6633
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gruntwork-terragrunt.yml`
-- **URL**: https://github.com/gruntwork-io/terragrunt/releases/download/v0.87.6/terragrunt_windows_amd64.exe
+- **URL**: https://github.com/gruntwork-io/terragrunt/releases/download/v0.87.7/terragrunt_windows_amd64.exe
 
 #### grz-meshcam
 
@@ -23970,7 +23970,7 @@ Total entries processed: 6633
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hulubulusoftware-advancedrenamer.yml`
-- **URL**: https://www.advancedrenamer.com/down/win/advanced_renamer_setup_4_16_1.exe
+- **URL**: https://www.advancedrenamer.com/down/win/advanced_renamer_setup_4_17.exe
 
 #### humanity-djv2
 
@@ -26760,7 +26760,7 @@ Total entries processed: 6633
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-phpstorm-eap.yml`
-- **URL**: https://download.jetbrains.com/webide/PhpStorm-253.20558.46.exe
+- **URL**: https://download.jetbrains.com/webide/PhpStorm-253.22441.24.exe
 
 #### jetbrains-phpstorm
 
@@ -26859,7 +26859,7 @@ Total entries processed: 6633
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-rubymine-eap.yml`
-- **URL**: https://download.jetbrains.com/ruby/RubyMine-253.20558.44.exe
+- **URL**: https://download.jetbrains.com/ruby/RubyMine-253.22441.1.exe
 
 #### jetbrains-rubymine
 
@@ -32313,7 +32313,7 @@ Total entries processed: 6633
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-azure-storageexplorer.yml`
-- **URL**: https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.39.1/StorageExplorer-windows-x64.exe
+- **URL**: https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.40.0/StorageExplorer-windows-x64.exe
 
 #### microsoft-azure-trustedsigningclienttools
 
@@ -33960,7 +33960,7 @@ Total entries processed: 6633
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mikf-gallery-dl-nightly.yml`
-- **URL**: https://github.com/gdl-org/builds/releases/download/2025.09.24/gallery-dl_windows.exe
+- **URL**: https://github.com/gdl-org/builds/releases/download/2025.09.26/gallery-dl_windows.exe
 
 #### mikrotik-thedude
 
@@ -39765,7 +39765,7 @@ Total entries processed: 6633
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `networkoptix-nxwitness-client.yml`
-- **URL**: https://updates.networkoptix.com/default/41290/windows/nxwitness-client-6.0.5.41290-windows_x64.exe
+- **URL**: https://updates.networkoptix.com/default/41837/windows/nxwitness-client-6.0.6.41837-windows_x64.exe
 
 #### networkoptix-nxwitness-server
 
@@ -40413,7 +40413,7 @@ Total entries processed: 6633
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nitrorcr-aiasworkspace.yml`
-- **URL**: https://github.com/NitroRCr/AIaW/releases/download/v1.8.3/AI.as.Workspace_1.8.3_x64-setup.exe
+- **URL**: https://github.com/NitroRCr/AIaW/releases/download/v1.8.4/AI.as.Workspace_1.8.4_x64-setup.exe
 
 #### nitrosoftware-nitropro-nls
 
@@ -45597,7 +45597,7 @@ Total entries processed: 6633
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `qingfeng-heyboxchat.yml`
-- **URL**: https://macc.max-c.com/chat/pc/chat_installer_x64_new_1.48.0.1133.exe
+- **URL**: https://macc.max-c.com/chat/pc/chat_installer_x64_new_1.49.0.1164.exe
 
 #### qingfeng-heyboxwow
 
@@ -46497,7 +46497,7 @@ Total entries processed: 6633
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `relux-reluxdesktop.yml`
-- **URL**: https://reluxnet.relux.com/download/reluxdesktop/2025.1.8.0/ReluxDesktop_2025.1.8.0.exe
+- **URL**: https://reluxnet.relux.com/download/reluxdesktop/2025.1.9.0/ReluxDesktop_2025.1.9.0.exe
 
 #### rem0o-fancontrol
 
@@ -48531,7 +48531,7 @@ Total entries processed: 6633
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `schemacrawler-schemacrawler.yml`
-- **URL**: https://github.com/schemacrawler/SchemaCrawler-Installers/releases/download/v16.28.2/SchemaCrawler-16.28.2.msi
+- **URL**: https://github.com/schemacrawler/SchemaCrawler-Installers/releases/download/v16.28.3/SchemaCrawler-16.28.3.msi
 
 #### schezo-lhaplus
 
@@ -49152,7 +49152,7 @@ Total entries processed: 6633
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `shadow-shadow.yml`
-- **URL**: https://update.shadow.tech/launcher/prod/win/x64/ShadowPCSetup-9.9.10298.exe
+- **URL**: https://update.shadow.tech/launcher/prod/win/x64/ShadowPCSetup-9.9.10300.exe
 
 #### shagrath-ps3mediaserver
 
@@ -49260,7 +49260,7 @@ Total entries processed: 6633
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `shilihu-mubu.yml`
-- **URL**: https://assets.mubu.com/client/Mubu-5.1.1.exe
+- **URL**: https://assets.mubu.com/client/Mubu-5.1.2.exe
 
 #### shimo-shimo
 
@@ -52473,7 +52473,7 @@ Total entries processed: 6633
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tandem-tandem.yml`
-- **URL**: https://download.todesktop.com/200527auaqaacsy/Tandem%20Setup%202.2.1632%20-%20Build%202507318eolkhv78-x64.exe
+- **URL**: https://download.todesktop.com/200527auaqaacsy/Tandem%20Setup%202.2.1633%20-%20Build%20250926cixb47e8j-x64.exe
 
 #### tangshimin-mujing
 
@@ -53292,7 +53292,7 @@ Total entries processed: 6633
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-weiyun.yml`
-- **URL**: https://dldir1v6.qq.com/weiyun/electron-update/release/5.2.1533/WeiyunApp-Setup-X64-5.2.1533.exe
+- **URL**: https://dldir1v6.qq.com/weiyun/electron-update/release/5.2.1540/WeiyunApp-Setup-X64-5.2.1540.exe
 
 #### tencent-wemeetoutlookplugin
 
@@ -56199,7 +56199,7 @@ Total entries processed: 6633
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc-nightly.yml`
-- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20250925-0426/vlc-4.0.0-dev-win64-f2523148.msi
+- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20250926-0432/vlc-4.0.0-dev-win64-412e7f0c.msi
 
 #### videolan-vlc
 
@@ -58863,7 +58863,7 @@ Total entries processed: 6633
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yandex-browser.yml`
-- **URL**: https://download.cdn.yandex.net/browser/int/25_8_3_824_88188/en/Yandex.exe
+- **URL**: https://download.cdn.yandex.net/browser/int/25_8_4_761_88694/en/Yandex.exe
 
 #### yandex-disk
 
