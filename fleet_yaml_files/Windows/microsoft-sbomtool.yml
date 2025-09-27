@@ -1,4 +1,4 @@
-url: https://github.com/microsoft/sbom-tool/releases/download/v4.0.3/sbom-tool-win-x64.exe
+url: https://github.com/microsoft/sbom-tool/releases/download/v4.1.1/sbom-tool-win-x64.exe
 automatic_install: false
 self_service: false
 categories: []

@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-09-27 06:04:55 UTC
+Generated on: 2025-09-27 18:04:35 UTC
 
 ## Summary
 
-Total entries processed: 6639
+Total entries processed: 6640
 - macOS files: 392
-- Windows files: 6247
+- Windows files: 6248
 
 ## Generated Files
 
@@ -7509,7 +7509,7 @@ Total entries processed: 6639
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `asgardexmaintainers-asgardex.yml`
-- **URL**: https://github.com/asgardex/asgardex-desktop/releases/download/v1.40.8/ASGARDEX-1.40.8-win.exe
+- **URL**: https://github.com/asgardex/asgardex-desktop/releases/download/v1.40.9/ASGARDEX-1.40.9-win.exe
 
 #### ashishbharadwajj-flawesome
 
@@ -11471,6 +11471,15 @@ Total entries processed: 6639
 - **File**: `builtbybel-appcopier.yml`
 - **URL**: https://github.com/builtbybel/Appcopier/releases/download/0.30.0/appcopier_setup.msi
 
+#### bullzip-pdfprinter
+
+- **Source**: winget
+- **Name**: bullzip-pdfprinter
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `bullzip-pdfprinter.yml`
+- **URL**: https://www.bullzip.com/download/pdf/Setup_BullzipPDFPrinter_2025_1_0_2985.exe
+
 #### burnaware-burnawarepremium
 
 - **Source**: winget
@@ -12558,7 +12567,7 @@ Total entries processed: 6639
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `chianetwork-guiforchiablockchain.yml`
-- **URL**: https://github.com/Chia-Network/chia-blockchain/releases/download/2.5.4/ChiaSetup-2.5.4.exe
+- **URL**: https://github.com/Chia-Network/chia-blockchain/releases/download/2.5.6/ChiaSetup-2.5.6.exe
 
 #### chidiwilliams-buzz
 
@@ -33339,7 +33348,7 @@ Total entries processed: 6639
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-sbomtool.yml`
-- **URL**: https://github.com/microsoft/sbom-tool/releases/download/v4.0.3/sbom-tool-win-x64.exe
+- **URL**: https://github.com/microsoft/sbom-tool/releases/download/v4.1.1/sbom-tool-win-x64.exe
 
 #### microsoft-serverspeechplatformruntime
 
@@ -39675,7 +39684,7 @@ Total entries processed: 6639
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `netbird-netbird.yml`
-- **URL**: https://github.com/netbirdio/netbird/releases/download/v0.58.1/netbird_installer_0.58.1_windows_amd64.msi
+- **URL**: https://github.com/netbirdio/netbird/releases/download/v0.58.2/netbird_installer_0.58.2_windows_amd64.msi
 
 #### netease-cloudmusic
 
@@ -42843,7 +42852,7 @@ Total entries processed: 6639
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ovito-ovito-pro.yml`
-- **URL**: https://www.ovito.org/download/master/ovito-pro-3.1.3-win64.exe
+- **URL**: https://www.ovito.org/download/master/ovito-pro-3.14.0-win64.exe
 
 #### ovrasteam-openvr-advancedsettings
 
@@ -48054,7 +48063,7 @@ Total entries processed: 6639
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `safing-portmaster.yml`
-- **URL**: https://updates.safing.io/latest/windows_amd64/packages/Portmaster_2.0.24_x64-setup.exe
+- **URL**: https://updates.safing.io/latest/windows_amd64/packages/Portmaster_2.0.25_x64-setup.exe
 
 #### sagargurtu-lector
 
@@ -51528,7 +51537,7 @@ Total entries processed: 6639
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `streetwriters-notesnook.yml`
-- **URL**: https://github.com/streetwriters/notesnook/releases/download/v3.2.3/notesnook_win_x64.exe
+- **URL**: https://github.com/streetwriters/notesnook/releases/download/v3.2.4/notesnook_win_x64.exe
 
 #### stremio-stremioservice
 
@@ -54507,7 +54516,7 @@ Total entries processed: 6639
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `todesktop-todesktop.yml`
-- **URL**: https://download.todesktop.com/2108257l5oobyoe/ToDesktop%20Builder%20Setup%200.33.0%20-%20Build%20250915y7di5cbuy-x64.exe
+- **URL**: https://download.todesktop.com/2108257l5oobyoe/ToDesktop%20Builder%20Setup%200.33.1%20-%20Build%20250926i0v6ypy41-x64.exe
 
 #### toeverything-affine
 
@@ -57972,7 +57981,7 @@ Total entries processed: 6639
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wondershare-pdfelement-12.yml`
-- **URL**: https://download.wondershare.com/cbs_down/pdfelement-pro_64bit_12.0.6_full5239.exe
+- **URL**: https://download.wondershare.com/cbs_down/pdfelement-pro_64bit_12.0.7_full5239.exe
 
 #### wondershare-pdfelement-8
 
@@ -59070,7 +59079,7 @@ Total entries processed: 6639
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yt-dlp-yt-dlp-nightly.yml`
-- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.09.23.232818/yt-dlp.exe
+- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.09.26.220624/yt-dlp.exe
 
 #### yt-dlp-yt-dlp
 
