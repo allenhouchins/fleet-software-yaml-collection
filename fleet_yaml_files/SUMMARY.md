@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-09-27 18:04:35 UTC
+Generated on: 2025-09-28 06:05:11 UTC
 
 ## Summary
 
@@ -6807,7 +6807,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `antonreshetov-masscode.yml`
-- **URL**: https://github.com/massCodeIO/massCode/releases/download/v3.7.0/massCode.Setup.3.7.0.exe
+- **URL**: https://github.com/massCodeIO/massCode/releases/download/v4.0.0/massCode.Setup.4.0.0.exe
 
 #### antonycourtney-tad
 
@@ -6915,7 +6915,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `anysphere-cursor.yml`
-- **URL**: https://downloads.cursor.com/production/9455eaa4c87f2bad91eda3f2bc9b42b16eae1089/win32/x64/user-setup/CursorUserSetup-x64-1.6.6.exe
+- **URL**: https://downloads.cursor.com/production/867f14c797c14c23a187097ea179bc97d215a7c4/win32/x64/user-setup/CursorUserSetup-x64-1.7.11.exe
 
 #### apache-directorystudio
 
@@ -7014,7 +7014,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `appest-ticktick.yml`
-- **URL**: https://d2atcrkye2ik4e.cloudfront.net/download/win64/tick_win_setup_release_x64_6370.exe
+- **URL**: https://download.ticktick.app/download/win64/tick_win_setup_release_x64_6370.exe
 
 #### appflowy-appflowy
 
@@ -12036,7 +12036,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `carbide3d-carbidecreate.yml`
-- **URL**: https://carbide-downloads.website-us-east-1.linodeobjects.com/cc/stable/815/CarbideCreate-815.exe
+- **URL**: https://carbide-downloads.website-us-east-1.linodeobjects.com/cc/stable/831/CarbideCreate-831.exe
 
 #### carescribe-captioned
 
@@ -12522,7 +12522,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `chen08209-flclash.yml`
-- **URL**: https://github.com/chen08209/FlClash/releases/download/v0.8.88/FlClash-0.8.88-windows-amd64-setup.exe
+- **URL**: https://github.com/chen08209/FlClash/releases/download/v0.8.89/FlClash-0.8.89-windows-amd64-setup.exe
 
 #### chenqingyu-bf
 
@@ -13332,7 +13332,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cockos-reaper.yml`
-- **URL**: https://www.reaper.fm/files/7.x/reaper746_x64-install.exe
+- **URL**: https://www.reaper.fm/files/7.x/reaper747_x64-install.exe
 
 #### cocos-cocosdashboard
 
@@ -15105,7 +15105,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dataflare-dataflare.yml`
-- **URL**: https://assets.dataflare.app/release/windows/x86_64/Dataflare-Setup-2.3.4.exe
+- **URL**: https://assets.dataflare.app/release/windows/x86_64/Dataflare-Setup-2.5.0.exe
 
 #### datahammer-hammerpdf
 
@@ -19830,7 +19830,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `flexense-disksorter.yml`
-- **URL**: https://www.disksorter.com/setups_x64/disksorter_setup_v17.2.14_x64.exe
+- **URL**: https://www.disksorter.com/setups_x64/disksorter_setup_v17.3.12_x64.exe
 
 #### flexense-disksorterenterprise
 
@@ -19839,7 +19839,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `flexense-disksorterenterprise.yml`
-- **URL**: https://www.disksorter.com/setups_x64/disksorterent_setup_v17.2.14_x64.exe
+- **URL**: https://www.disksorter.com/setups_x64/disksorterent_setup_v17.3.12_x64.exe
 
 #### flexense-disksorterpro
 
@@ -19848,7 +19848,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `flexense-disksorterpro.yml`
-- **URL**: https://www.disksorter.com/setups_x64/disksorterpro_setup_v17.2.14_x64.exe
+- **URL**: https://www.disksorter.com/setups_x64/disksorterpro_setup_v17.3.12_x64.exe
 
 #### flexense-disksorterserver
 
@@ -19857,7 +19857,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `flexense-disksorterserver.yml`
-- **URL**: https://www.disksorter.com/setups_x64/disksortersrv_setup_v17.2.14_x64.exe
+- **URL**: https://www.disksorter.com/setups_x64/disksortersrv_setup_v17.3.12_x64.exe
 
 #### flexense-disksorterultimate
 
@@ -22125,7 +22125,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-dev-exe.yml`
-- **URL**: https://dl.google.com/release2/chrome/fhfnizvlctntjd6lxrmqqqvqka_142.0.7432.4/142.0.7432.4_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/adh5zgldrjhbfcmlxt446utsfmyq_142.0.7432.5/142.0.7432.5_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev
 
@@ -29181,7 +29181,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kuaifan-dootask.yml`
-- **URL**: https://github.com/kuaifan/dootask/releases/download/v1.2.75/DooTask-v1.2.75-win-x64.exe
+- **URL**: https://github.com/kuaifan/dootask/releases/download/v1.3.15/DooTask-v1.3.15-win-x64.exe
 
 #### kubernetes-aws-iam-authenticator
 
@@ -33924,7 +33924,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-windowsappruntime-1-8.yml`
-- **URL**: https://aka.ms/windowsappsdk/1.8/1.8.250907003/windowsappruntimeinstall-x64.exe
+- **URL**: https://aka.ms/windowsappsdk/1.8/1.8.250916003/windowsappruntimeinstall-x64.exe
 
 #### microsoft-windowsinstallationassistant
 
@@ -34005,7 +34005,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mikf-gallery-dl-nightly.yml`
-- **URL**: https://github.com/gdl-org/builds/releases/download/2025.09.26/gallery-dl_windows.exe
+- **URL**: https://github.com/gdl-org/builds/releases/download/2025.09.27/gallery-dl_windows.exe
 
 #### mikrotik-thedude
 
@@ -38820,7 +38820,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mq1-tinywiibackupmanager.yml`
-- **URL**: https://github.com/mq1/TinyWiiBackupManager/releases/download/2.5.2/TinyWiiBackupManager_2.5.2_x64-setup.exe
+- **URL**: https://github.com/mq1/TinyWiiBackupManager/releases/download/2.5.3/TinyWiiBackupManager_2.5.3_x64-setup.exe
 
 #### mremoteng-mremoteng-nightly
 
@@ -39180,7 +39180,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mytonwallet-mytonwallet.yml`
-- **URL**: https://github.com/mytonwalletorg/mytonwallet/releases/download/v3.8.4/MyTonWallet-x64.exe
+- **URL**: https://github.com/mytonwallet-org/mytonwallet/releases/download/v4.1.6/MyTonWallet-x64.exe
 
 #### mzdyl-liteloaderqqnt-install-pyinstaller
 
@@ -39801,7 +39801,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `networkoptix-nxwitness-bundle.yml`
-- **URL**: https://updates.networkoptix.com/default/41290/windows/nxwitness-bundle-6.0.5.41290-windows_x64.exe
+- **URL**: https://updates.networkoptix.com/default/41837/windows/nxwitness-bundle-6.0.6.41837-windows_x64.exe
 
 #### networkoptix-nxwitness-client
 
@@ -41295,7 +41295,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `obsproject-obsstudio.yml`
-- **URL**: https://github.com/obsproject/obs-studio/releases/download/32.0.0/OBS-Studio-32.0.0-Windows-x64-Installer.exe
+- **URL**: https://github.com/obsproject/obs-studio/releases/download/32.0.1/OBS-Studio-32.0.1-Windows-x64-Installer.exe
 
 #### ocaml-opam
 
@@ -42843,7 +42843,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ovito-ovito-basic.yml`
-- **URL**: https://www.ovito.org/download/master/ovito-basic-3.1.2-win64.exe
+- **URL**: https://www.ovito.org/download/master/ovito-basic-3.14.0-win64.exe
 
 #### ovito-ovito-pro
 
@@ -43374,7 +43374,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pbh-btn-peerbanhelper.yml`
-- **URL**: https://github.com/PBH-BTN/PeerBanHelper/releases/download/v9.0.3/PeerBanHelper_windows-x64_9.0.3.exe
+- **URL**: https://github.com/PBH-BTN/PeerBanHelper/releases/download/v9.0.4/PeerBanHelper_windows-x64_9.0.4.exe
 
 #### pclcommunity-pcl2-beta
 
@@ -45156,7 +45156,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ptrtech-uvtools.yml`
-- **URL**: https://github.com/sn4k3/UVtools/releases/download/v5.2.0/UVtools_win-x64_v5.2.0.msi
+- **URL**: https://github.com/sn4k3/UVtools/releases/download/v5.2.1/UVtools_win-x64_v5.2.1.msi
 
 #### publiqvzw-uitpasbeheerdersapplicatie
 
@@ -45651,7 +45651,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `qingfeng-heyboxchat.yml`
-- **URL**: https://macc.max-c.com/chat/pc/chat_installer_x64_new_1.49.0.1164.exe
+- **URL**: https://macc.max-c.com/chat/pc/chat_installer_x64_new_1.49.0.1166.exe
 
 #### qingfeng-heyboxwow
 
@@ -48756,7 +48756,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sdrplay-sdrconnect.yml`
-- **URL**: https://www.sdrplay.com/software/SDRconnect_windows-x64_83273bcd8.exe
+- **URL**: https://www.sdrplay.com/software/SDRconnect_windows-x64_e077f2ebe.exe
 
 #### seafile-seadrive
 
@@ -49278,7 +49278,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `shemeshg-midirouterclient.yml`
-- **URL**: https://downloads.sourceforge.net/midi-router-client/midi-router-client-2.3.1-win64.exe
+- **URL**: https://downloads.sourceforge.net/midi-router-client/midi-router-client-2.5.0-win64.exe
 
 #### shemeshg-passsimple
 
@@ -50133,7 +50133,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `softfever-orcaslicer.yml`
-- **URL**: https://github.com/SoftFever/OrcaSlicer/releases/download/v2.3.1-beta/OrcaSlicer_Windows_Installer_V2.3.1-beta.exe
+- **URL**: https://github.com/SoftFever/OrcaSlicer/releases/download/v2.3.0/OrcaSlicer_Windows_Installer_V2.3.0.exe
 
 #### softmaker-freeoffice-2021
 
@@ -56262,7 +56262,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc-nightly.yml`
-- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20250926-0432/vlc-4.0.0-dev-win64-412e7f0c.msi
+- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20250927-0423/vlc-4.0.0-dev-win64-d909bb41.msi
 
 #### videolan-vlc
 
@@ -56316,7 +56316,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.1792/gvim_9.1.1792_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.1798/gvim_9.1.1798_x64.exe
 
 #### vim-vim
 
@@ -56343,7 +56343,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `virb3-wgcf.yml`
-- **URL**: https://github.com/ViRb3/wgcf/releases/download/v2.2.27/wgcf_2.2.27_windows_amd64.exe
+- **URL**: https://github.com/ViRb3/wgcf/releases/download/v2.2.29/wgcf_2.2.29_windows_amd64.exe
 
 #### virtualdesktop-streamer
 
@@ -59088,7 +59088,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yt-dlp-yt-dlp.yml`
-- **URL**: https://github.com/yt-dlp/yt-dlp/releases/download/2025.09.23/yt-dlp.exe
+- **URL**: https://github.com/yt-dlp/yt-dlp/releases/download/2025.09.26/yt-dlp.exe
 
 #### ytmdesktop-ytmdesktop
 
@@ -59205,7 +59205,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yy-yyanchor.yml`
-- **URL**: https://yydl.yy.com/client/yyanchor/3.5.0.0/YYAnchorSetup-3.5.0.0.exe
+- **URL**: https://yydl.yy.com/client/yyanchor/3.6.0.0/YYAnchorSetup-3.6.0.0.exe
 
 #### z--------------cpod-pre-release
 
