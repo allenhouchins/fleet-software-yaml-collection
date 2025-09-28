@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-09-28 06:05:11 UTC
+Generated on: 2025-09-28 18:05:04 UTC
 
 ## Summary
 
-Total entries processed: 6640
+Total entries processed: 6639
 - macOS files: 392
-- Windows files: 6248
+- Windows files: 6247
 
 ## Generated Files
 
@@ -12144,7 +12144,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `catonetworks-catoclient.yml`
-- **URL**: https://clients.catonetworks.com/windows/5.16.4.8144/setup.msi
+- **URL**: https://clients.catonetworks.com/windows/5.17.3.8252/setup.msi
 
 #### catsxp-catsxp
 
@@ -13701,7 +13701,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `coldlake-stellarplayer.yml`
-- **URL**: https://player-download.coldlake1.com/player/20250827164150/Stellar_20250827164150_official_stable_full_x64.exe
+- **URL**: https://player-download.coldlake1.com/player/20250919103033/Stellar_20250919103033_official_stable_full_x64.exe
 
 #### coldturkeysoftware-coldturkeyblocker
 
@@ -14349,7 +14349,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `creality-crealityprint.yml`
-- **URL**: https://github.com/CrealityOfficial/CrealityPrint/releases/download/v6.2.2/CrealityPrint_6.2.2.3203_Release.exe
+- **URL**: https://github.com/CrealityOfficial/CrealityPrint/releases/download/v6.3.0/CrealityPrint_6.3.0.3417_Release.exe
 
 #### creality-crealityscan-4
 
@@ -19866,7 +19866,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `flexense-disksorterultimate.yml`
-- **URL**: https://www.disksorter.com/setups_x64/disksorterult_setup_v17.2.14_x64.exe
+- **URL**: https://www.disksorter.com/setups_x64/disksorterult_setup_v17.3.12_x64.exe
 
 #### flexense-dupscout
 
@@ -24150,7 +24150,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hydrusnetwork-hydrusnetwork.yml`
-- **URL**: https://github.com/hydrusnetwork/hydrus/releases/download/v639/Hydrus.Network.639.-.Windows.-.Installer.exe
+- **URL**: https://github.com/hydrusnetwork/hydrus/releases/download/v640/Hydrus.Network.640.-.Windows.-.Installer.exe
 
 #### hyperion-hyperion
 
@@ -27921,7 +27921,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-elisa.yml`
-- **URL**: https://cdn.kde.org/ci-builds/multimedia/elisa/master/windows/elisa-master-4022-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/multimedia/elisa/master/windows/elisa-master-4030-windows-cl-msvc2022-x86_64.exe
 
 #### kde-falkon
 
@@ -27984,7 +27984,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kaidan.yml`
-- **URL**: https://cdn.kde.org/ci-builds/network/kaidan/master/windows/kaidan-master-5488-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/network/kaidan/master/windows/kaidan-master-5519-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kalarm
 
@@ -30819,7 +30819,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lukehaas-runjs.yml`
-- **URL**: https://github.com/lukehaas/RunJS/releases/download/v3.1.2/RunJS-Setup-3.1.2.exe
+- **URL**: https://github.com/lukehaas/RunJS/releases/download/v3.2.0/RunJS-Setup-3.2.0.exe
 
 #### lukilabs-craft
 
@@ -31935,7 +31935,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `meitu-colorbyte-pro.yml`
-- **URL**: https://obs-large.mtlab.meitu.com/electron/colorbyte/7.2.2/5403/MeituYunxiu7.2.2.exe
+- **URL**: https://obs-large.mtlab.meitu.com/electron/colorbyte/7.3.0/5764/MeituYunxiu7.3.0.exe
 
 #### meitu-colorbyte
 
@@ -41610,7 +41610,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `oliverbetz-exiftool.yml`
-- **URL**: https://oliverbetz.de/cms/files/Artikel/ExifTool-for-Windows/ExifTool_install_13.35_64.exe
+- **URL**: https://oliverbetz.de/cms/files/Artikel/ExifTool-for-Windows/ExifTool_install_13.37_64.exe
 
 #### oliverfida-fsimman
 
@@ -50817,7 +50817,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sprout2000-elephicon.yml`
-- **URL**: https://github.com/sprout2000/elephicon/releases/download/v3.8.2/Elephicon-3.8.2-win32-x64-installer.exe
+- **URL**: https://github.com/sprout2000/elephicon/releases/download/v3.8.3/Elephicon-3.8.3-win32-x64-installer.exe
 
 #### sprout2000-leafview
 
@@ -50826,7 +50826,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sprout2000-leafview.yml`
-- **URL**: https://github.com/sprout2000/leafview/releases/download/v3.8.2/LeafView-3.8.2-win32-x64-installer.exe
+- **URL**: https://github.com/sprout2000/leafview/releases/download/v3.8.3/LeafView-3.8.3-win32-x64-installer.exe
 
 #### sputt-wabbitemu
 
@@ -53247,7 +53247,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-qqmusic.yml`
-- **URL**: https://c.y.qq.com/cgi-bin/file_redirect.fcg?bid=dldir&file=ecosfile%2Fmusic_clntupate%2Fpc%2Fother%2FQQMusic_Setup_2191.exe&sign=1-adcd94faf73b1702092069241c1d087c0aac2fec2804fe31d94ccceb0debf33a-68d6704f
+- **URL**: https://c.y.qq.com/cgi-bin/file_redirect.fcg?bid=dldir&file=ecosfile%2Fmusic_clntupate%2Fpc%2Fother%2FQQMusic_Setup_2192.exe&sign=1-d6866199d19e35c8a07c9faf1eca71659cb525d1a0fd7063015a2fce964162bc-68d8e14c
 
 #### tencent-qqpinyin
 
@@ -54417,7 +54417,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `timokoessler-2faguard.yml`
-- **URL**: https://github.com/timokoessler/2FAGuard/releases/download/v1.6.1/2FAGuard-Installer-1.6.1.exe
+- **URL**: https://github.com/timokoessler/2FAGuard/releases/download/v1.6.2/2FAGuard-Installer-1.6.2.exe
 
 #### timschneeb-galaxybudsclient
 
@@ -56172,7 +56172,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `version-fox-vfox.yml`
-- **URL**: https://github.com/version-fox/vfox/releases/download/v0.6.9/vfox_0.6.9_windows_setup_x86_64.exe
+- **URL**: https://github.com/version-fox/vfox/releases/download/v0.7.1/vfox_0.7.1_windows_setup_x86_64.exe
 
 #### veyonsolutions-veyon
 
@@ -56262,7 +56262,7 @@ Total entries processed: 6640
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc-nightly.yml`
-- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20250927-0423/vlc-4.0.0-dev-win64-d909bb41.msi
+- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20250928-0431/vlc-4.0.0-dev-win64-250fcee5.msi
 
 #### videolan-vlc
 
@@ -56380,15 +56380,6 @@ Total entries processed: 6640
 - **Version**: 
 - **File**: `virtualhere-usbserver.yml`
 - **URL**: https://www.virtualhere.com/sites/default/files/usbserver/vhusbdwin64.exe
-
-#### virtualsurveyor-virtualsurveyor
-
-- **Source**: winget
-- **Name**: virtualsurveyor-virtualsurveyor
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `virtualsurveyor-virtualsurveyor.yml`
-- **URL**: https://cdn.virtual-surveyor.com/installer/VirtualSurveyorInstaller.exe
 
 #### virtuslab-scalacli
 
