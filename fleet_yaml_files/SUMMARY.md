@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-09-28 18:05:04 UTC
+Generated on: 2025-09-29 06:05:25 UTC
 
 ## Summary
 
@@ -6915,7 +6915,7 @@ Total entries processed: 6639
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `anysphere-cursor.yml`
-- **URL**: https://downloads.cursor.com/production/867f14c797c14c23a187097ea179bc97d215a7c4/win32/x64/user-setup/CursorUserSetup-x64-1.7.11.exe
+- **URL**: https://downloads.cursor.com/production/b3f1951240d5016648330fab51192dc03e8d705a/win32/x64/user-setup/CursorUserSetup-x64-1.7.12.exe
 
 #### apache-directorystudio
 
@@ -6996,7 +6996,7 @@ Total entries processed: 6639
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `appbytroye-koodoreader.yml`
-- **URL**: https://dl.koodoreader.com/v2.1.6/Koodo-Reader-2.1.6-x64.exe
+- **URL**: https://dl.koodoreader.com/v2.1.7/Koodo-Reader-2.1.7-x64.exe
 
 #### appest-dida
 
@@ -19002,7 +19002,7 @@ Total entries processed: 6639
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `f4exb-sdrangel.yml`
-- **URL**: https://github.com/f4exb/sdrangel/releases/download/v7.22.8/sdrangel-7.22.8-win64.exe
+- **URL**: https://github.com/f4exb/sdrangel/releases/download/v7.22.9/sdrangel-7.22.9-win64.exe
 
 #### fabio286-antares
 
@@ -28461,7 +28461,7 @@ Total entries processed: 6639
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-marknote.yml`
-- **URL**: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-926-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-928-windows-cl-msvc2022-x86_64.exe
 
 #### kde-merkuro
 
@@ -29352,7 +29352,7 @@ Total entries processed: 6639
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kuingsmile-piclist.yml`
-- **URL**: https://github.com/Kuingsmile/PicList/releases/download/v3.0.4/PicList-Setup-3.0.4.exe
+- **URL**: https://github.com/Kuingsmile/PicList/releases/download/v3.0.5/PicList-Setup-3.0.5.exe
 
 #### kumospace-kumospace
 
@@ -34149,7 +34149,7 @@ Total entries processed: 6639
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `minizinc-minizincide.yml`
-- **URL**: https://github.com/MiniZinc/MiniZincIDE/releases/download/2.9.3/MiniZincIDE-2.9.3-bundled-setup-win64.exe
+- **URL**: https://github.com/MiniZinc/MiniZincIDE/releases/download/2.9.4/MiniZincIDE-2.9.4-bundled-setup-win64.exe
 
 #### mintty-wsltty
 
@@ -39495,7 +39495,7 @@ Total entries processed: 6639
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ncsoft-purple.yml`
-- **URL**: https://gs-purple-inst.download.ncupdate.com/Purple/PurpleInstaller_2_25_922_12.exe
+- **URL**: https://gs-purple-inst.download.ncupdate.com/Purple/PurpleInstaller_2_25_929_5.exe
 
 #### ncyxie-notepad-dot-qt
 
@@ -40242,7 +40242,7 @@ Total entries processed: 6639
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nickgasson-nvc.yml`
-- **URL**: https://github.com/nickg/nvc/releases/download/r1.17.2/nvc-1.17.2.msi
+- **URL**: https://github.com/nickg/nvc/releases/download/r1.18.0/nvc-1.18.0.msi
 
 #### nickgottschlich-socialamnesia
 
@@ -51438,7 +51438,7 @@ Total entries processed: 6639
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `stormix-deadlockmodmanager.yml`
-- **URL**: https://github.com/Stormix/deadlock-modmanager/releases/download/v0.7.0/Deadlock.Mod.Manager_0.7.0_x64_en-US.msi
+- **URL**: https://github.com/deadlock-mod-manager/deadlock-mod-manager/releases/download/v0.9.0/Deadlock.Mod.Manager_0.9.0_x64_en-US.msi
 
 #### stormshieldsas-hiveswarming
 
@@ -56316,7 +56316,7 @@ Total entries processed: 6639
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.1798/gvim_9.1.1798_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.1806/gvim_9.1.1806_x64.exe
 
 #### vim-vim
 
@@ -59475,7 +59475,7 @@ Total entries processed: 6639
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zksnacks-wasabiwallet.yml`
-- **URL**: https://github.com/WalletWasabi/WalletWasabi/releases/download/v2.7.0/Wasabi-2.7.0.msi
+- **URL**: https://github.com/WalletWasabi/WalletWasabi/releases/download/v2.7.1/Wasabi-2.7.1.msi
 
 #### zoho-arattai
 
