@@ -1,4 +1,4 @@
-url: https://github.com/google/osv-scanner/releases/download/v2.2.2/osv-scanner_windows_amd64.exe
+url: https://github.com/google/osv-scanner/releases/download/v2.2.3/osv-scanner_windows_amd64.exe
 automatic_install: false
 self_service: false
 categories: []
