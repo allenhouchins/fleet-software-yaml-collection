@@ -1,4 +1,4 @@
-url: https://download.microsoft.com/download/6b2bfeac-9c1b-4182-9a2f-ce86ff8cc371/azuredatastudio-windows-user-setup-1.52.0.exe
+url: https://github.com/toyobayashi/mishiro/releases/download/v2.7.1/mishiro-v2.7.1-win32-x64-setup.exe
 automatic_install: false
 self_service: false
 categories: []

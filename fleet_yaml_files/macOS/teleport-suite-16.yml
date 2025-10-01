@@ -1,4 +1,4 @@
-url: https://github.com/redcanaryco/mac-monitor/releases/download/v1.0.5/Red-Canary-Mac-Monitor-GoldCardinal-1-0-5.pkg
+url: https://cdn.teleport.dev/teleport-16.5.17.pkg
 automatic_install: false
 self_service: false
 categories: []
