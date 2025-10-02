@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-10-02 06:04:59 UTC
+Generated on: 2025-10-02 18:05:25 UTC
 
 ## Summary
 
-Total entries processed: 6657
+Total entries processed: 6660
 - macOS files: 393
-- Windows files: 6264
+- Windows files: 6267
 
 ## Generated Files
 
@@ -2017,7 +2017,7 @@ Total entries processed: 6657
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `mullvad-vpn-beta.yml`
-- **URL**: https://cdn.mullvad.net/app/desktop/releases/2025.10-beta1/MullvadVPN-2025.10-beta1.pkg
+- **URL**: https://cdn.mullvad.net/app/desktop/releases/2025.10-beta2/MullvadVPN-2025.10-beta2.pkg
 
 #### mullvad-vpn
 
@@ -2521,7 +2521,7 @@ Total entries processed: 6657
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `privileges.yml`
-- **URL**: https://github.com/SAP/macOS-enterprise-privileges/releases/download/2.4.1/Privileges_2.4.1.pkg
+- **URL**: https://github.com/SAP/macOS-enterprise-privileges/releases/download/2.4.2/Privileges_2.4.2.pkg
 
 #### ptpwebcam
 
@@ -2737,7 +2737,7 @@ Total entries processed: 6657
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `segger-ozone.yml`
-- **URL**: https://www.segger.com/downloads/jlink/Ozone_MacOSX_V340b_arm64.pkg
+- **URL**: https://www.segger.com/downloads/jlink/Ozone_MacOSX_V340c_arm64.pkg
 
 #### semeru-jdk-open-11
 
@@ -4575,7 +4575,7 @@ Total entries processed: 6657
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `afas-profitcommunicationcenter-6.yml`
-- **URL**: https://profitdownload.afas.nl/download/PCC/PccSetup6.00.exe
+- **URL**: https://profitdownload.afas.nl/download/PCC/PccSetup6.01.exe
 
 #### afractal-echo
 
@@ -6618,7 +6618,7 @@ Total entries processed: 6657
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `andromeda-andromeda.yml`
-- **URL**: https://github.com/tryandromeda/andromeda/releases/download/0.1.0-draft44/andromeda-windows-amd64.exe
+- **URL**: https://github.com/tryandromeda/andromeda/releases/download/0.1.0-draft46/andromeda-windows-amd64.exe
 
 #### angeloconvento-overkeys
 
@@ -10425,7 +10425,7 @@ Total entries processed: 6657
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `biomejs-biome.yml`
-- **URL**: https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.2.4/biome-win32-x64.exe
+- **URL**: https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.2.5/biome-win32-x64.exe
 
 #### biosilico-essaywriter
 
@@ -11190,7 +11190,7 @@ Total entries processed: 6657
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `brave-brave-beta.yml`
-- **URL**: https://github.com/brave/brave-browser/releases/download/v1.84.111/BraveBrowserStandaloneSilentBetaSetup.exe
+- **URL**: https://github.com/brave/brave-browser/releases/download/v1.84.113/BraveBrowserStandaloneSilentBetaSetup.exe
 
 #### brave-brave-dev
 
@@ -16239,7 +16239,7 @@ Total entries processed: 6657
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dio-purecodec.yml`
-- **URL**: https://dl-t1.wmzhe.com/13/13163/PureCodec20250628.exe
+- **URL**: http://dl-t1.wmzhe.com/13/13163/PureCodec20251001.exe
 
 #### direnv-direnv
 
@@ -22170,7 +22170,7 @@ Total entries processed: 6657
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/adh63s6gti5mdzvqukdbmzd4q5vq_143.0.7446.0/143.0.7446.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/adsynd4xvzje3jc66cml3om7lm7a_143.0.7447.0/143.0.7447.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -26670,7 +26670,7 @@ Total entries processed: 6657
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-datagrip-eap.yml`
-- **URL**: https://download.jetbrains.com/datagrip/datagrip-253.22441.28.exe
+- **URL**: https://download.jetbrains.com/datagrip/datagrip-253.24325.21.exe
 
 #### jetbrains-datagrip
 
@@ -28299,7 +28299,7 @@ Total entries processed: 6657
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kmines.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kmines/master/windows/kmines-master-817-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kmines/master/windows/kmines-master-822-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kmymoney
 
@@ -28956,7 +28956,7 @@ Total entries processed: 6657
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kitware-cmake.yml`
-- **URL**: https://github.com/Kitware/CMake/releases/download/v4.1.1/cmake-4.1.1-windows-x86_64.msi
+- **URL**: https://github.com/Kitware/CMake/releases/download/v4.1.2/cmake-4.1.2-windows-x86_64.msi
 
 #### kitware-paraview-mpi
 
@@ -35562,7 +35562,7 @@ Total entries processed: 6657
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-kab.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/144.0b7/win64/kab/Firefox%20Setup%20144.0b7.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/144.0b8/win64/kab/Firefox%20Setup%20144.0b8.exe
 
 #### mozilla-firefox-developeredition-kk
 
@@ -35850,7 +35850,7 @@ Total entries processed: 6657
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-sv-se.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/144.0b7/win64/sv-SE/Firefox%20Setup%20144.0b7.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/144.0b8/win64/sv-SE/Firefox%20Setup%20144.0b8.exe
 
 #### mozilla-firefox-developeredition-szl
 
@@ -39119,6 +39119,15 @@ Total entries processed: 6657
 - **File**: `mullvadvpn-mullvadvpn.yml`
 - **URL**: https://github.com/mullvad/mullvadvpn-app/releases/download/2025.9/MullvadVPN-2025.9_x64.exe
 
+#### mullvadvpn-mullvadvpnloader
+
+- **Source**: winget
+- **Name**: mullvadvpn-mullvadvpnloader
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `mullvadvpn-mullvadvpnloader.yml`
+- **URL**: https://github.com/mullvad/mullvadvpn-app/releases/download/desktop/installer-downloader/1.2.0/Install.Mullvad.VPN.exe
+
 #### multilogin-multilogin
 
 - **Source**: winget
@@ -40314,7 +40323,7 @@ Total entries processed: 6657
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nickemanarin-screentogif.yml`
-- **URL**: https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.5/ScreenToGif.2.41.5.Light.Setup.x64.msi
+- **URL**: https://github.com/NickeManarin/ScreenToGif/releases/download/2.42/ScreenToGif.2.42.Light.Setup.x64.msi
 
 #### nickgasson-nvc
 
@@ -43455,7 +43464,7 @@ Total entries processed: 6657
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pbh-btn-peerbanhelper.yml`
-- **URL**: https://github.com/PBH-BTN/PeerBanHelper/releases/download/v9.0.5/PeerBanHelper_windows-x64_9.0.5.exe
+- **URL**: https://github.com/PBH-BTN/PeerBanHelper/releases/download/v9.0.7/PeerBanHelper_windows-x64_9.0.7.exe
 
 #### pclcommunity-pcl2-beta
 
@@ -44616,7 +44625,7 @@ Total entries processed: 6657
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `powersoftware-anyburn-pro.yml`
-- **URL**: https://anyburn.com/anyburn_pro_setup_x64.exe
+- **URL**: https://anyburn.com/anyburn_pro_setup.exe
 
 #### powersoftware-anyburn
 
@@ -44987,6 +44996,15 @@ Total entries processed: 6657
 - **File**: `privateinternetaccess-privateinternetaccess.yml`
 - **URL**: https://installers.privateinternetaccess.com/download/pia-windows-x64-3.6.1-08339.exe
 
+#### probably-backscene
+
+- **Source**: winget
+- **Name**: probably-backscene
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `probably-backscene.yml`
+- **URL**: https://github.com/ProbablyXS/BackScene/releases/download/1.5/BackScene.msi
+
 #### procore-procoredrive
 
 - **Source**: winget
@@ -45120,7 +45138,7 @@ Total entries processed: 6657
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `proton-protonmail.yml`
-- **URL**: https://proton.me/download/mail/windows/1.9.0/ProtonMail-desktop.exe
+- **URL**: https://proton.me/download/mail/windows/1.9.1/ProtonMail-desktop.exe
 
 #### proton-protonmailbridge
 
@@ -51204,7 +51222,7 @@ Total entries processed: 6657
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `stark81-vutronmusic.yml`
-- **URL**: https://github.com/stark81/VutronMusic/releases/download/v2.4.0/VutronMusic-2.4.0_win_x64.exe
+- **URL**: https://github.com/stark81/VutronMusic/releases/download/v2.5.0/VutronMusic-2.5.0_win_x64.exe
 
 #### starlanestudios-surrealist
 
@@ -54381,7 +54399,7 @@ Total entries processed: 6657
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tidepool-tidepooluploader.yml`
-- **URL**: https://github.com/tidepool-org/uploader/releases/download/v2.62.0/Tidepool-Uploader-Setup-2.62.0.exe
+- **URL**: https://github.com/tidepool-org/uploader/releases/download/v2.63.0/Tidepool-Uploader-Setup-2.63.0.exe
 
 #### tidycustoms-publii
 
@@ -54390,7 +54408,7 @@ Total entries processed: 6657
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tidycustoms-publii.yml`
-- **URL**: https://getpublii.com/download/Publii-0.47.0.exe
+- **URL**: https://getpublii.com/download/Publii-0.47.1.exe
 
 #### tigercompany-tigrismessenger
 
@@ -56352,7 +56370,7 @@ Total entries processed: 6657
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc-nightly.yml`
-- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251001-0422/vlc-4.0.0-dev-win64-c5c91652.msi
+- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251002-0423/vlc-4.0.0-dev-win64-2e3d9f8c.msi
 
 #### videolan-vlc
 
@@ -56794,6 +56812,15 @@ Total entries processed: 6657
 - **Version**: 
 - **File**: `vovsoft-vovscreenrecorder.yml`
 - **URL**: https://files.vovsoft.com/vov-screen-recorder.exe
+
+#### vovsoft-websitescreenshotgenerator
+
+- **Source**: winget
+- **Name**: vovsoft-websitescreenshotgenerator
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `vovsoft-websitescreenshotgenerator.yml`
+- **URL**: https://files.vovsoft.com/website-screenshot-generator.exe
 
 #### vovsoft-windowresizer
 
@@ -58800,7 +58827,7 @@ Total entries processed: 6657
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xlightssequencer-xlights.yml`
-- **URL**: https://github.com/xLightsSequencer/xLights/releases/download/2025.09/xLights64_2025_9.exe
+- **URL**: https://github.com/xLightsSequencer/xLights/releases/download/2025.10/xLights64_2025_10.exe
 
 #### xm4ddy-ofgb
 
@@ -59232,7 +59259,7 @@ Total entries processed: 6657
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yt-dlp-yt-dlp-nightly.yml`
-- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.09.30.072057/yt-dlp.exe
+- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.10.01.232815/yt-dlp.exe
 
 #### yt-dlp-yt-dlp
 
