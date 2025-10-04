@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-10-04 06:05:31 UTC
+Generated on: 2025-10-04 18:04:27 UTC
 
 ## Summary
 
@@ -262,7 +262,7 @@ Total entries processed: 6666
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `azookey.yml`
-- **URL**: https://github.com/azooKey/azooKey-Desktop/releases/download/v0.1/azooKey-release-signed.pkg
+- **URL**: https://github.com/azooKey/azooKey-Desktop/releases/download/v0.1.1/azooKey-release-signed.pkg
 
 #### background-music
 
@@ -3340,7 +3340,7 @@ Total entries processed: 6666
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `weasis.yml`
-- **URL**: https://github.com/nroduit/Weasis/releases/download/v4.6.3/Weasis-4.6.3-aarch64.pkg
+- **URL**: https://github.com/nroduit/Weasis/releases/download/v4.6.4/Weasis-4.6.4-aarch64.pkg
 
 #### webex-meetings
 
@@ -4557,7 +4557,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aelassas-servy.yml`
-- **URL**: https://github.com/aelassas/servy/releases/download/v1.8/servy-1.8-net8.0-x64-installer.exe
+- **URL**: https://github.com/aelassas/servy/releases/download/v1.9/servy-1.9-x64-installer.exe
 
 #### aerosoft-one
 
@@ -6888,7 +6888,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `anyassociation-anytype.yml`
-- **URL**: https://anytype-release.fra1.cdn.digitaloceanspaces.com/Anytype%20Setup%200.50.1.exe
+- **URL**: https://anytype-release.fra1.cdn.digitaloceanspaces.com/Anytype%20Setup%200.50.3.exe
 
 #### anydo-anydo
 
@@ -15915,7 +15915,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `devolutions-remotedesktopmanager.yml`
-- **URL**: https://cdn.devolutions.net/download/Setup.RemoteDesktopManager.win-x64.2025.2.29.0.msi
+- **URL**: https://cdn.devolutions.net/download/Setup.RemoteDesktopManager.win-x64.2025.2.30.0.msi
 
 #### devolutions-remotedesktopmanageragent
 
@@ -19839,7 +19839,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `flexense-diskpulse.yml`
-- **URL**: https://www.diskpulse.com/setups_x64/diskpulse_setup_v17.2.26_x64.exe
+- **URL**: https://www.diskpulse.com/setups_x64/diskpulse_setup_v17.3.18_x64.exe
 
 #### flexense-diskpulseenterprise
 
@@ -22206,7 +22206,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/odiaqmdmdkvmuzhz3hgm7ipq4m_143.0.7450.4/143.0.7450.4_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/omrcrcry4pqtcyuiq5l5pdvvxy_143.0.7451.0/143.0.7451.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -22215,7 +22215,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-dev-exe.yml`
-- **URL**: https://dl.google.com/release2/chrome/l3jbdqlbj2hhj6wnosrrtldns4_143.0.7445.2/143.0.7445.2_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/k6cgb4widhnwxfrvmizvsnchze_143.0.7445.3/143.0.7445.3_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev
 
@@ -24249,7 +24249,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hydrusnetwork-hydrusnetwork.yml`
-- **URL**: https://github.com/hydrusnetwork/hydrus/releases/download/v640/Hydrus.Network.640.-.Windows.-.Installer.exe
+- **URL**: https://github.com/hydrusnetwork/hydrus/releases/download/v641/Hydrus.Network.641.-.Windows.-.Installer.exe
 
 #### hyperion-hyperion
 
@@ -28020,7 +28020,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-elisa.yml`
-- **URL**: https://cdn.kde.org/ci-builds/multimedia/elisa/master/windows/elisa-master-4042-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/multimedia/elisa/master/windows/elisa-master-4052-windows-cl-msvc2022-x86_64.exe
 
 #### kde-falkon
 
@@ -35985,7 +35985,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-ur.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/144.0b8/win64/ur/Firefox%20Setup%20144.0b8.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/144.0b9/win64/ur/Firefox%20Setup%20144.0b9.exe
 
 #### mozilla-firefox-developeredition-uz
 
@@ -38946,7 +38946,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mq1-tinywiibackupmanager.yml`
-- **URL**: https://github.com/mq1/TinyWiiBackupManager/releases/download/2.5.3/TinyWiiBackupManager_2.5.3_x64-setup.exe
+- **URL**: https://github.com/mq1/TinyWiiBackupManager/releases/download/2.5.4/TinyWiiBackupManager_2.5.4_x64-setup.exe
 
 #### mremoteng-mremoteng-nightly
 
@@ -44679,7 +44679,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `powersoftware-anyburn.yml`
-- **URL**: https://anyburn.com/anyburn_setup_x64.exe
+- **URL**: https://anyburn.com/anyburn_setup.exe
 
 #### powersoftware-poweriso
 
@@ -45732,7 +45732,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `qgis-qfield.yml`
-- **URL**: https://github.com/opengisch/QField/releases/download/v3.7.7/qfield-v3.7.7-windows-x64.exe
+- **URL**: https://github.com/opengisch/QField/releases/download/v3.7.8/qfield-v3.7.8-windows-x64.exe
 
 #### qiagen-clcgenomicsworkbench
 
@@ -50952,7 +50952,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `spotify-spotify.yml`
-- **URL**: https://upgrade.scdn.co/upgrade/client/win32-x86_64/spotify_installer-1.2.74.462.g16b80659-1015.exe
+- **URL**: https://upgrade.scdn.co/upgrade/client/win32-x86_64/spotify_installer-1.2.74.471.g95134d25-1118.exe
 
 #### springlobby-springlobby
 
@@ -54795,7 +54795,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `topalasoftwaresolutions-siw.yml`
-- **URL**: https://www.gtopala.com/download/20250817c/siwtrial-setup.exe
+- **URL**: https://www.gtopala.com/download/20250817d/siwtrial-setup.exe
 
 #### topazlabs-topazdenoiseai
 
@@ -56424,7 +56424,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc-nightly.yml`
-- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251002-0423/vlc-4.0.0-dev-win64-2e3d9f8c.msi
+- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251004-0443/vlc-4.0.0-dev-win64-34987e12.msi
 
 #### videolan-vlc
 
@@ -57279,7 +57279,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `weasisteam-weasis.yml`
-- **URL**: https://github.com/nroduit/Weasis/releases/download/v4.6.3/Weasis-4.6.3-x86-64.msi
+- **URL**: https://github.com/nroduit/Weasis/releases/download/v4.6.4/Weasis-4.6.4-x86-64.msi
 
 #### webalexeu-winbgp
 
