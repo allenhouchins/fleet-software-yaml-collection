@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-10-04 18:04:27 UTC
+Generated on: 2025-10-05 06:05:05 UTC
 
 ## Summary
 
@@ -2998,7 +2998,7 @@ Total entries processed: 6666
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `tableau-public.yml`
-- **URL**: https://downloads.tableau.com/esdalt/2025.2.1/TableauPublic-2025-2-1-arm64.pkg
+- **URL**: https://downloads.tableau.com/esdalt/2025.2.3/TableauPublic-2025-2-3-arm64.pkg
 
 #### tableau-reader
 
@@ -3007,7 +3007,7 @@ Total entries processed: 6666
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `tableau-reader.yml`
-- **URL**: https://downloads.tableau.com/esdalt/2025.2.1/TableauReader-2025-2-1-arm64.pkg
+- **URL**: https://downloads.tableau.com/esdalt/2025.2.3/TableauReader-2025-2-3-arm64.pkg
 
 #### tailscale-app
 
@@ -5421,7 +5421,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `altair-graphql-altair.yml`
-- **URL**: https://github.com/altair-graphql/altair/releases/download/v8.2.8/altair_8.2.8_x64_win.exe
+- **URL**: https://github.com/altair-graphql/altair/releases/download/v8.3.0/altair_8.3.0_x64_win.exe
 
 #### altap-salamander
 
@@ -6726,7 +6726,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `anthropic-claudecode.yml`
-- **URL**: https://storage.googleapis.com/claude-code-dist-86c565f3-f756-42ad-8dfa-d59b1c096819/claude-code-releases/2.0.5/win32-x64/claude.exe
+- **URL**: https://storage.googleapis.com/claude-code-dist-86c565f3-f756-42ad-8dfa-d59b1c096819/claude-code-releases/2.0.8/win32-x64/claude.exe
 
 #### antibodysoftware-wizfile
 
@@ -22206,7 +22206,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/omrcrcry4pqtcyuiq5l5pdvvxy_143.0.7451.0/143.0.7451.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/ato3fds3g2jquodpjsintnsfka_143.0.7452.0/143.0.7452.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -28020,7 +28020,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-elisa.yml`
-- **URL**: https://cdn.kde.org/ci-builds/multimedia/elisa/master/windows/elisa-master-4052-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/multimedia/elisa/master/windows/elisa-master-4056-windows-cl-msvc2022-x86_64.exe
 
 #### kde-falkon
 
@@ -43725,7 +43725,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `peterpawlowski-foobar2000.yml`
-- **URL**: https://www.foobar2000.org/files/foobar2000-x64_v2.25.1.exe
+- **URL**: https://www.foobar2000.org/files/foobar2000-x64_v2.25.2.exe
 
 #### peterstrick-vivetool-gui
 
@@ -45111,7 +45111,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `projectenv-projectenvcli.yml`
-- **URL**: https://github.com/Project-Env/project-env-cli/releases/download/v3.23.0/cli-3.23.0-windows-amd64-setup.exe
+- **URL**: https://github.com/Project-Env/project-env-cli/releases/download/v3.24.0/cli-3.24.0-windows-amd64-setup.exe
 
 #### projectenv-projectenvshell
 
@@ -48909,7 +48909,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sdrplay-sdrconnect.yml`
-- **URL**: https://www.sdrplay.com/software/SDRconnect_windows-x64_e077f2ebe.exe
+- **URL**: https://www.sdrplay.com/software/SDRconnect_windows-x64_583e89db6.exe
 
 #### seafile-seadrive
 
@@ -51690,7 +51690,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `streetwriters-notesnook.yml`
-- **URL**: https://github.com/streetwriters/notesnook/releases/download/v3.2.4/notesnook_win_x64.exe
+- **URL**: https://github.com/streetwriters/notesnook/releases/download/v3.3.0/notesnook_win_x64.exe
 
 #### stremio-stremioservice
 
@@ -59034,7 +59034,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xrecode-xrecode3.yml`
-- **URL**: https://xrecode.com/download/setup_xrecode3_win_64bit_1.171.exe
+- **URL**: https://xrecode.com/download/setup_xrecode3_win_64bit_1.172.exe
 
 #### xrevealteam-xreveal
 
