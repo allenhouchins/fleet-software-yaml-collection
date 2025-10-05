@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-10-05 06:05:05 UTC
+Generated on: 2025-10-05 18:04:30 UTC
 
 ## Summary
 
@@ -3043,7 +3043,7 @@ Total entries processed: 6666
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `teleport-suite-16.yml`
-- **URL**: https://cdn.teleport.dev/teleport-16.5.17.pkg
+- **URL**: https://cdn.teleport.dev/teleport-16.5.18.pkg
 
 #### teleport-suite
 
@@ -3990,7 +3990,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ablaze-floorp.yml`
-- **URL**: https://github.com/Floorp-Projects/Floorp/releases/download/v12.2.0/floorp-win64.installer.exe
+- **URL**: https://github.com/Floorp-Projects/Floorp/releases/download/v12.2.1/floorp-win64.installer.exe
 
 #### abrignoni-aleapp-cli
 
@@ -4809,7 +4809,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aiko-chan-ai-discordbotclient.yml`
-- **URL**: https://github.com/aiko-chan-ai/DiscordBotClient/releases/download/v3.7.4/DiscordBotClient-win-x64.exe
+- **URL**: https://github.com/aiko-chan-ai/DiscordBotClient/releases/download/v3.8.1/DiscordBotClient-win-x64.exe
 
 #### aimp-aimp
 
@@ -22206,7 +22206,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/ato3fds3g2jquodpjsintnsfka_143.0.7452.0/143.0.7452.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/adtycf3uc7hnrhc7s5do7msgjqma_143.0.7453.0/143.0.7453.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -28020,7 +28020,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-elisa.yml`
-- **URL**: https://cdn.kde.org/ci-builds/multimedia/elisa/master/windows/elisa-master-4056-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/multimedia/elisa/master/windows/elisa-master-4059-windows-cl-msvc2022-x86_64.exe
 
 #### kde-falkon
 
@@ -28074,7 +28074,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-haruna.yml`
-- **URL**: https://cdn.kde.org/ci-builds/multimedia/haruna/master/windows/haruna-master-1403-windows-gcc-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/multimedia/haruna/master/windows/haruna-master-1415-windows-gcc-x86_64.exe
 
 #### kde-kaidan
 
@@ -50286,7 +50286,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `softfever-orcaslicer.yml`
-- **URL**: https://github.com/SoftFever/OrcaSlicer/releases/download/v2.3.0/OrcaSlicer_Windows_Installer_V2.3.0.exe
+- **URL**: https://github.com/SoftFever/OrcaSlicer/releases/download/v2.3.1/OrcaSlicer_Windows_Installer_V2.3.1.exe
 
 #### softmaker-freeoffice-2021
 
@@ -51240,7 +51240,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `stardustai-datasetviewer.yml`
-- **URL**: https://github.com/stardustai/dataset-viewer/releases/download/v1.5.0/DatasetViewer_1.5.0_x64-setup.exe
+- **URL**: https://github.com/stardustai/dataset-viewer/releases/download/v1.6.1/DatasetViewer_1.6.1_x64-setup.exe
 
 #### starface-starfaceapp
 
@@ -51276,7 +51276,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `stark81-vutronmusic.yml`
-- **URL**: https://github.com/stark81/VutronMusic/releases/download/v2.5.0/VutronMusic-2.5.0_win_x64.exe
+- **URL**: https://github.com/stark81/VutronMusic/releases/download/v2.6.0/VutronMusic-2.6.0_win_x64.exe
 
 #### starlanestudios-surrealist
 
@@ -55164,7 +55164,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `triliumnext-notes.yml`
-- **URL**: https://github.com/TriliumNext/Trilium/releases/download/v0.99.0/TriliumNotes-v0.99.0-windows-x64.exe
+- **URL**: https://github.com/TriliumNext/Trilium/releases/download/v0.99.1/TriliumNotes-v0.99.1-windows-x64.exe
 
 #### trimble-sketchup-2022
 
@@ -56055,7 +56055,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `v2raya-v2raya.yml`
-- **URL**: https://github.com/v2rayA/v2rayA/releases/download/v2.2.7.1/installer_windows_inno_x64_2.2.7.1.exe
+- **URL**: https://github.com/v2rayA/v2rayA/releases/download/v2.2.7.2/installer_windows_inno_x64_2.2.7.2.exe
 
 #### vaclavslavik-poedit
 
