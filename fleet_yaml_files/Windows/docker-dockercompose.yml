@@ -1,4 +1,4 @@
-url: https://github.com/docker/compose/releases/download/v2.39.4/docker-compose-windows-x86_64.exe
+url: https://github.com/docker/compose/releases/download/v2.40.0/docker-compose-windows-x86_64.exe
 automatic_install: false
 self_service: false
 categories: []

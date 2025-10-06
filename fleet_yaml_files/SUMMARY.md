@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-10-06 06:05:22 UTC
+Generated on: 2025-10-06 18:05:24 UTC
 
 ## Summary
 
-Total entries processed: 6666
+Total entries processed: 6667
 - macOS files: 394
-- Windows files: 6272
+- Windows files: 6273
 
 ## Generated Files
 
@@ -775,7 +775,7 @@ Total entries processed: 6666
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `clash-party.yml`
-- **URL**: https://github.com/mihomo-party-org/clash-party/releases/download/v1.8.7/clash-party-macos-1.8.7-arm64.pkg
+- **URL**: https://github.com/mihomo-party-org/clash-party/releases/download/v1.8.8/clash-party-macos-1.8.8-arm64.pkg
 
 #### clip-studio-paint
 
@@ -6339,7 +6339,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `amazon-redshift-odbc-v2.yml`
-- **URL**: https://s3.amazonaws.com/redshift-downloads/drivers/odbc/2.1.8.0/AmazonRedshiftODBC64-2.1.8.0.msi
+- **URL**: https://s3.amazonaws.com/redshift-downloads/drivers/odbc/2.1.9.0/AmazonRedshiftODBC64-2.1.9.0.msi
 
 #### amazon-sam-cli
 
@@ -9813,7 +9813,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `benji377-tooka.yml`
-- **URL**: https://github.com/tooka-org/tooka/releases/download/v1.0.5/tooka_1.0.5_x64_en-US.msi
+- **URL**: https://github.com/tooka-org/tooka/releases/download/v1.0.6/tooka_1.0.6_x64_en-US.msi
 
 #### benthicsoftware-golden-6
 
@@ -13737,7 +13737,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cognirush-massimagecompressor.yml`
-- **URL**: https://github.com/Cognirush-Labs-LLP/icompress-win/releases/download/V4.1.0/MassImageCompressorInstallerV4_1_0.exe
+- **URL**: https://github.com/Cognirush-Labs-LLP/icompress-win/releases/download/V4.2.0/MassImageCompressorInstallerV4_2_0.exe
 
 #### coherentgraphics-cpdf
 
@@ -16617,7 +16617,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `docker-dockercompose.yml`
-- **URL**: https://github.com/docker/compose/releases/download/v2.39.4/docker-compose-windows-x86_64.exe
+- **URL**: https://github.com/docker/compose/releases/download/v2.40.0/docker-compose-windows-x86_64.exe
 
 #### docker-dockerdesktop
 
@@ -17436,7 +17436,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `eat-pray-ai-yutu.yml`
-- **URL**: https://github.com/eat-pray-ai/yutu/releases/download/v0.9.10/yutu-windows-amd64.exe
+- **URL**: https://github.com/eat-pray-ai/yutu/releases/download/v0.10.3/yutu-windows-amd64.exe
 
 #### ebbflow-ebbflow
 
@@ -18039,7 +18039,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `elastic-auditbeat.yml`
-- **URL**: https://artifacts.elastic.co/downloads/beats/auditbeat/auditbeat-9.1.4-windows-x86_64.msi
+- **URL**: https://artifacts.elastic.co/downloads/beats/auditbeat/auditbeat-9.1.5-windows-x86_64.msi
 
 #### elastic-elasticsearch
 
@@ -18057,7 +18057,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `elastic-filebeat.yml`
-- **URL**: https://artifacts.elastic.co/downloads/beats/packetbeat/packetbeat-9.1.4-windows-x86_64.msi
+- **URL**: https://artifacts.elastic.co/downloads/beats/packetbeat/packetbeat-9.1.5-windows-x86_64.msi
 
 #### elastic-heartbeat
 
@@ -18066,7 +18066,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `elastic-heartbeat.yml`
-- **URL**: https://artifacts.elastic.co/downloads/beats/heartbeat/heartbeat-9.1.4-windows-x86_64.msi
+- **URL**: https://artifacts.elastic.co/downloads/beats/heartbeat/heartbeat-9.1.5-windows-x86_64.msi
 
 #### elastic-metricbeat
 
@@ -18075,7 +18075,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `elastic-metricbeat.yml`
-- **URL**: https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-9.1.4-windows-x86_64.msi
+- **URL**: https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-9.1.5-windows-x86_64.msi
 
 #### elastic-packetbeat
 
@@ -18084,7 +18084,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `elastic-packetbeat.yml`
-- **URL**: https://artifacts.elastic.co/downloads/beats/packetbeat/packetbeat-9.1.4-windows-x86_64.msi
+- **URL**: https://artifacts.elastic.co/downloads/beats/packetbeat/packetbeat-9.1.5-windows-x86_64.msi
 
 #### elastic-winlogbeat
 
@@ -18093,7 +18093,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `elastic-winlogbeat.yml`
-- **URL**: https://artifacts.elastic.co/downloads/beats/winlogbeat/winlogbeat-9.1.4-windows-x86_64.msi
+- **URL**: https://artifacts.elastic.co/downloads/beats/winlogbeat/winlogbeat-9.1.5-windows-x86_64.msi
 
 #### electerm-electerm
 
@@ -19246,6 +19246,15 @@ Total entries processed: 6666
 - **Version**: 
 - **File**: `featherwallet-feather.yml`
 - **URL**: https://featherwallet.org/files/releases/win-installer/FeatherWalletSetup-2.8.1.exe
+
+#### febooti-hexeditor
+
+- **Source**: winget
+- **Name**: febooti-hexeditor
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `febooti-hexeditor.yml`
+- **URL**: https://x.febooti.com/downloads/files/ftweak-hex-x64.msi
 
 #### fedora-coreos-butane
 
@@ -22206,7 +22215,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/ad5fvjrdlum73agp7estevjzsprq_143.0.7454.0/143.0.7454.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/adcoryfke7wjrafsvatvybey5uka_143.0.7455.0/143.0.7455.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -24870,7 +24879,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `imagemagick-imagemagick-q16.yml`
-- **URL**: https://imagemagick.org/archive/binaries/ImageMagick-7.1.2-3-Q16-x64-dll.exe
+- **URL**: https://imagemagick.org/archive/binaries/ImageMagick-7.1.2-5-Q16-x64-dll.exe
 
 #### imagemagick-imagemagick-q8
 
@@ -24879,7 +24888,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `imagemagick-imagemagick-q8.yml`
-- **URL**: https://imagemagick.org/archive/binaries/ImageMagick-7.1.2-3-Q8-x64-dll.exe
+- **URL**: https://imagemagick.org/archive/binaries/ImageMagick-7.1.2-5-Q8-x64-dll.exe
 
 #### imagemagick-imagemagick
 
@@ -24888,7 +24897,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `imagemagick-imagemagick.yml`
-- **URL**: https://imagemagick.org/archive/binaries/ImageMagick-7.1.2-3-Q16-HDRI-x64-dll.exe
+- **URL**: https://imagemagick.org/archive/binaries/ImageMagick-7.1.2-5-Q16-HDRI-x64-dll.exe
 
 #### imageoptim-gifski
 
@@ -26751,7 +26760,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-dottrace.yml`
-- **URL**: https://download.jetbrains.com/resharper/dotUltimate.2025.2.2.1/JetBrains.dotTrace.2025.2.2.1.web.exe
+- **URL**: https://download.jetbrains.com/resharper/dotUltimate.2025.2.3/JetBrains.dotTrace.2025.2.3.web.exe
 
 #### jetbrains-dotultimate
 
@@ -26976,7 +26985,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-resharper.yml`
-- **URL**: https://download.jetbrains.com/resharper/dotUltimate.2025.2.2.1/JetBrains.ReSharper.2025.2.2.1.web.exe
+- **URL**: https://download.jetbrains.com/resharper/dotUltimate.2025.2.3/JetBrains.ReSharper.2025.2.3.web.exe
 
 #### jetbrains-rider-eap
 
@@ -27003,7 +27012,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-rubymine-eap.yml`
-- **URL**: https://download.jetbrains.com/ruby/RubyMine-253.22441.1.exe
+- **URL**: https://download.jetbrains.com/ruby/RubyMine-253.24325.44.exe
 
 #### jetbrains-rubymine
 
@@ -27948,7 +27957,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-akregator.yml`
-- **URL**: https://cdn.kde.org/ci-builds/pim/akregator/master/windows/akregator-master-2353-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/pim/akregator/master/windows/akregator-master-2361-windows-cl-msvc2022-x86_64.exe
 
 #### kde-ark
 
@@ -28074,7 +28083,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-haruna.yml`
-- **URL**: https://cdn.kde.org/ci-builds/multimedia/haruna/master/windows/haruna-master-1415-windows-gcc-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/multimedia/haruna/master/windows/haruna-master-1417-windows-gcc-x86_64.exe
 
 #### kde-kaidan
 
@@ -28128,7 +28137,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kate.yml`
-- **URL**: https://cdn.kde.org/ci-builds/utilities/kate/release-25.08/windows/kate-release_25.08-10323-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/utilities/kate/release-25.08/windows/kate-release_25.08-10367-windows-cl-msvc2022-x86_64.exe
 
 #### kde-katomic
 
@@ -28335,7 +28344,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kmines.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kmines/master/windows/kmines-master-822-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kmines/master/windows/kmines-master-823-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kmymoney
 
@@ -30873,7 +30882,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lucidlink-lucidlink.yml`
-- **URL**: https://releases.lucidlink.com/prod/win/lucidlink-3.3.7297-x64.msi
+- **URL**: https://releases.lucidlink.com/prod/win/lucidlink-3.3.7372-x64.msi
 
 #### luculentsystems-bluetoothbatterymonitor
 
@@ -34113,7 +34122,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mihomo-party-mihomo-party.yml`
-- **URL**: https://github.com/mihomo-party-org/clash-party/releases/download/v1.8.7/clash-party-windows-1.8.7-x64-setup.exe
+- **URL**: https://github.com/mihomo-party-org/clash-party/releases/download/v1.8.8/clash-party-windows-1.8.8-x64-setup.exe
 
 #### mikefarah-yq
 
@@ -43176,7 +43185,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `panic-playdatesdk.yml`
-- **URL**: https://download.panic.com/playdate_sdk/Windows/PlaydateSDK-2.7.6.exe
+- **URL**: https://download.panic.com/playdate_sdk/Windows/PlaydateSDK-3.0.0.exe
 
 #### paodingai-calliper
 
@@ -53526,7 +53535,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-wetype.yml`
-- **URL**: https://download.z.weixin.qq.com/app/win/WeTypeSetup_1.4.2.6_3.exe
+- **URL**: https://download.z.weixin.qq.com/app/win/WeTypeSetup_1.4.2.8_3.exe
 
 #### tencent-yuanbao
 
@@ -55398,7 +55407,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tutanota-tutanota.yml`
-- **URL**: https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-309.250918.1/tutanota-desktop-win.exe
+- **URL**: https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-310.251002.0/tutanota-desktop-win.exe
 
 #### tuxguitar-tuxguitar
 
@@ -58899,7 +58908,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xmacslabs-mogan.yml`
-- **URL**: https://github.com/XmacsLabs/mogan/releases/download/v2025.1.1/MoganSTEM-v2025.1.1-64bit-installer.exe
+- **URL**: https://github.com/XmacsLabs/mogan/releases/download/v2025.1.4/MoganSTEM-v2025.1.4.0-64bit-installer.exe
 
 #### xmake-io-xmake
 
