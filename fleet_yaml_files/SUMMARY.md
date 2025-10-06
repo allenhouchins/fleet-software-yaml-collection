@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-10-05 18:04:30 UTC
+Generated on: 2025-10-06 06:05:22 UTC
 
 ## Summary
 
@@ -3340,7 +3340,7 @@ Total entries processed: 6666
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `weasis.yml`
-- **URL**: https://github.com/nroduit/Weasis/releases/download/v4.6.4/Weasis-4.6.4-aarch64.pkg
+- **URL**: https://github.com/nroduit/Weasis/releases/download/v4.6.5/Weasis-4.6.5-aarch64.pkg
 
 #### webex-meetings
 
@@ -6627,7 +6627,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `andromeda-andromeda.yml`
-- **URL**: https://github.com/tryandromeda/andromeda/releases/download/0.1.0-draft46/andromeda-windows-amd64.exe
+- **URL**: https://github.com/tryandromeda/andromeda/releases/download/0.1.0-draft48/andromeda-windows-amd64.exe
 
 #### angeloconvento-overkeys
 
@@ -12783,7 +12783,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `chrisant996-clink.yml`
-- **URL**: https://github.com/chrisant996/clink/releases/download/v1.8.4/clink.1.8.4.72da93_setup.exe
+- **URL**: https://github.com/chrisant996/clink/releases/download/v1.8.5/clink.1.8.5.89b0f1_setup.exe
 
 #### chrisklimas-twine
 
@@ -22206,7 +22206,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/adtycf3uc7hnrhc7s5do7msgjqma_143.0.7453.0/143.0.7453.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/ad5fvjrdlum73agp7estevjzsprq_143.0.7454.0/143.0.7454.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -22899,7 +22899,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gruntwork-cloud-nuke.yml`
-- **URL**: https://github.com/gruntwork-io/cloud-nuke/releases/download/v0.42.0/cloud-nuke_windows_amd64.exe
+- **URL**: https://github.com/gruntwork-io/cloud-nuke/releases/download/v0.43.0/cloud-nuke_windows_amd64.exe
 
 #### gruntwork-terragrunt
 
@@ -27363,7 +27363,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `johnmacfarlane-pandoc.yml`
-- **URL**: https://github.com/jgm/pandoc/releases/download/3.8.1/pandoc-3.8.1-windows-x86_64.msi
+- **URL**: https://github.com/jgm/pandoc/releases/download/3.8.2/pandoc-3.8.2-windows-x86_64.msi
 
 #### johnmulcahy-rew
 
@@ -28083,7 +28083,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kaidan.yml`
-- **URL**: https://cdn.kde.org/ci-builds/network/kaidan/master/windows/kaidan-master-5547-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/network/kaidan/master/windows/kaidan-master-5569-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kalarm
 
@@ -28614,7 +28614,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-rkward.yml`
-- **URL**: https://download.kde.org/stable/rkward/0.8.2/rkward-0.8.2-x86_64.exe
+- **URL**: https://download.kde.org/stable/rkward/0.8.2/rkward-0.8.2-1-x86_64.exe
 
 #### kde-ruqola
 
@@ -45111,7 +45111,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `projectenv-projectenvcli.yml`
-- **URL**: https://github.com/Project-Env/project-env-cli/releases/download/v3.24.0/cli-3.24.0-windows-amd64-setup.exe
+- **URL**: https://github.com/Project-Env/project-env-cli/releases/download/v3.25.0/cli-3.25.0-windows-amd64-setup.exe
 
 #### projectenv-projectenvshell
 
@@ -56478,7 +56478,7 @@ Total entries processed: 6666
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.1818/gvim_9.1.1818_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.1831/gvim_9.1.1831_x64.exe
 
 #### vim-vim
 
