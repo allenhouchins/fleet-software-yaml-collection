@@ -1,4 +1,4 @@
-url: https://github.com/sigstore/cosign/releases/download/v2.6.1/cosign-windows-amd64.exe
+url: https://github.com/sigstore/cosign/releases/download/v3.0.1/cosign-windows-amd64.exe
 automatic_install: false
 self_service: false
 categories: []
