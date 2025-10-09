@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-10-08 18:05:39 UTC
+Generated on: 2025-10-09 06:05:29 UTC
 
 ## Summary
 
-Total entries processed: 6706
+Total entries processed: 6710
 - macOS files: 395
-- Windows files: 6311
+- Windows files: 6315
 
 ## Generated Files
 
@@ -406,7 +406,7 @@ Total entries processed: 6706
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `bricklink-studio.yml`
-- **URL**: https://studio.download.bricklink.info/Studio2.0/Archive/2.25.9_1/Studio+2.0.pkg
+- **URL**: https://studio.download.bricklink.info/Studio2.0/Studio+2.0.pkg
 
 #### brosix
 
@@ -2260,7 +2260,7 @@ Total entries processed: 6706
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `okta-advanced-server-access.yml`
-- **URL**: https://dist.scaleft.com/repos/macos/stable/all/macos-client/v1.97.1/ScaleFT-1.97.1.pkg
+- **URL**: https://dist.scaleft.com/repos/macos/stable/all/macos-client/v1.98.1/ScaleFT-1.98.1.pkg
 
 #### oktaverify
 
@@ -6404,6 +6404,15 @@ Total entries processed: 6706
 - **File**: `amebis-alicpos.yml`
 - **URL**: https://prenos.amebis.si/ALicPos/3.0/ALicPos.x64.En.msi
 
+#### amebis-besana
+
+- **Source**: winget
+- **Name**: amebis-besana
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `amebis-besana.yml`
+- **URL**: https://prenos.amebis.si/Besana/5.2/Besana.x64.msi
+
 #### amir1376-abdownloadmanager
 
 - **Source**: winget
@@ -6897,7 +6906,7 @@ Total entries processed: 6706
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `anyassociation-anytype.yml`
-- **URL**: https://anytype-release.fra1.cdn.digitaloceanspaces.com/Anytype%20Setup%200.50.3.exe
+- **URL**: https://anytype-release.fra1.cdn.digitaloceanspaces.com/Anytype%20Setup%200.50.5.exe
 
 #### anydo-anydo
 
@@ -9885,7 +9894,7 @@ Total entries processed: 6706
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `benthicsoftware-goldsqall-2.yml`
-- **URL**: https://www.benthicsoftware.com/apps/goldsqall2setup220_64bit.exe
+- **URL**: https://www.benthicsoftware.com/apps/goldsqall2setup222_64bit.exe
 
 #### benthicsoftware-goldview-4
 
@@ -11271,7 +11280,7 @@ Total entries processed: 6706
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `brave-brave.yml`
-- **URL**: https://github.com/brave/brave-browser/releases/download/v1.83.109/BraveBrowserStandaloneSilentSetup.exe
+- **URL**: https://github.com/brave/brave-browser/releases/download/v1.83.112/BraveBrowserStandaloneSilentSetup.exe
 
 #### breeze2-dsumanager
 
@@ -16086,7 +16095,7 @@ Total entries processed: 6706
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dialpad-dialpad.yml`
-- **URL**: https://storage.googleapis.com/dialpad_native/stable/win32/x64/DialpadSetup-2509.1.1_x64.exe
+- **URL**: https://storage.googleapis.com/dialpad_native/stable/win32/x64/DialpadSetup-2509.1.2_x64.exe
 
 #### dialpad-dialpadmeetings
 
@@ -16410,7 +16419,7 @@ Total entries processed: 6706
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `discord-discord-canary.yml`
-- **URL**: https://canary.dl2.discordapp.net/distro/app/canary/win/x64/1.0.735/DiscordCanarySetup.exe
+- **URL**: https://canary.dl2.discordapp.net/distro/app/canary/win/x64/1.0.738/DiscordCanarySetup.exe
 
 #### discord-discord-development
 
@@ -20208,7 +20217,7 @@ Total entries processed: 6706
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `flexense-sysgauge.yml`
-- **URL**: https://www.sysgauge.com/setups_x64/sysgauge_setup_v12.0.16_x64.exe
+- **URL**: https://www.sysgauge.com/setups_x64/sysgauge_setup_v12.1.18_x64.exe
 
 #### flexense-sysgaugepro
 
@@ -20217,7 +20226,7 @@ Total entries processed: 6706
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `flexense-sysgaugepro.yml`
-- **URL**: https://www.sysgauge.com/setups_x64/sysgaugepro_setup_v12.0.16_x64.exe
+- **URL**: https://www.sysgauge.com/setups_x64/sysgaugepro_setup_v12.1.18_x64.exe
 
 #### flexense-sysgaugeserver
 
@@ -20226,7 +20235,7 @@ Total entries processed: 6706
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `flexense-sysgaugeserver.yml`
-- **URL**: https://www.sysgauge.com/setups_x64/sysgaugesrv_setup_v12.0.16_x64.exe
+- **URL**: https://www.sysgauge.com/setups_x64/sysgaugesrv_setup_v12.1.18_x64.exe
 
 #### flexense-sysgaugeultimate
 
@@ -20235,7 +20244,7 @@ Total entries processed: 6706
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `flexense-sysgaugeultimate.yml`
-- **URL**: https://www.sysgauge.com/setups_x64/sysgaugeult_setup_v12.0.16_x64.exe
+- **URL**: https://www.sysgauge.com/setups_x64/sysgaugeult_setup_v12.1.18_x64.exe
 
 #### flexense-vxsearch
 
@@ -20991,7 +21000,7 @@ Total entries processed: 6706
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `funroutine-workflowy.yml`
-- **URL**: https://github.com/workflowy/desktop/releases/download/v4.3.2510071257/WorkFlowy-Installer-4.3.2510071257.exe
+- **URL**: https://github.com/workflowy/desktop/releases/download/v4.3.2510081504/WorkFlowy-Installer-4.3.2510081504.exe
 
 #### fupdec-mediachips
 
@@ -21675,7 +21684,7 @@ Total entries processed: 6706
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gimp-gimp-3.yml`
-- **URL**: https://download.gimp.org/gimp/v3.0/windows/gimp-3.0.6-setup.exe
+- **URL**: https://download.gimp.org/gimp/v3.0/windows/gimp-3.0.6-setup-1.exe
 
 #### gimp-gimp-nightly
 
@@ -23070,7 +23079,7 @@ Total entries processed: 6706
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gruntwork-terragrunt.yml`
-- **URL**: https://github.com/gruntwork-io/terragrunt/releases/download/v0.89.2/terragrunt_windows_amd64.exe
+- **URL**: https://github.com/gruntwork-io/terragrunt/releases/download/v0.89.3/terragrunt_windows_amd64.exe
 
 #### grz-meshcam
 
@@ -27093,7 +27102,7 @@ Total entries processed: 6706
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-phpstorm-eap.yml`
-- **URL**: https://download.jetbrains.com/webide/PhpStorm-253.24325.33.exe
+- **URL**: https://download.jetbrains.com/webide/PhpStorm-253.25908.29.exe
 
 #### jetbrains-phpstorm
 
@@ -27318,7 +27327,7 @@ Total entries processed: 6706
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jgraph-draw.yml`
-- **URL**: https://github.com/jgraph/drawio-desktop/releases/download/v28.1.2/draw.io-28.1.2-windows-installer.exe
+- **URL**: https://github.com/jgraph/drawio-desktop/releases/download/v28.2.5/draw.io-28.2.5-windows-installer.exe
 
 #### jhen0409-reactnativedebugger
 
@@ -28038,7 +28047,7 @@ Total entries processed: 6706
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kangfenmao-cherrystudio.yml`
-- **URL**: https://github.com/CherryHQ/cherry-studio/releases/download/v1.5.9/Cherry-Studio-1.5.9-x64-setup.exe
+- **URL**: https://github.com/CherryHQ/cherry-studio/releases/download/v1.6.3/Cherry-Studio-1.6.3-x64-setup.exe
 
 #### kapibala-shuitun
 
@@ -28272,7 +28281,7 @@ Total entries processed: 6706
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kaidan.yml`
-- **URL**: https://cdn.kde.org/ci-builds/network/kaidan/master/windows/kaidan-master-5581-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/network/kaidan/master/windows/kaidan-master-5594-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kalarm
 
@@ -31233,7 +31242,7 @@ Total entries processed: 6706
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lycheeverse-lychee.yml`
-- **URL**: https://github.com/lycheeverse/lychee/releases/download/lychee-v0.20.0/lychee-x86_64-windows.exe
+- **URL**: https://github.com/lycheeverse/lychee/releases/download/lychee-v0.20.1/lychee-x86_64-windows.exe
 
 #### lyonbros-turtl
 
@@ -39162,7 +39171,7 @@ Total entries processed: 6706
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mq1-tinywiibackupmanager.yml`
-- **URL**: https://github.com/mq1/TinyWiiBackupManager/releases/download/2.5.4/TinyWiiBackupManager_2.5.4_x64-setup.exe
+- **URL**: https://github.com/mq1/TinyWiiBackupManager/releases/download/3.0.0-beta/TinyWiiBackupManager_3.0.0-beta_x64-setup.exe
 
 #### mremoteng-mremoteng-nightly
 
@@ -39954,7 +39963,7 @@ Total entries processed: 6706
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `neosubhamoy-neodlp.yml`
-- **URL**: https://github.com/neosubhamoy/neodlp/releases/download/v0.2.2/NeoDLP_0.2.2_x64-setup.exe
+- **URL**: https://github.com/neosubhamoy/neodlp/releases/download/v0.3.0/NeoDLP_0.3.0_x64-setup.exe
 
 #### neosubhamoy-pytubepp-helper
 
@@ -43511,6 +43520,15 @@ Total entries processed: 6706
 - **File**: `parsec-parsecvdd.yml`
 - **URL**: https://builds.parsec.app/vdd/parsec-vdd-0.45.0.0.exe
 
+#### parsec-parsecvud
+
+- **Source**: winget
+- **Name**: parsec-parsecvud
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `parsec-parsecvud.yml`
+- **URL**: https://builds.parsec.app/vud/parsec-vud-0.3.10.0.exe
+
 #### passcovery-passcoverysuite
 
 - **Source**: winget
@@ -45869,6 +45887,15 @@ Total entries processed: 6706
 - **File**: `python-python-3-13.yml`
 - **URL**: https://www.python.org/ftp/python/3.13.8/python-3.13.8-amd64.exe
 
+#### python-python-3-14
+
+- **Source**: winget
+- **Name**: python-python-3-14
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `python-python-3-14.yml`
+- **URL**: https://www.python.org/ftp/python/3.14.0/python-3.14.0-amd64.exe
+
 #### python-python-3-2
 
 - **Source**: winget
@@ -47254,6 +47281,15 @@ Total entries processed: 6706
 - **Version**: 
 - **File**: `revouninstaller-revouninstallerpro.yml`
 - **URL**: https://2c4eb3d18fca8ba6d9ca-4662654c4d02b3489a1b137ebc24250a.ssl.cf1.rackcdn.com/RevoUninProSetup.exe
+
+#### revrobotics-revhardwareclient
+
+- **Source**: winget
+- **Name**: revrobotics-revhardwareclient
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `revrobotics-revhardwareclient.yml`
+- **URL**: https://github.com/REVrobotics/REV-Software-Binaries/releases/download/rhc-1.7.5/REV-Hardware-Client-Setup-1.7.5.exe
 
 #### rhinode-tradingpaints
 
@@ -49791,7 +49827,7 @@ Total entries processed: 6706
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `shininglight-openssl-light.yml`
-- **URL**: https://slproweb.com/download/Win64OpenSSL_Light-3_5_4.msi
+- **URL**: https://slproweb.com/download/Win64OpenSSL_Light-3_6_0.msi
 
 #### shkas-ssm
 
@@ -52194,7 +52230,7 @@ Total entries processed: 6706
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `summay-sunsama.yml`
-- **URL**: https://download.todesktop.com/2003096gmmnl0g1/Sunsama%20Setup%203.1.2%20-%20Build%20250711rlkq87w2m-x64.exe
+- **URL**: https://download.todesktop.com/2003096gmmnl0g1/Sunsama%20Setup%203.2.0%20-%20Build%20251008ae7l1ezsz-x64.exe
 
 #### sunabozu-subordination
 
