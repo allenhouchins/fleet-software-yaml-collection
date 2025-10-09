@@ -1,11 +1,11 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-10-09 06:05:29 UTC
+Generated on: 2025-10-09 18:05:37 UTC
 
 ## Summary
 
-Total entries processed: 6710
-- macOS files: 395
+Total entries processed: 6709
+- macOS files: 394
 - Windows files: 6315
 
 ## Generated Files
@@ -1036,7 +1036,7 @@ Total entries processed: 6710
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `elgato-camera-hub.yml`
-- **URL**: https://edge.elgato.com/egc/macos/echm/2.1.1/CameraHub_2.1.1.6518.pkg
+- **URL**: https://edge.elgato.com/egc/macos/echm/2.2.0/CameraHub_2.2.0.6839.pkg
 
 #### elgato-stream-deck
 
@@ -2010,15 +2010,6 @@ Total entries processed: 6710
 - **File**: `mozilla-vpn.yml`
 - **URL**: https://archive.mozilla.org/pub/vpn/releases/2.31.0/mac/MozillaVPN.pkg
 
-#### mullvad-vpn-beta
-
-- **Source**: homebrew/installomator
-- **Name**: mullvad-vpn-beta
-- **Description**: Generated from Homebrew cask or Installomator script
-- **Version**: 
-- **File**: `mullvad-vpn-beta.yml`
-- **URL**: https://cdn.mullvad.net/app/desktop/releases/2025.10-beta2/MullvadVPN-2025.10-beta2.pkg
-
 #### mullvad-vpn
 
 - **Source**: homebrew/installomator
@@ -2026,7 +2017,7 @@ Total entries processed: 6710
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `mullvad-vpn.yml`
-- **URL**: https://cdn.mullvad.net/app/desktop/releases/2025.9/MullvadVPN-2025.9.pkg
+- **URL**: https://cdn.mullvad.net/app/desktop/releases/2025.10/MullvadVPN-2025.10.pkg
 
 #### multipass
 
@@ -3214,7 +3205,7 @@ Total entries processed: 6710
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `unifi-identity-endpoint.yml`
-- **URL**: https://fw-download.ubnt.com/data/uid-identity-standard-desktop-app/3afc-macOS-3.3.2-c3b3e73c-cafe-4a7b-b851-e15218744838.pkg
+- **URL**: https://fw-download.ubnt.com/data/uid-identity-standard-desktop-app/dcdc-macOS-3.3.3-f96c6674-fe51-4686-8545-7d5b23438138.pkg
 
 #### unifi-identity-enterprise
 
@@ -3981,7 +3972,7 @@ Total entries processed: 6710
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `abgox-inputtip.yml`
-- **URL**: https://github.com/abgox/InputTip/releases/download/v2025.10.01/InputTip.exe
+- **URL**: https://github.com/abgox/InputTip/releases/download/v2025.10.09/InputTip.exe
 
 #### ablaze-floorp-daylight
 
@@ -4566,7 +4557,7 @@ Total entries processed: 6710
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aelassas-servy.yml`
-- **URL**: https://github.com/aelassas/servy/releases/download/v2.0/servy-2.0-x64-installer.exe
+- **URL**: https://github.com/aelassas/servy/releases/download/v2.1/servy-2.1-x64-installer.exe
 
 #### aerosoft-one
 
@@ -8229,7 +8220,7 @@ Total entries processed: 6710
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `azaharemu-azahar.yml`
-- **URL**: https://github.com/azahar-emu/azahar/releases/download/2123.2/azahar-2123.2-windows-msvc-installer.exe
+- **URL**: https://github.com/azahar-emu/azahar/releases/download/2123.3/azahar-2123.3-windows-msvc-installer.exe
 
 #### azeus-convene
 
@@ -11253,7 +11244,7 @@ Total entries processed: 6710
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `brave-brave-beta.yml`
-- **URL**: https://github.com/brave/brave-browser/releases/download/v1.84.117/BraveBrowserStandaloneSilentBetaSetup.exe
+- **URL**: https://github.com/brave/brave-browser/releases/download/v1.84.119/BraveBrowserStandaloneSilentBetaSetup.exe
 
 #### brave-brave-dev
 
@@ -11856,7 +11847,7 @@ Total entries processed: 6710
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bytedance-trae.yml`
-- **URL**: https://lf-cdn.trae.ai/obj/trae-ai-us/pkg/app/releases/stable/1.0.21011/win32/Trae-Setup-x64.exe
+- **URL**: https://lf-cdn.trae.ai/obj/trae-ai-us/pkg/app/releases/stable/1.0.21084/win32/Trae-Setup-x64.exe
 
 #### bytedance-ui-tars
 
@@ -15348,7 +15339,7 @@ Total entries processed: 6710
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `datronicsoft-spacedeskdriver-server.yml`
-- **URL**: https://downloads.spacedesk.net/downloads/spacedesk_driver_Win_10_64_v2205.msi
+- **URL**: https://downloads.spacedesk.net/downloads/spacedesk_driver_Win_10_64_v2206.msi
 
 #### datto-cloudcontinuityagent
 
@@ -18327,7 +18318,7 @@ Total entries processed: 6710
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `elgato-camerahub.yml`
-- **URL**: https://edge.elgato.com/egc/windows/echw/2.1.1/CameraHub_2.1.1.6518_x64.msi
+- **URL**: https://edge.elgato.com/egc/windows/echw/2.2.0/CameraHub_2.2.0.6839_x64.msi
 
 #### elgato-controlcenter
 
@@ -22368,7 +22359,7 @@ Total entries processed: 6710
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/h4jaop2dk4z5in362zqc7awxjq_143.0.7459.0/143.0.7459.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/ac37qnpirkekuq4ghj3usgpcjyhq_143.0.7461.0/143.0.7461.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -23952,7 +23943,7 @@ Total entries processed: 6710
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hirosystems-clarinet.yml`
-- **URL**: https://github.com/hirosystems/clarinet/releases/download/v3.7.0/clarinet-windows-x64.msi
+- **URL**: https://github.com/hirosystems/clarinet/releases/download/v3.8.0/clarinet-windows-x64.msi
 
 #### hisschemoller-music-pattern-generator
 
@@ -26904,7 +26895,7 @@ Total entries processed: 6710
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-datagrip-eap.yml`
-- **URL**: https://download.jetbrains.com/datagrip/datagrip-253.24325.21.exe
+- **URL**: https://download.jetbrains.com/datagrip/datagrip-253.25908.20.exe
 
 #### jetbrains-datagrip
 
@@ -26994,7 +26985,7 @@ Total entries processed: 6710
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-goland-eap.yml`
-- **URL**: https://download.jetbrains.com/go/goland-253.24325.39.exe
+- **URL**: https://download.jetbrains.com/go/goland-253.25908.26.exe
 
 #### jetbrains-goland
 
@@ -27219,7 +27210,7 @@ Total entries processed: 6710
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-rustrover-eap.yml`
-- **URL**: https://download.jetbrains.com/rustrover/RustRover-253.24325.42.exe
+- **URL**: https://download.jetbrains.com/rustrover/RustRover-253.25908.32.exe
 
 #### jetbrains-rustrover
 
@@ -27264,7 +27255,7 @@ Total entries processed: 6710
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-webstorm-eap.yml`
-- **URL**: https://download.jetbrains.com/webstorm/WebStorm-253.24325.37.exe
+- **URL**: https://download.jetbrains.com/webstorm/WebStorm-253.25908.30.exe
 
 #### jetbrains-webstorm
 
@@ -30783,7 +30774,7 @@ Total entries processed: 6710
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `logisim-evolution-logisim-evolution.yml`
-- **URL**: https://github.com/logisim-evolution/logisim-evolution/releases/download/v3.9.0/logisim-evolution-3.9.0-x86_64.msi
+- **URL**: https://github.com/logisim-evolution/logisim-evolution/releases/download/v4.0.0/logisim-evolution-4.0.0-amd64.msi
 
 #### logitech-ghub
 
@@ -39540,7 +39531,7 @@ Total entries processed: 6710
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mytonwallet-mytonwallet.yml`
-- **URL**: https://github.com/mytonwallet-org/mytonwallet/releases/download/v4.2.2/MyTonWallet-x64.exe
+- **URL**: https://github.com/mytonwallet-org/mytonwallet/releases/download/v4.2.4/MyTonWallet-x64.exe
 
 #### mzdyl-liteloaderqqnt-install-pyinstaller
 
@@ -42060,7 +42051,7 @@ Total entries processed: 6710
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `omnissa-horizonclient.yml`
-- **URL**: https://download3.omnissa.com/software/CART26FQ2_WIN_2506.1/Omnissa-Horizon-Client-2506.1-8.16.0-17145568083.exe
+- **URL**: https://download3.omnissa.com/software/CART26FQ2_WIN_2506.2/Omnissa-Horizon-Client-2506-8.16.2-18323197680.exe
 
 #### omnissa-workspaceoneintelligenthub
 
@@ -42987,7 +42978,7 @@ Total entries processed: 6710
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `oracle-oci-cli.yml`
-- **URL**: https://github.com/oracle/oci-cli/releases/download/v3.67.0/oci-cli-3.67.0-Windows-Server-Installer.msi
+- **URL**: https://github.com/oracle/oci-cli/releases/download/v3.68.0/oci-cli-3.68.0-Windows-Server-Installer.msi
 
 #### oracle-virtualbox
 
@@ -43824,7 +43815,7 @@ Total entries processed: 6710
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pdq-pdqdeploy.yml`
-- **URL**: https://services.pdq.com/download/deploy-inventory/Deploy_19.4.93.0.exe
+- **URL**: https://services.pdq.com/download/deploy-inventory/Deploy_19.5.0.0.exe
 
 #### pdq-pdqinventory
 
@@ -43833,7 +43824,7 @@ Total entries processed: 6710
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pdq-pdqinventory.yml`
-- **URL**: https://services.pdq.com/download/deploy-inventory/Inventory_19.4.93.0.exe
+- **URL**: https://services.pdq.com/download/deploy-inventory/Inventory_19.5.0.0.exe
 
 #### pearai-pearai
 
@@ -44823,7 +44814,7 @@ Total entries processed: 6710
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `postgresql-postgresql-13.yml`
-- **URL**: https://get.enterprisedb.com/postgresql/postgresql-13.22-1-windows-x64.exe
+- **URL**: https://get.enterprisedb.com/postgresql/postgresql-13.22-2-windows-x64.exe
 
 #### postgresql-postgresql-14
 
@@ -46038,7 +46029,7 @@ Total entries processed: 6710
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `qgis-qfield.yml`
-- **URL**: https://github.com/opengisch/QField/releases/download/v3.7.8/qfield-v3.7.8-windows-x64.exe
+- **URL**: https://github.com/opengisch/QField/releases/download/v3.7.9/qfield-v3.7.9-windows-x64.exe
 
 #### qiagen-clcgenomicsworkbench
 
@@ -46191,7 +46182,7 @@ Total entries processed: 6710
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `qnap-qencdecrypter.yml`
-- **URL**: https://download.qnap.com/Storage/Utility/QNAPQENCDecrypterWindows-1.2.0.22173.exe
+- **URL**: https://download.qnap.com/Storage/Utility/QNAPQENCDecrypterWindows-1.2.1.25269.exe
 
 #### qnap-qsirch
 
@@ -46209,7 +46200,7 @@ Total entries processed: 6710
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `qnap-qudedupextracttool.yml`
-- **URL**: https://download.qnap.com/Storage/Utility/QNAPQuDedupExToolWindows-1.1.6.25140.exe
+- **URL**: https://download.qnap.com/Storage/Utility/QNAPQuDedupExToolWindows-1.1.7.25269.exe
 
 #### qnap-qvrproclient
 
@@ -47028,7 +47019,7 @@ Total entries processed: 6710
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rem0o-fancontrol.yml`
-- **URL**: https://github.com/Rem0o/FanControl.Releases/releases/download/V242/FanControl_242_net_8_0_Installer.exe
+- **URL**: https://github.com/Rem0o/FanControl.Releases/releases/download/V243/FanControl_243_net_8_0_Installer.exe
 
 #### remarkable-remarkablecompanionapp
 
@@ -49818,7 +49809,7 @@ Total entries processed: 6710
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `shininglight-openssl-dev.yml`
-- **URL**: https://slproweb.com/download/Win64OpenSSL-3_5_4.msi
+- **URL**: https://slproweb.com/download/Win64OpenSSL-3_6_0.msi
 
 #### shininglight-openssl-light
 
@@ -54291,7 +54282,7 @@ Total entries processed: 6710
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `thedocumentfoundation-libreoffice-sdk.yml`
-- **URL**: https://downloadarchive.documentfoundation.org/libreoffice/old/25.8.1.1/win/x86_64/LibreOffice_25.8.1.1_Win_x86-64_sdk.msi
+- **URL**: https://downloadarchive.documentfoundation.org/libreoffice/old/25.8.2.2/win/x86_64/LibreOffice_25.8.2.2_Win_x86-64_sdk.msi
 
 #### thedocumentfoundation-libreoffice
 
@@ -54300,7 +54291,7 @@ Total entries processed: 6710
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `thedocumentfoundation-libreoffice.yml`
-- **URL**: https://download.documentfoundation.org/libreoffice/stable/25.8.1/win/x86_64/LibreOffice_25.8.1_Win_x86-64.msi
+- **URL**: https://download.documentfoundation.org/libreoffice/stable/25.8.2/win/x86_64/LibreOffice_25.8.2_Win_x86-64.msi
 
 #### thedoggybradsoftwarelabs-edgescapenavigator
 
@@ -55128,7 +55119,7 @@ Total entries processed: 6710
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `topalasoftwaresolutions-siw.yml`
-- **URL**: https://www.gtopala.com/download/20250817d/siwtrial-setup.exe
+- **URL**: https://www.gtopala.com/download/20251009/siwtrial-setup.exe
 
 #### topazlabs-topazdenoiseai
 
@@ -55731,7 +55722,7 @@ Total entries processed: 6710
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tutanota-tutanota.yml`
-- **URL**: https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-310.251002.0/tutanota-desktop-win.exe
+- **URL**: https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-310.251008.0/tutanota-desktop-win.exe
 
 #### tuxguitar-tuxguitar
 
@@ -58548,7 +58539,7 @@ Total entries processed: 6710
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wondershare-mobiletrans.yml`
-- **URL**: https://download.wondershare.com/cbs_down/mobiletrans_5.0.6_full5793.exe
+- **URL**: https://download.wondershare.com/cbs_down/mobiletrans_5.0.7_full5793.exe
 
 #### wondershare-mockitt-cn
 
@@ -59754,7 +59745,7 @@ Total entries processed: 6710
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yubico-authenticator.yml`
-- **URL**: https://github.com/Yubico/yubioath-flutter/releases/download/7.3.0/yubico-authenticator-7.3.0-win64.msi
+- **URL**: https://github.com/Yubico/yubioath-flutter/releases/download/7.3.1/yubico-authenticator-7.3.1-win64.msi
 
 #### yubico-pivtool
 
