@@ -1,4 +1,4 @@
-url: https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.4/powershell-7.6.0-preview.4-osx-arm64.pkg
+url: https://download.softros.com/LogonExpertSetup64.msi
 automatic_install: false
 self_service: false
 categories: []
