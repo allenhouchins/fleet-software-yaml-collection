@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-10-11 06:05:27 UTC
+Generated on: 2025-10-11 18:04:32 UTC
 
 ## Summary
 
@@ -1540,7 +1540,7 @@ Total entries processed: 6723
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `jyutping.yml`
-- **URL**: https://github.com/yuetyam/jyutping/releases/download/0.65.0/Jyutping-v0.65.0-Mac.pkg
+- **URL**: https://github.com/yuetyam/jyutping/releases/download/0.66.0/Jyutping-v0.66.0-Mac.pkg
 
 #### kdrive
 
@@ -1648,7 +1648,7 @@ Total entries processed: 6723
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `low-profile.yml`
-- **URL**: https://github.com/ninxsoft/LowProfile/releases/download/v4.0.3/Low.Profile.4.0.3.pkg
+- **URL**: https://github.com/ninxsoft/LowProfile/releases/download/v5.0.0/Low.Profile.5.0.0.pkg
 
 #### ltspice
 
@@ -3828,7 +3828,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `64gram-64gram.yml`
-- **URL**: https://github.com/TDesktop-x64/tdesktop/releases/download/v1.1.79/64Gram-setup-x64.1.1.79.exe
+- **URL**: https://github.com/TDesktop-x64/tdesktop/releases/download/v1.1.81/64Gram-setup-x64.1.1.81.exe
 
 #### 720kb-ndm
 
@@ -11829,7 +11829,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bytedance-trae-cn.yml`
-- **URL**: https://lf-cdn.trae.ai/obj/trae-ai-us/pkg/app/releases/stable/1.0.21009/win32/Trae%20CN-Setup-x64.exe
+- **URL**: https://lf-cdn.trae.ai/obj/trae-ai-us/pkg/app/releases/stable/1.0.21129/win32/Trae%20CN-Setup-x64.exe
 
 #### bytedance-trae
 
@@ -11838,7 +11838,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bytedance-trae.yml`
-- **URL**: https://lf-cdn.trae.ai/obj/trae-ai-us/pkg/app/releases/stable/1.0.21084/win32/Trae-Setup-x64.exe
+- **URL**: https://lf-cdn.trae.ai/obj/trae-ai-us/pkg/app/releases/stable/1.0.21131/win32/Trae-Setup-x64.exe
 
 #### bytedance-ui-tars
 
@@ -13305,7 +13305,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cloudimperiumgames-rsilauncher.yml`
-- **URL**: https://install.robertsspaceindustries.com/rel/2/RSI%20Launcher-Setup-2.9.0.exe
+- **URL**: https://install.robertsspaceindustries.com/rel/2/RSI%20Launcher-Setup-2.9.2.exe
 
 #### cloudnet-cloudnet
 
@@ -16851,7 +16851,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dorssel-usbipd-win.yml`
-- **URL**: https://github.com/dorssel/usbipd-win/releases/download/v5.2.0/usbipd-win_5.2.0_x64.msi
+- **URL**: https://github.com/dorssel/usbipd-win/releases/download/v5.3.0/usbipd-win_5.3.0_x64.msi
 
 #### dosboxstaging-dosboxstaging
 
@@ -17220,7 +17220,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `duplicati-duplicati-canary.yml`
-- **URL**: https://github.com/duplicati/duplicati/releases/download/v2.1.2.2_beta_2025-10-10/duplicati-2.1.2.2_beta_2025-10-10-win-x64-gui.msi
+- **URL**: https://github.com/duplicati/duplicati/releases/download/v2.1.2.3_beta_2025-10-11/duplicati-2.1.2.3_beta_2025-10-11-win-x64-gui.msi
 
 #### duplicati-duplicati
 
@@ -17274,7 +17274,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dw-spectrum-client.yml`
-- **URL**: https://updates.digital-watchdog.com/digitalwatchdog/41290/windows/dwspectrum-client-6.0.5.41290-windows_x64.exe
+- **URL**: https://updates.digital-watchdog.com/digitalwatchdog/41837/windows/dwspectrum-client-6.0.6.41837-windows_x64.exe
 
 #### dw-spectrum-server
 
@@ -22350,7 +22350,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/m64ff2y5z2qb62khaexyxnpgty_143.0.7463.0/143.0.7463.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/btdofgi2ir6dyiungn5sbhw3ci_143.0.7465.0/143.0.7465.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -23259,7 +23259,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `haiying-aionui.yml`
-- **URL**: https://github.com/iOfficeAI/AionUi/releases/download/v1.2.5/AionUi-1.2.5-win-x64.exe
+- **URL**: https://github.com/iOfficeAI/AionUi/releases/download/v1.3.0/AionUi-1.3.0-win-x64.exe
 
 #### hakuneko-hakuneko-nightly
 
@@ -27480,7 +27480,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jlc-lceda-pro.yml`
-- **URL**: https://image.lceda.cn/files/lceda-pro-windows-x64-2.2.42.7.exe
+- **URL**: https://image.lceda.cn/files/lceda-pro-windows-x64-2.2.43.1.exe
 
 #### jlc-lceda
 
@@ -28011,7 +28011,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kamjin-chatless.yml`
-- **URL**: https://github.com/kamjin3086/chatless/releases/download/v0.3.9/Chatless_0.3.9_x64-setup.exe
+- **URL**: https://github.com/kamjin3086/chatless/releases/download/v0.4.3/Chatless_0.4.3_x64-setup.exe
 
 #### kamranahmedse-pennywise
 
@@ -28263,7 +28263,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-haruna.yml`
-- **URL**: https://cdn.kde.org/ci-builds/multimedia/haruna/master/windows/haruna-master-1417-windows-gcc-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/multimedia/haruna/master/windows/haruna-master-1428-windows-gcc-x86_64.exe
 
 #### kde-kaidan
 
@@ -30936,7 +30936,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `loot-loot.yml`
-- **URL**: https://github.com/loot/loot/releases/download/0.26.1/loot_0.26.1-win64.exe
+- **URL**: https://github.com/loot/loot/releases/download/0.28.0/loot_0.28.0-win64.exe
 
 #### losbiw-erin
 
@@ -34365,7 +34365,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mikrotik-winbox.yml`
-- **URL**: https://download.mikrotik.com/routeros/winbox/3.42/winbox64.exe
+- **URL**: https://download.mikrotik.com/routeros/winbox/3.43/winbox64.exe
 
 #### miktex-miktex
 
@@ -39324,7 +39324,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `muhammadfareeziqmal-iiumschedule.yml`
-- **URL**: https://github.com/iiumschedule/iium_schedule/releases/download/1.4.6%2B45/iiumschedulesetup.exe
+- **URL**: https://github.com/iiumschedule/iium_schedule/releases/download/1.4.7%2B46/iiumschedulesetup.exe
 
 #### muhammadfareeziqmal-serilink
 
@@ -39531,7 +39531,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mytonwallet-mytonwallet.yml`
-- **URL**: https://github.com/mytonwallet-org/mytonwallet/releases/download/v4.2.4/MyTonWallet-x64.exe
+- **URL**: https://github.com/mytonwallet-org/mytonwallet/releases/download/v4.2.5/MyTonWallet-x64.exe
 
 #### mzdyl-liteloaderqqnt-install-pyinstaller
 
@@ -39657,7 +39657,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nasm-nasm.yml`
-- **URL**: https://www.nasm.us/pub/nasm/releasebuilds/3.00/win64/nasm-3.00-installer-x64.exe
+- **URL**: https://www.nasm.us/pub/nasm/releasebuilds/3.01/win64/nasm-3.01-installer-x64.exe
 
 #### nass-ado
 
@@ -40872,7 +40872,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nodirtemirkhodjaev-fortfirewall.yml`
-- **URL**: https://github.com/tnodir/fort/releases/download/v3.19.8/FortFirewall-3.19.8-windows10-x86_64.exe
+- **URL**: https://github.com/tnodir/fort/releases/download/v3.19.9/FortFirewall-3.19.9-windows10-x86_64.exe
 
 #### nodist-nodist
 
@@ -41169,7 +41169,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nova-max-xbatterystatus.yml`
-- **URL**: https://github.com/tommaier123/XBatteryStatus/releases/download/V1.3.4/XBatteryStatus.msi
+- **URL**: https://github.com/tommaier123/XBatteryStatus/releases/download/V1.3.5/XBatteryStatus.msi
 
 #### novabackupcorporation-novabackup
 
@@ -46758,7 +46758,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rayoscompany-rayoai.yml`
-- **URL**: https://github.com/rayo-alcantar/RayoAI_for_windows/releases/download/1.0.10/RayoAI-1.0.10-Setup.exe
+- **URL**: https://github.com/rayo-alcantar/RayoAI_for_windows/releases/download/1.3.0/RayoAI-1.3.0-Setup.exe
 
 #### razerinc-razerinstaller-synapse3
 
@@ -58764,7 +58764,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wondershare-recoverit.yml`
-- **URL**: https://download.wondershare.com/cbs_down/ri_64bit_14.0.0_full4134.exe
+- **URL**: https://download.wondershare.com/cbs_down/ri_64bit_14.0.1_full4134.exe
 
 #### wondershare-repairit-cn
 
