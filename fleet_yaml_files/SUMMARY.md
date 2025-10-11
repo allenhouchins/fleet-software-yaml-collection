@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-10-10 18:05:07 UTC
+Generated on: 2025-10-11 06:05:27 UTC
 
 ## Summary
 
-Total entries processed: 6720
+Total entries processed: 6723
 - macOS files: 393
-- Windows files: 6327
+- Windows files: 6330
 
 ## Generated Files
 
@@ -1405,7 +1405,7 @@ Total entries processed: 6720
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `hackolade.yml`
-- **URL**: https://hackolade.s3.amazonaws.com/previous/v8.5.0/Hackolade-macARM64-setup-signed.pkg
+- **URL**: https://hackolade.s3.amazonaws.com/previous/v8.5.1/Hackolade-macARM64-setup-signed.pkg
 
 #### hancom-docs
 
@@ -3043,7 +3043,7 @@ Total entries processed: 6720
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `teleport-suite.yml`
-- **URL**: https://cdn.teleport.dev/teleport-18.2.6.pkg
+- **URL**: https://cdn.teleport.dev/teleport-18.2.7.pkg
 
 #### temurin-11
 
@@ -3358,7 +3358,7 @@ Total entries processed: 6720
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `wifi-explorer-pro.yml`
-- **URL**: https://www.intuitibits.com/downloads/WiFiExplorerPro_3.8.pkg
+- **URL**: https://www.intuitibits.com/downloads/WiFiExplorerPro_3.8.1.pkg
 
 #### wifiman
 
@@ -6933,7 +6933,7 @@ Total entries processed: 6720
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `anysphere-cursor.yml`
-- **URL**: https://downloads.cursor.com/production/df79b2380cd32922cad03529b0dc0c946c311856/win32/x64/user-setup/CursorUserSetup-x64-1.7.40.exe
+- **URL**: https://downloads.cursor.com/production/9d178a4a5589981b62546448bb32920a8219a5de/win32/x64/user-setup/CursorUserSetup-x64-1.7.44.exe
 
 #### apache-directorystudio
 
@@ -6996,7 +6996,7 @@ Total entries processed: 6720
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `apidocumentation-scalar.yml`
-- **URL**: https://download.todesktop.com/240718bnjmcfyp4/Scalar%20Setup%200.1.214%20-%20Build%20250710ycf48ha6u-x64.exe
+- **URL**: https://download.todesktop.com/240718bnjmcfyp4/Scalar%20Setup%200.1.238%20-%20Build%20251008w7vkto0px-x64.exe
 
 #### apipost-apipost
 
@@ -11397,7 +11397,7 @@ Total entries processed: 6720
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `browseros-browseros.yml`
-- **URL**: https://github.com/browseros-ai/BrowserOS/releases/download/v0.26.0/BrowserOS_v0.26.0_x64_installer.exe
+- **URL**: https://github.com/browseros-ai/BrowserOS/releases/download/v0.26.1/BrowserOS_v0.26.1_x64_installer.exe
 
 #### browserstack-browserstacklocal
 
@@ -16392,7 +16392,7 @@ Total entries processed: 6720
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `discord-discord-canary.yml`
-- **URL**: https://canary.dl2.discordapp.net/distro/app/canary/win/x64/1.0.739/DiscordCanarySetup.exe
+- **URL**: https://canary.dl2.discordapp.net/distro/app/canary/win/x64/1.0.740/DiscordCanarySetup.exe
 
 #### discord-discord-development
 
@@ -16401,7 +16401,7 @@ Total entries processed: 6720
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `discord-discord-development.yml`
-- **URL**: https://development.dl2.discordapp.net/distro/app/development/win/x64/1.0.943/DiscordDevelopmentSetup.exe
+- **URL**: https://development.dl2.discordapp.net/distro/app/development/win/x64/1.0.944/DiscordDevelopmentSetup.exe
 
 #### discord-discord-ptb
 
@@ -20694,7 +20694,7 @@ Total entries processed: 6720
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `francisbanyikwa-sirikali.yml`
-- **URL**: https://github.com/mhogomchungu/sirikali/releases/download/1.8.3/SiriKaliQt6-1.8.3.setup.exe
+- **URL**: https://github.com/mhogomchungu/sirikali/releases/download/1.8.4/SiriKaliQt6-1.8.4.setup.exe
 
 #### francwhite-reportify
 
@@ -20883,7 +20883,7 @@ Total entries processed: 6720
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `freeorion-freeorion.yml`
-- **URL**: https://github.com/freeorion/freeorion/releases/download/v0.5.1/FreeOrion_v0.5.1_Win32_Setup.exe
+- **URL**: https://github.com/freeorion/freeorion/releases/download/v0.5.1.1/FreeOrion_v0.5.1.1_Win32_Setup.exe
 
 #### freeplane-freeplane
 
@@ -22026,7 +22026,7 @@ Total entries processed: 6720
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `glab-glab.yml`
-- **URL**: https://gitlab.com/gitlab-org/cli/-/releases/v1.73.0/downloads/glab_1.73.0_Windows_x86_64_installer.exe
+- **URL**: https://gitlab.com/gitlab-org/cli/-/releases/v1.73.1/downloads/glab_1.73.1_Windows_x86_64_installer.exe
 
 #### glassdevtools-void
 
@@ -22359,7 +22359,7 @@ Total entries processed: 6720
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-dev-exe.yml`
-- **URL**: https://dl.google.com/release2/chrome/k6cgb4widhnwxfrvmizvsnchze_143.0.7445.3/143.0.7445.3_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/advu3c6kbmwqa66p53vaf3zfsqla_143.0.7461.2/143.0.7461.2_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev
 
@@ -22791,7 +22791,7 @@ Total entries processed: 6720
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `grafanalabs-alloy.yml`
-- **URL**: https://github.com/grafana/alloy/releases/download/v1.11.0-rc.3/alloy-installer-windows-amd64.exe
+- **URL**: https://github.com/grafana/alloy/releases/download/v1.11.2/alloy-installer-windows-amd64.exe
 
 #### grafanalabs-grafana-enterprise
 
@@ -23061,7 +23061,7 @@ Total entries processed: 6720
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gruntwork-terragrunt.yml`
-- **URL**: https://github.com/gruntwork-io/terragrunt/releases/download/v0.89.4/terragrunt_windows_amd64.exe
+- **URL**: https://github.com/gruntwork-io/terragrunt/releases/download/v0.90.0/terragrunt_windows_amd64.exe
 
 #### grz-meshcam
 
@@ -25311,7 +25311,7 @@ Total entries processed: 6720
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `integrit-hackolade.yml`
-- **URL**: https://s3-eu-west-1.amazonaws.com/hackolade/previous/v8.5.0/Hackolade-win64-setup-signed.exe
+- **URL**: https://s3-eu-west-1.amazonaws.com/hackolade/previous/v8.5.1/Hackolade-win64-setup-signed.exe
 
 #### intel-fortrancompiler
 
@@ -28137,7 +28137,7 @@ Total entries processed: 6720
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-akregator.yml`
-- **URL**: https://cdn.kde.org/ci-builds/pim/akregator/master/windows/akregator-master-2361-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/pim/akregator/master/windows/akregator-master-2369-windows-cl-msvc2022-x86_64.exe
 
 #### kde-ark
 
@@ -28389,7 +28389,7 @@ Total entries processed: 6720
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kdenlive.yml`
-- **URL**: https://download.kde.org/stable/kdenlive/25.08/windows/kdenlive-25.08.1_A.exe
+- **URL**: https://download.kde.org/stable/kdenlive/25.08/windows/kdenlive-25.08.2.exe
 
 #### kde-kdevelop
 
@@ -28569,7 +28569,7 @@ Total entries processed: 6720
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-konsole.yml`
-- **URL**: https://cdn.kde.org/ci-builds/utilities/konsole/master/windows/konsole-master-4293-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/utilities/konsole/master/windows/konsole-master-4296-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kontact
 
@@ -30747,7 +30747,7 @@ Total entries processed: 6720
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `loft-sh-vcluster.yml`
-- **URL**: https://github.com/loft-sh/vcluster/releases/download/v0.29.0/vcluster-windows-amd64.exe
+- **URL**: https://github.com/loft-sh/vcluster/releases/download/v0.29.1/vcluster-windows-amd64.exe
 
 #### loftlabs-devpod-cli
 
@@ -32277,7 +32277,7 @@ Total entries processed: 6720
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `meitu-colorbyte-pro.yml`
-- **URL**: https://obs-large.mtlab.meitu.com/electron/colorbyte/7.3.0/5764/MeituYunxiu7.3.0.exe
+- **URL**: https://obs.mtlab.meitu.com/public/itc2_gumd4GoGYxjW9Ncq5rzVlVzmnnT/MTc1OTA1MDAwMA==/adcbbc45-a6c0-4ba6-61cd-1e7117add248.exe
 
 #### meitu-colorbyte
 
@@ -33222,7 +33222,7 @@ Total entries processed: 6720
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-gameinput.yml`
-- **URL**: https://github.com/microsoftconnect/GameInput/releases/download/v2.2.26100.6114/GameInputRedist.msi
+- **URL**: https://github.com/microsoftconnect/GameInput/releases/download/v3.0.26100.6154/GameInputRedist.msi
 
 #### microsoft-gaming-tak-cli
 
@@ -39468,7 +39468,7 @@ Total entries processed: 6720
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `musescore-musescore.yml`
-- **URL**: https://github.com/musescore/MuseScore/releases/download/v4.6.1/MuseScore-Studio-4.6.1.252801513-x86_64.msi
+- **URL**: https://github.com/musescore/MuseScore/releases/download/v4.6.2/MuseScore-Studio-4.6.2.252830930-x86_64.msi
 
 #### musicbrainz-picard
 
@@ -40809,7 +40809,7 @@ Total entries processed: 6720
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nitrorcr-aiasworkspace.yml`
-- **URL**: https://github.com/NitroRCr/AIaW/releases/download/v1.8.4/AI.as.Workspace_1.8.4_x64-setup.exe
+- **URL**: https://github.com/NitroRCr/AIaW/releases/download/v1.8.5/AI.as.Workspace_1.8.5_x64-setup.exe
 
 #### nitrosoftware-nitropro-nls
 
@@ -43862,6 +43862,15 @@ Total entries processed: 6720
 - **File**: `peculiarventures-fortify.yml`
 - **URL**: https://github.com/PeculiarVentures/fortify-releases/releases/download/v2.1.0/Fortify_2.1.0_x64_en-US.msi
 
+#### pelleorinius-pellesc
+
+- **Source**: winget
+- **Name**: pelleorinius-pellesc
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `pelleorinius-pellesc.yml`
+- **URL**: http://www.smorgasbordet.com/pellesc/1300/setup.exe
+
 #### penguinlabs-cacher
 
 - **Source**: winget
@@ -45761,6 +45770,15 @@ Total entries processed: 6720
 - **File**: `pvs-audactouch.yml`
 - **URL**: https://downloads.pvs.global/downloads/audac/software/Touch2/release/AudacTouch2-setup.exe
 
+#### pvs-studio-pvs-studio
+
+- **Source**: winget
+- **Name**: pvs-studio-pvs-studio
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `pvs-studio-pvs-studio.yml`
+- **URL**: https://files.pvs-studio.com/PVS-Studio_setup.exe
+
 #### pvsyst-pvsyst
 
 - **Source**: winget
@@ -46389,7 +46407,7 @@ Total entries processed: 6720
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `radius-radius.yml`
-- **URL**: https://github.com/radius-project/radius/releases/download/v0.51.0/rad_windows_amd64.exe
+- **URL**: https://github.com/radius-project/radius/releases/download/v0.52.0/rad_windows_amd64.exe
 
 #### radolynlabs-ayugramdesktop
 
@@ -46515,7 +46533,7 @@ Total entries processed: 6720
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rakuten-viber.yml`
-- **URL**: https://download.cdn.viber.com/desktop/windows/26.3.0/ViberSetup.msi
+- **URL**: https://download.cdn.viber.com/desktop/windows/26.3.2/ViberSetup.msi
 
 #### rambax-simpletransfer
 
@@ -49998,7 +50016,7 @@ Total entries processed: 6720
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sigstore-cosign.yml`
-- **URL**: https://github.com/sigstore/cosign/releases/download/v3.0.1/cosign-windows-amd64.exe
+- **URL**: https://github.com/sigstore/cosign/releases/download/v3.0.2/cosign-windows-amd64.exe
 
 #### sikalabs-slu
 
@@ -56847,7 +56865,7 @@ Total entries processed: 6720
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.1844/gvim_9.1.1844_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.1846/gvim_9.1.1846_x64.exe
 
 #### vim-vim
 
@@ -57289,6 +57307,15 @@ Total entries processed: 6720
 - **Version**: 
 - **File**: `vovsoft-imagetocartoonconverter.yml`
 - **URL**: https://files.vovsoft.com/image-to-cartoon-converter.exe
+
+#### vovsoft-jsontocsvconverter
+
+- **Source**: winget
+- **Name**: vovsoft-jsontocsvconverter
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `vovsoft-jsontocsvconverter.yml`
+- **URL**: https://files.vovsoft.com/json-to-csv-converter.exe
 
 #### vovsoft-keepsoftwarealive
 
