@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-10-12 06:05:03 UTC
+Generated on: 2025-10-12 18:05:05 UTC
 
 ## Summary
 
-Total entries processed: 6723
+Total entries processed: 6721
 - macOS files: 393
-- Windows files: 6330
+- Windows files: 6328
 
 ## Generated Files
 
@@ -2863,7 +2863,7 @@ Total entries processed: 6723
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `softube-central.yml`
-- **URL**: https://softubestorage.b-cdn.net/softubecentraldata/softubecentral/Softube%20Central-2.1.1-universal.pkg
+- **URL**: https://softubestorage.b-cdn.net/softubecentraldata/softubecentral/Softube%20Central-2.1.2-universal.pkg
 
 #### softubecentral
 
@@ -5178,7 +5178,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `alexx2000-doublecommander.yml`
-- **URL**: https://github.com/doublecmd/doublecmd/releases/download/v1.1.28/doublecmd-1.1.28.x86_64-win64.msi
+- **URL**: https://github.com/doublecmd/doublecmd/releases/download/v1.1.29/doublecmd-1.1.29.x86_64-win64.msi
 
 #### alfaview-alfaview
 
@@ -7410,7 +7410,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `artemchepurnyi-keyguard.yml`
-- **URL**: https://github.com/AChep/keyguard-app/releases/download/r20250915/Keyguard-1.15.0.msi
+- **URL**: https://github.com/AChep/keyguard-app/releases/download/r20251012/Keyguard-1.15.1.msi
 
 #### artempyanykh-marksman
 
@@ -15555,7 +15555,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `deanxv-donehub.yml`
-- **URL**: https://github.com/deanxv/done-hub/releases/download/v1.7.0/done-hub.exe
+- **URL**: https://github.com/deanxv/done-hub/releases/download/v1.7.1/done-hub.exe
 
 #### debaucheeopensourcegroup-barrier
 
@@ -22350,7 +22350,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/f7bkvnttmxd6h234uyuxig7yca_143.0.7466.0/143.0.7466.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/ad3gren7sfnjj5pybzpehcwcpfaq_143.0.7467.0/143.0.7467.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -22359,7 +22359,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-dev-exe.yml`
-- **URL**: https://dl.google.com/release2/chrome/advu3c6kbmwqa66p53vaf3zfsqla_143.0.7461.2/143.0.7461.2_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/adrwby5igyjtklgdki4vfqstrkwq_143.0.7461.3/143.0.7461.3_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev
 
@@ -24033,7 +24033,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `houmain-keymapper.yml`
-- **URL**: https://github.com/houmain/keymapper/releases/download/5.0.0/keymapper-5.0.0-Windows-x86_64.msi
+- **URL**: https://github.com/houmain/keymapper/releases/download/5.1.0/keymapper-5.1.0-Windows-x86_64.msi
 
 #### housatonic-projectplan365
 
@@ -24969,7 +24969,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `igoogolx-lux.yml`
-- **URL**: https://github.com/igoogolx/lux/releases/download/v1.39.0/lux-1.39.0-x64-windows.exe
+- **URL**: https://github.com/igoogolx/lux/releases/download/v1.39.1/lux-1.39.1-x64-windows.exe
 
 #### igoravl-tfscmdlets
 
@@ -34356,7 +34356,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mikrotik-thedude.yml`
-- **URL**: https://download.mikrotik.com/routeros/7.16/dude-install-7.16.exe
+- **URL**: https://download.mikrotik.com/routeros/7.1/dude-install-7.1.exe
 
 #### mikrotik-winbox
 
@@ -35023,15 +35023,6 @@ Total entries processed: 6723
 - **Version**: 
 - **File**: `mono-mono.yml`
 - **URL**: https://download.mono-project.com/archive/6.8.0/windows-installer/mono-6.8.0.72-x64-0.msi
-
-#### monosnap-monosnap
-
-- **Source**: winget
-- **Name**: monosnap-monosnap
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `monosnap-monosnap.yml`
-- **URL**: https://static.monosnap.com/windows/MonosnapSetup.exe
 
 #### monsterkodi-clippo
 
@@ -39954,7 +39945,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `neosubhamoy-neodlp.yml`
-- **URL**: https://github.com/neosubhamoy/neodlp/releases/download/v0.3.0/NeoDLP_0.3.0_x64-setup.exe
+- **URL**: https://github.com/neosubhamoy/neodlp/releases/download/v0.3.1/NeoDLP_0.3.1_x64-setup.exe
 
 #### neosubhamoy-pytubepp-helper
 
@@ -41485,15 +41476,6 @@ Total entries processed: 6723
 - **Version**: 
 - **File**: `nvidia-icat.yml`
 - **URL**: https://icat-public-releases.s3.amazonaws.com/ICAT-0.6.1.exe
-
-#### nvidia-omniverse
-
-- **Source**: winget
-- **Name**: nvidia-omniverse
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `nvidia-omniverse.yml`
-- **URL**: https://install.launcher.omniverse.nvidia.com/installers/omniverse-launcher-win.exe
 
 #### nvidia-rtxvoice
 
@@ -43734,7 +43716,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pbh-btn-peerbanhelper.yml`
-- **URL**: https://github.com/PBH-BTN/PeerBanHelper/releases/download/v9.0.7/PeerBanHelper_windows-x64_9.0.7.exe
+- **URL**: https://github.com/PBH-BTN/PeerBanHelper/releases/download/v9.0.9/PeerBanHelper_windows-x64_9.0.9.exe
 
 #### pclcommunity-pcl2-beta
 
@@ -53616,7 +53598,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `telegram-telegramdesktop.yml`
-- **URL**: https://td.telegram.org/tx64/tsetup-x64.6.1.3.exe
+- **URL**: https://td.telegram.org/tx64/tsetup-x64.6.2.3.exe
 
 #### telerik-fiddler-classic
 
@@ -54030,7 +54012,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `terreng-simplewebserver.yml`
-- **URL**: https://github.com/terreng/simple-web-server/releases/download/v1.2.15/Simple-Web-Server-Installer-1.2.15-x64.exe
+- **URL**: https://github.com/terreng/simple-web-server/releases/download/v1.2.17/Simple-Web-Server-Installer-1.2.17-x64.exe
 
 #### terryreese-marcedit
 
