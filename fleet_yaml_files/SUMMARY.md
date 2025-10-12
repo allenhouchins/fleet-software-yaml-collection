@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-10-11 18:04:32 UTC
+Generated on: 2025-10-12 06:05:03 UTC
 
 ## Summary
 
@@ -1684,7 +1684,7 @@ Total entries processed: 6723
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `mac-monitor.yml`
-- **URL**: https://github.com/Brandon7CC/mac-monitor/releases/download/v1.9.0/Mac-Monitor.pkg
+- **URL**: https://github.com/Brandon7CC/mac-monitor/releases/download/v1.9.1/Mac-Monitor.pkg
 
 #### mactex-no-gui
 
@@ -10011,7 +10011,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `betterbird-betterbird.yml`
-- **URL**: https://www.betterbird.eu/downloads/WindowsInstaller/betterbird-140.3.1esr-bb12.en-US.win64.installer.exe
+- **URL**: https://www.betterbird.eu/downloads/WindowsInstaller/betterbird-140.4.0esr-bb13.en-US.win64.installer.exe
 
 #### beyond-all-reason-beyond-all-reason
 
@@ -11397,7 +11397,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `browseros-browseros.yml`
-- **URL**: https://github.com/browseros-ai/BrowserOS/releases/download/v0.26.1/BrowserOS_v0.26.1_x64_installer.exe
+- **URL**: https://github.com/browseros-ai/BrowserOS/releases/download/v0.27.0/BrowserOS_v0.27.0_x64_installer.exe
 
 #### browserstack-browserstacklocal
 
@@ -11487,7 +11487,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bshuzhang-pplink.yml`
-- **URL**: https://www.ppzhilian.com/download/win/PP直连%20Setup%2015.0.3.exe
+- **URL**: https://www.ppzhilian.com/download/win/PP直连%20Setup%2015.2.0.exe
 
 #### btargac-excel-parser-processor
 
@@ -20478,7 +20478,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `folge-folge.yml`
-- **URL**: https://cdn.folge.me/Folge-1.27.0.exe
+- **URL**: https://cdn.folge.me/Folge-1.27.3.exe
 
 #### fontke-likefont
 
@@ -22350,7 +22350,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/btdofgi2ir6dyiungn5sbhw3ci_143.0.7465.0/143.0.7465.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/f7bkvnttmxd6h234uyuxig7yca_143.0.7466.0/143.0.7466.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -44589,7 +44589,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pocketsync-pocketsync.yml`
-- **URL**: https://github.com/neil-morrison44/pocket-sync/releases/download/v5.9.0/Pocket.Sync_5.9.0_x64-setup.exe
+- **URL**: https://github.com/neil-morrison44/pocket-sync/releases/download/v5.9.1/Pocket.Sync_5.9.1_x64-setup.exe
 
 #### poetries-yuqing-monitor-electron
 
@@ -51906,7 +51906,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `stirlingtools-stirlingpdf.yml`
-- **URL**: https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v1.3.2/Stirling-PDF-win-installer.exe
+- **URL**: https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v1.4.0/Stirling-PDF-win-installer.exe
 
 #### stnkl-everythingtoolbar-beta
 
@@ -56028,7 +56028,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `unibo-alchemist.yml`
-- **URL**: https://github.com/AlchemistSimulator/Alchemist/releases/download/42.3.8/alchemist-42.3.8.msi
+- **URL**: https://github.com/AlchemistSimulator/Alchemist/releases/download/42.3.9/alchemist-42.3.9.msi
 
 #### uniconta-uniconta
 
@@ -57405,7 +57405,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vrcx-vrcx.yml`
-- **URL**: https://github.com/vrcx-team/VRCX/releases/download/v2025.09.10/VRCX_20250910_Setup.exe
+- **URL**: https://github.com/vrcx-team/VRCX/releases/download/v2025.10.11/VRCX_2025.10.11_Setup.exe
 
 #### vromans-chordpro
 
@@ -59637,7 +59637,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yaak-app.yml`
-- **URL**: https://github.com/mountain-loop/yaak/releases/download/v2025.6.0/Yaak_2025.6.0_x64-setup.exe
+- **URL**: https://github.com/mountain-loop/yaak/releases/download/v2025.6.1/Yaak_2025.6.1_x64-setup.exe
 
 #### yabe-yetanotherbacnetexplorer
 
@@ -60294,7 +60294,7 @@ Total entries processed: 6723
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zoho-ulaa.yml`
-- **URL**: https://ulaa.zoho.com/release/win/Ulaa-Browser-v2.36.1.exe
+- **URL**: https://ulaa.zoho.com/release/win/Ulaa-Browser-v2.36.2.exe
 
 #### zoid-meru
 
