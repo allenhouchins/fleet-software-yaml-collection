@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-10-12 18:05:05 UTC
+Generated on: 2025-10-13 06:05:15 UTC
 
 ## Summary
 
@@ -3304,7 +3304,7 @@ Total entries processed: 6721
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `virtualdj.yml`
-- **URL**: https://download.virtualdj.com/b8752/743A52B6/install_virtualdj_2025_b8752_mac.pkg
+- **URL**: https://download.virtualdj.com/b8800/C7A7165E/install_virtualdj_2025_b8800_mac.pkg
 
 #### vnc-server
 
@@ -4611,7 +4611,7 @@ Total entries processed: 6721
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `agfeo-agfeodashboard.yml`
-- **URL**: https://partner.agfeo.de/agfeo_web/dokulib.nsf/Anlage_w/ED68FAFF79A9EF74C1258CC2004F4EB4/%24FILE/AGFEO-Dashboard-2.2.8-x64.msi
+- **URL**: https://info.agfeo.de/agfeo_web/dokulib.nsf/Anlage_w/35C7DB9E2B6C0340C1258C1B004BCCFD/%24FILE/AGFEO-Dashboard-2.2.2-x64.msi
 
 #### agilebits-1password-beta
 
@@ -7005,7 +7005,7 @@ Total entries processed: 6721
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `apipost-apipost.yml`
-- **URL**: https://img.cdn.apipost.cn/dl/8.2.3/Apipost_win_x64_8.2.3.exe
+- **URL**: https://img.cdn.apipost.cn/dl/8.2.4/Apipost_win_x64_8.2.4.exe
 
 #### appbytroye-koodoreader
 
@@ -12801,7 +12801,7 @@ Total entries processed: 6721
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `chrisant996-clink.yml`
-- **URL**: https://github.com/chrisant996/clink/releases/download/v1.8.5/clink.1.8.5.89b0f1_setup.exe
+- **URL**: https://github.com/chrisant996/clink/releases/download/v1.8.6/clink.1.8.6.08aab5_setup.exe
 
 #### chrisklimas-twine
 
@@ -24321,7 +24321,7 @@ Total entries processed: 6721
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hydralauncher-hydra.yml`
-- **URL**: https://github.com/hydralauncher/hydra/releases/download/v3.6.8/hydralauncher-3.6.8-setup.exe
+- **URL**: https://github.com/hydralauncher/hydra/releases/download/v3.7.0/hydralauncher-3.7.0-setup.exe
 
 #### hydrogen-music-hydrogen
 
@@ -28263,7 +28263,7 @@ Total entries processed: 6721
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-haruna.yml`
-- **URL**: https://cdn.kde.org/ci-builds/multimedia/haruna/master/windows/haruna-master-1428-windows-gcc-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/multimedia/haruna/master/windows/haruna-master-1432-windows-gcc-x86_64.exe
 
 #### kde-kaidan
 
@@ -34338,7 +34338,7 @@ Total entries processed: 6721
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mikefarah-yq.yml`
-- **URL**: https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_windows_amd64.exe
+- **URL**: https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_windows_amd64.exe
 
 #### mikf-gallery-dl-nightly
 
@@ -47019,7 +47019,7 @@ Total entries processed: 6721
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rem0o-fancontrol.yml`
-- **URL**: https://github.com/Rem0o/FanControl.Releases/releases/download/V243/FanControl_243_net_8_0_Installer.exe
+- **URL**: https://github.com/Rem0o/FanControl.Releases/releases/download/V244/FanControl_244_net_8_0_Installer.exe
 
 #### remarkable-remarkablecompanionapp
 
@@ -56064,7 +56064,7 @@ Total entries processed: 6721
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `unikeen-sjmcl.yml`
-- **URL**: https://mc.sjtu.cn/sjmcl/releases/SJMCL_0.4.3_windows_x86_64.msi
+- **URL**: https://mc.sjtu.cn/sjmcl/releases/SJMCL_0.4.4_windows_x86_64.msi
 
 #### unipro-ugene
 
@@ -56847,7 +56847,7 @@ Total entries processed: 6721
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.1846/gvim_9.1.1846_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.1852/gvim_9.1.1852_x64.exe
 
 #### vim-vim
 
