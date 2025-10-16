@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-10-16 06:05:38 UTC
+Generated on: 2025-10-16 18:05:22 UTC
 
 ## Summary
 
-Total entries processed: 6746
+Total entries processed: 6748
 - macOS files: 393
-- Windows files: 6353
+- Windows files: 6355
 
 ## Generated Files
 
@@ -1342,7 +1342,7 @@ Total entries processed: 6746
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `gog-galaxy.yml`
-- **URL**: https://gog-cdn-fastly.gog.com/open/galaxy/client/galaxy_client_2.0.88.15.pkg
+- **URL**: https://gog-cdn-fastly.gog.com/open/galaxy/client/galaxy_client_2.0.89.99.pkg
 
 #### googlechromeenterprise
 
@@ -1684,7 +1684,7 @@ Total entries processed: 6746
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `mac-monitor.yml`
-- **URL**: https://github.com/Brandon7CC/mac-monitor/releases/download/v1.9.1/Mac-Monitor.pkg
+- **URL**: https://github.com/Brandon7CC/mac-monitor/releases/download/v2.0.0/Mac-Monitor.pkg
 
 #### mactex-no-gui
 
@@ -2719,7 +2719,7 @@ Total entries processed: 6746
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `segger-jlink.yml`
-- **URL**: https://www.segger.com/downloads/jlink/JLink_MacOSX_V876_universal.pkg
+- **URL**: https://www.segger.com/downloads/jlink/JLink_MacOSX_V878_universal.pkg
 
 #### segger-ozone
 
@@ -3196,7 +3196,7 @@ Total entries processed: 6746
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `unifi-identity-endpoint.yml`
-- **URL**: https://fw-download.ubnt.com/data/uid-identity-standard-desktop-app/dcdc-macOS-3.3.3-f96c6674-fe51-4686-8545-7d5b23438138.pkg
+- **URL**: https://fw-download.ubnt.com/data/uid-identity-standard-desktop-app/b546-macOS-3.4.0-b17ca6f2-9d3f-4aaf-88d6-6e5d423caec2.pkg
 
 #### unifi-identity-enterprise
 
@@ -7276,6 +7276,15 @@ Total entries processed: 6746
 - **Version**: 
 - **File**: `arelle-arelle.yml`
 - **URL**: https://github.com/Arelle/Arelle/releases/download/2.37.7/arelle-win-2.37.7.exe
+
+#### ares-ares
+
+- **Source**: winget
+- **Name**: ares-ares
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `ares-ares.yml`
+- **URL**: https://amzn-s3-ares-ins.s3.sa-east-1.amazonaws.com/ares-0.3.1-x86_64.msi
 
 #### argoproj-argocd
 
@@ -14441,6 +14450,15 @@ Total entries processed: 6746
 - **File**: `cpuid-cpu-z-gbt.yml`
 - **URL**: https://download.cpuid.com/cpu-z/cpu-z_2.14-gbt-en.exe
 
+#### cpuid-cpu-z-msi
+
+- **Source**: winget
+- **Name**: cpuid-cpu-z-msi
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `cpuid-cpu-z-msi.yml`
+- **URL**: https://download.cpuid.com/cpu-z/cpu-z_2.16-msi-en.exe
+
 #### cpuid-cpu-z-phantom
 
 - **Source**: winget
@@ -18858,7 +18876,7 @@ Total entries processed: 6746
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `eset-nod32.yml`
-- **URL**: https://download.eset.com/com/eset/apps/home/eav/windows/latest/eav_nt64.exe
+- **URL**: https://download.eset.com/com/eset/apps/home/eav/windows/v18/18.2.18.0/eav_nt64.exe
 
 #### eset-security-smallbusiness
 
@@ -27282,7 +27300,7 @@ Total entries processed: 6746
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-teamcity.yml`
-- **URL**: https://download.jetbrains.com/teamcity/TeamCity-2025.07.2.exe
+- **URL**: https://download.jetbrains.com/teamcity/TeamCity-2025.07.3.exe
 
 #### jetbrains-toolbox
 
@@ -33672,7 +33690,7 @@ Total entries processed: 6746
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-powertoys.yml`
-- **URL**: https://github.com/microsoft/PowerToys/releases/download/v0.94.2/PowerToysUserSetup-0.94.2-x64.exe
+- **URL**: https://github.com/microsoft/PowerToys/releases/download/v0.95.0/PowerToysUserSetup-0.95.0-x64.exe
 
 #### microsoft-printmetadatatroubleshooter
 
@@ -41511,7 +41529,7 @@ Total entries processed: 6746
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nvidia-cuda.yml`
-- **URL**: https://developer.download.nvidia.com/compute/cuda/13.0.1/local_installers/cuda_13.0.1_windows.exe
+- **URL**: https://developer.download.nvidia.com/compute/cuda/13.0.2/local_installers/cuda_13.0.2_windows.exe
 
 #### nvidia-displayidfirmwareupdater
 

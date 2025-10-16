@@ -1,4 +1,4 @@
-url: https://gog-cdn-fastly.gog.com/open/galaxy/client/galaxy_client_2.0.89.99.pkg
+url: https://amzn-s3-ares-ins.s3.sa-east-1.amazonaws.com/ares-0.3.1-x86_64.msi
 automatic_install: false
 self_service: false
 categories: []
