@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-10-16 18:05:22 UTC
+Generated on: 2025-10-17 06:05:18 UTC
 
 ## Summary
 
@@ -11739,7 +11739,7 @@ Total entries processed: 6748
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bytedance-capcut.yml`
-- **URL**: https://sf16-web-tos-buz.capcutcdn-us.com/obj/capcut-web-buz-tx/packages/CapCut_7_1_0_2881_capcutpc_0_creatortool.exe
+- **URL**: https://sf16-web-tos-buz.capcutcdn-us.com/obj/capcut-web-buz-tx/packages/CapCut_7_3_0_2974_capcutpc_0_creatortool.exe
 
 #### bytedance-debugtron
 
@@ -16050,7 +16050,7 @@ Total entries processed: 6748
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `devolutions-serverconsole.yml`
-- **URL**: https://cdn.devolutions.net/download/Setup.DVLS.Console.2025.2.9.0.exe
+- **URL**: https://cdn.devolutions.net/download/Setup.DVLS.Console.2025.3.2.0.exe
 
 #### devolutions-workspace
 
@@ -24375,7 +24375,7 @@ Total entries processed: 6748
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hydralauncher-hydra.yml`
-- **URL**: https://github.com/hydralauncher/hydra/releases/download/v3.7.0/hydralauncher-3.7.0-setup.exe
+- **URL**: https://github.com/hydralauncher/hydra/releases/download/v3.7.1/hydralauncher-3.7.1-setup.exe
 
 #### hydrogen-music-hydrogen
 
@@ -26940,7 +26940,7 @@ Total entries processed: 6748
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-clion-eap.yml`
-- **URL**: https://download.jetbrains.com/cpp/CLion-253.24325.50.exe
+- **URL**: https://download.jetbrains.com/cpp/CLion-253.25908.36.exe
 
 #### jetbrains-clion
 
@@ -27237,7 +27237,7 @@ Total entries processed: 6748
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-rider-eap.yml`
-- **URL**: https://download.jetbrains.com/rider/JetBrains.Rider-2025.3-EAP4-253.24325.45.Checked.exe
+- **URL**: https://download.jetbrains.com/rider/JetBrains.Rider-2025.3-EAP5-253.25908.23.Checked.exe
 
 #### jetbrains-rider
 
@@ -28209,7 +28209,7 @@ Total entries processed: 6748
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-akregator.yml`
-- **URL**: https://cdn.kde.org/ci-builds/pim/akregator/master/windows/akregator-master-2369-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/pim/akregator/master/windows/akregator-master-2377-windows-cl-msvc2022-x86_64.exe
 
 #### kde-ark
 
@@ -36012,7 +36012,7 @@ Total entries processed: 6748
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-ne-np.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/144.0b9/win64/ne-NP/Firefox%20Setup%20144.0b9.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b2/win64/ne-NP/Firefox%20Setup%20145.0b2.exe
 
 #### mozilla-firefox-developeredition-nl
 
@@ -36273,7 +36273,7 @@ Total entries processed: 6748
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-ur.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/144.0b9/win64/ur/Firefox%20Setup%20144.0b9.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b2/win64/ur/Firefox%20Setup%20145.0b2.exe
 
 #### mozilla-firefox-developeredition-uz
 
@@ -40557,7 +40557,7 @@ Total entries processed: 6748
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ni-ni-daqmx.yml`
-- **URL**: https://download.ni.com/support/nipkg/products/ni-d/ni-daqmx/25.5/online/ni-daqmx_25.5_online.exe
+- **URL**: https://download.ni.com/support/nipkg/products/ni-d/ni-daqmx/25.8/online/ni-daqmx_25.8_online.exe
 
 #### ni-ni-packagemanager
 
@@ -40575,7 +40575,7 @@ Total entries processed: 6748
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ni-ni-pxiplatformservices.yml`
-- **URL**: https://download.ni.com/support/nipkg/products/ni-p/ni-pxiplatformservices/25.5/online/ni-pxiplatformservices_25.5_online.exe
+- **URL**: https://download.ni.com/support/nipkg/products/ni-p/ni-pxiplatformservices/25.8/online/ni-pxiplatformservices_25.8_online.exe
 
 #### ni-ni-serial
 
@@ -44175,7 +44175,7 @@ Total entries processed: 6748
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `photonicstul-plask.yml`
-- **URL**: https://get.plask.app/packages/PLaSK-2025.08.12-win64-py313.exe
+- **URL**: https://get.plask.app/packages/PLaSK-2025.10.09-win64-py313.exe
 
 #### photovariantssoftware-photovariants
 
@@ -48351,7 +48351,7 @@ Total entries processed: 6748
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rubyinstallerteam-rubywithdevkit-3-4.yml`
-- **URL**: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.6-1/rubyinstaller-devkit-3.4.6-1-x64.exe
+- **URL**: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.7-1/rubyinstaller-devkit-3.4.7-1-x64.exe
 
 #### rubymetric-chsrc
 
@@ -53688,7 +53688,7 @@ Total entries processed: 6748
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `techsmith-camtasia.yml`
-- **URL**: https://download.techsmith.com/camtasiastudio/releases/2523/camtasia.exe
+- **URL**: https://download.techsmith.com/camtasiastudio/releases/2524/camtasia.exe
 
 #### techsmith-snagit-2020
 
@@ -54102,7 +54102,7 @@ Total entries processed: 6748
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-yuanbao.yml`
-- **URL**: https://cdn-hybrid-prod.hunyuan.tencent.com/Desktop/official/f571bfec951d0b9017b22b5c71d10dd3/yuanbao_2.41.0.616_x64.exe
+- **URL**: https://cdn-hybrid-prod.hunyuan.tencent.com/Desktop/official/3ae883183206b1c186f991761e681975/yuanbao_2.41.10.627_x64.exe
 
 #### tenpi-musicplayer
 
@@ -60078,7 +60078,7 @@ Total entries processed: 6748
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yuanli-utools.yml`
-- **URL**: https://open.u-tools.cn/download/uTools-7.2.1.exe
+- **URL**: https://open.u-tools.cn/download/uTools-7.3.1.exe
 
 #### yubico-authenticator
 
@@ -60348,7 +60348,7 @@ Total entries processed: 6748
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zermelosoftwarebv-zermelodesktop.yml`
-- **URL**: https://downloads.zermelo.nl/programmas/zermelo64-25-09-0-setup.exe
+- **URL**: https://downloads.zermelo.nl/programmas/zermelo64-25-10-0-setup.exe
 
 #### zerotier-zerotierone
 
