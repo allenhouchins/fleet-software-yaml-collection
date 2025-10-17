@@ -1,4 +1,4 @@
-url: https://archive.apache.org/dist/netbeans/netbeans-installers/25/Apache-NetBeans-25-bin-windows-x64.exe
+url: https://github.com/Friends-of-Apache-NetBeans/netbeans-installers/releases/download/v27-build1/Apache-NetBeans-27.exe
 automatic_install: false
 self_service: false
 categories: []
