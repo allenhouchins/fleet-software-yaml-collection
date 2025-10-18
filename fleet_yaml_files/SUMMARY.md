@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-10-18 06:05:06 UTC
+Generated on: 2025-10-18 18:05:02 UTC
 
 ## Summary
 
-Total entries processed: 6750
+Total entries processed: 6752
 - macOS files: 393
-- Windows files: 6357
+- Windows files: 6359
 
 ## Generated Files
 
@@ -1405,7 +1405,7 @@ Total entries processed: 6750
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `hackolade.yml`
-- **URL**: https://hackolade.s3.amazonaws.com/previous/v8.5.1/Hackolade-macARM64-setup-signed.pkg
+- **URL**: https://hackolade.s3.amazonaws.com/previous/v8.5.2/Hackolade-macARM64-setup-signed.pkg
 
 #### hancom-docs
 
@@ -2269,7 +2269,7 @@ Total entries processed: 6750
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `onedrive.yml`
-- **URL**: https://oneclient.sfx.ms/Mac/Installers/25.159.0817.0003/universal/OneDrive.pkg
+- **URL**: https://oneclient.sfx.ms/Mac/Installers/25.184.0921.0004/universal/OneDrive.pkg
 
 #### opencloud
 
@@ -2881,7 +2881,7 @@ Total entries processed: 6750
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `sokim.yml`
-- **URL**: https://github.com/kiding/SokIM/releases/download/v1.2.1/SokIM.pkg
+- **URL**: https://github.com/kiding/SokIM/releases/download/v1.2.2/SokIM.pkg
 
 #### sony-ps-remote-play
 
@@ -3927,7 +3927,7 @@ Total entries processed: 6750
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `abbodi1406-vcredist.yml`
-- **URL**: https://github.com/abbodi1406/vcredist/releases/download/v0.92.0/VisualCppRedist_AIO_x86_x64.exe
+- **URL**: https://github.com/abbodi1406/vcredist/releases/download/v0.101.0/VisualCppRedist_AIO_x86_x64.exe
 
 #### abc-powerextension
 
@@ -5421,7 +5421,7 @@ Total entries processed: 6750
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `altair-graphql-altair.yml`
-- **URL**: https://github.com/altair-graphql/altair/releases/download/v8.3.0/altair_8.3.0_x64_win.exe
+- **URL**: https://github.com/altair-graphql/altair/releases/download/v8.4.0/altair_8.4.0_x64_win.exe
 
 #### altap-salamander
 
@@ -18291,7 +18291,7 @@ Total entries processed: 6750
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `electronicarts-eadesktop.yml`
-- **URL**: https://origin-a.akamaihd.net/EA-Desktop-Client-Download/installer-releases/EAappInstaller-13.566.0.6079-3876.exe
+- **URL**: https://origin-a.akamaihd.net/EA-Desktop-Client-Download/installer-releases/EAappInstaller-13.575.0.6088-3896.exe
 
 #### electronicteam-flexihub
 
@@ -20542,6 +20542,15 @@ Total entries processed: 6750
 - **Version**: 
 - **File**: `folge-folge.yml`
 - **URL**: https://cdn.folge.me/Folge-1.27.3.exe
+
+#### fontforge-fontforge
+
+- **Source**: winget
+- **Name**: fontforge-fontforge
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `fontforge-fontforge.yml`
+- **URL**: https://github.com/fontforge/fontforge/releases/download/20251009/FontForge-2025-10-09-Windows-x64.exe
 
 #### fontke-likefont
 
@@ -23592,7 +23601,7 @@ Total entries processed: 6750
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `heidisql-heidisql.yml`
-- **URL**: https://www.heidisql.com/installers/HeidiSQL_12.11.0.7065_Setup.exe
+- **URL**: https://www.heidisql.com/installers/HeidiSQL_12.12.0.7122_Setup.exe
 
 #### heizi-heiziflashtools
 
@@ -25383,7 +25392,7 @@ Total entries processed: 6750
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `integrit-hackolade.yml`
-- **URL**: https://s3-eu-west-1.amazonaws.com/hackolade/previous/v8.5.1/Hackolade-win64-setup-signed.exe
+- **URL**: https://s3-eu-west-1.amazonaws.com/hackolade/previous/v8.5.2/Hackolade-win64-setup-signed.exe
 
 #### intel-fortrancompiler
 
@@ -40692,7 +40701,7 @@ Total entries processed: 6750
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nickgasson-nvc.yml`
-- **URL**: https://github.com/nickg/nvc/releases/download/r1.18.0/nvc-1.18.0.msi
+- **URL**: https://github.com/nickg/nvc/releases/download/r1.18.1/nvc-1.18.1.msi
 
 #### nickgottschlich-socialamnesia
 
@@ -45921,7 +45930,7 @@ Total entries processed: 6750
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pypa-hatch.yml`
-- **URL**: https://github.com/pypa/hatch/releases/download/hatch-v1.15.0/hatch-x64.msi
+- **URL**: https://github.com/pypa/hatch/releases/download/hatch-v1.15.1/hatch-x64.msi
 
 #### pyprime-pyprime
 
@@ -55659,7 +55668,7 @@ Total entries processed: 6750
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `traviscobbs-ldview.yml`
-- **URL**: https://github.com/tcobbs/ldview/releases/download/v4.5/LDView64-4500.exe
+- **URL**: https://github.com/tcobbs/ldview/releases/download/v4.6/LDView64-4600.exe
 
 #### travisgoodspeed-maskromtool
 
@@ -59682,7 +59691,7 @@ Total entries processed: 6750
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xmind-xmind.yml`
-- **URL**: https://www.xmind.app/xmind/downloads/Xmind-for-Windows-x64bit-26.01.03145-202510141917.exe
+- **URL**: https://www.xmind.app/xmind/downloads/Xmind-for-Windows-x64bit-26.01.03145-202510170340.exe
 
 #### xming-xming
 
@@ -60296,6 +60305,15 @@ Total entries processed: 6750
 - **File**: `zeankundev-suside.yml`
 - **URL**: https://github.com/SerialDesignatorN/suside/releases/download/2.3.3.1/Suside_Installer_2.3.3_win.exe
 
+#### zedindustries-zed-preview
+
+- **Source**: winget
+- **Name**: zedindustries-zed-preview
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `zedindustries-zed-preview.yml`
+- **URL**: https://github.com/zed-industries/zed/releases/download/v0.209.0-pre/Zed-x86_64.exe
+
 #### zedindustries-zed
 
 - **Source**: winget
@@ -60303,7 +60321,7 @@ Total entries processed: 6750
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zedindustries-zed.yml`
-- **URL**: https://github.com/zed-industries/zed/releases/download/v0.208.4-pre/Zed-x86_64.exe
+- **URL**: https://github.com/zed-industries/zed/releases/download/v0.208.4/Zed-x86_64.exe
 
 #### zen-team-zen-browser-twilight
 

@@ -1,4 +1,4 @@
-url: https://github.com/pypa/hatch/releases/download/hatch-v1.15.0/hatch-x64.msi
+url: https://github.com/pypa/hatch/releases/download/hatch-v1.15.1/hatch-x64.msi
 automatic_install: false
 self_service: false
 categories: []
