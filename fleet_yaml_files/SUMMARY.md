@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-10-18 18:05:02 UTC
+Generated on: 2025-10-19 06:05:36 UTC
 
 ## Summary
 
@@ -32637,7 +32637,7 @@ Total entries processed: 6752
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `michaltrojnara-stunnel.yml`
-- **URL**: https://www.stunnel.org/downloads/stunnel-5.75-win64-installer.exe
+- **URL**: https://www.stunnel.org/downloads/stunnel-5.76-win64-installer.exe
 
 #### michaltrojnara-torget
 
@@ -38649,7 +38649,7 @@ Total entries processed: 6752
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-esr-pt-br.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/140.3.1esr/win64/pt-BR/Thunderbird%20Setup%20140.3.1esr.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/140.4.0esr/win64/pt-BR/Thunderbird%20Setup%20140.4.0esr.exe
 
 #### mozilla-thunderbird-esr-pt-pt
 
@@ -38928,7 +38928,7 @@ Total entries processed: 6752
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-id.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/144.0/win64/id/Thunderbird%20Setup%20144.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/144.0.1/win64/id/Thunderbird%20Setup%20144.0.1.exe
 
 #### mozilla-thunderbird-is
 
@@ -38982,7 +38982,7 @@ Total entries processed: 6752
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-kk.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/144.0/win64/kk/Thunderbird%20Setup%20144.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/144.0.1/win64/kk/Thunderbird%20Setup%20144.0.1.exe
 
 #### mozilla-thunderbird-ko
 
@@ -39000,7 +39000,7 @@ Total entries processed: 6752
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-lt.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/144.0/win64/lt/Thunderbird%20Setup%20144.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/144.0.1/win64/lt/Thunderbird%20Setup%20144.0.1.exe
 
 #### mozilla-thunderbird-lv
 
@@ -42069,7 +42069,7 @@ Total entries processed: 6752
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `oliverbetz-exiftool.yml`
-- **URL**: https://oliverbetz.de/cms/files/Artikel/ExifTool-for-Windows/ExifTool_install_13.38_64.exe
+- **URL**: https://oliverbetz.de/cms/files/Artikel/ExifTool-for-Windows/ExifTool_install_13.39_64.exe
 
 #### oliverfida-fsimman
 
@@ -48585,7 +48585,7 @@ Total entries processed: 6752
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `s3drive-s3drive.yml`
-- **URL**: https://github.com/s3drive/windows-app/releases/download/1.15.0/s3drive-win-x64.exe
+- **URL**: https://github.com/s3drive/windows-app/releases/download/1.15.2/s3drive-win-x64.exe
 
 #### s8sachin-subtitler
 
@@ -51726,7 +51726,7 @@ Total entries processed: 6752
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `stardustai-datasetviewer.yml`
-- **URL**: https://github.com/stardustai/dataset-viewer/releases/download/v1.6.1/DatasetViewer_1.6.1_x64-setup.exe
+- **URL**: https://github.com/stardustai/dataset-viewer/releases/download/v1.6.4/DatasetViewer_1.6.4_x64-setup.exe
 
 #### starface-starfaceapp
 
@@ -60321,7 +60321,7 @@ Total entries processed: 6752
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zedindustries-zed.yml`
-- **URL**: https://github.com/zed-industries/zed/releases/download/v0.208.4/Zed-x86_64.exe
+- **URL**: https://zed.dev/api/releases/stable/0.208.5/Zed-x86_64.exe
 
 #### zen-team-zen-browser-twilight
 
