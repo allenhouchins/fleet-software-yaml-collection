@@ -1,4 +1,4 @@
-url: https://github.com/jgm/pandoc/releases/download/3.8.2/pandoc-3.8.2-windows-x86_64.msi
+url: https://github.com/jgm/pandoc/releases/download/3.8.2.1/pandoc-3.8.2.1-windows-x86_64.msi
 automatic_install: false
 self_service: false
 categories: []
