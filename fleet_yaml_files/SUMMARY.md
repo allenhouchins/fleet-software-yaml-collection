@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-10-20 18:06:51 UTC
+Generated on: 2025-10-21 06:05:50 UTC
 
 ## Summary
 
-Total entries processed: 6757
+Total entries processed: 6758
 - macOS files: 393
-- Windows files: 6364
+- Windows files: 6365
 
 ## Generated Files
 
@@ -1792,7 +1792,7 @@ Total entries processed: 6757
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `microsoft-excel.yml`
-- **URL**: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.102.25101223_Installer.pkg
+- **URL**: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.102.25101829_Installer.pkg
 
 #### microsoft-office-businesspro
 
@@ -1864,7 +1864,7 @@ Total entries processed: 6757
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `microsoft-outlook.yml`
-- **URL**: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.102.25101223_Installer.pkg
+- **URL**: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.102.25101829_Installer.pkg
 
 #### microsoft-powerpoint
 
@@ -1873,7 +1873,7 @@ Total entries processed: 6757
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `microsoft-powerpoint.yml`
-- **URL**: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.102.25101223_Installer.pkg
+- **URL**: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.102.25101829_Installer.pkg
 
 #### microsoft-teams
 
@@ -1891,7 +1891,7 @@ Total entries processed: 6757
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `microsoft-word.yml`
-- **URL**: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.102.25101223_Installer.pkg
+- **URL**: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.102.25101829_Installer.pkg
 
 #### microsoftteams-rollingout
 
@@ -3043,7 +3043,7 @@ Total entries processed: 6757
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `teleport-suite.yml`
-- **URL**: https://cdn.teleport.dev/teleport-18.2.7.pkg
+- **URL**: https://cdn.teleport.dev/teleport-18.2.8.pkg
 
 #### temurin-11
 
@@ -3990,7 +3990,7 @@ Total entries processed: 6757
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ablaze-floorp.yml`
-- **URL**: https://github.com/Floorp-Projects/Floorp/releases/download/v12.2.1/floorp-win64.installer.exe
+- **URL**: https://github.com/Floorp-Projects/Floorp/releases/download/v12.3.0/floorp-win64.installer.exe
 
 #### abrignoni-aleapp-cli
 
@@ -7824,7 +7824,7 @@ Total entries processed: 6757
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `auramarker-lattics.yml`
-- **URL**: https://releases.zine.la/lattics/win/Lattics_win_installer_x64_3.2.1.exe
+- **URL**: https://releases.zine.la/lattics/win/Lattics_win_installer_x64_3.3.0.exe
 
 #### aurora-aurora
 
@@ -11280,7 +11280,7 @@ Total entries processed: 6757
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `brave-brave-nightly.yml`
-- **URL**: https://github.com/brave/brave-browser/releases/download/v1.85.72/BraveBrowserStandaloneSilentNightlySetup.exe
+- **URL**: https://github.com/brave/brave-browser/releases/download/v1.85.76/BraveBrowserStandaloneSilentNightlySetup.exe
 
 #### brave-brave
 
@@ -15600,7 +15600,7 @@ Total entries processed: 6757
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `deanxv-donehub.yml`
-- **URL**: https://github.com/deanxv/done-hub/releases/download/v1.7.1/done-hub.exe
+- **URL**: https://github.com/deanxv/done-hub/releases/download/v1.7.5/done-hub.exe
 
 #### debaucheeopensourcegroup-barrier
 
@@ -25356,7 +25356,7 @@ Total entries processed: 6757
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `insco-picguard-pro.yml`
-- **URL**: https://github.com/picguard/picguard/releases/download/v5.0.3/picguard-pro-5.0.3-windows-x64-en-US.msi
+- **URL**: https://github.com/picguard/picguard/releases/download/v5.0.4/picguard-pro-5.0.4-windows-x64-en-US.msi
 
 #### insco-picguard
 
@@ -25365,7 +25365,7 @@ Total entries processed: 6757
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `insco-picguard.yml`
-- **URL**: https://github.com/picguard/picguard/releases/download/v5.0.3/picguard-5.0.3-windows-x64-en-US.msi
+- **URL**: https://github.com/picguard/picguard/releases/download/v5.0.4/picguard-5.0.4-windows-x64-en-US.msi
 
 #### insomnia-insomnia
 
@@ -28272,7 +28272,7 @@ Total entries processed: 6757
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-blinken.yml`
-- **URL**: https://cdn.kde.org/ci-builds/education/blinken/master/windows/blinken-master-679-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/education/blinken/master/windows/blinken-master-687-windows-cl-msvc2022-x86_64.exe
 
 #### kde-bomber
 
@@ -28344,7 +28344,7 @@ Total entries processed: 6757
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-filelight.yml`
-- **URL**: https://cdn.kde.org/ci-builds/utilities/filelight/release-25.08/windows/filelight-release_25.08-1902-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/utilities/filelight/release-25.08/windows/filelight-release_25.08-1920-windows-cl-msvc2022-x86_64.exe
 
 #### kde-gcompris
 
@@ -28434,7 +28434,7 @@ Total entries processed: 6757
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kate.yml`
-- **URL**: https://cdn.kde.org/ci-builds/utilities/kate/release-25.08/windows/kate-release_25.08-10433-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/utilities/kate/release-25.08/windows/kate-release_25.08-10459-windows-cl-msvc2022-x86_64.exe
 
 #### kde-katomic
 
@@ -28488,7 +28488,7 @@ Total entries processed: 6757
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kbruch.yml`
-- **URL**: https://cdn.kde.org/ci-builds/education/kbruch/master/windows/kbruch-master-741-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/education/kbruch/master/windows/kbruch-master-749-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kdeconnect
 
@@ -28641,7 +28641,7 @@ Total entries processed: 6757
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kmines.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kmines/master/windows/kmines-master-825-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kmines/master/windows/kmines-master-836-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kmymoney
 
@@ -34142,15 +34142,6 @@ Total entries processed: 6757
 - **File**: `microsoft-visualstudio-2022-buildtools.yml`
 - **URL**: https://download.visualstudio.microsoft.com/download/pr/7e1f1b8d-73fe-448c-a4e0-0ea481025985/110c25702bb7e40f1c04da43e99afa3d54ee5adf45225908747ac26c1104b60a/vs_BuildTools.exe
 
-#### microsoft-visualstudio-2022-community-preview
-
-- **Source**: winget
-- **Name**: microsoft-visualstudio-2022-community-preview
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `microsoft-visualstudio-2022-community-preview.yml`
-- **URL**: https://download.visualstudio.microsoft.com/download/pr/a3d2b6fe-4051-4983-b0ed-1a5c036f778c/1da52a3fdce41e0027b93e0ba10caee176e882a6558c9689cda9956a2010bc5b/vs_Community.exe
-
 #### microsoft-visualstudio-2022-community
 
 - **Source**: winget
@@ -34212,7 +34203,7 @@ Total entries processed: 6757
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-visualstudio-community-insiders.yml`
-- **URL**: https://download.visualstudio.microsoft.com/download/pr/d365a0d7-db64-428b-8ce6-65ad5cecd7e0/8a9bf3eb266b955dbca6034b26f54e9f1c33084353d3be6e3c369bb1296e2aa9/vs_Community.exe
+- **URL**: https://download.visualstudio.microsoft.com/download/pr/1c8aac66-3b60-4c18-ba69-a10998f05860/21b210ea80e9489732673d58aed2a83a6126f79cd9c14980ba91677a9990a8a1/vs_Community.exe
 
 #### microsoft-visualstudio-configfinder
 
@@ -34230,7 +34221,7 @@ Total entries processed: 6757
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-visualstudio-enterprise-insiders.yml`
-- **URL**: https://download.visualstudio.microsoft.com/download/pr/d365a0d7-db64-428b-8ce6-65ad5cecd7e0/dd460d226f710b8159932a0d5af566c2bd98fee15407494fb1a3649039419a59/vs_Enterprise.exe
+- **URL**: https://download.visualstudio.microsoft.com/download/pr/1c8aac66-3b60-4c18-ba69-a10998f05860/0d3f3812c307dabea9f6b5b5fca59d50ded14bfd7689e4315c507d81f9ad03ac/vs_Enterprise.exe
 
 #### microsoft-visualstudio-professional-insiders
 
@@ -35490,7 +35481,7 @@ Total entries processed: 6757
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-an.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b2/win64/an/Firefox%20Setup%20145.0b2.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b4/win64/an/Firefox%20Setup%20145.0b4.exe
 
 #### mozilla-firefox-developeredition-ar
 
@@ -35544,7 +35535,7 @@ Total entries processed: 6757
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-bn.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b2/win64/bn/Firefox%20Setup%20145.0b2.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b4/win64/bn/Firefox%20Setup%20145.0b4.exe
 
 #### mozilla-firefox-developeredition-br
 
@@ -35706,7 +35697,7 @@ Total entries processed: 6757
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-es-mx.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b3/win64/es-MX/Firefox%20Setup%20145.0b3.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b4/win64/es-MX/Firefox%20Setup%20145.0b4.exe
 
 #### mozilla-firefox-developeredition-et
 
@@ -54806,6 +54797,15 @@ Total entries processed: 6757
 - **File**: `thomasnordquist-mqtt-explorer.yml`
 - **URL**: https://github.com/thomasnordquist/MQTT-Explorer/releases/download/v0.3.5/MQTT-Explorer-Setup-0.3.5.exe
 
+#### thomazmoura-spotlightdimmer
+
+- **Source**: winget
+- **Name**: thomazmoura-spotlightdimmer
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `thomazmoura-spotlightdimmer.yml`
+- **URL**: https://github.com/thomazmoura/spotlight-dimmer/releases/download/v0.7.2/spotlight-dimmer-installer.exe
+
 #### thorlabs-apt-x64
 
 - **Source**: winget
@@ -57614,6 +57614,15 @@ Total entries processed: 6757
 - **File**: `vovsoft-rambenchmark.yml`
 - **URL**: https://files.vovsoft.com/ram-benchmark.exe
 
+#### vovsoft-textstatisticsanalyzer
+
+- **Source**: winget
+- **Name**: vovsoft-textstatisticsanalyzer
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `vovsoft-textstatisticsanalyzer.yml`
+- **URL**: https://files.vovsoft.com/text-statistics-analyzer.exe
+
 #### vovsoft-videotophotos
 
 - **Source**: winget
@@ -58620,7 +58629,7 @@ Total entries processed: 6757
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wisecleaner-wisenote.yml`
-- **URL**: https://downloads.wisecleaner.com/soft/WiseNote_1.0.2.255.exe
+- **URL**: https://downloads.wisecleaner.com/soft/WiseNote_1.0.3.260.exe
 
 #### wisecleaner-wisex
 
