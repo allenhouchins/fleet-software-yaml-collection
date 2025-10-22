@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-10-21 18:05:50 UTC
+Generated on: 2025-10-22 06:05:40 UTC
 
 ## Summary
 
-Total entries processed: 6760
+Total entries processed: 6761
 - macOS files: 393
-- Windows files: 6367
+- Windows files: 6368
 
 ## Generated Files
 
@@ -820,7 +820,7 @@ Total entries processed: 6760
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `corretto-11.yml`
-- **URL**: https://corretto.aws/downloads/resources/11.0.28.6.1/amazon-corretto-11.0.28.6.1-macosx-aarch64.pkg
+- **URL**: https://corretto.aws/downloads/resources/11.0.29.7.1/amazon-corretto-11.0.29.7.1-macosx-aarch64.pkg
 
 #### corretto-17
 
@@ -829,7 +829,7 @@ Total entries processed: 6760
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `corretto-17.yml`
-- **URL**: https://corretto.aws/downloads/resources/17.0.16.8.1/amazon-corretto-17.0.16.8.1-macosx-aarch64.pkg
+- **URL**: https://corretto.aws/downloads/resources/17.0.17.10.1/amazon-corretto-17.0.17.10.1-macosx-aarch64.pkg
 
 #### corretto-21
 
@@ -838,7 +838,7 @@ Total entries processed: 6760
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `corretto-21.yml`
-- **URL**: https://corretto.aws/downloads/resources/21.0.8.9.1/amazon-corretto-21.0.8.9.1-macosx-aarch64.pkg
+- **URL**: https://corretto.aws/downloads/resources/21.0.9.10.1/amazon-corretto-21.0.9.10.1-macosx-aarch64.pkg
 
 #### corretto-8
 
@@ -847,7 +847,7 @@ Total entries processed: 6760
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `corretto-8.yml`
-- **URL**: https://corretto.aws/downloads/resources/8.462.08.1/amazon-corretto-8.462.08.1-macosx-aarch64.pkg
+- **URL**: https://corretto.aws/downloads/resources/8.472.08.1/amazon-corretto-8.472.08.1-macosx-aarch64.pkg
 
 #### corretto
 
@@ -856,7 +856,7 @@ Total entries processed: 6760
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `corretto.yml`
-- **URL**: https://corretto.aws/downloads/resources/25.0.0.36.2/amazon-corretto-25.0.0.36.2-macosx-aarch64.pkg
+- **URL**: https://corretto.aws/downloads/resources/25.0.1.8.1/amazon-corretto-25.0.1.8.1-macosx-aarch64.pkg
 
 #### daedalus-mainnet
 
@@ -1882,7 +1882,7 @@ Total entries processed: 6760
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `microsoft-teams.yml`
-- **URL**: https://statics.teams.cdn.office.net/production-osx/25255.703.3981.5698/MicrosoftTeams.pkg
+- **URL**: https://statics.teams.cdn.office.net/production-osx/25275.2602.4021.9366/MicrosoftTeams.pkg
 
 #### microsoft-word
 
@@ -4557,7 +4557,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aelassas-servy.yml`
-- **URL**: https://github.com/aelassas/servy/releases/download/v2.3/servy-2.3-x64-installer.exe
+- **URL**: https://github.com/aelassas/servy/releases/download/v2.4/servy-2.4-x64-installer.exe
 
 #### aerosoft-one
 
@@ -6222,7 +6222,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `amazon-corretto-21-jdk.yml`
-- **URL**: https://corretto.aws/downloads/resources/21.0.8.9.1/amazon-corretto-21.0.8.9.1-windows-x64.msi
+- **URL**: https://corretto.aws/downloads/resources/21.0.9.10.1/amazon-corretto-21.0.9.10.1-windows-x64.msi
 
 #### amazon-corretto-22-jdk
 
@@ -6258,7 +6258,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `amazon-corretto-25-jdk.yml`
-- **URL**: https://corretto.aws/downloads/resources/25.0.0.36.2/amazon-corretto-25.0.0.36.2-windows-x64.msi
+- **URL**: https://corretto.aws/downloads/resources/25.0.1.8.1/amazon-corretto-25.0.1.8.1-windows-x64.msi
 
 #### amazon-corretto-8-jdk
 
@@ -6276,7 +6276,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `amazon-corretto-8-jre.yml`
-- **URL**: https://corretto.aws/downloads/resources/8.462.08.1/amazon-corretto-8.462.08.1-windows-x64-jre.msi
+- **URL**: https://corretto.aws/downloads/resources/8.472.08.1/amazon-corretto-8.472.08.1-windows-x64-jre.msi
 
 #### amazon-ec2launch
 
@@ -6366,7 +6366,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `amazon-ssmagent.yml`
-- **URL**: https://s3.amazonaws.com/ec2-downloads-windows/SSMAgent/3.3.3050.0/windows_amd64/AmazonSSMAgentSetup.exe
+- **URL**: https://s3.amazonaws.com/ec2-downloads-windows/SSMAgent/3.3.3185.0/windows_amd64/AmazonSSMAgentSetup.exe
 
 #### amazon-workspacesclient
 
@@ -8364,7 +8364,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `azul-zulu-17-jdk.yml`
-- **URL**: https://cdn.azul.com/zulu/bin/zulu17.60.17-ca-jdk17.0.16-win_x64.msi
+- **URL**: https://cdn.azul.com/zulu/bin/zulu17.62.17-ca-jdk17.0.17-win_x64.msi
 
 #### azul-zulu-17-jre
 
@@ -8373,7 +8373,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `azul-zulu-17-jre.yml`
-- **URL**: https://cdn.azul.com/zulu/bin/zulu17.60.17-ca-jre17.0.16-win_x64.msi
+- **URL**: https://cdn.azul.com/zulu/bin/zulu17.62.17-ca-jre17.0.17-win_x64.msi
 
 #### azul-zulu-18-jdk
 
@@ -8409,7 +8409,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `azul-zulu-21-jdk.yml`
-- **URL**: https://cdn.azul.com/zulu/bin/zulu21.44.17-ca-jdk21.0.8-win_x64.msi
+- **URL**: https://cdn.azul.com/zulu/bin/zulu21.46.19-ca-jdk21.0.9-win_x64.msi
 
 #### azul-zulu-21-jre
 
@@ -8418,7 +8418,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `azul-zulu-21-jre.yml`
-- **URL**: https://cdn.azul.com/zulu/bin/zulu21.44.17-ca-jre21.0.8-win_x64.msi
+- **URL**: https://cdn.azul.com/zulu/bin/zulu21.46.19-ca-jre21.0.9-win_x64.msi
 
 #### azul-zulu-22-jdk
 
@@ -8454,7 +8454,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `azul-zulu-25-jdk.yml`
-- **URL**: https://cdn.azul.com/zulu/bin/zulu25.28.85-ca-jdk25.0.0-win_x64.msi
+- **URL**: https://cdn.azul.com/zulu/bin/zulu25.30.17-ca-jdk25.0.1-win_x64.msi
 
 #### azul-zulu-25-jre
 
@@ -8508,7 +8508,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `azul-zulu-8-jre.yml`
-- **URL**: https://cdn.azul.com/zulu/bin/zulu8.88.0.19-ca-jre8.0.462-win_x64.msi
+- **URL**: https://cdn.azul.com/zulu/bin/zulu8.90.0.19-ca-jre8.0.472-win_x64.msi
 
 #### azul-zulu-9-jdk
 
@@ -8652,7 +8652,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `azul-zulufx-25-jre.yml`
-- **URL**: https://cdn.azul.com/zulu/bin/zulu25.28.85-ca-fx-jre25.0.0-win_x64.msi
+- **URL**: https://cdn.azul.com/zulu/bin/zulu25.30.17-ca-fx-jre25.0.1-win_x64.msi
 
 #### azul-zulufx-8-jdk
 
@@ -13899,7 +13899,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `comfy-comfyui-desktop.yml`
-- **URL**: https://download.todesktop.com/241012ess7yxs0e/ComfyUI%20Setup%200.5.2%20-%20Build%202510140r8u36sds-x64.exe
+- **URL**: https://download.todesktop.com/241012ess7yxs0e/ComfyUI%20Setup%200.5.3%20-%20Build%20251021oje3awqe5-x64.exe
 
 #### commandline-wave
 
@@ -28641,7 +28641,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kmahjongg.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kmahjongg/master/windows/kmahjongg-master-899-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kmahjongg/master/windows/kmahjongg-master-909-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kmines
 
@@ -35508,7 +35508,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-be.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b3/win64/be/Firefox%20Setup%20145.0b3.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b4/win64/be/Firefox%20Setup%20145.0b4.exe
 
 #### mozilla-firefox-developeredition-bg
 
@@ -35598,7 +35598,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-da.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b2/win64/da/Firefox%20Setup%20145.0b2.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b4/win64/da/Firefox%20Setup%20145.0b4.exe
 
 #### mozilla-firefox-developeredition-de
 
@@ -35625,7 +35625,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-el.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b3/win64/el/Firefox%20Setup%20145.0b3.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b4/win64/el/Firefox%20Setup%20145.0b4.exe
 
 #### mozilla-firefox-developeredition-en-ca
 
@@ -35670,7 +35670,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-es-cl.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b3/win64/es-CL/Firefox%20Setup%20145.0b3.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b4/win64/es-CL/Firefox%20Setup%20145.0b4.exe
 
 #### mozilla-firefox-developeredition-es-es
 
@@ -35706,7 +35706,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-eu.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b3/win64/eu/Firefox%20Setup%20145.0b3.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b4/win64/eu/Firefox%20Setup%20145.0b4.exe
 
 #### mozilla-firefox-developeredition-fa
 
@@ -35715,7 +35715,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-fa.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b3/win64/fa/Firefox%20Setup%20145.0b3.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b4/win64/fa/Firefox%20Setup%20145.0b4.exe
 
 #### mozilla-firefox-developeredition-ff
 
@@ -35814,7 +35814,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-he.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b3/win64/he/Firefox%20Setup%20145.0b3.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b4/win64/he/Firefox%20Setup%20145.0b4.exe
 
 #### mozilla-firefox-developeredition-hi-in
 
@@ -35823,7 +35823,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-hi-in.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b2/win64/hi-IN/Firefox%20Setup%20145.0b2.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b4/win64/hi-IN/Firefox%20Setup%20145.0b4.exe
 
 #### mozilla-firefox-developeredition-hr
 
@@ -35922,7 +35922,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-kab.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b2/win64/kab/Firefox%20Setup%20145.0b2.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b4/win64/kab/Firefox%20Setup%20145.0b4.exe
 
 #### mozilla-firefox-developeredition-kk
 
@@ -35994,7 +35994,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-mk.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b2/win64/mk/Firefox%20Setup%20145.0b2.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b4/win64/mk/Firefox%20Setup%20145.0b4.exe
 
 #### mozilla-firefox-developeredition-mr
 
@@ -40449,7 +40449,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nextcloud-nextclouddesktop.yml`
-- **URL**: https://github.com/nextcloud-releases/desktop/releases/download/v3.9.4/Nextcloud-3.9.4-x64.msi
+- **URL**: https://github.com/nextcloud-releases/desktop/releases/download/v4.0.0/Nextcloud-4.0.0-x64.msi
 
 #### nextcloud-talk-beta
 
@@ -42718,6 +42718,15 @@ Total entries processed: 6760
 - **Version**: 
 - **File**: `openrgb-openrgb.yml`
 - **URL**: https://codeberg.org/OpenRGB/OpenRGB/releases/download/release_candidate_1.0rc2/OpenRGB_1.0rc2_Windows_64_0fca93e.msi
+
+#### openrgb-openrgbeffectsplugin
+
+- **Source**: winget
+- **Name**: openrgb-openrgbeffectsplugin
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `openrgb-openrgbeffectsplugin.yml`
+- **URL**: https://codeberg.org/OpenRGB/OpenRGBEffectsPlugin/releases/download/release_candidate_1.0rc2/OpenRGBEffectsPlugin_1.0rc2_Windows_64_415dc20.msi
 
 #### openrocket-openrocket
 
@@ -48936,7 +48945,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sap-sapmachine-17-jdk.yml`
-- **URL**: https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.16/sapmachine-jdk-17.0.16_windows-x64_bin.msi
+- **URL**: https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.17/sapmachine-jdk-17.0.17_windows-x64_bin.msi
 
 #### sap-sapmachine-17-jre
 
@@ -48945,7 +48954,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sap-sapmachine-17-jre.yml`
-- **URL**: https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.16/sapmachine-jre-17.0.16_windows-x64_bin.msi
+- **URL**: https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.17/sapmachine-jre-17.0.17_windows-x64_bin.msi
 
 #### sap-sapmachine-21-jdk
 
@@ -48954,7 +48963,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sap-sapmachine-21-jdk.yml`
-- **URL**: https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.8/sapmachine-jdk-21.0.8_windows-x64_bin.msi
+- **URL**: https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.9/sapmachine-jdk-21.0.9_windows-x64_bin.msi
 
 #### sap-sapmachine-21-jre
 
@@ -48963,7 +48972,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sap-sapmachine-21-jre.yml`
-- **URL**: https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.8/sapmachine-jre-21.0.8_windows-x64_bin.msi
+- **URL**: https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.9/sapmachine-jre-21.0.9_windows-x64_bin.msi
 
 #### sap-sapmachine-22-jdk
 
@@ -49026,7 +49035,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sap-sapmachine-25-jdk.yml`
-- **URL**: https://github.com/SAP/SapMachine/releases/download/sapmachine-25/sapmachine-jdk-25_windows-x64_bin.msi
+- **URL**: https://github.com/SAP/SapMachine/releases/download/sapmachine-25.0.1/sapmachine-jdk-25.0.1_windows-x64_bin.msi
 
 #### sap-sapmachine-25-jre
 
@@ -49035,7 +49044,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sap-sapmachine-25-jre.yml`
-- **URL**: https://github.com/SAP/SapMachine/releases/download/sapmachine-25/sapmachine-jre-25_windows-x64_bin.msi
+- **URL**: https://github.com/SAP/SapMachine/releases/download/sapmachine-25.0.1/sapmachine-jre-25.0.1_windows-x64_bin.msi
 
 #### sartoxonlygnu-audacium
 
@@ -50700,7 +50709,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `snyk-snyk.yml`
-- **URL**: https://github.com/snyk/cli/releases/download/v1.1300.0/snyk-win.exe
+- **URL**: https://github.com/snyk/cli/releases/download/v1.1300.1/snyk-win.exe
 
 #### socialchaininc-pinetwork
 
@@ -54633,7 +54642,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `thepandemoniuminstitute-bloodontheclocktoweronline.yml`
-- **URL**: https://github.com/ThePandemoniumInstitute/botc-release/releases/download/v3.46.3/Blood.on.the.Clocktower.Online_3.46.3_x64-setup.exe
+- **URL**: https://github.com/ThePandemoniumInstitute/botc-release/releases/download/v3.46.4/Blood.on.the.Clocktower.Online_3.46.4_x64-setup.exe
 
 #### thepyzoteam-pyzo
 
@@ -56334,7 +56343,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `unikeen-sjmcl.yml`
-- **URL**: https://mc.sjtu.cn/sjmcl/releases/SJMCL_0.4.4_windows_x86_64.msi
+- **URL**: https://mc.sjtu.cn/sjmcl/releases/SJMCL_0.5.0_windows_x86_64.msi
 
 #### unipro-ugene
 
@@ -59952,7 +59961,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yaak-app.yml`
-- **URL**: https://github.com/mountain-loop/yaak/releases/download/v2025.6.1/Yaak_2025.6.1_x64-setup.exe
+- **URL**: https://github.com/mountain-loop/yaak/releases/download/v2025.7.0/Yaak_2025.7.0_x64-setup.exe
 
 #### yabe-yetanotherbacnetexplorer
 
@@ -60384,7 +60393,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zedindustries-zed-preview.yml`
-- **URL**: https://github.com/zed-industries/zed/releases/download/v0.209.0-pre/Zed-x86_64.exe
+- **URL**: https://github.com/zed-industries/zed/releases/download/v0.209.3-pre/Zed-x86_64.exe
 
 #### zedindustries-zed
 
@@ -60429,7 +60438,7 @@ Total entries processed: 6760
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zenarmor-zenarmor.yml`
-- **URL**: https://updates.zenarmor.net/desktop/Zenarmor_2.0.8_x86_64.msi
+- **URL**: https://updates.zenarmor.net/desktop/Zenarmor_2.1.1_x86_64.msi
 
 #### zenprivacy-zendesktop
 
