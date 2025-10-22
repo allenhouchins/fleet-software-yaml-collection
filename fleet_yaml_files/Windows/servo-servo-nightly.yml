@@ -1,4 +1,4 @@
-url: https://downloads.jam-software.de/ultrasearch/archive/v4.8.4.1184/UltraSearch-Setup.exe
+url: https://github.com/servo/servo-nightly-builds/releases/download/2025-10-21/servo-x86_64-windows-msvc.exe
 automatic_install: false
 self_service: false
 categories: []
