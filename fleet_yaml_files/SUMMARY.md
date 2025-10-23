@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-10-23 06:05:34 UTC
+Generated on: 2025-10-23 18:05:32 UTC
 
 ## Summary
 
-Total entries processed: 6771
+Total entries processed: 6775
 - macOS files: 394
-- Windows files: 6377
+- Windows files: 6381
 
 ## Generated Files
 
@@ -5322,7 +5322,7 @@ Total entries processed: 6771
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `alibaba-quark.yml`
-- **URL**: https://puds-down.uc.cn/down/u1/rrwwwwwwrvwrrsrxvzzv9zrsrs9swywsvsrzuwvuzuwrzzrrrrrsrrsrrrrt9un/73dc5e93e0a6cc568dd1e7ad8db0de98/QuarkPC_V4.5.2.516_windows_pf5001_(zh-cn)_release_999_(Build250919143717).exe
+- **URL**: https://umcdn.quark.cn/download/37212/quarkpc/pcquark@homepage_oficial/QuarkPC_V4.6.0.558_pc_pf30002_(zh-cn)_release_(Build2491740-1000-x64).exe
 
 #### alibaba-quarkclouddrive
 
@@ -5666,6 +5666,15 @@ Total entries processed: 6771
 - **File**: `altova-licenseserver-2025.yml`
 - **URL**: https://cdn.sw.altova.com/v2025r2/multi-lingual/LicenseServer3.17_x64.exe
 
+#### altova-licenseserver-3
+
+- **Source**: winget
+- **Name**: altova-licenseserver-3
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `altova-licenseserver-3.yml`
+- **URL**: https://cdn.sw.altova.com/v2026/multi-lingual/LicenseServer3.18_x64.exe
+
 #### altova-mapforce-2023-enterprise
 
 - **Source**: winget
@@ -5737,6 +5746,15 @@ Total entries processed: 6771
 - **Version**: 
 - **File**: `altova-mapforceserver-2025.yml`
 - **URL**: https://cdn.sw.altova.com/v2025r2/multi-lingual/MapForceServer2025rel2_x64.exe
+
+#### altova-mapforceserver-2026
+
+- **Source**: winget
+- **Name**: altova-mapforceserver-2026
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `altova-mapforceserver-2026.yml`
+- **URL**: https://cdn.sw.altova.com/v2026/multi-lingual/MapForceServer2026_x64.exe
 
 #### altova-missionkit-2023-enterprise
 
@@ -5953,6 +5971,15 @@ Total entries processed: 6771
 - **Version**: 
 - **File**: `altova-stylevisionserver-2025.yml`
 - **URL**: https://cdn.sw.altova.com/v2025r2/multi-lingual/StyleVisionServer2025rel2_x64.exe
+
+#### altova-stylevisionserver-2026
+
+- **Source**: winget
+- **Name**: altova-stylevisionserver-2026
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `altova-stylevisionserver-2026.yml`
+- **URL**: https://cdn.sw.altova.com/v2026/multi-lingual/StyleVisionServer2026_x64.exe
 
 #### altova-umodel-2023-enterprise
 
@@ -14349,7 +14376,7 @@ Total entries processed: 6771
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `coti-mcxstudio.yml`
-- **URL**: https://mcx.space/nightly/release/v2025.10/MCXStudio-v2025.10-installer.exe
+- **URL**: https://mcx.space/nightly/release/v2025.10/MCXStudio-v2025.10.20-installer.exe
 
 #### couchbase-servercommunity
 
@@ -16086,7 +16113,7 @@ Total entries processed: 6771
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `devolutions-workspace.yml`
-- **URL**: https://cdn.devolutions.net/download/Devolutions.Workspace-2025.3.0.0-x64.msi
+- **URL**: https://cdn.devolutions.net/download/Devolutions.Workspace-2025.3.1.0-x64.msi
 
 #### devproxy-devproxy-beta
 
@@ -17994,7 +18021,7 @@ Total entries processed: 6771
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `edrawsoft-edrawmind-cn.yml`
-- **URL**: https://cc-download.wondershare.cc/cbs_down/edrawmind_cn_13.0.2_full5375.exe
+- **URL**: https://cc-download.wondershare.cc/cbs_down/edrawmind_cn_13.0.3_full5375.exe
 
 #### edrawsoft-edrawmind
 
@@ -18219,7 +18246,7 @@ Total entries processed: 6771
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `elastic-auditbeat.yml`
-- **URL**: https://artifacts.elastic.co/downloads/beats/auditbeat/auditbeat-9.1.5-windows-x86_64.msi
+- **URL**: https://artifacts.elastic.co/downloads/beats/auditbeat/auditbeat-9.2.0-windows-x86_64.msi
 
 #### elastic-elasticsearch
 
@@ -20874,7 +20901,7 @@ Total entries processed: 6771
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `freecnsz-tiktak.yml`
-- **URL**: https://github.com/freecnsz/TikTak/releases/download/v1.0.0/TikTak.msi
+- **URL**: https://github.com/freecnsz/TikTak/releases/download/v1.1.0/TikTak.msi
 
 #### freedom-freedom
 
@@ -23043,7 +23070,7 @@ Total entries processed: 6771
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gravitational-teleportconnect.yml`
-- **URL**: https://cdn.teleport.dev/Teleport%20Connect%20Setup-18.2.7.exe
+- **URL**: https://cdn.teleport.dev/Teleport%20Connect%20Setup-18.2.8.exe
 
 #### grayloginc-graylogsidecar
 
@@ -25275,7 +25302,7 @@ Total entries processed: 6771
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `imputnet-helium.yml`
-- **URL**: https://github.com/imputnet/helium-windows/releases/download/0.5.5.1/helium_0.5.5.1_x64-installer.exe
+- **URL**: https://github.com/imputnet/helium-windows/releases/download/0.5.7.1/helium_0.5.7.1_x64-installer.exe
 
 #### indigobyte-drexplain
 
@@ -27462,7 +27489,7 @@ Total entries processed: 6771
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jgraph-draw.yml`
-- **URL**: https://github.com/jgraph/drawio-desktop/releases/download/v28.2.5/draw.io-28.2.5-windows-installer.exe
+- **URL**: https://github.com/jgraph/drawio-desktop/releases/download/v28.2.8/draw.io-28.2.8-windows-installer.exe
 
 #### jhen0409-reactnativedebugger
 
@@ -32711,6 +32738,15 @@ Total entries processed: 6771
 - **File**: `michaltrojnara-torget.yml`
 - **URL**: https://github.com/mtrojnar/torget/releases/download/v1.1/torget.exe
 
+#### michelelocati-gettexticonv
+
+- **Source**: winget
+- **Name**: michelelocati-gettexticonv
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `michelelocati-gettexticonv.yml`
+- **URL**: https://github.com/mlocati/gettext-iconv-windows/releases/download/v0.26-v1.17/gettext0.26-iconv1.17-shared-64.exe
+
 #### microchip-mplabxc16ccompiler
 
 - **Source**: winget
@@ -35841,7 +35877,7 @@ Total entries processed: 6771
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-gu-in.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b2/win64/gu-IN/Firefox%20Setup%20145.0b2.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b5/win64/gu-IN/Firefox%20Setup%20145.0b5.exe
 
 #### mozilla-firefox-developeredition-he
 
@@ -35895,7 +35931,7 @@ Total entries processed: 6771
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-hy-am.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b2/win64/hy-AM/Firefox%20Setup%20145.0b2.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b5/win64/hy-AM/Firefox%20Setup%20145.0b5.exe
 
 #### mozilla-firefox-developeredition-ia
 
@@ -35985,7 +36021,7 @@ Total entries processed: 6771
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-kn.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b2/win64/kn/Firefox%20Setup%20145.0b2.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b5/win64/kn/Firefox%20Setup%20145.0b5.exe
 
 #### mozilla-firefox-developeredition-ko
 
@@ -36228,7 +36264,7 @@ Total entries processed: 6771
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-sq.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b2/win64/sq/Firefox%20Setup%20145.0b2.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b5/win64/sq/Firefox%20Setup%20145.0b5.exe
 
 #### mozilla-firefox-developeredition-sr
 
@@ -41637,7 +41673,7 @@ Total entries processed: 6771
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nvidia-icat.yml`
-- **URL**: https://icat-public-releases.s3.amazonaws.com/ICAT-0.6.1.exe
+- **URL**: https://icat-public-releases.s3.amazonaws.com/ICAT-0.6.17.exe
 
 #### nvidia-rtxvoice
 
@@ -52133,6 +52169,15 @@ Total entries processed: 6771
 - **File**: `stellardatarecovery-stellarrepairformysql.yml`
 - **URL**: https://cloud.stellarinfo.com/StellarRepairforMySQL.exe
 
+#### stellardatarecovery-stellarrepairforpdf
+
+- **Source**: winget
+- **Name**: stellardatarecovery-stellarrepairforpdf
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `stellardatarecovery-stellarrepairforpdf.yml`
+- **URL**: https://cloud.stellarinfo.com/StellarRepairforPDF.exe
+
 #### stellardatarecovery-stellarrepairforphoto
 
 - **Source**: winget
@@ -52708,15 +52753,6 @@ Total entries processed: 6771
 - **Version**: 
 - **File**: `surf-letsconnectclient.yml`
 - **URL**: https://codeberg.org/eduVPN/windows/releases/download/4.4.99.3/LetsConnectClient_4.4.99.3_x64.msi
-
-#### surf-surfdrive
-
-- **Source**: winget
-- **Name**: surf-surfdrive
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `surf-surfdrive.yml`
-- **URL**: https://surfdrive.surf.nl/downloads/surfdrive-5.3.2.15536.x64.msi
 
 #### surfshark-surfshark
 
@@ -53886,7 +53922,7 @@ Total entries processed: 6771
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `techsmith-snagit-2025.yml`
-- **URL**: https://download.techsmith.com/snagit/releases/2531/snagit.exe
+- **URL**: https://download.techsmith.com/snagit/releases/2540/snagit.exe
 
 #### tecnocrata-depscop
 
@@ -54030,7 +54066,7 @@ Total entries processed: 6771
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-codebuddy.yml`
-- **URL**: https://codebuddy-1328495429.cos.accelerate.myqcloud.com/aiide/win32-x64-user/CodeBuddy-win32-x64-user-0.2.4.7567294-9c12ed6c.exe
+- **URL**: https://codebuddy-1328495429.cos.accelerate.myqcloud.com/aiide/win32-x64-user/CodeBuddy-win32-x64-user-1.1.0.10350633-496055721-89953af7.exe
 
 #### tencent-cosbrowser
 
