@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-10-24 06:05:27 UTC
+Generated on: 2025-10-24 18:05:33 UTC
 
 ## Summary
 
-Total entries processed: 6777
+Total entries processed: 6781
 - macOS files: 394
-- Windows files: 6383
+- Windows files: 6387
 
 ## Generated Files
 
@@ -2584,7 +2584,7 @@ Total entries processed: 6777
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `realforce.yml`
-- **URL**: https://www.realforce.co.jp/support/download/software/mac/files/REALFORCE%20CONNECT%20Software_4-0-0.pkg
+- **URL**: https://www.realforce.co.jp/support/download/software/mac/files/REALFORCE%20CONNECT%20Software_4-0-1.pkg
 
 #### realvnc-connect
 
@@ -3511,7 +3511,7 @@ Total entries processed: 6777
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `zoho-cliq.yml`
-- **URL**: https://downloads.zohocdn.com/chat-desktop/mac/Cliq-arm64-1.7.6.pkg
+- **URL**: https://downloads.zohocdn.com/chat-desktop/mac/Cliq-arm64-1.8.0.pkg
 
 #### zoom-for-it-admins
 
@@ -4566,7 +4566,7 @@ Total entries processed: 6777
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aelassas-servy.yml`
-- **URL**: https://github.com/aelassas/servy/releases/download/v2.4/servy-2.4-x64-installer.exe
+- **URL**: https://github.com/aelassas/servy/releases/download/v2.5/servy-2.5-x64-installer.exe
 
 #### aerosoft-one
 
@@ -5313,7 +5313,7 @@ Total entries processed: 6777
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `alibaba-qoder.yml`
-- **URL**: https://qoder-ide.oss-accelerate.aliyuncs.com/release/0.2.6/QoderUserSetup-x64.exe
+- **URL**: https://qoder-ide.oss-accelerate.aliyuncs.com/release/0.2.8/QoderUserSetup-x64.exe
 
 #### alibaba-quark
 
@@ -6681,7 +6681,7 @@ Total entries processed: 6777
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `andromeda-andromeda.yml`
-- **URL**: https://github.com/tryandromeda/andromeda/releases/download/0.1.0-draft50/andromeda-windows-amd64.exe
+- **URL**: https://github.com/tryandromeda/andromeda/releases/download/0.1.0-draft51/andromeda-windows-amd64.exe
 
 #### angeloconvento-overkeys
 
@@ -10533,7 +10533,7 @@ Total entries processed: 6777
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `biomejs-biome.yml`
-- **URL**: https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.2.6/biome-win32-x64.exe
+- **URL**: https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.3.0/biome-win32-x64.exe
 
 #### biosilico-essaywriter
 
@@ -14871,7 +14871,7 @@ Total entries processed: 6777
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `crystallang-crystal.yml`
-- **URL**: https://github.com/crystal-lang/crystal/releases/download/1.18.1/crystal-1.18.1-windows-x86_64-msvc-unsupported.exe
+- **URL**: https://github.com/crystal-lang/crystal/releases/download/1.18.2/crystal-1.18.2-windows-x86_64-msvc-unsupported.exe
 
 #### crystalrich-internetoff
 
@@ -16806,7 +16806,7 @@ Total entries processed: 6777
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `docker-dockercompose.yml`
-- **URL**: https://github.com/docker/compose/releases/download/v2.40.1/docker-compose-windows-x86_64.exe
+- **URL**: https://github.com/docker/compose/releases/download/v2.40.2/docker-compose-windows-x86_64.exe
 
 #### docker-dockerdesktop
 
@@ -17031,7 +17031,7 @@ Total entries processed: 6777
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `drakkan-sftpgo.yml`
-- **URL**: https://github.com/drakkan/sftpgo/releases/download/v2.6.6/sftpgo_v2.6.6_windows_x86_64.exe
+- **URL**: https://github.com/drakkan/sftpgo/releases/download/v2.7.0/sftpgo_v2.7.0_windows_x86_64.exe
 
 #### drawpile-drawpile
 
@@ -19587,7 +19587,7 @@ Total entries processed: 6777
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `fellowinsights-fellow.yml`
-- **URL**: https://cdn.fellow.app/desktop/1.6.13/win32/stable/x64/Fellow-1.6.13.exe
+- **URL**: https://cdn.fellow.app/desktop/1.7.8/win32/stable/x64/Fellow-1.7.8.exe
 
 #### femtocommunity-legendutil
 
@@ -22494,7 +22494,7 @@ Total entries processed: 6777
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/c5t62uf4wzug2vycgipmwonsfq_143.0.7484.0/143.0.7484.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/acnmwfz5om5yxgvcy53h7n4gzxqa_143.0.7487.0/143.0.7487.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -23070,7 +23070,7 @@ Total entries processed: 6777
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gravitational-teleportconnect.yml`
-- **URL**: https://cdn.teleport.dev/Teleport%20Connect%20Setup-18.2.8.exe
+- **URL**: https://cdn.teleport.dev/Teleport%20Connect%20Setup-18.2.9.exe
 
 #### grayloginc-graylogsidecar
 
@@ -31440,7 +31440,7 @@ Total entries processed: 6777
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lx-systems-winmute.yml`
-- **URL**: https://github.com/lx-s/WinMute/releases/download/2.5.2.0/WinMute-2.5.2-Setup.exe
+- **URL**: https://github.com/lx-s/WinMute/releases/download/2.5.3.0/WinMute-2.5.3-Setup.exe
 
 #### lycheeverse-lychee
 
@@ -31584,7 +31584,7 @@ Total entries processed: 6777
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `magic-wormhole-magic-wormhole.yml`
-- **URL**: https://github.com/aquacash5/magic-wormhole-exe/releases/download/0.20.0/wormhole.exe
+- **URL**: https://github.com/aquacash5/magic-wormhole-exe/releases/download/0.21.0/wormhole.exe
 
 #### magicsplat-tcltk
 
@@ -33438,7 +33438,7 @@ Total entries processed: 6777
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-edgewebview2runtime.yml`
-- **URL**: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a5325165-3c9b-48a4-9035-1292a66e5f81/MicrosoftEdgeWebView2RuntimeInstallerX64.exe
+- **URL**: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/497294a9-3b5c-44f8-94b1-ab622cd8a5d5/MicrosoftEdgeWebView2RuntimeInstallerX64.exe
 
 #### microsoft-gameinput
 
@@ -35535,7 +35535,7 @@ Total entries processed: 6777
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-af.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b4/win64/af/Firefox%20Setup%20145.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b5/win64/af/Firefox%20Setup%20145.0b5.exe
 
 #### mozilla-firefox-developeredition-an
 
@@ -35625,7 +35625,7 @@ Total entries processed: 6777
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-ca-valencia.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b4/win64/ca-valencia/Firefox%20Setup%20145.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b5/win64/ca-valencia/Firefox%20Setup%20145.0b5.exe
 
 #### mozilla-firefox-developeredition-ca
 
@@ -35697,7 +35697,7 @@ Total entries processed: 6777
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-el.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b4/win64/el/Firefox%20Setup%20145.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b5/win64/el/Firefox%20Setup%20145.0b5.exe
 
 #### mozilla-firefox-developeredition-en-ca
 
@@ -35715,7 +35715,7 @@ Total entries processed: 6777
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-en-gb.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b2/win64/en-GB/Firefox%20Setup%20145.0b2.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b5/win64/en-GB/Firefox%20Setup%20145.0b5.exe
 
 #### mozilla-firefox-developeredition-eo
 
@@ -35751,7 +35751,7 @@ Total entries processed: 6777
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-es-es.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b2/win64/es-ES/Firefox%20Setup%20145.0b2.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b5/win64/es-ES/Firefox%20Setup%20145.0b5.exe
 
 #### mozilla-firefox-developeredition-es-mx
 
@@ -40324,6 +40324,33 @@ Total entries processed: 6777
 - **Version**: 
 - **File**: `netsdk-s3browser.yml`
 - **URL**: https://s3browser.com/download/s3browser-12-9-9.exe
+
+#### networkoptix-nxmeta-bundle
+
+- **Source**: winget
+- **Name**: networkoptix-nxmeta-bundle
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `networkoptix-nxmeta-bundle.yml`
+- **URL**: https://updates.networkoptix.com/metavms/41837/windows/metavms-bundle-6.0.6.41837-windows_x64.exe
+
+#### networkoptix-nxmeta-client
+
+- **Source**: winget
+- **Name**: networkoptix-nxmeta-client
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `networkoptix-nxmeta-client.yml`
+- **URL**: https://updates.networkoptix.com/metavms/41837/windows/metavms-client-6.0.6.41837-windows_x64.exe
+
+#### networkoptix-nxmeta-server
+
+- **Source**: winget
+- **Name**: networkoptix-nxmeta-server
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `networkoptix-nxmeta-server.yml`
+- **URL**: https://updates.networkoptix.com/metavms/41837/windows/metavms-server-6.0.6.41837-windows_x64.exe
 
 #### networkoptix-nxwitness-bundle
 
@@ -45705,7 +45732,7 @@ Total entries processed: 6777
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `proton-protonvpn.yml`
-- **URL**: https://vpn.protondownload.com/download/ProtonVPN_v4.3.4_x64.exe
+- **URL**: https://vpn.protondownload.com/download/ProtonVPN_v4.3.5_x64.exe
 
 #### prowise-prowisepresenter
 
@@ -49854,7 +49881,16 @@ Total entries processed: 6777
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-10-21/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-10-24/servo-x86_64-windows-msvc.exe
+
+#### servo-servo
+
+- **Source**: winget
+- **Name**: servo-servo
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `servo-servo.yml`
+- **URL**: https://github.com/servo/servo/releases/download/v0.0.1/servo-x86_64-windows-msvc.exe
 
 #### session-session
 
@@ -51591,7 +51627,7 @@ Total entries processed: 6777
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `spotify-spotify.yml`
-- **URL**: https://upgrade.scdn.co/upgrade/client/win32-x86_64/spotify_installer-1.2.75.508.g2079da61-365.exe
+- **URL**: https://upgrade.scdn.co/upgrade/client/win32-x86_64/spotify_installer-1.2.75.510.g8f748905-369.exe
 
 #### springlobby-springlobby
 
@@ -56307,7 +56343,7 @@ Total entries processed: 6777
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ubiquiti-identitydesktop-enterprise.yml`
-- **URL**: https://fw-download.ubnt.com/data/uid-ui-desktop-app-msi/31a6-windows-0.89.2-ea06a7db-89b8-4f2e-a5b9-a43b892fb3f2.msi
+- **URL**: https://fw-download.ubnt.com/data/uid-ui-desktop-app-msi/f9fc-windows-0.90.0-e7782f6a-fc05-4bfe-9c11-d82344ad55e6.msi
 
 #### ubiquiti-unifinetworkserver
 
@@ -57198,7 +57234,7 @@ Total entries processed: 6777
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc-nightly.yml`
-- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251020-0424/vlc-4.0.0-dev-win64-c9af0b78.msi
+- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251023-0427/vlc-4.0.0-dev-win64-ef1d401d.msi
 
 #### videolan-vlc
 
@@ -58800,7 +58836,7 @@ Total entries processed: 6777
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wisecoders-dbschema.yml`
-- **URL**: https://dbschema.com/download/dbschema_windows_9_8_3.exe
+- **URL**: https://dbschema.com/download/dbschema_windows_9_9_1.exe
 
 #### wisedu-cat
 
