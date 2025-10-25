@@ -1,4 +1,4 @@
-url: https://github.com/servo/servo-nightly-builds/releases/download/2025-10-24/servo-x86_64-windows-msvc.exe
+url: https://github.com/servo/servo-nightly-builds/releases/download/2025-10-25/servo-x86_64-windows-msvc.exe
 automatic_install: false
 self_service: false
 categories: []

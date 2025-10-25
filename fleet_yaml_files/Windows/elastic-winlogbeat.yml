@@ -1,4 +1,4 @@
-url: https://artifacts.elastic.co/downloads/beats/winlogbeat/winlogbeat-9.1.5-windows-x86_64.msi
+url: https://artifacts.elastic.co/downloads/beats/winlogbeat/winlogbeat-9.2.0-windows-x86_64.msi
 automatic_install: false
 self_service: false
 categories: []
