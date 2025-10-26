@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-10-26 06:05:29 UTC
+Generated on: 2025-10-26 18:05:16 UTC
 
 ## Summary
 
@@ -2422,7 +2422,7 @@ Total entries processed: 6802
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `perimeter81.yml`
-- **URL**: https://static.perimeter81.com/agents/mac/Harmony_SASE_12.0.0.6019.pkg
+- **URL**: https://static.perimeter81.com/agents/mac/Harmony_SASE_12.0.0.6063.pkg
 
 #### philips-hue-sync
 
@@ -3972,7 +3972,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `abelfubu-windowsconfigbuilder.yml`
-- **URL**: https://github.com/abelfubu/windows-config-builder/releases/download/v12.b1687c9/windows-config-builder.exe
+- **URL**: https://github.com/abelfubu/windows-config-builder/releases/download/v0.0.2/windows-config-builder.exe
 
 #### abgox-inputtip
 
@@ -12009,7 +12009,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bytedance-trae-cn.yml`
-- **URL**: https://lf-cdn.trae.ai/obj/trae-ai-us/pkg/app/releases/stable/1.0.21838/win32/Trae%20CN-Setup-x64.exe
+- **URL**: https://lf-cdn.trae.ai/obj/trae-ai-us/pkg/app/releases/stable/1.0.22048/win32/Trae%20CN-Setup-x64.exe
 
 #### bytedance-trae
 
@@ -12018,7 +12018,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bytedance-trae.yml`
-- **URL**: https://lf-cdn.trae.ai/obj/trae-ai-us/pkg/app/releases/stable/1.0.21936/win32/Trae-Setup-x64.exe
+- **URL**: https://lf-cdn.trae.ai/obj/trae-ai-us/pkg/app/releases/stable/1.0.22049/win32/Trae-Setup-x64.exe
 
 #### bytedance-ui-tars
 
@@ -14043,7 +14043,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cometnetwork-bitcomet.yml`
-- **URL**: https://download.bitcomet.com/achive/BitComet_2.16_setup.exe
+- **URL**: https://download.bitcomet.com/achive/BitComet_2.17_setup.exe
 
 #### comfy-comfyui-desktop
 
@@ -14646,7 +14646,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cpuid-cpu-z-phantom.yml`
-- **URL**: https://download.cpuid.com/cpu-z/cpu-z_2.14-phantom-en.exe
+- **URL**: https://download.cpuid.com/cpu-z/cpu-z_2.17-phantom-en.exe
 
 #### cpuid-cpu-z-rog
 
@@ -22656,7 +22656,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-dev-exe.yml`
-- **URL**: https://dl.google.com/release2/chrome/achoslvdo4wwjnkkjccygqjyoyaq_143.0.7489.2/143.0.7489.2_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/nhujw5vqfpvm26jululyupiide_143.0.7489.3/143.0.7489.3_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev
 
@@ -29172,7 +29172,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-ruqola.yml`
-- **URL**: https://cdn.kde.org/ci-builds/network/ruqola/2.6/windows/ruqola-2.6-11627-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/network/ruqola/2.6/windows/ruqola-2.6-11680-windows-cl-msvc2022-x86_64.exe
 
 #### kde-umbrello
 
@@ -31989,7 +31989,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `maotoumao-musicfree.yml`
-- **URL**: https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.7/MusicFree-0.0.7-win32-x64-setup.exe
+- **URL**: https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.8/MusicFree-0.0.8-win32-x64-setup.exe
 
 #### mapillary-mapillarytools
 
@@ -50034,7 +50034,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-10-25/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-10-26/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -51780,7 +51780,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `spotify-spotify.yml`
-- **URL**: https://upgrade.scdn.co/upgrade/client/win32-x86_64/spotify_installer-1.2.75.510.g8f748905-369.exe
+- **URL**: https://upgrade.scdn.co/upgrade/client/win32-x86_64/spotify_installer-1.2.76.256.g12350e86-199.exe
 
 #### springlobby-springlobby
 
@@ -60447,7 +60447,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yetone-openaitranslator.yml`
-- **URL**: https://github.com/nextai-translator/nextai-translator/releases/download/v0.5.1/OpenAI.Translator_0.5.1_x64-setup.exe
+- **URL**: https://github.com/nextai-translator/nextai-translator/releases/download/v0.5.2/OpenAI.Translator_0.5.2_x64-setup.exe
 
 #### yggdrasilnetwork-yggdrasil
 
