@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-10-26 18:05:16 UTC
+Generated on: 2025-10-27 06:05:48 UTC
 
 ## Summary
 
@@ -3999,7 +3999,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ablaze-floorp.yml`
-- **URL**: https://github.com/Floorp-Projects/Floorp/releases/download/v12.3.3/floorp-windows-x86_64.installer.exe
+- **URL**: https://github.com/Floorp-Projects/Floorp/releases/download/v12.3.5/floorp-windows-x86_64.installer.exe
 
 #### abrignoni-aleapp-cli
 
@@ -4566,7 +4566,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aelassas-servy.yml`
-- **URL**: https://github.com/aelassas/servy/releases/download/v2.6/servy-2.6-x64-installer.exe
+- **URL**: https://github.com/aelassas/servy/releases/download/v2.7/servy-2.7-x64-installer.exe
 
 #### aerosoft-one
 
@@ -22647,7 +22647,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/jhd6cpusru2agzemifch36usra_143.0.7494.0/143.0.7494.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/admfzceid2o22pb66gygh7rbrvhq_143.0.7495.0/143.0.7495.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -22845,7 +22845,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `goto-gotomachine.yml`
-- **URL**: https://goto-desktop.goto.com/GoToSetupMachine-4.16.0-x64.msi
+- **URL**: https://goto-desktop.goto.com/GoToSetupMachine-4.18.0-x64.msi
 
 #### goto-logmeinresolvedesktopconsole
 
@@ -25365,7 +25365,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `imagemagick-imagemagick-q16.yml`
-- **URL**: https://imagemagick.org/archive/binaries/ImageMagick-7.1.2-7-Q16-x64-dll.exe
+- **URL**: https://imagemagick.org/archive/binaries/ImageMagick-7.1.2-8-Q16-x64-dll.exe
 
 #### imagemagick-imagemagick-q8
 
@@ -25374,7 +25374,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `imagemagick-imagemagick-q8.yml`
-- **URL**: https://imagemagick.org/archive/binaries/ImageMagick-7.1.2-7-Q8-x64-dll.exe
+- **URL**: https://imagemagick.org/archive/binaries/ImageMagick-7.1.2-8-Q8-x64-dll.exe
 
 #### imagemagick-imagemagick
 
@@ -25383,7 +25383,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `imagemagick-imagemagick.yml`
-- **URL**: https://imagemagick.org/archive/binaries/ImageMagick-7.1.2-7-Q16-HDRI-x64-dll.exe
+- **URL**: https://imagemagick.org/archive/binaries/ImageMagick-7.1.2-8-Q16-HDRI-x64-dll.exe
 
 #### imageoptim-gifski
 
@@ -29829,7 +29829,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kuaifan-dootask.yml`
-- **URL**: https://github.com/kuaifan/dootask/releases/download/v1.3.15/DooTask-v1.3.15-win-x64.exe
+- **URL**: https://github.com/kuaifan/dootask/releases/download/v1.3.35/DooTask-v1.3.35-win-x64.exe
 
 #### kubernetes-aws-iam-authenticator
 
@@ -53904,7 +53904,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `teamprowlarr-prowlarr.yml`
-- **URL**: https://github.com/Prowlarr/Prowlarr/releases/download/v2.0.5.5160/Prowlarr.master.2.0.5.5160.windows-core-x64-installer.exe
+- **URL**: https://github.com/Prowlarr/Prowlarr/releases/download/v2.1.5.5216/Prowlarr.master.2.1.5.5216.windows-core-x64-installer.exe
 
 #### teamradarr-radarr
 
@@ -54336,7 +54336,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-ima-copilot.yml`
-- **URL**: https://ima-app.image.myqcloud.com/win/1.12.2_3317/ima.copilot_win_x64_1018_1.12.2_3317.exe
+- **URL**: https://ima-app.image.myqcloud.com/win/2.0.0_3354/ima.copilot_win_x64_1018_2.0.0_3354.exe
 
 #### tencent-qielive
 
@@ -55785,7 +55785,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `topalasoftwaresolutions-siw.yml`
-- **URL**: https://www.gtopala.com/download/20251009b/siwtrial-setup.exe
+- **URL**: https://www.gtopala.com/download/20251009c/siwtrial-setup.exe
 
 #### topazlabs-topazdenoiseai
 
@@ -57423,7 +57423,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc-nightly.yml`
-- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251025-0431/vlc-4.0.0-dev-win64-e824b12a.msi
+- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251026-0425/vlc-4.0.0-dev-win64-3738e779.msi
 
 #### videolan-vlc
 
@@ -60447,7 +60447,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yetone-openaitranslator.yml`
-- **URL**: https://github.com/nextai-translator/nextai-translator/releases/download/v0.5.2/OpenAI.Translator_0.5.2_x64-setup.exe
+- **URL**: https://github.com/nextai-translator/nextai-translator/releases/download/v0.5.5/OpenAI.Translator_0.5.5_x64-setup_windows.exe
 
 #### yggdrasilnetwork-yggdrasil
 
