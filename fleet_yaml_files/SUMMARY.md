@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-10-27 06:05:48 UTC
+Generated on: 2025-10-27 18:05:22 UTC
 
 ## Summary
 
-Total entries processed: 6802
+Total entries processed: 6801
 - macOS files: 394
-- Windows files: 6408
+- Windows files: 6407
 
 ## Generated Files
 
@@ -1153,7 +1153,7 @@ Total entries processed: 6802
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `expressvpn.yml`
-- **URL**: https://www.expressvpn.works/clients/mac/expressvpn_mac_11.70.0.90675_release.pkg
+- **URL**: https://www.expressvpn.works/clients/mac/expressvpn_mac_11.71.0.90727_release.pkg
 
 #### finalshell
 
@@ -1396,7 +1396,7 @@ Total entries processed: 6802
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `gyazo.yml`
-- **URL**: https://files.gyazo.com/setup/Gyazo-10.2.0.pkg
+- **URL**: https://files.gyazo.com/setup/Gyazo-10.3.0.pkg
 
 #### hackolade
 
@@ -2953,7 +2953,7 @@ Total entries processed: 6802
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `steelseries-gg.yml`
-- **URL**: https://engine.steelseriescdn.com/SteelSeriesGG97.0.0.pkg
+- **URL**: https://engine.steelseriescdn.com/SteelSeriesGG97.1.0.pkg
 
 #### suitestudio
 
@@ -3520,7 +3520,7 @@ Total entries processed: 6802
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `zoom-for-it-admins.yml`
-- **URL**: https://cdn.zoom.us/prod/6.6.5.67181/ZoomInstallerIT.pkg
+- **URL**: https://cdn.zoom.us/prod/6.6.6.67409/ZoomInstallerIT.pkg
 
 #### zoom
 
@@ -4566,7 +4566,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aelassas-servy.yml`
-- **URL**: https://github.com/aelassas/servy/releases/download/v2.7/servy-2.7-x64-installer.exe
+- **URL**: https://github.com/aelassas/servy/releases/download/v2.8/servy-2.8-x64-installer.exe
 
 #### aerosoft-one
 
@@ -10650,7 +10650,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `biomejs-biome.yml`
-- **URL**: https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.3.0/biome-win32-x64.exe
+- **URL**: https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.3.1/biome-win32-x64.exe
 
 #### biosilico-essaywriter
 
@@ -15195,7 +15195,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cybertimon-rapidraw.yml`
-- **URL**: https://github.com/CyberTimon/RapidRAW/releases/download/v1.4.1/01_RapidRAW_v1.4.1_windows_x64.msi
+- **URL**: https://github.com/CyberTimon/RapidRAW/releases/download/v1.4.3/01_RapidRAW_v1.4.3_windows_x64.msi
 
 #### cyclonedx-cdxgen
 
@@ -15483,7 +15483,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dataflare-dataflare.yml`
-- **URL**: https://assets.dataflare.app/release/windows/x86_64/Dataflare-Setup-2.6.0.exe
+- **URL**: https://assets.dataflare.app/release/windows/x86_64/Dataflare-Setup-2.6.1.exe
 
 #### datahammer-hammerpdf
 
@@ -17202,7 +17202,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `drofus-drofus.yml`
-- **URL**: https://deploy.drofus.com/stable/drofus-setup-2.15.18.msi
+- **URL**: https://deploy.drofus.com/stable/drofus-setup-2.15.19.msi
 
 #### dropbox-dropbox-msi
 
@@ -20325,7 +20325,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `flexense-disksorter.yml`
-- **URL**: https://www.disksorter.com/setups_x64/disksorter_setup_v17.3.12_x64.exe
+- **URL**: https://www.disksorter.com/setups_x64/disksorter_setup_v17.4.16_x64.exe
 
 #### flexense-disksorterenterprise
 
@@ -20334,7 +20334,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `flexense-disksorterenterprise.yml`
-- **URL**: https://www.disksorter.com/setups_x64/disksorterent_setup_v17.3.12_x64.exe
+- **URL**: https://www.disksorter.com/setups_x64/disksorterent_setup_v17.4.16_x64.exe
 
 #### flexense-disksorterpro
 
@@ -20343,7 +20343,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `flexense-disksorterpro.yml`
-- **URL**: https://www.disksorter.com/setups_x64/disksorterpro_setup_v17.3.12_x64.exe
+- **URL**: https://www.disksorter.com/setups_x64/disksorterpro_setup_v17.4.16_x64.exe
 
 #### flexense-disksorterserver
 
@@ -20352,7 +20352,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `flexense-disksorterserver.yml`
-- **URL**: https://www.disksorter.com/setups_x64/disksortersrv_setup_v17.3.12_x64.exe
+- **URL**: https://www.disksorter.com/setups_x64/disksortersrv_setup_v17.4.16_x64.exe
 
 #### flexense-disksorterultimate
 
@@ -20361,7 +20361,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `flexense-disksorterultimate.yml`
-- **URL**: https://www.disksorter.com/setups_x64/disksorterult_setup_v17.3.12_x64.exe
+- **URL**: https://www.disksorter.com/setups_x64/disksorterult_setup_v17.4.16_x64.exe
 
 #### flexense-dupscout
 
@@ -20496,7 +20496,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `flexense-vxsearch.yml`
-- **URL**: https://www.vxsearch.com/setups_x64/vxsearch_setup_v17.3.12_x64.exe
+- **URL**: https://www.vxsearch.com/setups_x64/vxsearch_setup_v17.4.16_x64.exe
 
 #### flexense-vxsearchenterprise
 
@@ -22647,7 +22647,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/admfzceid2o22pb66gygh7rbrvhq_143.0.7495.0/143.0.7495.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/adxae2asejyntx4lau2o6tduy6ha_143.0.7497.0/143.0.7497.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -23358,7 +23358,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gruntwork-cloud-nuke.yml`
-- **URL**: https://github.com/gruntwork-io/cloud-nuke/releases/download/v0.43.0/cloud-nuke_windows_amd64.exe
+- **URL**: https://github.com/gruntwork-io/cloud-nuke/releases/download/v0.44.0/cloud-nuke_windows_amd64.exe
 
 #### gruntwork-terragrunt
 
@@ -24726,7 +24726,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hydrusnetwork-hydrusnetwork.yml`
-- **URL**: https://github.com/hydrusnetwork/hydrus/releases/download/v643/Hydrus.Network.643.-.Windows.-.Installer.exe
+- **URL**: https://github.com/hydrusnetwork/hydrus/releases/download/v644/Hydrus.Network.644.-.Windows.-.Installer.exe
 
 #### hyperion-hyperion
 
@@ -29829,7 +29829,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kuaifan-dootask.yml`
-- **URL**: https://github.com/kuaifan/dootask/releases/download/v1.3.35/DooTask-v1.3.35-win-x64.exe
+- **URL**: https://github.com/kuaifan/dootask/releases/download/v1.3.38/DooTask-v1.3.38-win-x64.exe
 
 #### kubernetes-aws-iam-authenticator
 
@@ -30063,7 +30063,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kwaroran-risuai.yml`
-- **URL**: https://github.com/kwaroran/RisuAI/releases/download/v166.3.0/RisuAI_166.3.0_x64-setup.exe
+- **URL**: https://github.com/kwaroran/RisuAI/releases/download/v166.3.2/RisuAI_166.3.2_x64-setup.exe
 
 #### kydronepilot-spaceeye
 
@@ -35139,7 +35139,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `modelscope-flowbench.yml`
-- **URL**: https://cdn-muse-cn-1.modelscope.cn/flowbench/release/win/FlowBench-0.5.0-beta-20250929-1751.exe
+- **URL**: https://cdn-muse-cn-1.modelscope.cn/flowbench/release/win/FlowBench-0.5.1-beta-20251027-1030.exe
 
 #### modorganizer2-modorganizer
 
@@ -44976,7 +44976,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pocketsync-pocketsync.yml`
-- **URL**: https://github.com/neil-morrison44/pocket-sync/releases/download/v5.9.1/Pocket.Sync_5.9.1_x64-setup.exe
+- **URL**: https://github.com/neil-morrison44/pocket-sync/releases/download/v5.9.2/Pocket.Sync_5.9.2_x64-setup.exe
 
 #### poetries-yuqing-monitor-electron
 
@@ -50034,7 +50034,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-10-26/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-10-27/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -53942,15 +53942,6 @@ Total entries processed: 6802
 - **File**: `teamspeaksystems-teamspeakclient-beta-5.yml`
 - **URL**: https://files.teamspeak-services.com/pre_releases/client/5.0.0-beta77/teamspeak-client.msi
 
-#### teamspeaksystems-teamspeakclient-beta-6
-
-- **Source**: winget
-- **Name**: teamspeaksystems-teamspeakclient-beta-6
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `teamspeaksystems-teamspeakclient-beta-6.yml`
-- **URL**: https://files.teamspeak-services.com/pre_releases/client/6.0.0-beta2/teamspeak-client.msi
-
 #### teamspeaksystems-teamspeakclient
 
 - **Source**: winget
@@ -54426,7 +54417,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-tencentmeetingrooms.yml`
-- **URL**: https://updatecdn.meeting.qq.com/cos/20250828195807/TMRInstaller_1410000391_3.35.350.530.x64.exe
+- **URL**: https://updatecdn.meeting.qq.com/cos/20251021181938/TMRInstaller_1410000391_3.38.360.577.x64.exe
 
 #### tencent-tim
 
@@ -54471,7 +54462,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-weixindevtools.yml`
-- **URL**: https://dldir1v6.qq.com/WechatWebDev/release/be1ec64cf6184b0fa64091919793f068/wechat_devtools_1.06.2504050_win32_x64.exe
+- **URL**: https://dldir1v6.qq.com/WechatWebDev/release/be1ec64cf6184b0fa64091919793f068/wechat_devtools_2.01.2510241_win32_x64.exe
 
 #### tencent-weiyun
 
@@ -54507,7 +54498,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-yuanbao.yml`
-- **URL**: https://cdn-hybrid-prod.hunyuan.tencent.com/Desktop/official/52b71af5ed7e18f26dcfe29f5a59aa08/yuanbao_2.42.0.625_x64.exe
+- **URL**: https://cdn-hybrid-prod.hunyuan.tencent.com/Desktop/official/e1ac6e2f48bd3c1b00d88be396a16bef/yuanbao_2.43.1.625_x64.exe
 
 #### tenpi-musicplayer
 
@@ -56694,7 +56685,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `unikeen-sjmcl.yml`
-- **URL**: https://mc.sjtu.cn/sjmcl/releases/SJMCL_0.5.0_windows_x86_64.msi
+- **URL**: https://mc.sjtu.cn/sjmcl/releases/SJMCL_0.5.1_windows_x86_64.msi
 
 #### unipro-ugene
 
@@ -57423,7 +57414,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc-nightly.yml`
-- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251026-0425/vlc-4.0.0-dev-win64-3738e779.msi
+- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251027-0426/vlc-4.0.0-dev-win64-4b5d41f2.msi
 
 #### videolan-vlc
 
@@ -58062,7 +58053,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vrcx-vrcx.yml`
-- **URL**: https://github.com/vrcx-team/VRCX/releases/download/v2025.10.11/VRCX_2025.10.11_Setup.exe
+- **URL**: https://github.com/vrcx-team/VRCX/releases/download/v2025.10.27/VRCX_2025.10.27_Setup.exe
 
 #### vromans-chordpro
 
@@ -60321,7 +60312,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yaak-app.yml`
-- **URL**: https://github.com/mountain-loop/yaak/releases/download/v2025.7.2/Yaak_2025.7.2_x64-setup.exe
+- **URL**: https://github.com/mountain-loop/yaak/releases/download/v2025.7.3/Yaak_2025.7.3_x64-setup.exe
 
 #### yabe-yetanotherbacnetexplorer
 
@@ -60519,7 +60510,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yt-dlp-yt-dlp-nightly.yml`
-- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.10.22.232844/yt-dlp.exe
+- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.10.25.232842/yt-dlp.exe
 
 #### yt-dlp-yt-dlp
 
@@ -61032,7 +61023,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zoom-zoom-exe.yml`
-- **URL**: https://zoom.us/client/6.6.5.19369/ZoomInstallerFull.exe?archType=x64
+- **URL**: https://zoom.us/client/6.6.6.19875/ZoomInstallerFull.exe?archType=x64
 
 #### zoom-zoom-vdi
 
@@ -61050,7 +61041,7 @@ Total entries processed: 6802
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zoom-zoom.yml`
-- **URL**: https://zoom.us/client/6.6.5.19369/ZoomInstallerFull.msi?archType=x64
+- **URL**: https://zoom.us/client/6.6.6.19875/ZoomInstallerFull.msi?archType=x64
 
 #### zoom-zoomoutlookplugin
 
