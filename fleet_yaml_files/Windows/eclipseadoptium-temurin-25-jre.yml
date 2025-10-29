@@ -1,4 +1,4 @@
-url: https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25+36/OpenJDK25U-jre_x64_windows_hotspot_25_36.msi
+url: https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.1+8/OpenJDK25U-jre_x64_windows_hotspot_25.0.1_8.msi
 automatic_install: false
 self_service: false
 categories: []
