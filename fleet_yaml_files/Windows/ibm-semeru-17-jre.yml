@@ -1,4 +1,4 @@
-url: https://github.com/ibmruntimes/semeru17-binaries/releases/download/jdk-17.0.16+8_openj9-0.53.0/ibm-semeru-open-jre_x64_windows_17.0.16_8_openj9-0.53.0.msi
+url: https://github.com/ibmruntimes/semeru17-binaries/releases/download/jdk-17.0.17+10_openj9-0.56.0/ibm-semeru-open-jre_x64_windows_17.0.17_10_openj9-0.56.0.msi
 automatic_install: false
 self_service: false
 categories: []

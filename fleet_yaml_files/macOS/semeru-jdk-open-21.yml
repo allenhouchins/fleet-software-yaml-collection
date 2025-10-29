@@ -1,4 +1,4 @@
-url: https://github.com/ibmruntimes/semeru21-binaries/releases/download/jdk-21.0.8+9_openj9-0.53.0/ibm-semeru-open-jdk_aarch64_mac_21.0.8_9_openj9-0.53.0.pkg
+url: https://github.com/ibmruntimes/semeru21-binaries/releases/download/jdk-21.0.9+10_openj9-0.56.0/ibm-semeru-open-jdk_aarch64_mac_21.0.9_10_openj9-0.56.0.pkg
 automatic_install: false
 self_service: false
 categories: []
