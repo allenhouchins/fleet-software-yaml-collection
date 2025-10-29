@@ -30,3 +30,4 @@ winget-pkgs/
 # Build artifacts
 generate_fleet_yaml
 cask2fleet
+.DS_Store
