@@ -1,4 +1,4 @@
-url: https://github.com/jreleaser/jreleaser/releases/download/v1.20.0/jreleaser-installer-1.20.0-windows-x86_64.msi
+url: https://github.com/jreleaser/jreleaser/releases/download/v1.21.0/jreleaser-installer-1.21.0-windows-x86_64.msi
 automatic_install: false
 self_service: false
 categories: []

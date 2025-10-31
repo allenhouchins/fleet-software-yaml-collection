@@ -1,4 +1,4 @@
-url: https://cdn.kde.org/ci-builds/games/kdiamond/master/windows/kdiamond-master-763-windows-cl-msvc2022-x86_64.exe
+url: https://github.com/nashaofu/shell360/releases/download/v0.1.11/Shell360_0.1.11_x64-setup.exe
 automatic_install: false
 self_service: false
 categories: []

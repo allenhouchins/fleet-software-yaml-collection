@@ -1,4 +1,4 @@
-url: https://cdn.kde.org/ci-builds/games/kdiamond/master/windows/kdiamond-master-763-windows-cl-msvc2022-x86_64.exe
+url: https://github.com/anyme123/claude-workbench/releases/download/v4.0.9/Claude.Workbench_4.0.9_x64-setup.exe
 automatic_install: false
 self_service: false
 categories: []
