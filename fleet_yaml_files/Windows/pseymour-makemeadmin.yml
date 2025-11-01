@@ -1,4 +1,4 @@
-url: https://raw.githubusercontent.com/pseymour/MakeMeAdmin/0b1e190d68a242b724a05e75335364233e6c0d4e/Installers/en-us/MakeMeAdmin%202.3.81%20x64.msi
+url: https://github.com/pseymour/MakeMeAdmin/releases/download/v2.4/MakeMeAdmin.2.4.0.x64.en-us.msi
 automatic_install: false
 self_service: false
 categories: []
