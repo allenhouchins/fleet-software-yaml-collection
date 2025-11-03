@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-11-03 06:05:13 UTC
+Generated on: 2025-11-03 18:05:10 UTC
 
 ## Summary
 
@@ -22908,7 +22908,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/eu3tbdbblsneqmzxfz2zc2g6ra_144.0.7505.0/144.0.7505.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/d37vtwck5u3ztw5whcn247mhju_144.0.7506.0/144.0.7506.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -29244,7 +29244,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-knetwalk.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/knetwalk/master/windows/knetwalk-master-728-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/knetwalk/master/windows/knetwalk-master-730-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kolf
 
@@ -29397,7 +29397,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-ktuberling.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/ktuberling/master/windows/ktuberling-master-836-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/ktuberling/master/windows/ktuberling-master-840-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kturtle
 
@@ -29496,7 +29496,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-picmi.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/picmi/master/windows/picmi-master-728-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/picmi/master/windows/picmi-master-730-windows-cl-msvc2022-x86_64.exe
 
 #### kde-rkward
 
@@ -38073,7 +38073,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-hr.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/firefox/releases/144.0/win64/hr/Firefox%20Setup%20144.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/firefox/releases/144.0.2/win64/hr/Firefox%20Setup%20144.0.2.exe
 
 #### mozilla-firefox-hsb
 
@@ -52185,7 +52185,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `spotify-spotify.yml`
-- **URL**: https://upgrade.scdn.co/upgrade/client/win32-x86_64/spotify_installer-1.2.76.274.g749ee04a-236.exe
+- **URL**: https://upgrade.scdn.co/upgrade/client/win32-x86_64/spotify_installer-1.2.76.286.g733f9d86-275.exe
 
 #### springlobby-springlobby
 
