@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-11-02 18:04:53 UTC
+Generated on: 2025-11-03 06:05:13 UTC
 
 ## Summary
 
@@ -2998,7 +2998,7 @@ Total entries processed: 6853
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `tableau-public.yml`
-- **URL**: https://downloads.tableau.com/esdalt/2025.2.3/TableauPublic-2025-2-3-arm64.pkg
+- **URL**: https://downloads.tableau.com/esdalt/2025.2.4/TableauPublic-2025-2-4-arm64.pkg
 
 #### tableau-reader
 
@@ -3007,7 +3007,7 @@ Total entries processed: 6853
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `tableau-reader.yml`
-- **URL**: https://downloads.tableau.com/esdalt/2025.2.3/TableauReader-2025-2-3-arm64.pkg
+- **URL**: https://downloads.tableau.com/esdalt/2025.2.4/TableauReader-2025-2-4-arm64.pkg
 
 #### tailscale-app
 
@@ -3385,7 +3385,7 @@ Total entries processed: 6853
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `windows-app.yml`
-- **URL**: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_11.2.5_installer.pkg
+- **URL**: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_11.2.6_installer.pkg
 
 #### wkhtmltopdf
 
@@ -14214,7 +14214,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `columnar-dbc.yml`
-- **URL**: https://github.com/columnar-tech/dbc/releases/download/v0.0.1-beta3/dbc-0.0.1-beta3-x64.msi
+- **URL**: https://github.com/columnar-tech/dbc/releases/download/v0.1.0/dbc-0.1.0-x64.msi
 
 #### cometnetwork-bitcomet
 
@@ -22314,7 +22314,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gitbutler-gitbutler.yml`
-- **URL**: https://releases.gitbutler.com/releases/release/0.17.2-2545/windows/x86_64/GitButler_0.17.2_x64_en-US.msi
+- **URL**: https://releases.gitbutler.com/releases/release/0.17.3-2547/windows/x86_64/GitButler_0.17.3_x64_en-US.msi
 
 #### gitea-tea
 
@@ -29145,7 +29145,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kigo.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kigo/master/windows/kigo-master-812-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kigo/master/windows/kigo-master-814-windows-cl-msvc2022-x86_64.exe
 
 #### kde-killbots
 
@@ -29199,7 +29199,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-klickety.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/klickety/master/windows/klickety-master-825-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/klickety/master/windows/klickety-master-827-windows-cl-msvc2022-x86_64.exe
 
 #### kde-klines
 
@@ -29226,7 +29226,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kmines.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kmines/master/windows/kmines-master-840-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kmines/master/windows/kmines-master-842-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kmymoney
 
@@ -29298,7 +29298,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kreversi.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kreversi/master/windows/kreversi-master-788-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kreversi/master/windows/kreversi-master-790-windows-cl-msvc2022-x86_64.exe
 
 #### kde-krita
 
@@ -33051,7 +33051,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `meltytech-shotcut.yml`
-- **URL**: https://github.com/mltframework/shotcut/releases/download/v25.08.16/shotcut-win64-250816.exe
+- **URL**: https://github.com/mltframework/shotcut/releases/download/v25.10.31/shotcut-win64-25.10.31.exe
 
 #### melvin-abraham-google-assistant-preview
 
@@ -34050,7 +34050,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-malicioussoftwareremovaltool.yml`
-- **URL**: https://download.microsoft.com/download/2/c/5/2c563b99-54d9-4d85-a82b-45d3cd2f53ce/Windows-KB890830-x64-V5.134.exe
+- **URL**: https://download.microsoft.com/download/2/c/5/2c563b99-54d9-4d85-a82b-45d3cd2f53ce/Windows-KB890830-x64-V5.136.exe
 
 #### microsoft-mixedrealityfeaturetool
 
@@ -36543,7 +36543,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-lij.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b8/win64/lij/Firefox%20Setup%20145.0b8.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b9/win64/lij/Firefox%20Setup%20145.0b9.exe
 
 #### mozilla-firefox-developeredition-lt
 
@@ -36876,7 +36876,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-ur.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b8/win64/ur/Firefox%20Setup%20145.0b8.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b9/win64/ur/Firefox%20Setup%20145.0b9.exe
 
 #### mozilla-firefox-developeredition-uz
 
@@ -48612,7 +48612,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `roblox-roblox.yml`
-- **URL**: https://setup.rbxcdn.com/version-4aeb17bd13994560-RobloxPlayerInstaller.exe
+- **URL**: https://setup.rbxcdn.com/version-889d2588b25a43d1-RobloxPlayerInstaller.exe
 
 #### robware-rvtools
 
@@ -50862,7 +50862,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `silhouette-silhouettestudio.yml`
-- **URL**: https://d62nvtdcnsm38.cloudfront.net/files/softwares/ss/SS_V5.0.402.001_W6R.exe
+- **URL**: https://medias3.silhouettedesignstore.com/files/softwares/ss/SS_V5.0.402.001_W6R.exe
 
 #### silicondust-hdhomerun
 
@@ -57873,7 +57873,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc-nightly.yml`
-- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251031-0425/vlc-4.0.0-dev-win64-effa17a3.msi
+- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251101-0440/vlc-4.0.0-dev-win64-81cda618.msi
 
 #### videolan-vlc
 
