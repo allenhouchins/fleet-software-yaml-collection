@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-11-04 06:05:36 UTC
+Generated on: 2025-11-04 18:05:13 UTC
 
 ## Summary
 
@@ -1585,7 +1585,7 @@ Total entries processed: 6853
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `krisp.yml`
-- **URL**: https://cdn.krisp.ai/mp/mn/3.6/mac/Krisp_3.6.8_arm64.pkg
+- **URL**: https://cdn.krisp.ai/mp/mn/3.7/mac/Krisp_3.7.4_arm64.pkg
 
 #### libndi
 
@@ -3277,7 +3277,7 @@ Total entries processed: 6853
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `vcv-rack.yml`
-- **URL**: https://vcvrack.com/downloads/RackFree-2.6.5-mac-x64+arm64.pkg
+- **URL**: https://vcvrack.com/downloads/RackFree-2.6.6-mac-x64+arm64.pkg
 
 #### videostream
 
@@ -11568,7 +11568,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `brave-brave-beta.yml`
-- **URL**: https://github.com/brave/brave-browser/releases/download/v1.85.92/BraveBrowserStandaloneSilentBetaSetup.exe
+- **URL**: https://github.com/brave/brave-browser/releases/download/v1.85.95/BraveBrowserStandaloneSilentBetaSetup.exe
 
 #### brave-brave-dev
 
@@ -15636,7 +15636,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `datadog-agent.yml`
-- **URL**: https://s3.amazonaws.com/ddagent-windows-stable/ddagent-cli-7.71.2.msi
+- **URL**: https://s3.amazonaws.com/ddagent-windows-stable/ddagent-cli-7.72.0.msi
 
 #### datadog-dd-trace-dotnet
 
@@ -15942,7 +15942,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ddevfoundation-ddev.yml`
-- **URL**: https://github.com/ddev/ddev/releases/download/v1.24.8/ddev_windows_amd64_installer.v1.24.8.exe
+- **URL**: https://github.com/ddev/ddev/releases/download/v1.24.9/ddev_windows_amd64_installer.v1.24.9.exe
 
 #### deanxv-donehub
 
@@ -18408,7 +18408,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `eeo-classin.yml`
-- **URL**: https://download.eeo.cn/client/classin_win_install_6.0.4.4161_x64.exe
+- **URL**: https://download.eeo.cn/client/classin_win_install_6.0.4.4381_x64.exe
 
 #### eeo-classinx
 
@@ -18759,7 +18759,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `elgato-controlcenter.yml`
-- **URL**: https://edge.elgato.com/egc/windows/eccw/1.8.1/ControlCenter_1.8.1.654_x64.msi
+- **URL**: https://edge.elgato.com/egc/windows/eccw/1.8.2/ControlCenter_1.8.2.712_x64.msi
 
 #### elgato-epoccam
 
@@ -22908,7 +22908,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/d37vtwck5u3ztw5whcn247mhju_144.0.7506.0/144.0.7506.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/addgc3l3o7kampgyv5bw33oa24xa_144.0.7508.0/144.0.7508.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -24717,7 +24717,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hp-hpclick.yml`
-- **URL**: https://ftp.hp.com/pub/softlib/software13/printers/hpclick/NormalVersion/win10-11/HPClick-64bit-Setup-4.3.29.exe
+- **URL**: https://ftp.hp.com/pub/softlib/software13/printers/hpclick/NormalVersion/win10-11/HPClick-64bit-Setup-4.4.59.exe
 
 #### hp-hpcloudrecoverytool
 
@@ -25599,7 +25599,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `igoogolx-lux.yml`
-- **URL**: https://github.com/igoogolx/lux/releases/download/v1.39.1/lux-1.39.1-x64-windows.exe
+- **URL**: https://github.com/igoogolx/lux/releases/download/v1.39.2/lux-1.39.2-x64-windows.exe
 
 #### igoravl-tfscmdlets
 
@@ -28758,7 +28758,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `karingx-karing.yml`
-- **URL**: https://github.com/KaringX/karing/releases/download/v1.2.4.869/karing_1.2.4.869_windows_x64.exe
+- **URL**: https://github.com/KaringX/karing/releases/download/v1.2.5.882/karing_1.2.5.882_windows_x64.exe
 
 #### kaseya-liveconnect
 
@@ -29010,7 +29010,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kate.yml`
-- **URL**: https://cdn.kde.org/ci-builds/utilities/kate/release-25.08/windows/kate-release_25.08-10528-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/utilities/kate/release-25.08/windows/kate-release_25.08-10550-windows-cl-msvc2022-x86_64.exe
 
 #### kde-katomic
 
@@ -30099,7 +30099,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `krisp-krisp.yml`
-- **URL**: https://cdn.krisp.ai/mp/mn/3.6/win/Krisp_3.6.8_x64.exe
+- **URL**: https://cdn.krisp.ai/mp/mn/3.7/win/Krisp_3.7.4_x64.exe
 
 #### kristenmcwilliam-nyrna
 
@@ -33069,7 +33069,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `memtime-memtime.yml`
-- **URL**: https://releases.memtime.com/app/memtime/production/windows/x64/4.7.0/stable/2295/24c64c02e045c3dedbf7929f544eb263/memtime-V4.7.0-stable.2295-Installer.exe
+- **URL**: https://releases.memtime.com/app/memtime/production/windows/x64/4.7.2/stable/2351/ea8242a9352eecdf02f7d39e6f933530/memtime-V4.7.2-stable.2351-Installer.exe
 
 #### memurai-memuraideveloper
 
@@ -34797,7 +34797,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-visualstudio-professional-insiders.yml`
-- **URL**: https://download.visualstudio.microsoft.com/download/pr/63fecf53-d9f5-41d2-af30-7af6da5608e0/f97b4f899e7522e13c29e0045d25946f7a12a686f71597835cfbdfe9dd0b2306/vs_Professional.exe
+- **URL**: https://download.visualstudio.microsoft.com/download/pr/82de2b0e-c5c9-4a16-8adf-658429a1446d/939864cac95ae3350acedee922428abc03644132969167dfd077d33d0987f2b2/vs_Professional.exe
 
 #### microsoft-visualstudiocode-insiders
 
@@ -39828,7 +39828,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mq1-tinywiibackupmanager.yml`
-- **URL**: https://github.com/mq1/TinyWiiBackupManager/releases/download/4.2.2/TinyWiiBackupManager-4.2.2-windows-x64-setup.exe
+- **URL**: https://github.com/mq1/TinyWiiBackupManager/releases/download/4.2.3/TinyWiiBackupManager-4.2.3-windows-x64-setup.exe
 
 #### mremoteng-mremoteng-nightly
 
@@ -44859,7 +44859,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `phrase-phrasecli.yml`
-- **URL**: https://github.com/phrase/phrase-cli/releases/download/2.50.0/phrase_windows_setup.exe
+- **URL**: https://github.com/phrase/phrase-cli/releases/download/2.50.1/phrase_windows_setup.exe
 
 #### picgo-picgo-beta
 
@@ -55893,7 +55893,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tidycustoms-publii.yml`
-- **URL**: https://getpublii.com/download/Publii-0.47.1.exe
+- **URL**: https://getpublii.com/download/Publii-0.47.2.exe
 
 #### tigercompany-tigrismessenger
 
@@ -57873,7 +57873,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc-nightly.yml`
-- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251102-0426/vlc-4.0.0-dev-win64-5902316a.msi
+- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251104-0423/vlc-4.0.0-dev-win64-3d619de3.msi
 
 #### videolan-vlc
 
@@ -59763,7 +59763,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wondershare-filmora.yml`
-- **URL**: https://download.wondershare.com/cbs_down/filmora_64bit_14.9.3_full846.exe
+- **URL**: https://download.wondershare.com/cbs_down/filmora_64bit_15.0.5_full846.exe
 
 #### wondershare-inclowdz
 
@@ -60681,7 +60681,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xrecode-xrecode3.yml`
-- **URL**: https://xrecode.com/download/setup_xrecode3_win_64bit_1.172.exe
+- **URL**: https://xrecode.com/download/setup_xrecode3_win_64bit_1.173.exe
 
 #### xrevealteam-xreveal
 
@@ -60969,7 +60969,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yt-dlp-yt-dlp-nightly.yml`
-- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.11.01.073148/yt-dlp.exe
+- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.11.03.233024/yt-dlp.exe
 
 #### yt-dlp-yt-dlp
 
@@ -61212,7 +61212,7 @@ Total entries processed: 6853
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zedindustries-zed-preview.yml`
-- **URL**: https://github.com/zed-industries/zed/releases/download/v0.211.2-pre/Zed-x86_64.exe
+- **URL**: https://github.com/zed-industries/zed/releases/download/v0.211.3-pre/Zed-x86_64.exe
 
 #### zedindustries-zed
 
