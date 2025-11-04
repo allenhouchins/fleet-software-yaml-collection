@@ -1,4 +1,4 @@
-url: https://github.com/docker/cagent/releases/download/v1.9.2/cagent-windows-amd64.exe
+url: https://github.com/docker/cagent/releases/download/v1.9.7/cagent-windows-amd64.exe
 automatic_install: false
 self_service: false
 categories: []
