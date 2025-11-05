@@ -1,4 +1,4 @@
-url: https://github.com/microsoft/Analysis-Services/releases/download/5.1.11/AlmToolkitSetup.msi
+url: https://github.com/microsoft/Analysis-Services/releases/download/5.1.20/AlmToolkitSetup.msi
 automatic_install: false
 self_service: false
 categories: []
