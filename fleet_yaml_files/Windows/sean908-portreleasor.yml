@@ -1,4 +1,4 @@
-url: https://cdn.kde.org/ci-builds/sdk/kirigami-gallery/master/windows/kirigami-gallery-master-710-windows-cl-msvc2019-x86_64.exe
+url: https://github.com/sean908/PortReleasor/releases/download/v0.1.0-alpha/prls-windows-amd64.exe
 automatic_install: false
 self_service: false
 categories: []
