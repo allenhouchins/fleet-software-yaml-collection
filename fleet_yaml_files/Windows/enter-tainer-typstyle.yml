@@ -1,4 +1,4 @@
-url: https://github.com/Enter-tainer/typstyle/releases/download/v0.13.9/typstyle-x86_64-pc-windows-msvc.exe
+url: https://github.com/typstyle-rs/typstyle/releases/download/v0.14.0/typstyle-x86_64-pc-windows-msvc.exe
 automatic_install: false
 self_service: false
 categories: []

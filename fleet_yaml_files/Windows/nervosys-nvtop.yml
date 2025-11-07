@@ -1,4 +1,4 @@
-url: https://downloads.veertu.com/anka/anka-registry-arm64-1.48.3-4f324404.pkg
+url: https://github.com/nervosys/nvtop/releases/download/v3.3.0/nvtop-3.3.0-x64.msi
 automatic_install: false
 self_service: false
 categories: []

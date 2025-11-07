@@ -1,4 +1,4 @@
-url: https://www.paraview.org/paraview-downloads/download.php?submit=Download&version=v5.13&type=binary&os=Windows&downloadFile=ParaView-5.13.1-Windows-Python3.10-msvc2017-AMD64.msi
+url: https://paraview.org/paraview-downloads/download.php?submit=Download&version=v6.0&type=binary&os=Windows&downloadFile=ParaView-6.0.1-Windows-Python3.12-msvc2017-AMD64.msi
 automatic_install: false
 self_service: false
 categories: []
