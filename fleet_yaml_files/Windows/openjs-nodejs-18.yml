@@ -1,4 +1,4 @@
-url: https://dlcdn.apache.org/netbeans/netbeans-installers/"${appNewVersion}"/Apache-NetBeans-"${appNewVersion}".pkg
+url: https://nodejs.org/dist/v18.20.8/node-v18.20.8-x64.msi
 automatic_install: false
 self_service: false
 categories: []
