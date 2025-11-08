@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-11-08 06:04:57 UTC
+Generated on: 2025-11-08 18:04:59 UTC
 
 ## Summary
 
-Total entries processed: 6885
+Total entries processed: 6886
 - macOS files: 390
-- Windows files: 6495
+- Windows files: 6496
 
 ## Generated Files
 
@@ -3972,7 +3972,7 @@ Total entries processed: 6885
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ablaze-floorp.yml`
-- **URL**: https://github.com/Floorp-Projects/Floorp/releases/download/v12.4.0/floorp-windows-x86_64.installer.exe
+- **URL**: https://github.com/Floorp-Projects/Floorp/releases/download/v12.5.0/floorp-windows-x86_64.installer.exe
 
 #### abrignoni-aleapp-cli
 
@@ -10290,7 +10290,7 @@ Total entries processed: 6885
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `betterbird-betterbird.yml`
-- **URL**: https://www.betterbird.eu/downloads/WindowsInstaller/betterbird-140.4.0esr-bb13.en-US.win64.installer.exe
+- **URL**: https://www.betterbird.eu/downloads/WindowsInstaller/betterbird-140.5.0esr-bb14.en-US.win64.installer.exe
 
 #### beyond-all-reason-beyond-all-reason
 
@@ -13701,7 +13701,7 @@ Total entries processed: 6885
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cmu-alice-3.yml`
-- **URL**: https://github.com/TheAliceProject/alice3/releases/download/3.9.0.2/alice3_windows-x64_installer_3_9_0_2+build_1224.exe
+- **URL**: https://github.com/TheAliceProject/alice3/releases/download/3.9.0.3/alice3_windows-x64_installer_3_9_0_3+build1338.exe
 
 #### cnristi-meshlab
 
@@ -15591,7 +15591,7 @@ Total entries processed: 6885
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dascanard-radioss.yml`
-- **URL**: https://github.com/DasCanard/radioss/releases/download/v0.8.1/radioss_0.8.1_x64_en-US.msi
+- **URL**: https://github.com/DasCanard/radioss/releases/download/v0.9.0/radioss_0.9.0_x64_en-US_windows.msi
 
 #### dashlane-dashlane
 
@@ -16185,7 +16185,7 @@ Total entries processed: 6885
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `deminimis-minimalfirewall.yml`
-- **URL**: https://github.com/deminimis/minimalfirewall/releases/download/v2.5.3/Minimal.Firewall.exe
+- **URL**: https://github.com/deminimis/minimalfirewall/releases/download/v2.5.4/Minimal.Firewall.exe
 
 #### denby-calculator
 
@@ -22856,6 +22856,15 @@ Total entries processed: 6885
 - **File**: `gocd-server.yml`
 - **URL**: https://download.gocd.org/binaries/21.2.0-12498/win/go-server-21.2.0-12498-jre-64bit-setup.exe
 
+#### godotlauncher-launcher
+
+- **Source**: winget
+- **Name**: godotlauncher-launcher
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `godotlauncher-launcher.yml`
+- **URL**: https://github.com/godotlauncher/launcher/releases/download/v1.7.0/Godot_Launcher-1.7.0-win_x64.exe
+
 #### golang-go
 
 - **Source**: winget
@@ -22962,7 +22971,7 @@ Total entries processed: 6885
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-dev-exe.yml`
-- **URL**: https://dl.google.com/release2/chrome/acabkfclsgd7vr54ykq2dowkhwaa_144.0.7500.4/144.0.7500.4_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/f66x6ffuboiz64sfui3mimxige_144.0.7512.3/144.0.7512.3_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev
 
@@ -35850,7 +35859,7 @@ Total entries processed: 6885
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `moritzbunkus-mkvtoolnix.yml`
-- **URL**: https://mkvtoolnix.download/windows/releases/95.0/mkvtoolnix-64-bit-95.0-setup.exe
+- **URL**: https://mkvtoolnix.download/windows/releases/96.0/mkvtoolnix-64-bit-96.0-setup.exe
 
 #### morpheusly-secureconnections
 
@@ -41169,7 +41178,7 @@ Total entries processed: 6885
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nexmoe-vidbee.yml`
-- **URL**: https://github.com/nexmoe/VidBee/releases/download/v0.3.4/vidbee-0.3.4-setup.exe
+- **URL**: https://github.com/nexmoe/VidBee/releases/download/v0.3.5/vidbee-0.3.5-setup.exe
 
 #### nexon-nexonplug
 
@@ -43275,7 +43284,7 @@ Total entries processed: 6885
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `openjs-nodejs-14.yml`
-- **URL**: https://nodejs.org/dist/v14.17.6/node-v14.17.6-x64.msi
+- **URL**: https://nodejs.org/dist/v14.21.3/node-v14.21.3-x64.msi
 
 #### openjs-nodejs-16
 
@@ -44346,7 +44355,7 @@ Total entries processed: 6885
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `panic-playdatesdk.yml`
-- **URL**: https://download.panic.com/playdate_sdk/Windows/PlaydateSDK-3.0.0.exe
+- **URL**: https://download.panic.com/playdate_sdk/Windows/PlaydateSDK-3.0.1.exe
 
 #### paodingai-calliper
 
@@ -45336,7 +45345,7 @@ Total entries processed: 6885
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pixpin-pixpin-beta.yml`
-- **URL**: https://download.pixpinapp.com/PixPin_cn_zh-cn_2.1.8.0.exe
+- **URL**: https://download.pixpinapp.com/PixPin_cn_zh-cn_2.2.0.0.exe
 
 #### pixpin-pixpin
 
@@ -47397,7 +47406,7 @@ Total entries processed: 6885
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `radekyspec-startlive.yml`
-- **URL**: https://github.com/Radekyspec/StartLive/releases/download/0.7.1/StartLive-Setup.exe
+- **URL**: https://github.com/Radekyspec/StartLive/releases/download/0.7.2/StartLive-Setup.exe
 
 #### radius-radius
 
@@ -50682,7 +50691,7 @@ Total entries processed: 6885
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-11-07/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-11-08/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -50862,7 +50871,7 @@ Total entries processed: 6885
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `shift-shift.yml`
-- **URL**: https://updates.tryshift.com/v9.6.2/stable/shift-v9.6.2.1222-stable-x64.exe
+- **URL**: https://updates.tryshift.com/v9.6.4/stable/shift-v9.6.4.1231-stable-x64.exe
 
 #### shiftcryptoag-bitboxapp
 
@@ -52437,7 +52446,7 @@ Total entries processed: 6885
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `spotify-spotify.yml`
-- **URL**: https://upgrade.scdn.co/upgrade/client/win32-x86_64/spotify_installer-1.2.77.144.gb6198f81-47.exe
+- **URL**: https://upgrade.scdn.co/upgrade/client/win32-x86_64/spotify_installer-1.2.77.158.g41a657be-18.exe
 
 #### springlobby-springlobby
 
@@ -54174,7 +54183,7 @@ Total entries processed: 6885
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `t-troll-alienfxtools.yml`
-- **URL**: https://github.com/T-Troll/alienfx-tools/releases/download/9.3.4.1/alienfx-tools.msi
+- **URL**: https://github.com/T-Troll/alienfx-tools/releases/download/9.3.4.2/alienfx-tools.msi
 
 #### t1m0thyj-windynamicdesktop
 
