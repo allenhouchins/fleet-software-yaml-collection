@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-11-09 06:05:09 UTC
+Generated on: 2025-11-09 18:05:17 UTC
 
 ## Summary
 
@@ -4539,7 +4539,7 @@ Total entries processed: 6887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aelassas-servy.yml`
-- **URL**: https://github.com/aelassas/servy/releases/download/v3.0/servy-3.0-x64-installer.exe
+- **URL**: https://github.com/aelassas/servy/releases/download/v3.1/servy-3.1-x64-installer.exe
 
 #### aerosoft-one
 
@@ -15645,7 +15645,7 @@ Total entries processed: 6887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dataflare-dataflare.yml`
-- **URL**: https://assets.dataflare.app/release/windows/x86_64/Dataflare-Setup-2.6.1.exe
+- **URL**: https://assets.dataflare.app/release/windows/x86_64/Dataflare-Setup-2.6.2.exe
 
 #### datahammer-hammerpdf
 
@@ -22962,7 +22962,7 @@ Total entries processed: 6887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/acgxcvlqc4rujbylsfvietfsfbna_144.0.7517.0/144.0.7517.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/acgcxcgkyrluzipketqnerqh3omq_144.0.7518.0/144.0.7518.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -22971,7 +22971,7 @@ Total entries processed: 6887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-dev-exe.yml`
-- **URL**: https://dl.google.com/release2/chrome/f66x6ffuboiz64sfui3mimxige_144.0.7512.3/144.0.7512.3_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/ac7sivs5yd3kx545rsi7p6ckhhua_144.0.7512.4/144.0.7512.4_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev
 
@@ -25842,7 +25842,7 @@ Total entries processed: 6887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `imputnet-helium.yml`
-- **URL**: https://github.com/imputnet/helium-windows/releases/download/0.6.3.1/helium_0.6.3.1_x64-installer.exe
+- **URL**: https://github.com/imputnet/helium-windows/releases/download/0.6.4.1/helium_0.6.4.1_x64-installer.exe
 
 #### indigobyte-drexplain
 
@@ -33996,7 +33996,7 @@ Total entries processed: 6887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-edgewebview2runtime.yml`
-- **URL**: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/becd6428-d741-4147-9b07-8ad7d0ccfa6d/MicrosoftEdgeWebView2RuntimeInstallerX64.exe
+- **URL**: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/cbccae5b-f074-4105-86c7-935824e58841/MicrosoftEdgeWebView2RuntimeInstallerX64.exe
 
 #### microsoft-gameinput
 
@@ -43473,7 +43473,7 @@ Total entries processed: 6887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `openmpt-openmpt.yml`
-- **URL**: https://download.openmpt.org/archive/openmpt/1.32/OpenMPT-1.32.04.00-Setup.exe
+- **URL**: https://download.openmpt.org/archive/openmpt/1.32/OpenMPT-1.32.05.00-Setup.exe
 
 #### openmw-openmw
 
@@ -46101,7 +46101,7 @@ Total entries processed: 6887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `premiumsoft-navicatpremium.yml`
-- **URL**: https://download3.navicat.com/download/navicat17_premium_es_x64.exe
+- **URL**: https://download3.navicat.com/download/navicat161_premium_cs_x64.exe
 
 #### premiumsoft-navicatpremiumlite
 
@@ -50700,7 +50700,7 @@ Total entries processed: 6887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-11-08/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-11-09/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -58170,7 +58170,7 @@ Total entries processed: 6887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc-nightly.yml`
-- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251108-0423/vlc-4.0.0-dev-win64-a33f33dd.msi
+- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251109-0425/vlc-4.0.0-dev-win64-b1596c8d.msi
 
 #### videolan-vlc
 
@@ -61266,7 +61266,7 @@ Total entries processed: 6887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yt-dlp-yt-dlp-nightly.yml`
-- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.11.07.232914/yt-dlp.exe
+- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.11.08.232845/yt-dlp.exe
 
 #### yt-dlp-yt-dlp
 
@@ -61635,7 +61635,7 @@ Total entries processed: 6887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zhaokeli-fastgestures.yml`
-- **URL**: https://github.com/zhaokeli/FastGestures/releases/download/2.2.60/FastGestures-Setup-v2.2.60_x64.exe
+- **URL**: https://github.com/zhaokeli/FastGestures/releases/download/2.2.61/FastGestures-Setup-v2.2.61_x64.exe
 
 #### zhaopengme-gitnote
 
