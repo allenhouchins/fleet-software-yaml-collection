@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-11-08 18:04:59 UTC
+Generated on: 2025-11-09 06:05:09 UTC
 
 ## Summary
 
-Total entries processed: 6886
+Total entries processed: 6887
 - macOS files: 390
-- Windows files: 6496
+- Windows files: 6497
 
 ## Generated Files
 
@@ -4539,7 +4539,7 @@ Total entries processed: 6886
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aelassas-servy.yml`
-- **URL**: https://github.com/aelassas/servy/releases/download/v2.9/servy-2.9-x64-installer.exe
+- **URL**: https://github.com/aelassas/servy/releases/download/v3.0/servy-3.0-x64-installer.exe
 
 #### aerosoft-one
 
@@ -13449,7 +13449,7 @@ Total entries processed: 6886
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `clashvergerev-clashvergerev.yml`
-- **URL**: https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.2/Clash.Verge_2.4.2_x64-setup.exe
+- **URL**: https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.3/Clash.Verge_2.4.3_x64-setup.exe
 
 #### classicdiy-modbustool
 
@@ -18246,7 +18246,7 @@ Total entries processed: 6886
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `eclipseadoptium-temurin-8-jre.yml`
-- **URL**: https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jre_x64_windows_hotspot_8u462b08.msi
+- **URL**: https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u472-b08/OpenJDK8U-jre_x64_windows_hotspot_8u472b08.msi
 
 #### eclipsefoundation-mosquitto
 
@@ -22962,7 +22962,7 @@ Total entries processed: 6886
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/m7jlua2puxfr65ntjekdt6jsuu_144.0.7515.0/144.0.7515.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/acgxcvlqc4rujbylsfvietfsfbna_144.0.7517.0/144.0.7517.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -28722,7 +28722,7 @@ Total entries processed: 6886
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kajitsy-emilia.yml`
-- **URL**: https://github.com/Kajitsy/Emilia/releases/download/3.1.0/EmiliaSetup.exe
+- **URL**: https://github.com/Kajitsy/Emilia/releases/download/3.2.0/EmiliaSetup.exe
 
 #### kakao-kakaotalk
 
@@ -39963,7 +39963,7 @@ Total entries processed: 6886
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mq1-tinywiibackupmanager.yml`
-- **URL**: https://github.com/mq1/TinyWiiBackupManager/releases/download/4.2.5/TinyWiiBackupManager-4.2.5-windows-x64-setup.exe
+- **URL**: https://github.com/mq1/TinyWiiBackupManager/releases/download/4.2.7/TinyWiiBackupManager-4.2.7-windows-x64-setup.exe
 
 #### mremoteng-mremoteng-nightly
 
@@ -43277,6 +43277,15 @@ Total entries processed: 6886
 - **File**: `openhv-openhv.yml`
 - **URL**: https://github.com/OpenHV/OpenHV/releases/download/20250413/OpenHV-20250413-x64.exe
 
+#### openjs-nodejs-12
+
+- **Source**: winget
+- **Name**: openjs-nodejs-12
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `openjs-nodejs-12.yml`
+- **URL**: https://nodejs.org/dist/v12.22.9/node-v12.22.9-x64.msi
+
 #### openjs-nodejs-14
 
 - **Source**: winget
@@ -43347,7 +43356,7 @@ Total entries processed: 6886
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `openjs-nodejs-lts.yml`
-- **URL**: https://nodejs.org/dist/v8.11.3/node-v8.11.3-x64.msi
+- **URL**: https://nodejs.org/dist/v4.8.7/node-v4.8.7-x64.msi
 
 #### openjs-nodejs
 
@@ -46704,7 +46713,7 @@ Total entries processed: 6886
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `puredevsoftware-10x.yml`
-- **URL**: https://www.puredevsoftware.com/download.php?file=10x_prev_versions/10xInstaller_1_0_379_0.exe&type=exe
+- **URL**: https://www.puredevsoftware.com/download.php?file=10x_prev_versions/10xInstaller_1_0_383_0.exe&type=exe
 
 #### puredevsoftware-framepro
 
@@ -57720,7 +57729,7 @@ Total entries processed: 6886
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `urbackup-urbackup-server.yml`
-- **URL**: https://hndl.urbackup.org/Server/2.5.33/UrBackup%20Server%202.5.33.exe
+- **URL**: https://hndl.urbackup.org/Server/2.5.34/UrBackup%20Server%202.5.34.exe
 
 #### usepa-epanet
 
@@ -58161,7 +58170,7 @@ Total entries processed: 6886
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc-nightly.yml`
-- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251107-0432/vlc-4.0.0-dev-win64-64d9fcb8.msi
+- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251108-0423/vlc-4.0.0-dev-win64-a33f33dd.msi
 
 #### videolan-vlc
 
@@ -58215,7 +58224,7 @@ Total entries processed: 6886
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.1891/gvim_9.1.1891_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.1900/gvim_9.1.1900_x64.exe
 
 #### vim-vim
 
@@ -61257,7 +61266,7 @@ Total entries processed: 6886
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yt-dlp-yt-dlp-nightly.yml`
-- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.11.05.232946/yt-dlp.exe
+- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.11.07.232914/yt-dlp.exe
 
 #### yt-dlp-yt-dlp
 
