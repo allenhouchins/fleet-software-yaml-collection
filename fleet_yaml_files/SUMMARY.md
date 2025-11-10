@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-11-09 18:05:17 UTC
+Generated on: 2025-11-10 06:05:19 UTC
 
 ## Summary
 
@@ -7176,7 +7176,7 @@ Total entries processed: 6887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `anyme123-claudeworkbench.yml`
-- **URL**: https://github.com/anyme123/claude-workbench/releases/download/v4.1.2/Claude.Workbench_4.1.2_x64-setup.exe
+- **URL**: https://github.com/anyme123/claude-workbench/releases/download/v4.1.3/Claude.Workbench_4.1.3_x64-setup.exe
 
 #### anysphere-cursor
 
@@ -12360,7 +12360,7 @@ Total entries processed: 6887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `canva-canva.yml`
-- **URL**: https://desktop-release.canva.com/Canva%20Setup%201.117.1.exe
+- **URL**: https://desktop-release.canva.com/Canva%20Setup%201.118.0.exe
 
 #### caobinrg-electron-office-tools
 
@@ -21846,7 +21846,7 @@ Total entries processed: 6887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gaphor-gaphor.yml`
-- **URL**: https://github.com/gaphor/gaphor/releases/download/3.1.0/gaphor-3.1.0-installer.exe
+- **URL**: https://github.com/gaphor/gaphor/releases/download/3.2.0/gaphor-3.2.0-installer.exe
 
 #### garbomuffin-turbowarp
 
@@ -31791,7 +31791,7 @@ Total entries processed: 6887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lsxprime-proseflow.yml`
-- **URL**: https://github.com/LSXPrime/ProseFlow/releases/download/v0.2.0/ProseFlow-win-x64-Setup.exe
+- **URL**: https://github.com/LSXPrime/ProseFlow/releases/download/v0.3.0/ProseFlow-win-x64-Setup.exe
 
 #### luanroger-workoffice
 
@@ -35103,7 +35103,7 @@ Total entries processed: 6887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mikf-gallery-dl-nightly.yml`
-- **URL**: https://github.com/gdl-org/builds/releases/download/2025.11.04/gallery-dl_windows.exe
+- **URL**: https://github.com/gdl-org/builds/releases/download/2025.11.09/gallery-dl_windows.exe
 
 #### mikrotik-winbox
 
@@ -36696,7 +36696,7 @@ Total entries processed: 6887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-mk.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b8/win64/mk/Firefox%20Setup%20145.0b8.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b9/win64/mk/Firefox%20Setup%20145.0b9.exe
 
 #### mozilla-firefox-developeredition-mr
 
@@ -36795,7 +36795,7 @@ Total entries processed: 6887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-pt-br.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b8/win64/pt-BR/Firefox%20Setup%20145.0b8.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b9/win64/pt-BR/Firefox%20Setup%20145.0b9.exe
 
 #### mozilla-firefox-developeredition-pt-pt
 
@@ -36813,7 +36813,7 @@ Total entries processed: 6887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-rm.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b8/win64/rm/Firefox%20Setup%20145.0b8.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b9/win64/rm/Firefox%20Setup%20145.0b9.exe
 
 #### mozilla-firefox-developeredition-ro
 
@@ -36876,7 +36876,7 @@ Total entries processed: 6887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-sl.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b8/win64/sl/Firefox%20Setup%20145.0b8.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b9/win64/sl/Firefox%20Setup%20145.0b9.exe
 
 #### mozilla-firefox-developeredition-son
 
@@ -36894,7 +36894,7 @@ Total entries processed: 6887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-sq.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b8/win64/sq/Firefox%20Setup%20145.0b8.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b9/win64/sq/Firefox%20Setup%20145.0b9.exe
 
 #### mozilla-firefox-developeredition-sr
 
@@ -36903,7 +36903,7 @@ Total entries processed: 6887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-sr.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b8/win64/sr/Firefox%20Setup%20145.0b8.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b9/win64/sr/Firefox%20Setup%20145.0b9.exe
 
 #### mozilla-firefox-developeredition-sv-se
 
@@ -36921,7 +36921,7 @@ Total entries processed: 6887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-szl.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b8/win64/szl/Firefox%20Setup%20145.0b8.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b9/win64/szl/Firefox%20Setup%20145.0b9.exe
 
 #### mozilla-firefox-developeredition-ta
 
@@ -36930,7 +36930,7 @@ Total entries processed: 6887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-ta.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b8/win64/ta/Firefox%20Setup%20145.0b8.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b9/win64/ta/Firefox%20Setup%20145.0b9.exe
 
 #### mozilla-firefox-developeredition-te
 
@@ -37029,7 +37029,7 @@ Total entries processed: 6887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-xh.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b8/win64/xh/Firefox%20Setup%20145.0b8.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/145.0b9/win64/xh/Firefox%20Setup%20145.0b9.exe
 
 #### mozilla-firefox-developeredition-zh-cn
 
@@ -39963,7 +39963,7 @@ Total entries processed: 6887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mq1-tinywiibackupmanager.yml`
-- **URL**: https://github.com/mq1/TinyWiiBackupManager/releases/download/4.2.7/TinyWiiBackupManager-4.2.7-windows-x64-setup.exe
+- **URL**: https://github.com/mq1/TinyWiiBackupManager/releases/download/4.3.0/TinyWiiBackupManager-4.3.0-windows-x64-setup.exe
 
 #### mremoteng-mremoteng-nightly
 
@@ -40566,7 +40566,7 @@ Total entries processed: 6887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nativesoft-nativerest.yml`
-- **URL**: https://nativesoft.com/download/nativerest.2.9.1.installer.exe
+- **URL**: https://nativesoft.com/download/nativerest.3.0.0.installer.exe
 
 #### naver-mybox
 
@@ -40611,7 +40611,7 @@ Total entries processed: 6887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `navidrome-navidrome.yml`
-- **URL**: https://github.com/navidrome/navidrome/releases/download/v0.58.0/navidrome_0.58.0_windows_amd64_installer.msi
+- **URL**: https://github.com/navidrome/navidrome/releases/download/v0.58.5/navidrome_0.58.5_windows_amd64_installer.msi
 
 #### navigraph-navigraphhub
 
@@ -44283,7 +44283,7 @@ Total entries processed: 6887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `p-stsoftware-winsshterm.yml`
-- **URL**: https://github.com/WinSSHTerm/WinSSHTerm/releases/download/2.41.4/WinSSHTerm-2.41.4-x64.msi
+- **URL**: https://github.com/WinSSHTerm/WinSSHTerm/releases/download/2.41.5/WinSSHTerm-2.41.5-x64.msi
 
 #### p1nk0-gotype
 
@@ -56892,7 +56892,7 @@ Total entries processed: 6887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `triliumnext-notes.yml`
-- **URL**: https://github.com/TriliumNext/Trilium/releases/download/v0.99.3/TriliumNotes-v0.99.3-windows-x64.exe
+- **URL**: https://github.com/TriliumNext/Trilium/releases/download/v0.99.4/TriliumNotes-v0.99.4-windows-x64.exe
 
 #### trimble-sketchup-2022
 
@@ -57432,7 +57432,7 @@ Total entries processed: 6887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `unikeen-sjmcl.yml`
-- **URL**: https://mc.sjtu.cn/sjmcl/releases/SJMCL_0.5.1_windows_x86_64.msi
+- **URL**: https://mc.sjtu.cn/sjmcl/releases/SJMCL_0.6.0_windows_x86_64.msi
 
 #### unipro-ugene
 
