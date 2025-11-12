@@ -1,4 +1,4 @@
-url: https://builds.dotnet.microsoft.com/dotnet/Runtime/9.0.11/dotnet-runtime-9.0.11-osx-arm64.pkg
+url: https://builds.dotnet.microsoft.com/dotnet/Runtime/10.0.0/dotnet-runtime-10.0.0-osx-arm64.pkg
 automatic_install: false
 self_service: false
 categories: []
