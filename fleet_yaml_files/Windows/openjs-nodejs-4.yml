@@ -1,4 +1,4 @@
-url: https://artifacts.elastic.co/downloads/beats/heartbeat/heartbeat-9.2.1-windows-x86_64.msi
+url: https://nodejs.org/dist/v4.8.6/node-v4.8.6-x64.msi
 automatic_install: false
 self_service: false
 categories: []
