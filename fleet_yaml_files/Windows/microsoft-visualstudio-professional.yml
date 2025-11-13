@@ -1,4 +1,4 @@
-url: https://github.com/vim/vim-win32-installer/releases/download/v9.1.1912/gvim_9.1.1912_x64.exe
+url: https://download.visualstudio.microsoft.com/download/pr/d3b4e0f6-4bc0-4ec0-ba9c-20b355d61cc4/1d3992e38819df43f081d13a79a6d26269aa8fab39de0067dcdc596d9a0733b0/vs_Professional.exe
 automatic_install: false
 self_service: false
 categories: []
