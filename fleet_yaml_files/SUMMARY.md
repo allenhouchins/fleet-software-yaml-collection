@@ -1,11 +1,11 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-11-17 06:05:22 UTC
+Generated on: 2025-11-17 18:05:06 UTC
 
 ## Summary
 
-Total entries processed: 6921
-- macOS files: 389
+Total entries processed: 6922
+- macOS files: 390
 - Windows files: 6532
 
 ## Generated Files
@@ -1992,6 +1992,15 @@ Total entries processed: 6921
 - **File**: `mozilla-vpn.yml`
 - **URL**: https://archive.mozilla.org/pub/vpn/releases/2.32.0/mac/MozillaVPN.pkg
 
+#### mullvad-vpn-beta
+
+- **Source**: homebrew/installomator
+- **Name**: mullvad-vpn-beta
+- **Description**: Generated from Homebrew cask or Installomator script
+- **Version**: 
+- **File**: `mullvad-vpn-beta.yml`
+- **URL**: https://cdn.mullvad.net/app/desktop/releases/2025.14-beta1/MullvadVPN-2025.14-beta1.pkg
+
 #### mullvad-vpn
 
 - **Source**: homebrew/installomator
@@ -2413,7 +2422,7 @@ Total entries processed: 6921
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `picoscope-beta.yml`
-- **URL**: https://www.picotech.com/download/software/beta/PicoScope_7_TandM_Early_Access_7.2.8.7416.x64.pkg
+- **URL**: https://www.picotech.com/download/software/beta/PicoScope_7_TandM_Early_Access_7.2.10.7663.x64.pkg
 
 #### picoscope
 
@@ -3268,7 +3277,7 @@ Total entries processed: 6921
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `virtualdj.yml`
-- **URL**: https://download.virtualdj.com/b8800/C7A7165E/install_virtualdj_2025_b8800_mac.pkg
+- **URL**: https://download.virtualdj.com/b8818/A1293676/install_virtualdj_2025_b8818_mac.pkg
 
 #### vnc-server
 
@@ -3475,7 +3484,7 @@ Total entries processed: 6921
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `zoom-for-it-admins.yml`
-- **URL**: https://cdn.zoom.us/prod/6.6.6.67409/ZoomInstallerIT.pkg
+- **URL**: https://cdn.zoom.us/prod/6.6.10.69071/ZoomInstallerIT.pkg
 
 #### zoom
 
@@ -10776,7 +10785,7 @@ Total entries processed: 6921
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `biomejs-biome.yml`
-- **URL**: https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.3.5/biome-win32-x64.exe
+- **URL**: https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.3.6/biome-win32-x64.exe
 
 #### biosilico-essaywriter
 
@@ -11649,7 +11658,7 @@ Total entries processed: 6921
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `brightsign-baconnected.yml`
-- **URL**: https://downloads.bsn.cloud/BA%20connected%20Setup%201.67.3.exe
+- **URL**: https://downloads.bsn.cloud/BA%20connected%20Setup%201.71.1.exe
 
 #### brimdata-brim
 
@@ -12387,7 +12396,7 @@ Total entries processed: 6921
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `canva-canva-cn.yml`
-- **URL**: https://desktop-release.canva.cn/Canva%20Setup%201.118.0-cn.exe
+- **URL**: https://desktop-release.canva.cn/Canva%20Setup%201.119.0-cn.exe
 
 #### canva-canva
 
@@ -14277,7 +14286,7 @@ Total entries processed: 6921
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `communicationplatform-max.yml`
-- **URL**: https://download.max.ru/win/release/25.15.1/MAX.msi
+- **URL**: https://download.max.ru/win/release/25.16.0/MAX.msi
 
 #### comodo-comododragon
 
@@ -18480,7 +18489,7 @@ Total entries processed: 6921
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `eeo-classin.yml`
-- **URL**: https://download.eeo.cn/client/classin_win_install_6.0.4.4451_x64.exe
+- **URL**: https://download.eeo.cn/client/classin_win_install_6.0.4.5921_x64.exe
 
 #### eeo-classinx
 
@@ -18489,7 +18498,7 @@ Total entries processed: 6921
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `eeo-classinx.yml`
-- **URL**: https://download.eeo.cn/client/classinx_win_install_6.0.4.4453_x64.exe
+- **URL**: https://download.eeo.cn/client/classinx_win_install_6.0.4.5923_x64.exe
 
 #### eff-certbot
 
@@ -20289,7 +20298,7 @@ Total entries processed: 6921
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `fing-fing.yml`
-- **URL**: https://get.fing.com/fing-desktop-releases/win/Fing-3.9.2.exe
+- **URL**: https://get.fing.com/fing-desktop-releases/win/Fing-3.9.3.exe
 
 #### fio-fio
 
@@ -34086,7 +34095,7 @@ Total entries processed: 6921
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-edge.yml`
-- **URL**: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8eb47a3e-c4ea-4a6c-aee7-a8ac6e20d71f/MicrosoftEdgeEnterpriseX64.msi
+- **URL**: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/780ad682-9a18-4b95-bf0b-3402a54326ec/MicrosoftEdgeEnterpriseX64.msi
 
 #### microsoft-edgewebview2runtime
 
@@ -40143,7 +40152,7 @@ Total entries processed: 6921
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mq1-tinywiibackupmanager.yml`
-- **URL**: https://github.com/mq1/TinyWiiBackupManager/releases/download/4.3.7/TinyWiiBackupManager-4.3.7-windows-x64-setup.exe
+- **URL**: https://github.com/mq1/TinyWiiBackupManager/releases/download/4.3.8/TinyWiiBackupManager-4.3.8-windows-x64-setup.exe
 
 #### mremoteng-mremoteng-nightly
 
@@ -40341,7 +40350,7 @@ Total entries processed: 6921
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mullvadvpn-mullvadbrowser.yml`
-- **URL**: https://github.com/mullvad/mullvad-browser/releases/download/15.0/mullvad-browser-windows-x86_64-15.0.exe
+- **URL**: https://github.com/mullvad/mullvad-browser/releases/download/15.0.1/mullvad-browser-windows-x86_64-15.0.1.exe
 
 #### mullvadvpn-mullvadvpn-beta
 
@@ -43338,7 +43347,7 @@ Total entries processed: 6921
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `oomol-oomolstudio.yml`
-- **URL**: https://static.oomol.com/release/stable/win32/x64/OOMOL%20Studio-1.4.8-2025-11-15.18.exe
+- **URL**: https://static.oomol.com/release/stable/win32/x64/OOMOL%20Studio-1.4.9-2025-11-17.12.exe
 
 #### ooni-ooni-probe
 
@@ -44535,7 +44544,7 @@ Total entries processed: 6921
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `p-stsoftware-winsshterm.yml`
-- **URL**: https://github.com/WinSSHTerm/WinSSHTerm/releases/download/2.41.5/WinSSHTerm-2.41.5-x64.msi
+- **URL**: https://github.com/WinSSHTerm/WinSSHTerm/releases/download/2.41.6/WinSSHTerm-2.41.6-x64.msi
 
 #### p1nk0-gotype
 
@@ -45246,7 +45255,7 @@ Total entries processed: 6921
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pgptool-pgptool.yml`
-- **URL**: https://github.com/pgptool/pgptool/releases/download/0.5.9.3/pgptoolgui-0.5.9.3.msi
+- **URL**: https://github.com/pgptool/pgptool/releases/download/0.5.9.2/pgptoolgui-0.5.9.2.msi
 
 #### pharoproject-pharolauncher
 
@@ -46866,7 +46875,7 @@ Total entries processed: 6921
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `psyche-kelivo.yml`
-- **URL**: https://github.com/Chevey339/kelivo/releases/download/v1.1.0/Kelivo_windows_1.1.0+15_setup.exe
+- **URL**: https://github.com/Chevey339/kelivo/releases/download/v1.1.1/Kelivo_windows_1.1.1+16_setup.exe
 
 #### ptrtech-netsonar
 
@@ -51717,7 +51726,7 @@ Total entries processed: 6921
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `smartbear-readyapivirtserver.yml`
-- **URL**: https://dl.eviware.com/virtserver/3.29.0/VirtServer-x64-3.29.0.exe
+- **URL**: https://dl.eviware.com/virtserver/3.30.0/VirtServer-x64-3.30.0.exe
 
 #### smartbear-soapui
 
@@ -54543,7 +54552,7 @@ Total entries processed: 6921
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tableplus-tableplus.yml`
-- **URL**: https://files.tableplus.com/windows/6.7.0/TablePlusSetup.exe
+- **URL**: https://files.tableplus.com/windows/6.7.1/TablePlusSetup.exe
 
 #### tabulareditor-tabulareditor-3
 
@@ -58827,7 +58836,7 @@ Total entries processed: 6921
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vonage-vonagebusiness.yml`
-- **URL**: https://vbc-downloads.vonage.com/win/Vonage%20Business%20Setup%202.24.1.exe
+- **URL**: https://vbc-downloads.vonage.com/win/Vonage%20Business%20Setup%202.25.0.exe
 
 #### voodoosoft-defenderui
 
@@ -61923,7 +61932,7 @@ Total entries processed: 6921
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zevnda-steamgameidler.yml`
-- **URL**: https://github.com/zevnda/steam-game-idler/releases/download/2.3.8/Steam.Game.Idler_2.3.8_x64-setup.exe
+- **URL**: https://github.com/zevnda/steam-game-idler/releases/download/2.3.9/Steam.Game.Idler_2.3.9_x64-setup.exe
 
 #### zhanglun-lettura
 
@@ -62121,7 +62130,7 @@ Total entries processed: 6921
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zoom-zoom.yml`
-- **URL**: https://zoom.us/client/6.6.6.19875/ZoomInstallerFull.msi?archType=x64
+- **URL**: https://zoom.us/client/6.6.10.22255/ZoomInstallerFull.msi?archType=x64
 
 #### zoom-zoomoutlookplugin
 
@@ -62139,7 +62148,7 @@ Total entries processed: 6921
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zoom-zoomrooms.yml`
-- **URL**: https://cdn.zoom.us/prod/6.6.5.6792/x64/zoomrooms-6.6.5.6792-x64.exe
+- **URL**: https://cdn.zoom.us/prod/6.6.6.6847/x64/zoomrooms-6.6.6.6847-x64.exe
 
 #### zorusinc-archonagent
 
