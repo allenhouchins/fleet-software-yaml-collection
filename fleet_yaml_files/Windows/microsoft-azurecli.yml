@@ -1,4 +1,4 @@
-url: https://azurecliprod.blob.core.windows.net/msi/azure-cli-2.8.0.msi
+url: https://azcliprod.blob.core.windows.net/msi/azure-cli-2.80.0-x64.msi
 automatic_install: false
 self_service: false
 categories: []

@@ -1,11 +1,11 @@
 # Fleet YAML Files Update Metadata
 
 ## Last Update
-- **Timestamp**: 2025-11-18 18:05:19 UTC
-- **GitHub Actions Run**: https://github.com/allenhouchins/fleet-software-yaml-collection/actions/runs/19476274870
+- **Timestamp**: 2025-11-19 06:05:15 UTC
+- **GitHub Actions Run**: https://github.com/allenhouchins/fleet-software-yaml-collection/actions/runs/19491543007
 - **Total Files Generated**: 6930
-- **macOS Files**: 390
-- **Windows Files**: 6540
+- **macOS Files**: 389
+- **Windows Files**: 6541
 
 ## Sources
 - **Homebrew Casks API** (macOS PKG files)
