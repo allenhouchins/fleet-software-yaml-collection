@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-11-21 06:05:20 UTC
+Generated on: 2025-11-21 18:05:21 UTC
 
 ## Summary
 
@@ -4332,7 +4332,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `adobe-acrobat-reader-64-bit.yml`
-- **URL**: https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120918/AcroRdrDCx642500120918_MUI.exe
+- **URL**: https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120937/AcroRdrDCx642500120937_MUI.exe
 
 #### adobe-adobeconnect
 
@@ -5277,7 +5277,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `alibaba-qoder.yml`
-- **URL**: https://qoder-ide.oss-accelerate.aliyuncs.com/release/0.2.16/QoderUserSetup-x64.exe
+- **URL**: https://qoder-ide.oss-accelerate.aliyuncs.com/release/0.2.17/QoderUserSetup-x64.exe
 
 #### alibaba-quark
 
@@ -7464,7 +7464,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `archi-archi.yml`
-- **URL**: https://github.com/archimatetool/archi.io/releases/download/latest/Archi-Win64-Setup-5.7.0.exe
+- **URL**: https://github.com/archimatetool/archi.io/releases/download/5700/Archi-Win64-Setup-5.7.0.exe
 
 #### arctype-arctype
 
@@ -16887,7 +16887,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `discord-discord-development.yml`
-- **URL**: https://development.dl2.discordapp.net/distro/app/development/win/x64/1.0.945/DiscordDevelopmentSetup.exe
+- **URL**: https://development.dl2.discordapp.net/distro/app/development/win/x64/1.0.946/DiscordDevelopmentSetup.exe
 
 #### discord-discord-ptb
 
@@ -21144,7 +21144,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `formlabs-preform.yml`
-- **URL**: https://downloads.formlabs.com/PreForm/Release/3.51.1/PreForm_win_3.51.1_release_releaser_572_90797.exe
+- **URL**: https://downloads.formlabs.com/PreForm/Release/3.54.0/PreForm_win_3.54.0_release_releaser_602_96756.exe
 
 #### fortinet-forticlientvpn
 
@@ -25239,7 +25239,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hydrusnetwork-hydrusnetwork.yml`
-- **URL**: https://github.com/hydrusnetwork/hydrus/releases/download/v647/Hydrus.Network.647.-.Windows.-.Installer.exe
+- **URL**: https://github.com/hydrusnetwork/hydrus/releases/download/v648/Hydrus.Network.648.-.Windows.-.Installer.exe
 
 #### hyperion-hyperion
 
@@ -40242,7 +40242,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mq1-tinywiibackupmanager.yml`
-- **URL**: https://github.com/mq1/TinyWiiBackupManager/releases/download/4.3.9/TinyWiiBackupManager-4.3.9-windows-x64-setup.exe
+- **URL**: https://github.com/mq1/TinyWiiBackupManager/releases/download/v4.4.1/TinyWiiBackupManager-v4.4.1-windows-x64-setup.exe
 
 #### mremoteng-mremoteng-nightly
 
@@ -45732,7 +45732,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pixpin-pixpin-beta.yml`
-- **URL**: https://download.pixpinapp.com/PixPin_cn_zh-cn_2.2.2.0.exe
+- **URL**: https://download.pixpinapp.com/PixPin_cn_zh-cn_2.2.4.0.exe
 
 #### pixpin-pixpin
 
@@ -46893,7 +46893,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `proton-protonpass.yml`
-- **URL**: https://proton.me/download/pass/windows/ProtonPass_Setup_1.32.7.exe
+- **URL**: https://proton.me/download/pass/windows/ProtonPass_Setup_1.33.0.exe
 
 #### proton-protonvpn
 
@@ -47820,7 +47820,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `radekyspec-startlive.yml`
-- **URL**: https://github.com/Radekyspec/StartLive/releases/download/0.7.2/StartLive-Setup.exe
+- **URL**: https://github.com/Radekyspec/StartLive/releases/download/0.8.0/StartLive-Setup.exe
 
 #### radius-radius
 
@@ -51105,7 +51105,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-11-16/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-11-21/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -52851,7 +52851,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `spotify-spotify.yml`
-- **URL**: https://upgrade.scdn.co/upgrade/client/win32-x86_64/spotify_installer-1.2.77.358.g4339a634-545.exe
+- **URL**: https://upgrade.scdn.co/upgrade/client/win32-x86_64/spotify_installer-1.2.78.145.g47f556f3-141.exe
 
 #### springlobby-springlobby
 
@@ -58575,7 +58575,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc-nightly.yml`
-- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251119-0426/vlc-4.0.0-dev-win64-65f66c82.msi
+- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251121-0430/vlc-4.0.0-dev-win64-03de1932.msi
 
 #### videolan-vlc
 
@@ -61689,7 +61689,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yt-dlp-yt-dlp-nightly.yml`
-- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.11.18.232918/yt-dlp.exe
+- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.11.20.232939/yt-dlp.exe
 
 #### yt-dlp-yt-dlp
 
