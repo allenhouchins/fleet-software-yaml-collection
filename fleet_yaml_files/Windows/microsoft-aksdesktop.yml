@@ -1,4 +1,4 @@
-url: https://github.com/siderolabs/omni/releases/download/v1.3.4/omnictl-windows-amd64.exe
+url: https://github.com/Azure/aks-desktop/releases/download/v0.1.0-alpha/aks-desktop-0.1.0-alpha-win-x64.exe
 automatic_install: false
 self_service: false
 categories: []
