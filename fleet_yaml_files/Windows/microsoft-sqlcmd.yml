@@ -1,4 +1,4 @@
-url: https://github.com/microsoft/go-sqlcmd/releases/download/v1.8.2/sqlcmd-amd64.msi
+url: https://github.com/microsoft/go-sqlcmd/releases/download/v1.9.0/sqlcmd-amd64.msi
 automatic_install: false
 self_service: false
 categories: []

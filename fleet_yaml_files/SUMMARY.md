@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-11-21 18:05:21 UTC
+Generated on: 2025-11-22 06:05:00 UTC
 
 ## Summary
 
@@ -3340,7 +3340,7 @@ Total entries processed: 6934
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `windows-app.yml`
-- **URL**: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_11.2.8_installer.pkg
+- **URL**: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_11.2.9_installer.pkg
 
 #### wkhtmltopdf
 
@@ -3792,7 +3792,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `64gram-64gram.yml`
-- **URL**: https://github.com/TDesktop-x64/tdesktop/releases/download/v1.1.85/64Gram-setup-x64.1.1.85.exe
+- **URL**: https://github.com/TDesktop-x64/tdesktop/releases/download/v1.1.87/64Gram-setup-x64.1.1.87.exe
 
 #### 720kb-ndm
 
@@ -6348,7 +6348,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `amazon-athenaodbcdriver-2.yml`
-- **URL**: https://downloads.athena.us-east-1.amazonaws.com/drivers/ODBC/v2.0.5.1/Windows/AmazonAthenaODBC-2.0.5.1.msi
+- **URL**: https://downloads.athena.us-east-1.amazonaws.com/drivers/ODBC/v2.0.6.0/Windows/AmazonAthenaODBC-2.0.6.0.msi
 
 #### amazon-awscli
 
@@ -7185,7 +7185,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `anyme123-claudeworkbench.yml`
-- **URL**: https://github.com/anyme123/claude-workbench/releases/download/v4.3.8/Claude.Workbench_4.3.8_x64-setup.exe
+- **URL**: https://github.com/anyme123/claude-workbench/releases/download/v4.4.0/Claude.Workbench_4.4.0_x64-setup.exe
 
 #### anysphere-cursor
 
@@ -7194,7 +7194,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `anysphere-cursor.yml`
-- **URL**: https://downloads.cursor.com/production/ba90f2f88e4911312761abab9492c42442117cfe/win32/x64/user-setup/CursorUserSetup-x64-2.0.77.exe
+- **URL**: https://downloads.cursor.com/production/39a966b4048ef6b8024b27d4812a50d88de29cc3/win32/x64/user-setup/CursorUserSetup-x64-2.1.19.exe
 
 #### apache-directorystudio
 
@@ -9462,7 +9462,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `beekeeper-studio-beekeeper-studio.yml`
-- **URL**: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.3.6/Beekeeper-Studio-Setup-5.3.6.exe
+- **URL**: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.4.10/Beekeeper-Studio-Setup-5.4.10.exe
 
 #### beeper-beeper
 
@@ -11289,7 +11289,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bluefish-bluefish.yml`
-- **URL**: https://www.bennewitz.com/bluefish/stable/binaries/windows_x64/Bluefish%202.2.18%20Setup.exe
+- **URL**: https://www.bennewitz.com/bluefish/stable/binaries/windows_x64/Bluefish%202.2.19%20Setup.exe
 
 #### bluejteam-bluej
 
@@ -16257,7 +16257,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `deminimis-minimalfirewall.yml`
-- **URL**: https://github.com/deminimis/minimalfirewall/releases/download/v2.5.5/Minimal.Firewall.exe
+- **URL**: https://github.com/deminimis/minimalfirewall/releases/download/v2.6.2/Minimal.Firewall.exe
 
 #### denby-calculator
 
@@ -16329,7 +16329,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `deskflow-deskflow.yml`
-- **URL**: https://github.com/deskflow/deskflow/releases/download/v1.24.0/deskflow-1.24.0-win-x64.msi
+- **URL**: https://github.com/deskflow/deskflow/releases/download/v1.25.0/deskflow-1.25.0-win-x64.msi
 
 #### deskrelief-sithealthy
 
@@ -16455,7 +16455,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `devolutions-launcher.yml`
-- **URL**: https://cdn.devolutions.net/download/Setup.Devolutions.Launcher.2025.3.21.0.msi
+- **URL**: https://cdn.devolutions.net/download/Setup.Devolutions.Launcher.2025.3.22.0.msi
 
 #### devolutions-remotedesktopmanager
 
@@ -16482,7 +16482,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `devolutions-serverconsole.yml`
-- **URL**: https://cdn.devolutions.net/download/Setup.DVLS.Console.2025.3.7.0.exe
+- **URL**: https://cdn.devolutions.net/download/Setup.DVLS.Console.2025.3.8.0.exe
 
 #### devolutions-workspace
 
@@ -16878,7 +16878,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `discord-discord-canary.yml`
-- **URL**: https://canary.dl2.discordapp.net/distro/app/canary/win/x64/1.0.767/DiscordCanarySetup.exe
+- **URL**: https://canary.dl2.discordapp.net/distro/app/canary/win/x64/1.0.768/DiscordCanarySetup.exe
 
 #### discord-discord-development
 
@@ -16887,7 +16887,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `discord-discord-development.yml`
-- **URL**: https://development.dl2.discordapp.net/distro/app/development/win/x64/1.0.946/DiscordDevelopmentSetup.exe
+- **URL**: https://development.dl2.discordapp.net/distro/app/development/win/x64/1.0.948/DiscordDevelopmentSetup.exe
 
 #### discord-discord-ptb
 
@@ -22566,7 +22566,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gitlab-runner.yml`
-- **URL**: https://gitlab-runner-downloads.s3.amazonaws.com/v18.5.0/binaries/gitlab-runner-windows-amd64.exe
+- **URL**: https://gitlab-runner-downloads.s3.amazonaws.com/v18.6.1/binaries/gitlab-runner-windows-amd64.exe
 
 #### gitthermal-thermal
 
@@ -22737,7 +22737,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `glab-glab.yml`
-- **URL**: https://gitlab.com/gitlab-org/cli/-/releases/v1.77.0/downloads/glab_1.77.0_Windows_x86_64_installer.exe
+- **URL**: https://gitlab.com/gitlab-org/cli/-/releases/v1.78.2/downloads/glab_1.78.2_Windows_x86_64_installer.exe
 
 #### glassdevtools-void
 
@@ -24861,7 +24861,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `houmain-keymapper.yml`
-- **URL**: https://github.com/houmain/keymapper/releases/download/5.2.0/keymapper-5.2.0-Windows-x86_64.msi
+- **URL**: https://github.com/houmain/keymapper/releases/download/5.3.0/keymapper-5.3.0-Windows-x86_64.msi
 
 #### housatonic-projectplan365
 
@@ -29046,7 +29046,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-ark.yml`
-- **URL**: https://cdn.kde.org/ci-builds/utilities/ark/release-25.08/windows/ark-release_25.08-2322-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/utilities/ark/release-25.12/windows/ark-release_25.12-2359-windows-cl-msvc2022-x86_64.exe
 
 #### kde-blinken
 
@@ -29127,7 +29127,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-filelight.yml`
-- **URL**: https://cdn.kde.org/ci-builds/utilities/filelight/release-25.08/windows/filelight-release_25.08-1931-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/utilities/filelight/release-25.12/windows/filelight-release_25.12-1954-windows-cl-msvc2022-x86_64.exe
 
 #### kde-gcompris
 
@@ -29217,7 +29217,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kate.yml`
-- **URL**: https://cdn.kde.org/ci-builds/utilities/kate/release-25.08/windows/kate-release_25.08-10550-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/utilities/kate/release-25.12/windows/kate-release_25.12-10616-windows-cl-msvc2022-x86_64.exe
 
 #### kde-katomic
 
@@ -29586,7 +29586,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kturtle.yml`
-- **URL**: https://cdn.kde.org/ci-builds/education/kturtle/master/windows/kturtle-master-1046-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/education/kturtle/master/windows/kturtle-master-1053-windows-cl-msvc2022-x86_64.exe
 
 #### kde-labplot
 
@@ -29604,7 +29604,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-lokalize.yml`
-- **URL**: https://cdn.kde.org/ci-builds/sdk/lokalize/release-25.08/windows/lokalize-release_25.08-2375-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/sdk/lokalize/release-25.12/windows/lokalize-release_25.12-2393-windows-cl-msvc2022-x86_64.exe
 
 #### kde-lskat
 
@@ -29658,7 +29658,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-parley.yml`
-- **URL**: https://cdn.kde.org/ci-builds/education/parley/master/windows/parley-master-854-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/education/parley/master/windows/parley-master-860-windows-cl-msvc2022-x86_64.exe
 
 #### kde-picmi
 
@@ -31368,7 +31368,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `linwoodcloud-butterfly-nightly.yml`
-- **URL**: https://github.com/LinwoodDev/Butterfly/releases/download/v2.4.0-rc.3/linwood-butterfly-windows-setup-x86_64.exe
+- **URL**: https://github.com/LinwoodDev/Butterfly/releases/download/v2.4.2-rc.0/linwood-butterfly-windows-setup-x86_64.exe
 
 #### linwoodcloud-butterfly
 
@@ -32484,7 +32484,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mantej-singh-stt-cli.yml`
-- **URL**: https://github.com/Mantej-Singh/stt-cli/releases/download/v1.3.1/speech-to-text-cli.exe
+- **URL**: https://github.com/Mantej-Singh/stt-cli/releases/download/v1.4.0/speech-to-text-cli.exe
 
 #### manticoregames-core
 
@@ -34698,7 +34698,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-sqlcmd.yml`
-- **URL**: https://github.com/microsoft/go-sqlcmd/releases/download/v1.8.2/sqlcmd-amd64.msi
+- **URL**: https://github.com/microsoft/go-sqlcmd/releases/download/v1.9.0/sqlcmd-amd64.msi
 
 #### microsoft-sqlserver-11-odbc
 
@@ -36057,7 +36057,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `moonshotai-kimi.yml`
-- **URL**: https://kimi-img.moonshot.cn/app/download/windows/kimi_2.1.1.exe
+- **URL**: https://kimi-img.moonshot.cn/app/download/windows/kimi_2.1.2.exe
 
 #### moonsworth-lunarclient
 
@@ -36363,7 +36363,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-bs.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/firefox/releases/145.0/win64/bs/Firefox%20Setup%20145.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/firefox/releases/145.0.1/win64/bs/Firefox%20Setup%20145.0.1.exe
 
 #### mozilla-firefox-ca-valencia
 
@@ -36435,7 +36435,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-ach.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/ach/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/ach/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-af
 
@@ -36444,7 +36444,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-af.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/af/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/af/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-an
 
@@ -36453,7 +36453,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-an.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/an/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/an/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-ar
 
@@ -36462,7 +36462,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-ar.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/ar/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/ar/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-ast
 
@@ -36471,7 +36471,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-ast.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/ast/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/ast/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-az
 
@@ -36480,7 +36480,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-az.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/az/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/az/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-be
 
@@ -36489,7 +36489,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-be.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/be/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/be/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-bg
 
@@ -36498,7 +36498,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-bg.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/bg/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/bg/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-bn
 
@@ -36516,7 +36516,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-br.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/br/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/br/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-bs
 
@@ -36525,7 +36525,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-bs.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/bs/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/bs/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-ca-valencia
 
@@ -36534,7 +36534,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-ca-valencia.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/ca-valencia/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/ca-valencia/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-ca
 
@@ -36543,7 +36543,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-ca.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/ca/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/ca/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-cak
 
@@ -36552,7 +36552,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-cak.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/cak/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/cak/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-cs
 
@@ -36561,7 +36561,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-cs.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/cs/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/cs/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-cy
 
@@ -36570,7 +36570,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-cy.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/cy/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/cy/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-da
 
@@ -36579,7 +36579,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-da.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/da/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/da/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-de
 
@@ -36588,7 +36588,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-de.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/de/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/de/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-dsb
 
@@ -36597,7 +36597,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-dsb.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/dsb/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/dsb/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-el
 
@@ -36606,7 +36606,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-el.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/el/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/el/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-en-ca
 
@@ -36615,7 +36615,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-en-ca.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/en-CA/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/en-CA/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-en-gb
 
@@ -36642,7 +36642,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-es-ar.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/es-AR/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/es-AR/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-es-cl
 
@@ -36660,7 +36660,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-es-es.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b3/win64/es-ES/Firefox%20Setup%20146.0b3.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/es-ES/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-es-mx
 
@@ -36669,7 +36669,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-es-mx.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/es-MX/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/es-MX/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-et
 
@@ -36678,7 +36678,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-et.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/et/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/et/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-eu
 
@@ -36687,7 +36687,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-eu.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/eu/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/eu/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-fa
 
@@ -36696,7 +36696,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-fa.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/fa/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/fa/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-ff
 
@@ -36705,7 +36705,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-ff.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/ff/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/ff/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-fi
 
@@ -36714,7 +36714,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-fi.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/fi/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/fi/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-fr
 
@@ -36723,7 +36723,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-fr.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/fr/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/fr/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-fur
 
@@ -36732,7 +36732,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-fur.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/fur/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/fur/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-fy-nl
 
@@ -36741,7 +36741,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-fy-nl.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/fy-NL/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/fy-NL/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-ga-ie
 
@@ -36759,7 +36759,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-gd.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/gd/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/gd/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-gl
 
@@ -36777,7 +36777,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-gn.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/gn/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/gn/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-gu-in
 
@@ -36786,7 +36786,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-gu-in.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/gu-IN/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/gu-IN/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-he
 
@@ -36822,7 +36822,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-hsb.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/hsb/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/hsb/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-hu
 
@@ -36840,7 +36840,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-hy-am.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/hy-AM/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/hy-AM/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-ia
 
@@ -36849,7 +36849,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-ia.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/ia/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/ia/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-id
 
@@ -36858,7 +36858,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-id.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/id/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/id/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-is
 
@@ -36867,7 +36867,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-is.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/is/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/is/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-it
 
@@ -36876,7 +36876,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-it.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/it/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/it/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-ja
 
@@ -36921,7 +36921,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-km.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/km/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/km/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-kn
 
@@ -36930,7 +36930,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-kn.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/kn/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/kn/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-ko
 
@@ -36939,7 +36939,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-ko.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/ko/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/ko/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-lij
 
@@ -36948,7 +36948,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-lij.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/lij/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/lij/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-lt
 
@@ -36966,7 +36966,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-lv.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/lv/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/lv/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-mk
 
@@ -36984,7 +36984,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-mr.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/mr/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/mr/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-ms
 
@@ -37011,7 +37011,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-nb-no.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/nb-NO/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/nb-NO/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-ne-np
 
@@ -37020,7 +37020,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-ne-np.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/ne-NP/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/ne-NP/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-nl
 
@@ -37038,7 +37038,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-nn-no.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/nn-NO/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/nn-NO/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-oc
 
@@ -37047,7 +37047,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-oc.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/oc/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/oc/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-pa-in
 
@@ -37056,7 +37056,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-pa-in.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/pa-IN/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/pa-IN/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-pl
 
@@ -37083,7 +37083,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-pt-pt.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/pt-PT/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/pt-PT/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-rm
 
@@ -37191,7 +37191,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-sv-se.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/sv-SE/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/sv-SE/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-szl
 
@@ -37209,7 +37209,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-ta.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/ta/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/ta/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-te
 
@@ -37236,7 +37236,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-th.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/th/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/th/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-tl
 
@@ -37254,7 +37254,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-tr.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/tr/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/tr/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-trs
 
@@ -37263,7 +37263,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-trs.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b3/win64/trs/Firefox%20Setup%20146.0b3.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/trs/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-uk
 
@@ -37281,7 +37281,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-ur.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/win64/ur/Firefox%20Setup%20146.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b6/win64/ur/Firefox%20Setup%20146.0b6.exe
 
 #### mozilla-firefox-developeredition-uz
 
@@ -38721,7 +38721,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-pa-in.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/firefox/releases/145.0/win64/pa-IN/Firefox%20Setup%20145.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/firefox/releases/145.0.1/win64/pa-IN/Firefox%20Setup%20145.0.1.exe
 
 #### mozilla-firefox-pl
 
@@ -38811,7 +38811,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-sk.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/firefox/releases/145.0/win64/sk/Firefox%20Setup%20145.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/firefox/releases/145.0.1/win64/sk/Firefox%20Setup%20145.0.1.exe
 
 #### mozilla-firefox-sl
 
@@ -38874,7 +38874,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-ta.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/firefox/releases/145.0/win64/ta/Firefox%20Setup%20145.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/firefox/releases/145.0.1/win64/ta/Firefox%20Setup%20145.0.1.exe
 
 #### mozilla-firefox-te
 
@@ -41205,7 +41205,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `netease-uuremote.yml`
-- **URL**: https://a56.gdl.netease.com/UURemote_Setup_4.7.0.5831_1120194827_gwqd.exe
+- **URL**: https://a56.gdl.netease.com/UURemote_Setup_4.7.1.5850_1121220835_gwqd.exe
 
 #### netease-youdaonote
 
@@ -42222,7 +42222,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nordsecurity-nordlocker.yml`
-- **URL**: https://downloads.nordcdn.com/apps/windows/NordLockerEvolution/5.3.12.0/NordLockerSetup_x64.exe
+- **URL**: https://downloads.nordcdn.com/apps/windows/NordLockerEvolution/5.3.13.0/NordLockerSetup_x64.exe
 
 #### nordsecurity-nordpass
 
@@ -44319,7 +44319,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `oracle-oci-cli.yml`
-- **URL**: https://github.com/oracle/oci-cli/releases/download/v3.70.1/oci-cli-3.70.1-Windows-Server-Installer.msi
+- **URL**: https://github.com/oracle/oci-cli/releases/download/v3.71.0/oci-cli-3.71.0-Windows-Server-Installer.msi
 
 #### oracle-virtualbox
 
@@ -45075,7 +45075,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pbh-btn-peerbanhelper.yml`
-- **URL**: https://github.com/PBH-BTN/PeerBanHelper/releases/download/v9.0.9/PeerBanHelper_windows-x64_9.0.9.exe
+- **URL**: https://github.com/PBH-BTN/PeerBanHelper/releases/download/v9.1.0/PeerBanHelper_windows-x64_9.1.0.exe
 
 #### pclcommunity-pcl2-beta
 
@@ -50052,7 +50052,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `saladtechnologies-salad.yml`
-- **URL**: https://github.com/SaladTechnologies/salad-applications/releases/download/1.9.3/Salad-1.9.3.exe
+- **URL**: https://github.com/SaladTechnologies/salad-applications/releases/download/1.9.5/Salad-1.9.5.exe
 
 #### salesforce-sfdx-cli
 
@@ -50817,7 +50817,7 @@ Total entries processed: 6934
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sebescudie-gammalauncher.yml`
-- **URL**: https://github.com/sebescudie/GammaLauncher/releases/download/5.3.1/gammalauncher_5.3.1_win-x64_installer.exe
+- **URL**: https://github.com/sebescudie/GammaLauncher/releases/download/5.3.2/gammalauncher_5.3.2_win-x64_installer.exe
 
 #### secana-certdump
 
