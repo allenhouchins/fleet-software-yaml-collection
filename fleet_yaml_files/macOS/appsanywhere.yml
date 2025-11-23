@@ -1,4 +1,4 @@
-url: https://session-manager-downloads.s3.amazonaws.com/plugin/1.2.707.0/mac_arm64/session-manager-plugin.pkg
+url: https://files.appsanywhere.com/clients/appsanywhere/mac/${latestVersion}/apps-anywhere-setup-InstitutionId-${latestVersion}.pkg
 automatic_install: false
 self_service: false
 categories: []
