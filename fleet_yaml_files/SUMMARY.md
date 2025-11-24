@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-11-24 06:05:28 UTC
+Generated on: 2025-11-24 18:05:48 UTC
 
 ## Summary
 
-Total entries processed: 6933
-- macOS files: 389
-- Windows files: 6544
+Total entries processed: 6935
+- macOS files: 390
+- Windows files: 6545
 
 ## Generated Files
 
@@ -1002,6 +1002,15 @@ Total entries processed: 6933
 - **File**: `eagle.yml`
 - **URL**: https://trial2.autodesk.com/NET17SWDLD/2017/EGLPRM/ESD/Autodesk_EAGLE_9.6.2_English_Mac_64bit.pkg
 
+#### earnapp
+
+- **Source**: homebrew/installomator
+- **Name**: earnapp
+- **Description**: Generated from Homebrew cask or Installomator script
+- **Version**: 
+- **File**: `earnapp.yml`
+- **URL**: https://cdn.earnapp.com/static/earnapp-macos-1.586.560.pkg
+
 #### editshare-connect
 
 - **Source**: homebrew/installomator
@@ -1540,7 +1549,7 @@ Total entries processed: 6933
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `kdrive.yml`
-- **URL**: https://download.storage.infomaniak.com/drive/desktopclient/kDrive-3.7.8.2.pkg
+- **URL**: https://download.storage.infomaniak.com/drive/desktopclient/kDrive-3.7.9.1.pkg
 
 #### kindle-create
 
@@ -3322,7 +3331,7 @@ Total entries processed: 6933
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `wifi-explorer-pro.yml`
-- **URL**: https://www.intuitibits.com/downloads/WiFiExplorerPro_3.9.pkg
+- **URL**: https://www.intuitibits.com/downloads/WiFiExplorerPro_3.9.1.pkg
 
 #### wifiman
 
@@ -3657,7 +3666,7 @@ Total entries processed: 6933
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `3cx-callflowdesigner.yml`
-- **URL**: https://downloads-global.3cx.com/downloads/3CXCallFlowDesigner.exe
+- **URL**: https://downloads-global.3cx.com/downloads/3CXCallFlowDesigner20.exe
 
 #### 3cx-multilinetapi
 
@@ -6321,7 +6330,7 @@ Total entries processed: 6933
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `amarbego-rscoop.yml`
-- **URL**: https://github.com/AmarBego/Rscoop/releases/download/v1.4.5/rscoop_1.4.5_x64_en-US.msi
+- **URL**: https://github.com/AmarBego/Rscoop/releases/download/v1.4.6/rscoop_1.4.6_x64_en-US.msi
 
 #### amazon-appstream
 
@@ -9328,6 +9337,15 @@ Total entries processed: 6933
 - **Version**: 
 - **File**: `baxi-servicetool.yml`
 - **URL**: https://pcstwinget.blob.core.windows.net/pc-servicetool-images/BaxiAppWix_7_4_4.msi
+
+#### bayerischeslandesamtfuersteuern-elsterauthenticator
+
+- **Source**: winget
+- **Name**: bayerischeslandesamtfuersteuern-elsterauthenticator
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `bayerischeslandesamtfuersteuern-elsterauthenticator.yml`
+- **URL**: https://download.elster.de/download/authenticator/ElsterAuthenticator_windows_63_0_0_x64.exe
 
 #### bazel-bazel
 
@@ -13170,7 +13188,7 @@ Total entries processed: 6933
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `chrisant996-clink.yml`
-- **URL**: https://github.com/chrisant996/clink/releases/download/v1.9.1/clink.1.9.1.91b26a_setup.exe
+- **URL**: https://github.com/chrisant996/clink/releases/download/v1.9.2/clink.1.9.2.6aa2e0_setup.exe
 
 #### chrisklimas-twine
 
@@ -14295,7 +14313,7 @@ Total entries processed: 6933
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `communicationplatform-max.yml`
-- **URL**: https://download.max.ru/win/release/25.16.0/MAX.msi
+- **URL**: https://download.max.ru/win/release/25.17.0/MAX.msi
 
 #### comodo-comododragon
 
@@ -16878,7 +16896,7 @@ Total entries processed: 6933
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `discord-discord-development.yml`
-- **URL**: https://development.dl2.discordapp.net/distro/app/development/win/x64/1.0.948/DiscordDevelopmentSetup.exe
+- **URL**: https://development.dl2.discordapp.net/distro/app/development/win/x64/1.0.949/DiscordDevelopmentSetup.exe
 
 #### discord-discord-ptb
 
@@ -18444,7 +18462,7 @@ Total entries processed: 6933
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `edrawsoft-edrawmind-cn.yml`
-- **URL**: https://cc-download.wondershare.cc/cbs_down/edrawmind_cn_13.0.8_full5375.exe
+- **URL**: https://cc-download.wondershare.cc/cbs_down/edrawmind_cn_13.0.9_full5375.exe
 
 #### edrawsoft-edrawmind
 
@@ -18543,7 +18561,7 @@ Total entries processed: 6933
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `egnyte-egnytedesktopapp.yml`
-- **URL**: https://egnyte-cdn.egnyte.com/egnytedrive/win/en-us/3.29.1/EgnyteDesktopApp_3.29.1_175.msi
+- **URL**: https://egnyte-cdn.egnyte.com/egnytedrive/win/en-us/3.29.2/EgnyteDesktopApp_3.29.2_176.msi
 
 #### egoist-devdocs-desktop
 
@@ -19362,7 +19380,7 @@ Total entries processed: 6933
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `es-computing-editplus.yml`
-- **URL**: https://www.editplus.com/ftp/epp600_0632_64bit.exe
+- **URL**: https://www.editplus.com/ftp/epp610_0780_64bit.exe
 
 #### eset-avremover
 
@@ -23079,7 +23097,7 @@ Total entries processed: 6933
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/leedi77gmcmik5mq7qi7ibfy2a_144.0.7542.0/144.0.7542.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/ad4ikbtfu7wxmzqlhizemalpsbvq_144.0.7543.0/144.0.7543.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -29766,7 +29784,7 @@ Total entries processed: 6933
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kenkun-aviutlexedit2.yml`
-- **URL**: https://spring-fragrance.mints.ne.jp/aviutl/AviUtl2beta2_setup.exe
+- **URL**: https://spring-fragrance.mints.ne.jp/aviutl/AviUtl2beta21_setup.exe
 
 #### kensington-kensingtonkonnect
 
@@ -36237,7 +36255,7 @@ Total entries processed: 6933
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `movavi-movavivideoeditor.yml`
-- **URL**: https://content.movavi.com/sparkle/ve/win/x86_64/26_3_0/MovaviVideoEditorSetup_26_3_0_x64___19172_release-VEM-26.3_716a01a_CyprusBuild003_WIN64_setup.exe
+- **URL**: https://content.movavi.com/sparkle/ve/win/x86_64/26_4_0/MovaviVideoEditorSetup_26_4_0_x64___19262_release-VEM-26.4_5f9e06d_CyprusBuild003_WIN64_setup.exe
 
 #### movavi-movavivideoeditorplus
 
@@ -45732,7 +45750,7 @@ Total entries processed: 6933
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pixpin-pixpin.yml`
-- **URL**: https://download.pixpinapp.com/PixPin_cn_zh-cn_2.2.4.0.exe
+- **URL**: https://download.pixpinapp.com/PixPin_cn_zh-cn_2.2.4.1.exe
 
 #### pizi-scrcpygui
 
@@ -49388,6 +49406,15 @@ Total entries processed: 6933
 - **File**: `romanitho-winget-autoupdate.yml`
 - **URL**: https://github.com/Romanitho/Winget-AutoUpdate/releases/download/v2.8.0/WAU.msi
 
+#### romtenma-siki
+
+- **Source**: winget
+- **Name**: romtenma-siki
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `romtenma-siki.yml`
+- **URL**: https://sikiapp.net/archives/0.38.8/SikiSetup-0.38.8.exe
+
 #### ronghuaxueleng-claudecodeconfigmanager
 
 - **Source**: winget
@@ -49935,7 +49962,7 @@ Total entries processed: 6933
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `s3drive-s3drive.yml`
-- **URL**: https://github.com/s3drive/windows-app/releases/download/1.15.7/s3drive-win-x64.exe
+- **URL**: https://github.com/s3drive/windows-app/releases/download/1.15.8+2/s3drive-win-x64.exe
 
 #### s8sachin-subtitler
 
@@ -50142,7 +50169,7 @@ Total entries processed: 6933
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sandboxie-classic.yml`
-- **URL**: https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.16.7/Sandboxie-Classic-x64-v5.71.7.exe
+- **URL**: https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.16.8/Sandboxie-Classic-x64-v5.71.8.exe
 
 #### sandboxie-plus
 
@@ -51096,7 +51123,7 @@ Total entries processed: 6933
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-11-23/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-11-24/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -53690,15 +53717,6 @@ Total entries processed: 6933
 - **File**: `streamlabs-streamlabs.yml`
 - **URL**: https://slobs-cdn.streamlabs.com/Streamlabs+Desktop+Setup+1.9.0.exe
 
-#### streamlabs-streamlabsobs
-
-- **Source**: winget
-- **Name**: streamlabs-streamlabsobs
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `streamlabs-streamlabsobs.yml`
-- **URL**: https://slobs-cdn.streamlabs.com/Streamlabs+OBS+Setup+0.23.2.exe
-
 #### streamlink-streamlink-twitchgui
 
 - **Source**: winget
@@ -55443,7 +55461,7 @@ Total entries processed: 6933
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-ima-copilot.yml`
-- **URL**: https://ima-app.image.myqcloud.com/win/2.0.3_3440/ima.copilot_win_x64_1018_2.0.3_3440.exe
+- **URL**: https://ima-app.image.myqcloud.com/win/2.0.4_3459/ima.copilot_win_x64_1018_2.0.4_3459.exe
 
 #### tencent-qielive
 
@@ -55614,7 +55632,7 @@ Total entries processed: 6933
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-yuanbao.yml`
-- **URL**: https://cdn-hybrid-prod.hunyuan.tencent.com/Desktop/official/9d352e29efab10a7e291072bacbaa6b0/yuanbao_2.44.0.613_x64.exe
+- **URL**: https://cdn-hybrid-prod.hunyuan.tencent.com/Desktop/official/c5e830f729ddce29ccf480be6d5f15eb/yuanbao_2.46.0.642_x64.exe
 
 #### tenpi-musicplayer
 
@@ -56910,7 +56928,7 @@ Total entries processed: 6933
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `topalasoftwaresolutions-siw.yml`
-- **URL**: https://www.gtopala.com/download/20251119/siwtrial-setup.exe
+- **URL**: https://www.gtopala.com/download/20251119a/siwtrial-setup.exe
 
 #### topazlabs-topazdenoiseai
 
@@ -62031,7 +62049,7 @@ Total entries processed: 6933
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zevnda-steamgameidler.yml`
-- **URL**: https://github.com/zevnda/steam-game-idler/releases/download/2.4.4/Steam.Game.Idler_2.4.4_x64-setup.exe
+- **URL**: https://github.com/zevnda/steam-game-idler/releases/download/2.4.6/Steam.Game.Idler_2.4.6_x64-setup.exe
 
 #### zhanglun-lettura
 
