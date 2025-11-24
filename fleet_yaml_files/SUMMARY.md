@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-11-23 18:05:05 UTC
+Generated on: 2025-11-24 06:05:28 UTC
 
 ## Summary
 
@@ -1765,7 +1765,7 @@ Total entries processed: 6933
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `mega.yml`
-- **URL**: https://megasoftware.net/do_force_download/MEGA_12.0.15_installer.pkg
+- **URL**: https://megasoftware.net/releases/MEGA_12.1.1_installer.pkg
 
 #### microsoft-auto-update
 
@@ -6321,7 +6321,7 @@ Total entries processed: 6933
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `amarbego-rscoop.yml`
-- **URL**: https://github.com/AmarBego/Rscoop/releases/download/v1.4.4/rscoop_1.4.4_x64_en-US.msi
+- **URL**: https://github.com/AmarBego/Rscoop/releases/download/v1.4.5/rscoop_1.4.5_x64_en-US.msi
 
 #### amazon-appstream
 
@@ -6996,7 +6996,7 @@ Total entries processed: 6933
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `antibodysoftware-wiztree.yml`
-- **URL**: https://diskanalyzer.com/files/wiztree_4_27_setup.exe
+- **URL**: https://diskanalyzer.com/files/wiztree_4_28_setup.exe
 
 #### antimicro-antimicro
 
@@ -7194,7 +7194,7 @@ Total entries processed: 6933
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `anysphere-cursor.yml`
-- **URL**: https://downloads.cursor.com/production/a8d8905b06c8da1739af6f789efd59c28ac2a680/win32/x64/user-setup/CursorUserSetup-x64-2.1.20.exe
+- **URL**: https://downloads.cursor.com/production/7584ea888f7eb7bf76c9873a8f71b28f034a982e/win32/x64/user-setup/CursorUserSetup-x64-2.1.25.exe
 
 #### apache-directorystudio
 
@@ -17625,7 +17625,7 @@ Total entries processed: 6933
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `duckstudio-fufutools.yml`
-- **URL**: https://github.com/DuckDuckStudio/Fufu_Tools/releases/download/v1.4.2/Fufu_Tools_Setup.v1.4.2.exe
+- **URL**: https://github.com/DuckDuckStudio/Fufu_Tools/releases/download/v1.5.0/Fufu_Tools_Setup.v1.5.0.exe
 
 #### duckstudio-githublabelsmanager
 
@@ -21018,7 +21018,7 @@ Total entries processed: 6933
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `flyhunterl-flymd.yml`
-- **URL**: https://github.com/flyhunterl/flymd/releases/download/v0.3.8/flymd_0.3.8_x64-setup.exe
+- **URL**: https://github.com/flyhunterl/flymd/releases/download/v0.3.9/flymd_0.3.9_x64-setup.exe
 
 #### fnmt-configuradorfnmt
 
@@ -23079,7 +23079,7 @@ Total entries processed: 6933
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/acigzykkrgks5rzptpinjtolj73q_144.0.7539.0/144.0.7539.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/leedi77gmcmik5mq7qi7ibfy2a_144.0.7542.0/144.0.7542.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -35319,7 +35319,7 @@ Total entries processed: 6933
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mikefarah-yq.yml`
-- **URL**: https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_windows_amd64.exe
+- **URL**: https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_windows_amd64.exe
 
 #### mikf-gallery-dl-nightly
 
@@ -45966,7 +45966,7 @@ Total entries processed: 6933
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pocketsync-pocketsync.yml`
-- **URL**: https://github.com/neil-morrison44/pocket-sync/releases/download/v5.9.2/Pocket.Sync_5.9.2_x64-setup.exe
+- **URL**: https://github.com/neil-morrison44/pocket-sync/releases/download/v5.9.3/Pocket.Sync_5.9.3_x64-setup.exe
 
 #### poetries-yuqing-monitor-electron
 
@@ -47694,7 +47694,7 @@ Total entries processed: 6933
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `quantumnous-newapi.yml`
-- **URL**: https://github.com/QuantumNous/new-api/releases/download/v0.9.24/New-API-App.0.9.24.exe
+- **URL**: https://github.com/QuantumNous/new-api/releases/download/v0.9.25/New-API-App.0.9.25.exe
 
 #### quantumnovice-xkill
 
@@ -48288,7 +48288,7 @@ Total entries processed: 6933
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `reblexis-lookpilot.yml`
-- **URL**: https://github.com/Reblexis/lookpilot-downloads/releases/download/v1.6.5/LookPilot-Setup-1.6.5.exe
+- **URL**: https://github.com/Reblexis/lookpilot-downloads/releases/download/v1.6.7/LookPilot-Setup-1.6.7.exe
 
 #### receitafederaldobrasil-irpf2023
 
@@ -58332,7 +58332,7 @@ Total entries processed: 6933
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vcsjones-azuresigntool.yml`
-- **URL**: https://github.com/vcsjones/AzureSignTool/releases/download/v6.0.1/AzureSignTool-x64.exe
+- **URL**: https://github.com/vcsjones/AzureSignTool/releases/download/v7.0.0/AzureSignTool-x64.exe
 
 #### vcvrack-vcvrack
 
@@ -58566,7 +58566,7 @@ Total entries processed: 6933
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc-nightly.yml`
-- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251121-0430/vlc-4.0.0-dev-win64-03de1932.msi
+- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251123-0430/vlc-4.0.0-dev-win64-0b2f6fef.msi
 
 #### videolan-vlc
 
@@ -58629,7 +58629,7 @@ Total entries processed: 6933
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.1924/gvim_9.1.1924_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.1926/gvim_9.1.1926_x64.exe
 
 #### vim-vim
 
@@ -61680,7 +61680,7 @@ Total entries processed: 6933
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yt-dlp-yt-dlp-nightly.yml`
-- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.11.21.232936/yt-dlp.exe
+- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.11.23.005251/yt-dlp.exe
 
 #### yt-dlp-yt-dlp
 
@@ -61932,7 +61932,7 @@ Total entries processed: 6933
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zedindustries-zed.yml`
-- **URL**: https://github.com/zed-industries/zed/releases/download/v0.212.7/Zed-x86_64.exe
+- **URL**: https://github.com/zed-industries/zed/releases/download/v0.213.4/Zed-x86_64.exe
 
 #### zen-team-zen-browser-twilight
 
