@@ -1,4 +1,4 @@
-url: https://github.com/surrealdb/surrealdb/releases/download/v2.3.9/surreal-v2.3.9.windows-amd64.exe
+url: https://github.com/surrealdb/surrealdb/releases/download/v2.4.0/surreal-v2.4.0.windows-amd64.exe
 automatic_install: false
 self_service: false
 categories: []
