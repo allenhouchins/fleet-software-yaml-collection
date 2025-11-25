@@ -1,4 +1,4 @@
-url: https://github.com/playit-cloud/playit-agent/releases/download/v0.16.3/playit-windows-x86_64.exe
+url: https://github.com/playit-cloud/playit-agent/releases/download/v0.16.4/playit-windows-x86_64-signed.exe
 automatic_install: false
 self_service: false
 categories: []
