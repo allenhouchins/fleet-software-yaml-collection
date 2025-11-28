@@ -1,4 +1,4 @@
-url: https://github.com/duplicati/duplicati/releases/download/v2.2.0.101_canary_2025-11-20/duplicati-2.2.0.101_canary_2025-11-20-win-x64-gui.msi
+url: https://github.com/duplicati/duplicati/releases/download/v2.2.0.2_beta_2025-11-26/duplicati-2.2.0.2_beta_2025-11-26-win-x64-gui.msi
 automatic_install: false
 self_service: false
 categories: []
