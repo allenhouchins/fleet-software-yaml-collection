@@ -1,4 +1,4 @@
-url: https://github.com/ocaml/opam/releases/download/2.4.1/opam-2.4.1-x86_64-windows.exe
+url: https://github.com/ocaml/opam/releases/download/2.5.0/opam-2.5.0-x86_64-windows.exe
 automatic_install: false
 self_service: false
 categories: []
