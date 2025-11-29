@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-11-29 06:05:15 UTC
+Generated on: 2025-11-29 18:05:04 UTC
 
 ## Summary
 
@@ -199,7 +199,7 @@ Total entries processed: 6950
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `autogram.yml`
-- **URL**: https://github.com/slovensko-digital/autogram/releases/download/v2.6.1/Autogram-2.6.1-MacOs.pkg
+- **URL**: https://github.com/slovensko-digital/autogram/releases/download/v2.7.1/Autogram-2.7.1-MacOs.pkg
 
 #### aviatrix-vpn-client
 
@@ -3810,7 +3810,7 @@ Total entries processed: 6950
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `64gram-64gram.yml`
-- **URL**: https://github.com/TDesktop-x64/tdesktop/releases/download/v1.1.87/64Gram-setup-x64.1.1.87.exe
+- **URL**: https://github.com/TDesktop-x64/tdesktop/releases/download/v1.1.88/64Gram-setup-x64.1.1.88.exe
 
 #### 720kb-ndm
 
@@ -6312,7 +6312,7 @@ Total entries processed: 6950
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `altsnap-altsnap.yml`
-- **URL**: https://github.com/RamonUnch/AltSnap/releases/download/1.63/AltSnap1.63-x64-inst.exe
+- **URL**: https://github.com/RamonUnch/AltSnap/releases/download/1.67/AltSnap1.67-x64-inst.exe
 
 #### alvesvaren-resizer2
 
@@ -9156,7 +9156,7 @@ Total entries processed: 6950
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `baileybrown-cppcryptfs.yml`
-- **URL**: https://github.com/bailey27/cppcryptfs/releases/download/1.4.4.5/cppcryptfs.exe
+- **URL**: https://github.com/bailey27/cppcryptfs/releases/download/v1.4.4.6/cppcryptfs.exe
 
 #### baldurkarlsson-renderdoc
 
@@ -10812,7 +10812,7 @@ Total entries processed: 6950
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `binjr-core-x64.yml`
-- **URL**: https://github.com/binjr/binjr/releases/download/v3.25.0/binjr-3.25.0_windows-x86_64.msi
+- **URL**: https://github.com/binjr/binjr/releases/download/v3.26.0/binjr-3.26.0_windows-x86_64.msi
 
 #### biomejs-biome
 
@@ -11622,7 +11622,7 @@ Total entries processed: 6950
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `brave-brave-beta.yml`
-- **URL**: https://github.com/brave/brave-browser/releases/download/v1.86.101/BraveBrowserStandaloneSilentBetaSetup.exe
+- **URL**: https://github.com/brave/brave-browser/releases/download/v1.86.103/BraveBrowserStandaloneSilentBetaSetup.exe
 
 #### brave-brave-dev
 
@@ -13791,7 +13791,7 @@ Total entries processed: 6950
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cmlanche-lightningvine.yml`
-- **URL**: https://sdt-1314690352.cos.ap-nanjing.myqcloud.com/315/sdt-3.1.5-windows-installer.exe
+- **URL**: https://sdt-1314690352.cos.ap-nanjing.myqcloud.com/3.1.7/sdt-3.1.7-windows-installer.exe
 
 #### cmu-alice-3
 
@@ -13836,7 +13836,7 @@ Total entries processed: 6950
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cockos-reaper.yml`
-- **URL**: https://www.reaper.fm/files/7.x/reaper754_x64-install.exe
+- **URL**: https://www.reaper.fm/files/7.x/reaper755_x64-install.exe
 
 #### cocos-cocosdashboard
 
@@ -21072,7 +21072,7 @@ Total entries processed: 6950
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `flyhunterl-flymd.yml`
-- **URL**: https://github.com/flyhunterl/flymd/releases/download/v0.4.8/flymd_0.4.8_x64-setup.exe
+- **URL**: https://github.com/flyhunterl/flymd/releases/download/v0.5.0/flymd_0.5.0_x64-setup.exe
 
 #### fnmt-configuradorfnmt
 
@@ -23646,7 +23646,7 @@ Total entries processed: 6950
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `granola-granola.yml`
-- **URL**: https://api.granola.ai/v1/check-for-update/Granola-6.342.0-win-x64.exe
+- **URL**: https://api.granola.ai/v1/check-for-update/Granola-6.356.0-win-x64.exe
 
 #### graphcool-graphqlplayground
 
@@ -24366,7 +24366,7 @@ Total entries processed: 6950
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hellofont-hellofont.yml`
-- **URL**: https://download.hellofont.cn/Client/Release/channels/official/字由%20Setup%205.0.1.exe
+- **URL**: https://download.hellofont.cn/Client/Release/channels/official/字由%20Setup%205.0.2.exe
 
 #### helmutbuhler-8gadgetpack
 
@@ -29289,7 +29289,7 @@ Total entries processed: 6950
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kate.yml`
-- **URL**: https://cdn.kde.org/ci-builds/utilities/kate/release-25.12/windows/kate-release_25.12-10651-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/utilities/kate/release-25.12/windows/kate-release_25.12-10656-windows-cl-msvc2022-x86_64.exe
 
 #### kde-katomic
 
@@ -45705,7 +45705,7 @@ Total entries processed: 6950
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pingbird-puro.yml`
-- **URL**: https://puro.dev/builds/1.4.11/windows-x64/puro.exe
+- **URL**: https://puro.dev/builds/1.5.0/windows-x64/puro.exe
 
 #### pingidentity-pingid
 
@@ -51231,7 +51231,7 @@ Total entries processed: 6950
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-11-28/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-11-29/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -55614,7 +55614,7 @@ Total entries processed: 6950
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-qqmusic.yml`
-- **URL**: https://c.y.qq.com/cgi-bin/file_redirect.fcg?bid=dldir&file=ecosfile%2Fmusic_clntupate%2Fpc%2Fother%2FQQMusic_Setup_2193.exe&sign=1-f9422f83b15388d19005df185214bb724fcfc1a0b3bbcf8514fd986ac4bffa0d-6915b566
+- **URL**: https://c.y.qq.com/cgi-bin/file_redirect.fcg?bid=dldir&file=ecosfile%2Fmusic_clntupate%2Fpc%2Fother%2FQQMusic_Setup_2195.exe&sign=1-4c6374502d945e128c7de10a2546f2b097d052e3a4a0edfbd20d9ab7bcdef0e5-69295dd6
 
 #### tencent-qqpinyin
 
@@ -62085,7 +62085,7 @@ Total entries processed: 6950
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zedindustries-zed.yml`
-- **URL**: https://github.com/zed-industries/zed/releases/download/v0.214.6/Zed-x86_64.exe
+- **URL**: https://github.com/zed-industries/zed/releases/download/v0.214.7/Zed-x86_64.exe
 
 #### zen-team-zen-browser-twilight
 
