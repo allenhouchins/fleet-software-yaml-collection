@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-11-30 18:05:06 UTC
+Generated on: 2025-12-01 06:05:33 UTC
 
 ## Summary
 
-Total entries processed: 6951
+Total entries processed: 6950
 - macOS files: 392
-- Windows files: 6559
+- Windows files: 6558
 
 ## Generated Files
 
@@ -2701,7 +2701,7 @@ Total entries processed: 6951
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `samsung-magician.yml`
-- **URL**: https://download.semiconductor.samsung.com/resources/software-resources/Samsung_Magician_Installer_Official_8.3.0.810.pkg
+- **URL**: https://download.semiconductor.samsung.com/resources/software-resources/Samsung_Magician_Installer_Official_9.0.0.910.pkg
 
 #### scaleft
 
@@ -10821,7 +10821,7 @@ Total entries processed: 6951
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `binjr-core-x64.yml`
-- **URL**: https://github.com/binjr/binjr/releases/download/v3.26.0/binjr-3.26.0_windows-x86_64.msi
+- **URL**: https://github.com/binjr/binjr/releases/download/v3.26.1/binjr-3.26.1_windows-x86_64.msi
 
 #### biomejs-biome
 
@@ -11199,7 +11199,7 @@ Total entries processed: 6951
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `blix-bluemail.yml`
-- **URL**: https://download.bluemail.me/BlueMail/BlueMail-1.142.70.exe
+- **URL**: https://download.bluemail.me/BlueMail/BlueMail-1.142.73.exe
 
 #### blocknetproject-blocknet
 
@@ -12297,7 +12297,7 @@ Total entries processed: 6951
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cabininteractive-hamrspro.yml`
-- **URL**: https://hamrs-dist.s3.amazonaws.com/hamrs-pro-2.43.0-win-x64.exe
+- **URL**: https://hamrs-dist.s3.amazonaws.com/hamrs-pro-2.45.0-win-x64.exe
 
 #### cactusnetwork-cactusblockchaingui
 
@@ -22134,7 +22134,7 @@ Total entries processed: 6951
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `geany-geany.yml`
-- **URL**: https://github.com/geany/geany/releases/download/2.1.0/geany-2.1_setup_unsigned.exe
+- **URL**: https://github.com/geany/geany/releases/download/2.1.0/geany-2.1_setup.exe
 
 #### geekcorner-threema
 
@@ -23304,7 +23304,7 @@ Total entries processed: 6951
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gopass-gopass.yml`
-- **URL**: https://github.com/gopasspw/gopass/releases/download/v1.15.9/gopass-x64-windows-1.15.9.msi
+- **URL**: https://github.com/gopasspw/gopass/releases/download/v1.16.0/gopass-x64-windows-1.16.0.msi
 
 #### gorilladevs-gdlauncher
 
@@ -25221,7 +25221,7 @@ Total entries processed: 6951
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hydralauncher-hydra.yml`
-- **URL**: https://github.com/hydralauncher/hydra/releases/download/v3.7.4/hydralauncher-3.7.4-setup.exe
+- **URL**: https://github.com/hydralauncher/hydra/releases/download/v3.7.5/hydralauncher-3.7.5-setup.exe
 
 #### hydrogen-music-hydrogen
 
@@ -25941,7 +25941,7 @@ Total entries processed: 6951
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `imagemagick-imagemagick-q16.yml`
-- **URL**: https://imagemagick.org/archive/binaries/ImageMagick-7.1.2-8-Q16-x64-dll.exe
+- **URL**: https://imagemagick.org/archive/binaries/ImageMagick-7.1.2-9-Q16-x64-dll.exe
 
 #### imagemagick-imagemagick-q8
 
@@ -25950,7 +25950,7 @@ Total entries processed: 6951
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `imagemagick-imagemagick-q8.yml`
-- **URL**: https://imagemagick.org/archive/binaries/ImageMagick-7.1.2-8-Q8-x64-dll.exe
+- **URL**: https://imagemagick.org/archive/binaries/ImageMagick-7.1.2-9-Q8-x64-dll.exe
 
 #### imagemagick-imagemagick
 
@@ -25959,7 +25959,7 @@ Total entries processed: 6951
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `imagemagick-imagemagick.yml`
-- **URL**: https://imagemagick.org/archive/binaries/ImageMagick-7.1.2-8-Q16-HDRI-x64-dll.exe
+- **URL**: https://imagemagick.org/archive/binaries/ImageMagick-7.1.2-9-Q16-HDRI-x64-dll.exe
 
 #### imageoptim-gifski
 
@@ -27635,15 +27635,6 @@ Total entries processed: 6951
 - **File**: `jayakumarreddy-local-mock-server.yml`
 - **URL**: https://github.com/jayakumarreddy/Local-Mock-Server/releases/download/v1.2.0/Local-Mock-Server-Setup-1.2.0.exe
 
-#### jaydendev-catalyst
-
-- **Source**: winget
-- **Name**: jaydendev-catalyst
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `jaydendev-catalyst.yml`
-- **URL**: https://github.com/CatalystDevOrg/Catalyst/releases/download/v3.5.4/catalyst-3.5.4.Setup.exe
-
 #### jaydendev-catalyst3
 
 - **Source**: winget
@@ -29280,7 +29271,7 @@ Total entries processed: 6951
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-karp.yml`
-- **URL**: https://cdn.kde.org/ci-builds/graphics/karp/master/windows/karp-master-513-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/graphics/karp/master/windows/karp-master-530-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kasts
 
@@ -30081,7 +30072,7 @@ Total entries processed: 6951
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kindabrazy-lynxhub.yml`
-- **URL**: https://github.com/KindaBrazy/LynxHub/releases/download/V3.2.0/LynxHub-V3.2.0-win_x64-Setup.exe
+- **URL**: https://github.com/KindaBrazy/LynxHub/releases/download/V3.3.0/LynxHub-V3.3.0-win_x64-Setup.exe
 
 #### kingsoft-kmeeting
 
@@ -37209,7 +37200,7 @@ Total entries processed: 6951
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-ru.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b8/win64/ru/Firefox%20Setup%20146.0b8.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b9/win64/ru/Firefox%20Setup%20146.0b9.exe
 
 #### mozilla-firefox-developeredition-sc
 
@@ -47811,7 +47802,7 @@ Total entries processed: 6951
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `quantumnous-newapi.yml`
-- **URL**: https://github.com/QuantumNous/new-api/releases/download/v0.9.26/New-API-App.0.9.26.exe
+- **URL**: https://github.com/QuantumNous/new-api/releases/download/v0.9.27-patch.1/new-api-v0.9.27-patch.1.exe
 
 #### quantumnovice-xkill
 
@@ -47874,7 +47865,7 @@ Total entries processed: 6951
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `qutebrowser-qutebrowser.yml`
-- **URL**: https://github.com/qutebrowser/qutebrowser/releases/download/v3.6.2/qutebrowser-3.6.2-amd64.exe
+- **URL**: https://github.com/qutebrowser/qutebrowser/releases/download/v3.6.3/qutebrowser-3.6.3-amd64.exe
 
 #### qv2ray-qv2ray
 
@@ -58782,7 +58773,7 @@ Total entries processed: 6951
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.1933/gvim_9.1.1933_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.1942/gvim_9.1.1942_x64.exe
 
 #### vim-vim
 
@@ -61626,7 +61617,7 @@ Total entries processed: 6951
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xxanqw-mikusays.yml`
-- **URL**: https://github.com/xxanqw/mikusays/releases/download/v0.1.0/mikusays-windows-x86_64.exe
+- **URL**: https://github.com/xxanqw/mikusays/releases/download/v0.1.4/mikusays-windows-x86_64-0.1.4.exe
 
 #### y2z-monolith
 
