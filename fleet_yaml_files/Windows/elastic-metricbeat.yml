@@ -1,4 +1,4 @@
-url: https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-9.2.1-windows-x86_64.msi
+url: https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-9.2.2-windows-x86_64.msi
 automatic_install: false
 self_service: false
 categories: []
