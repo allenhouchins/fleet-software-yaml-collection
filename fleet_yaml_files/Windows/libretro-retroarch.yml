@@ -1,4 +1,4 @@
-url: https://buildbot.libretro.com/stable/1.22.1/windows/x86_64/RetroArch-Win64-setup.exe
+url: https://buildbot.libretro.com/stable/1.22.2/windows/x86_64/RetroArch-Win64-setup.exe
 automatic_install: false
 self_service: false
 categories: []
