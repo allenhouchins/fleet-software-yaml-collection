@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-12-04 06:05:37 UTC
+Generated on: 2025-12-04 18:05:37 UTC
 
 ## Summary
 
-Total entries processed: 6971
+Total entries processed: 6973
 - macOS files: 392
-- Windows files: 6579
+- Windows files: 6581
 
 ## Generated Files
 
@@ -1072,7 +1072,7 @@ Total entries processed: 6971
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `emclient.yml`
-- **URL**: https://cdn-dist.emclient.com/dist/v10.3.2622_Mac/setup.pkg
+- **URL**: https://cdn-dist.emclient.com/dist/v10.3.4324_Mac/setup.pkg
 
 #### enclave
 
@@ -2098,7 +2098,7 @@ Total entries processed: 6971
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `nextcloud-vfs.yml`
-- **URL**: https://github.com/nextcloud-releases/desktop/releases/download/v4.0.2/Nextcloud-4.0.2-macOS-vfs.pkg
+- **URL**: https://github.com/nextcloud-releases/desktop/releases/download/v4.0.3/Nextcloud-4.0.3-macOS-vfs.pkg
 
 #### nextcloud
 
@@ -2107,7 +2107,7 @@ Total entries processed: 6971
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `nextcloud.yml`
-- **URL**: https://github.com/nextcloud-releases/desktop/releases/download/v4.0.2/Nextcloud-4.0.2.pkg
+- **URL**: https://github.com/nextcloud-releases/desktop/releases/download/v4.0.3/Nextcloud-4.0.3.pkg
 
 #### ninja-download-manager-ndm
 
@@ -12415,6 +12415,15 @@ Total entries processed: 6971
 - **Version**: 
 - **File**: `cangzhang-champ-r.yml`
 - **URL**: https://github.com/cangzhang/champ-r/releases/download/v1.3.9/ChampR-Setup-1.3.9.exe
+
+#### cankoptor-vae
+
+- **Source**: winget
+- **Name**: cankoptor-vae
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `cankoptor-vae.yml`
+- **URL**: https://github.com/t4h4-05/AutoVideoEnhancer/releases/download/v3.0/vae.exe
 
 #### canon-gpcl6-v4-printerdriver-v21-00
 
@@ -47371,6 +47380,15 @@ Total entries processed: 6971
 - **Version**: 
 - **File**: `purocean-yanknote.yml`
 - **URL**: https://github.com/purocean/yn/releases/download/v3.9.4/Yank-Note-win-x64-3.9.4.exe
+
+#### purple-purpleplus
+
+- **Source**: winget
+- **Name**: purple-purpleplus
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `purple-purpleplus.yml`
+- **URL**: https://github.com/LetsGoPurple/PurplePlusProd/releases/download/v3.2.2/PurplePlus-3.2.2-x64-Setup.exe
 
 #### purplei2p-i2pd
 
