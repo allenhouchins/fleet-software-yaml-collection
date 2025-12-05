@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-12-05 06:05:23 UTC
+Generated on: 2025-12-05 18:05:08 UTC
 
 ## Summary
 
@@ -775,7 +775,7 @@ Total entries processed: 6974
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `clip-studio-paint.yml`
-- **URL**: https://vd.clipstudio.net/clipcontent/paint/app/420/CSP_420m_app.pkg
+- **URL**: https://vd.clipstudio.net/clipcontent/paint/app/421/CSP_421m_app.pkg
 
 #### cold-turkey-blocker
 
@@ -2800,7 +2800,7 @@ Total entries processed: 6974
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `senadevicemanager.yml`
-- **URL**: https://firmware.sena.com/senabluetoothmanager/SENADeviceManagerForMAC-v4.4.16.pkg
+- **URL**: https://firmware.sena.com/senabluetoothmanager/SENADeviceManagerForMAC-v4.4.17.pkg
 
 #### send-to-kindle
 
@@ -3792,7 +3792,7 @@ Total entries processed: 6974
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `5e-5eclient.yml`
-- **URL**: https://oss-arena.5eplay.com/client/5EClient-8.2.3.exe
+- **URL**: https://oss-arena.5eplay.com/client/5EClient-8.2.5.exe
 
 #### 5mdt-wingodarktray
 
@@ -7230,7 +7230,7 @@ Total entries processed: 6974
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `anysphere-cursor.yml`
-- **URL**: https://downloads.cursor.com/production/ab326d0767c02fb9847b342c43ea58275c4b1685/win32/x64/user-setup/CursorUserSetup-x64-2.1.46.exe
+- **URL**: https://downloads.cursor.com/production/2d3ce3499c15efd55b6b8538ea255eb7ba4266b2/win32/x64/user-setup/CursorUserSetup-x64-2.1.47.exe
 
 #### apache-directorystudio
 
@@ -15672,7 +15672,7 @@ Total entries processed: 6974
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `daoutech-daoumessenger.yml`
-- **URL**: https://storage.googleapis.com/prod-portal-update-center-repo/4.1.5/DaouMessenger%204.0%20Setup%204.1.5.exe
+- **URL**: https://storage.googleapis.com/prod-portal-update-center-repo/4.1.6/DaouMessenger%204.0%20Setup%204.1.6.exe
 
 #### dapr-cli-preview
 
@@ -25365,7 +25365,7 @@ Total entries processed: 6974
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hydrusnetwork-hydrusnetwork.yml`
-- **URL**: https://github.com/hydrusnetwork/hydrus/releases/download/v649/Hydrus.Network.649.-.Windows.-.Installer.exe
+- **URL**: https://github.com/hydrusnetwork/hydrus/releases/download/v650/Hydrus.Network.650.-.Windows.-.Installer.exe
 
 #### hyperion-hyperion
 
@@ -26112,7 +26112,7 @@ Total entries processed: 6974
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `indigobyte-drexplain.yml`
-- **URL**: https://downloads.drexplain.com/drexplain_7_0_1363.exe
+- **URL**: https://downloads.drexplain.com/drexplain_7_0_1365.exe
 
 #### infinitepower18-wsasideloader
 
@@ -27912,7 +27912,7 @@ Total entries processed: 6974
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-datagrip.yml`
-- **URL**: https://download.jetbrains.com/datagrip/datagrip-2025.2.4.exe
+- **URL**: https://download.jetbrains.com/datagrip/datagrip-2025.2.5.exe
 
 #### jetbrains-dataspell-eap
 
@@ -29469,7 +29469,7 @@ Total entries processed: 6974
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kfourinline.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kfourinline/master/windows/kfourinline-master-829-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kfourinline/master/windows/kfourinline-master-836-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kgoldrunner
 
@@ -29550,7 +29550,7 @@ Total entries processed: 6974
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kmahjongg.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kmahjongg/master/windows/kmahjongg-master-937-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kmahjongg/master/windows/kmahjongg-master-940-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kmines
 
@@ -29577,7 +29577,7 @@ Total entries processed: 6974
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-knetwalk.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/knetwalk/master/windows/knetwalk-master-747-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/knetwalk/master/windows/knetwalk-master-751-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kolf
 
@@ -29586,7 +29586,7 @@ Total entries processed: 6974
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kolf.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kolf/master/windows/kolf-master-924-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kolf/master/windows/kolf-master-926-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kollision
 
@@ -29721,7 +29721,7 @@ Total entries processed: 6974
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-ktuberling.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/ktuberling/master/windows/ktuberling-master-857-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/ktuberling/master/windows/ktuberling-master-862-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kturtle
 
@@ -32538,7 +32538,7 @@ Total entries processed: 6974
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `makeblock-xtoolstudio.yml`
-- **URL**: https://storage.atomm.com/efficacy/atomm-package/prod/packages/109/18262e13-dd84-436e-bfee-c0d6caf22e6b/xTool-Studio-x64-1.1.9.exe
+- **URL**: https://storage.atomm.com/efficacy/atomm-package/prod/packages/109/2b43f496-35f9-4804-a96b-6ca79fc45422/xTool-Studio-x64-1.2.11.exe
 
 #### makerbot-makerbotprint
 
@@ -36102,7 +36102,7 @@ Total entries processed: 6974
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `monday-monday.yml`
-- **URL**: https://monday.com/monday-win-latest.exe
+- **URL**: https://monday.com/monday-msi-latest.msi
 
 #### moneymanagerex-moneymanagerex
 
@@ -41538,7 +41538,7 @@ Total entries processed: 6974
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `networkoptix-nxmeta-client.yml`
-- **URL**: https://updates.networkoptix.com/metavms/41837/windows/metavms-client-6.0.6.41837-windows_x64.exe
+- **URL**: https://updates.networkoptix.com/default/42176/windows/nxwitness-client-6.1.0.42176-windows_x64.exe
 
 #### networkoptix-nxmeta-server
 
@@ -41547,7 +41547,7 @@ Total entries processed: 6974
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `networkoptix-nxmeta-server.yml`
-- **URL**: https://updates.networkoptix.com/metavms/41837/windows/metavms-server-6.0.6.41837-windows_x64.exe
+- **URL**: https://updates.networkoptix.com/default/42176/windows/nxwitness-server-6.1.0.42176-windows_x64.exe
 
 #### networkoptix-nxwitness-bundle
 
@@ -47163,7 +47163,7 @@ Total entries processed: 6974
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `proton-protonvpn.yml`
-- **URL**: https://vpn.protondownload.com/download/ProtonVPN_v4.3.7_x64.exe
+- **URL**: https://vpn.protondownload.com/download/ProtonVPN_v4.3.9_x64.exe
 
 #### prowise-prowisepresenter
 
@@ -51411,7 +51411,7 @@ Total entries processed: 6974
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-12-03/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-12-04/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -53175,7 +53175,7 @@ Total entries processed: 6974
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `spotify-spotify.yml`
-- **URL**: https://upgrade.scdn.co/upgrade/client/win32-x86_64/spotify_installer-1.2.78.418.gaeeb5ebd-1067.exe
+- **URL**: https://upgrade.scdn.co/upgrade/client/win32-x86_64/spotify_installer-1.2.79.206.g6a84c90c-1595.exe
 
 #### springlobby-springlobby
 
@@ -55722,7 +55722,7 @@ Total entries processed: 6974
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-codebuddy.yml`
-- **URL**: https://codebuddy-1328495429.cos.accelerate.myqcloud.com/aiide/win32-x64-user/CodeBuddy-win32-x64-user-4.0.0.13996248-8e6f1ad2c4-513a4aa8.exe
+- **URL**: https://codebuddy-1328495429.cos.accelerate.myqcloud.com/aiide/win32-x64-user/CodeBuddy-win32-x64-user-4.0.1.14157604-a7845cb9d8-d81a7bee.exe
 
 #### tencent-cosbrowser
 
