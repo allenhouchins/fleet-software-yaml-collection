@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-12-06 06:05:14 UTC
+Generated on: 2025-12-06 18:04:56 UTC
 
 ## Summary
 
@@ -2989,7 +2989,7 @@ Total entries processed: 6975
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `tableau-public.yml`
-- **URL**: https://downloads.tableau.com/esdalt/2025.2.4/TableauPublic-2025-2-4-arm64.pkg
+- **URL**: https://downloads.tableau.com/esdalt/2025.3.0/TableauPublic-2025-3-0-arm64.pkg
 
 #### tableau-reader
 
@@ -2998,7 +2998,7 @@ Total entries processed: 6975
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `tableau-reader.yml`
-- **URL**: https://downloads.tableau.com/esdalt/2025.2.4/TableauReader-2025-2-4-arm64.pkg
+- **URL**: https://downloads.tableau.com/esdalt/2025.3.0/TableauReader-2025-3-0-arm64.pkg
 
 #### tailscale-app
 
@@ -3729,7 +3729,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `3dconnexion-3dxware-10.yml`
-- **URL**: https://download.3dconnexion.com/drivers/win/10-9-8_24A8613E/3DxWare64_v10-9-8_b715.exe
+- **URL**: https://download.3dconnexion.com/drivers/win/10-9-9_11E91773/3DxWare64_v10-9-9_b721.exe
 
 #### 3dflow-3dfzephyr-free
 
@@ -3819,7 +3819,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `64gram-64gram.yml`
-- **URL**: https://github.com/TDesktop-x64/tdesktop/releases/download/v1.1.88/64Gram-setup-x64.1.1.88.exe
+- **URL**: https://github.com/TDesktop-x64/tdesktop/releases/download/v1.1.89/64Gram-setup-x64.1.1.89.exe
 
 #### 720kb-ndm
 
@@ -3990,7 +3990,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ablaze-floorp.yml`
-- **URL**: https://github.com/Floorp-Projects/Floorp/releases/download/v12.7.0/floorp-windows-x86_64.installer.exe
+- **URL**: https://github.com/Floorp-Projects/Floorp/releases/download/v12.8.2/floorp-windows-x86_64.installer.exe
 
 #### abrignoni-aleapp-cli
 
@@ -9192,7 +9192,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `balena-balenacli.yml`
-- **URL**: https://github.com/balena-io/balena-cli/releases/download/v23.2.2/balena-cli-v23.2.2-windows-x64-installer.exe
+- **URL**: https://github.com/balena-io/balena-cli/releases/download/v23.2.6/balena-cli-v23.2.6-windows-x64-installer.exe
 
 #### balena-etcher
 
@@ -11208,7 +11208,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `blix-bluemail.yml`
-- **URL**: https://download.bluemail.me/BlueMail/BlueMail-1.143.30.exe
+- **URL**: https://download.bluemail.me/BlueMail/BlueMail-1.143.35.exe
 
 #### blocknetproject-blocknet
 
@@ -12252,7 +12252,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bytedance-trae-cn.yml`
-- **URL**: https://lf-cdn.trae.ai/obj/trae-ai-us/pkg/app/releases/stable/1.0.24530/win32/Trae%20CN-Setup-x64.exe
+- **URL**: https://lf-cdn.trae.ai/obj/trae-ai-us/pkg/app/releases/stable/1.0.25270/win32/Trae%20CN-Setup-x64.exe
 
 #### bytedance-trae
 
@@ -13800,7 +13800,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `clsid2-mpc-hc.yml`
-- **URL**: https://github.com/clsid2/mpc-hc/releases/download/2.5.5/MPC-HC.2.5.5.x64.exe
+- **URL**: https://github.com/clsid2/mpc-hc/releases/download/2.5.6/MPC-HC.2.5.6.x64.exe
 
 #### cmdutil-whatthefile
 
@@ -15141,7 +15141,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `crowdsecurity-crowdsec.yml`
-- **URL**: https://github.com/crowdsecurity/crowdsec/releases/download/v1.7.3/crowdsec_1.7.3.msi
+- **URL**: https://github.com/crowdsecurity/crowdsec/releases/download/v1.7.4/crowdsec_1.7.4.msi
 
 #### crowdsecurity-crowdsecwindowsfirewallbouncer
 
@@ -19317,7 +19317,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `epicgames-epicgameslauncher.yml`
-- **URL**: https://download.epicgames.com/Builds/UnrealEngineLauncher/Installers/Windows/EpicInstaller-19.0.0.msi?launcherfilename=EpicInstaller-19.0.0.msi
+- **URL**: https://epicgames-download1.akamaized.net/Builds/UnrealEngineLauncher/Installers/Windows/EpicInstaller-19.0.0.msi?launcherfilename=EpicInstaller-19.0.0.msi
 
 #### epilogue-epilogueoperator
 
@@ -23196,7 +23196,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/hiqskftdidsyq4nufw52edsdzq_144.0.7559.3/144.0.7559.3_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/acqk5u76pkrmz63pba2xj2cy6muq_145.0.7565.0/145.0.7565.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -32898,7 +32898,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `martialbe-onehub.yml`
-- **URL**: https://github.com/MartialBE/one-hub/releases/download/v0.14.26/one-api.exe
+- **URL**: https://github.com/MartialBE/one-hub/releases/download/v0.14.27/one-api.exe
 
 #### marticliment-unigetui-pre-release
 
@@ -34374,7 +34374,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-edge.yml`
-- **URL**: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b8fec3d7-71ad-4f2f-9cb7-069fbe37adbb/MicrosoftEdgeEnterpriseX64.msi
+- **URL**: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/1746536d-09e3-4e87-9a55-cfcecb49b3c1/MicrosoftEdgeEnterpriseX64.msi
 
 #### microsoft-edgewebview2runtime
 
@@ -35796,7 +35796,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mixvoip-voxbi.yml`
-- **URL**: https://download.voxbi.team/windows/Voxbi2.15.5.0.msi
+- **URL**: https://download.voxbi.team/windows/Voxbi2.16.6.0.msi
 
 #### mixxx-mixxx
 
@@ -36102,7 +36102,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `monday-monday.yml`
-- **URL**: https://monday.com/monday-msi-latest.msi
+- **URL**: https://monday.com/monday-win-latest.exe
 
 #### moneymanagerex-moneymanagerex
 
@@ -41529,7 +41529,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `networkoptix-nxmeta-bundle.yml`
-- **URL**: https://updates.networkoptix.com/metavms/41837/windows/metavms-bundle-6.0.6.41837-windows_x64.exe
+- **URL**: https://updates.networkoptix.com/default/42176/windows/nxwitness-bundle-6.1.0.42176-windows_x64.exe
 
 #### networkoptix-nxmeta-client
 
@@ -41556,7 +41556,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `networkoptix-nxwitness-bundle.yml`
-- **URL**: https://updates.networkoptix.com/default/41837/windows/nxwitness-bundle-6.0.6.41837-windows_x64.exe
+- **URL**: https://updates.networkoptix.com/default/42176/windows/nxwitness-bundle-6.1.0.42176-windows_x64.exe
 
 #### networkoptix-nxwitness-client
 
@@ -41718,7 +41718,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nexmoe-vidbee.yml`
-- **URL**: https://github.com/nexmoe/VidBee/releases/download/v1.0.1/vidbee-1.0.1-setup.exe
+- **URL**: https://github.com/nexmoe/VidBee/releases/download/v1.0.2/vidbee-1.0.2-setup.exe
 
 #### nexon-nexonplug
 
@@ -43734,7 +43734,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `openaudible-openaudible.yml`
-- **URL**: https://github.com/openaudible/openaudible/releases/download/v4.6.7/OpenAudible_4.6.7_x86_64.exe
+- **URL**: https://github.com/openaudible/openaudible/releases/download/v4.6.8/OpenAudible_4.6.8_x86_64.exe
 
 #### openbb-finance-openbbterminal
 
@@ -49575,7 +49575,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rockinchaos-shiru.yml`
-- **URL**: https://github.com/RockinChaos/Shiru/releases/download/v6.4.1/win-Shiru-v6.4.1-installer.exe
+- **URL**: https://github.com/RockinChaos/Shiru/releases/download/v6.4.2/win-Shiru-v6.4.2-installer.exe
 
 #### rocksdanister-livelywallpaper
 
@@ -51411,7 +51411,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-12-04/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-12-06/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -53175,7 +53175,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `spotify-spotify.yml`
-- **URL**: https://upgrade.scdn.co/upgrade/client/win32-x86_64/spotify_installer-1.2.79.206.g6a84c90c-1595.exe
+- **URL**: https://upgrade.scdn.co/upgrade/client/win32-x86_64/spotify_installer-1.2.79.246.g768eb550-1731.exe
 
 #### springlobby-springlobby
 
@@ -57252,7 +57252,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `topalasoftwaresolutions-siw.yml`
-- **URL**: https://www.gtopala.com/download/20251119a/siwtrial-setup.exe
+- **URL**: https://www.gtopala.com/download/20251119b/siwtrial-setup.exe
 
 #### topazlabs-topazdenoiseai
 
@@ -58926,7 +58926,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc.yml`
-- **URL**: https://download.videolan.org/pub/videolan/vlc/3.0.22/win64/vlc-3.0.22-win64.exe
+- **URL**: https://download.videolan.org/pub/videolan/vlc/3.0.22/win64/vlc-3.0.22-win64.msi
 
 #### videolan-x264
 
@@ -59115,7 +59115,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vivaldi-vivaldi-snapshot.yml`
-- **URL**: https://downloads.vivaldi.com/snapshot/Vivaldi.7.8.3882.3.x64.exe
+- **URL**: https://downloads.vivaldi.com/snapshot/Vivaldi.7.8.3885.4.x64.exe
 
 #### vivaldi-vivaldi
 
@@ -59232,7 +59232,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `voidtools-everything-alpha.yml`
-- **URL**: https://www.voidtools.com/Everything-1.5.0.1401a.x64-Setup.exe
+- **URL**: https://www.voidtools.com/Everything-1.5.0.1402a.x64-Setup.exe
 
 #### voidtools-everything-lite
 
@@ -59565,7 +59565,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vrcx-vrcx.yml`
-- **URL**: https://github.com/vrcx-team/VRCX/releases/download/v2025.11.16/VRCX_2025.11.16_Setup.exe
+- **URL**: https://github.com/vrcx-team/VRCX/releases/download/v2025.12.06/VRCX_2025.12.06_Setup.exe
 
 #### vromans-chordpro
 
@@ -59673,7 +59673,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wagnardsoft-displaydriveruninstaller.yml`
-- **URL**: https://www.wagnardsoft.com/DDU/download/DDU%20v18.1.3.8_setup.exe
+- **URL**: https://www.wagnardsoft.com/DDU/download/DDU%20v18.1.3.9_setup.exe
 
 #### wago-addons
 
@@ -62049,7 +62049,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yt-dlp-yt-dlp-nightly.yml`
-- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.12.01.051642/yt-dlp.exe
+- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.12.03.233056/yt-dlp.exe
 
 #### yt-dlp-yt-dlp
 

@@ -1,4 +1,4 @@
-url: https://download.epicgames.com/Builds/UnrealEngineLauncher/Installers/Windows/EpicInstaller-19.0.0.msi?launcherfilename=EpicInstaller-19.0.0.msi
+url: https://epicgames-download1.akamaized.net/Builds/UnrealEngineLauncher/Installers/Windows/EpicInstaller-19.0.0.msi?launcherfilename=EpicInstaller-19.0.0.msi
 automatic_install: false
 self_service: false
 categories: []
