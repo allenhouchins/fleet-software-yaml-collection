@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-12-06 18:04:56 UTC
+Generated on: 2025-12-07 06:05:05 UTC
 
 ## Summary
 
@@ -9354,7 +9354,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `baulk-baulk.yml`
-- **URL**: https://github.com/baulk/baulk/releases/download/v5.1.0/BaulkSetup-x64.exe
+- **URL**: https://github.com/baulk/baulk/releases/download/v5.2.0/BaulkSetup-x64.exe
 
 #### baxi-mybaxipro
 
@@ -10371,7 +10371,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `betterbird-betterbird.yml`
-- **URL**: https://www.betterbird.eu/downloads/WindowsInstaller/betterbird-140.5.0esr-bb14.en-US.win64.installer.exe
+- **URL**: https://www.betterbird.eu/downloads/WindowsInstaller/betterbird-140.6.0esr-bb15.en-US.win64.installer.exe
 
 #### beyond-all-reason-beyond-all-reason
 
@@ -16473,7 +16473,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `developedmethods-playit.yml`
-- **URL**: https://github.com/playit-cloud/playit-agent/releases/download/v0.16.4/playit-windows-x86_64-signed.exe
+- **URL**: https://github.com/playit-cloud/playit-agent/releases/download/v0.16.5/playit-windows-x86_64-signed.exe
 
 #### devhub-devhub
 
@@ -16590,7 +16590,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dexperix-ebooktalker.yml`
-- **URL**: https://github.com/DeXP/EbookTalker/releases/download/2.0.0/EbookTalker-2.0.0-Win64-Installer.exe
+- **URL**: https://github.com/DeXP/EbookTalker/releases/download/2.0.1/EbookTalker-2.0.1-Win64-Installer.exe
 
 #### dfrobot-mind-
 
@@ -20217,7 +20217,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `feraxhp-grp.yml`
-- **URL**: https://github.com/feraxhp/grp/releases/download/v0.8.0-beta/grp-0.8.0-x86_64.msi
+- **URL**: https://github.com/feraxhp/grp/releases/download/v0.9.0-beta/grp-0.9.0-x86_64.msi
 
 #### ferdium-ferdium-beta
 
@@ -21126,7 +21126,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `flyhunterl-flymd.yml`
-- **URL**: https://github.com/flyhunterl/flymd/releases/download/v0.6.0/flymd_0.6.0_x64-setup.exe
+- **URL**: https://github.com/flyhunterl/flymd/releases/download/v0.6.5/flymd_0.6.5_x64-setup.exe
 
 #### fnmt-configuradorfnmt
 
@@ -22674,7 +22674,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gitlab-runner.yml`
-- **URL**: https://gitlab-runner-downloads.s3.amazonaws.com/v18.6.3/binaries/gitlab-runner-windows-amd64.exe
+- **URL**: https://gitlab-runner-downloads.s3.amazonaws.com/v18.6.5/binaries/gitlab-runner-windows-amd64.exe
 
 #### gitthermal-thermal
 
@@ -23196,7 +23196,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/acqk5u76pkrmz63pba2xj2cy6muq_145.0.7565.0/145.0.7565.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/kt3jnw63fhpyknqv5vxyl22hpi_145.0.7566.0/145.0.7566.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -23205,7 +23205,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-dev-exe.yml`
-- **URL**: https://dl.google.com/release2/chrome/cdsdez5m4tcfhlf3jjd2myxpge_144.0.7534.3/144.0.7534.3_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/acy5d6r5ri6gqlvry446bpxwvhwq_145.0.7561.2/145.0.7561.2_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev
 
@@ -25131,7 +25131,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hrzlgnm-mdns-browser.yml`
-- **URL**: https://github.com/hrzlgnm/mdns-browser/releases/download/mdns-browser-v0.9.8/mdns-browser_0.9.8_x64-setup.exe
+- **URL**: https://github.com/hrzlgnm/mdns-browser/releases/download/mdns-browser-v1.0.0/mdns-browser_1.0.0_x64-setup.exe
 
 #### htacg-tidy
 
@@ -26274,7 +26274,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `integrit-hackolade.yml`
-- **URL**: https://s3-eu-west-1.amazonaws.com/hackolade/previous/v8.7.1/Hackolade-win64-setup-signed.exe
+- **URL**: https://s3-eu-west-1.amazonaws.com/hackolade/previous/v8.7.2/Hackolade-win64-setup-signed.exe
 
 #### intel-fortrancompiler
 
@@ -27273,7 +27273,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jan-jan.yml`
-- **URL**: https://github.com/janhq/jan/releases/download/v0.7.3/Jan_0.7.3_x64-setup.exe
+- **URL**: https://github.com/janhq/jan/releases/download/v0.7.4/Jan_0.7.4_x64-setup.exe
 
 #### jandedobbeleer-aliae
 
@@ -29208,7 +29208,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-bomber.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/bomber/master/windows/bomber-master-768-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/bomber/master/windows/bomber-master-771-windows-cl-msvc2022-x86_64.exe
 
 #### kde-bovo
 
@@ -29217,7 +29217,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-bovo.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/bovo/master/windows/bovo-master-753-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/bovo/master/windows/bovo-master-756-windows-cl-msvc2022-x86_64.exe
 
 #### kde-crowtranslate
 
@@ -29253,7 +29253,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-elisa.yml`
-- **URL**: https://cdn.kde.org/ci-builds/multimedia/elisa/master/windows/elisa-master-4141-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/multimedia/elisa/master/windows/elisa-master-4149-windows-cl-msvc2022-x86_64.exe
 
 #### kde-falkon
 
@@ -29811,7 +29811,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-picmi.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/picmi/master/windows/picmi-master-747-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/picmi/master/windows/picmi-master-754-windows-cl-msvc2022-x86_64.exe
 
 #### kde-rkward
 
@@ -34383,7 +34383,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-edgewebview2runtime.yml`
-- **URL**: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f89e6562-3d8d-443a-8863-00c028b96643/MicrosoftEdgeWebView2RuntimeInstallerX64.exe
+- **URL**: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c55f85b8-c7f2-4d7e-849d-cd4bfe16b28a/MicrosoftEdgeWebView2RuntimeInstallerX64.exe
 
 #### microsoft-gameinput
 
@@ -35553,7 +35553,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mikf-gallery-dl-nightly.yml`
-- **URL**: https://github.com/gdl-org/builds/releases/download/2025.12.04/gallery-dl_windows.exe
+- **URL**: https://github.com/gdl-org/builds/releases/download/2025.12.05/gallery-dl_windows.exe
 
 #### mikrotik-winbox
 
@@ -41133,7 +41133,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `navidrome-navidrome.yml`
-- **URL**: https://github.com/navidrome/navidrome/releases/download/v0.58.5/navidrome_0.58.5_windows_amd64_installer.msi
+- **URL**: https://github.com/navidrome/navidrome/releases/download/v0.59.0/navidrome_0.59.0_windows_amd64_installer.msi
 
 #### navigraph-navigraphhub
 
@@ -46344,7 +46344,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `popcorntime-popcorn-time.yml`
-- **URL**: https://get.popcorntime.app/nightly/0.0.95-67/windows/x86_64/Popcorn_Time_Nightly_0.0.95_x64_en-US.msi
+- **URL**: https://get.popcorntime.app/nightly/0.0.96-68/windows/x86_64/Popcorn_Time_Nightly_0.0.96_x64_en-US.msi
 
 #### popokey-hl7soup
 
@@ -47496,7 +47496,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pypa-hatch.yml`
-- **URL**: https://github.com/pypa/hatch/releases/download/hatch-v1.16.1/hatch-x64.msi
+- **URL**: https://github.com/pypa/hatch/releases/download/hatch-v1.16.2/hatch-x64.msi
 
 #### pyprime-pyprime
 
@@ -47577,7 +47577,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `python-python-3-14.yml`
-- **URL**: https://www.python.org/ftp/python/3.14.1/python-3.14.1-amd64.exe
+- **URL**: https://www.python.org/ftp/python/3.14.2/python-3.14.2-amd64.exe
 
 #### python-python-3-2
 
@@ -58917,7 +58917,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc-nightly.yml`
-- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251203-0508/vlc-4.0.0-dev-win64-d9931019.msi
+- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251206-0423/vlc-4.0.0-dev-win64-ad4db7fd.msi
 
 #### videolan-vlc
 
@@ -58944,7 +58944,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `viewsonic-airsyncsender.yml`
-- **URL**: https://store2.myviewboard.com/uploads/AirSyncSender/AirSyncSender-3.8.10.45879.msi
+- **URL**: https://store2.myviewboard.com/uploads/AirSyncSender/AirSyncSender-3.8.13.45885.msi
 
 #### viewsonic-myviewboard-display
 
@@ -58980,7 +58980,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.1952/gvim_9.1.1952_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.1957/gvim_9.1.1957_x64.exe
 
 #### vim-vim
 
@@ -62049,7 +62049,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yt-dlp-yt-dlp-nightly.yml`
-- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.12.03.233056/yt-dlp.exe
+- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.12.05.232956/yt-dlp.exe
 
 #### yt-dlp-yt-dlp
 
