@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-12-07 06:05:05 UTC
+Generated on: 2025-12-07 18:04:56 UTC
 
 ## Summary
 
@@ -2827,7 +2827,7 @@ Total entries processed: 6975
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `shutter-encoder.yml`
-- **URL**: https://www.shutterencoder.com/Shutter%20Encoder%2019.6%20Apple%20Silicon.pkg
+- **URL**: https://www.shutterencoder.com/Shutter%20Encoder%2019.7%20Apple%20Silicon.pkg
 
 #### sleep-aid
 
@@ -3990,7 +3990,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ablaze-floorp.yml`
-- **URL**: https://github.com/Floorp-Projects/Floorp/releases/download/v12.8.2/floorp-windows-x86_64.installer.exe
+- **URL**: https://github.com/Floorp-Projects/Floorp/releases/download/v12.8.3/floorp-windows-x86_64.installer.exe
 
 #### abrignoni-aleapp-cli
 
@@ -6699,7 +6699,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `amn-yasb.yml`
-- **URL**: https://github.com/amnweb/yasb/releases/download/v1.8.5/yasb-1.8.5-x64.msi
+- **URL**: https://github.com/amnweb/yasb/releases/download/v1.8.6/yasb-1.8.6-x64.msi
 
 #### amneziavpn-amneziavpn
 
@@ -7230,7 +7230,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `anysphere-cursor.yml`
-- **URL**: https://downloads.cursor.com/production/21a2ed198584d56a91c0b996d1a09c93f8538440/win32/x64/user-setup/CursorUserSetup-x64-2.1.49.exe
+- **URL**: https://downloads.cursor.com/production/56f0a83df8e9eb48585fcc4858a9440db4cc7771/win32/x64/user-setup/CursorUserSetup-x64-2.1.50.exe
 
 #### apache-directorystudio
 
@@ -21126,7 +21126,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `flyhunterl-flymd.yml`
-- **URL**: https://github.com/flyhunterl/flymd/releases/download/v0.6.5/flymd_0.6.5_x64-setup.exe
+- **URL**: https://github.com/flyhunterl/flymd/releases/download/v0.6.6/flymd_0.6.6_x64-setup.exe
 
 #### fnmt-configuradorfnmt
 
@@ -29199,7 +29199,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-blinken.yml`
-- **URL**: https://cdn.kde.org/ci-builds/education/blinken/master/windows/blinken-master-715-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/education/blinken/master/windows/blinken-master-718-windows-cl-msvc2022-x86_64.exe
 
 #### kde-bomber
 
@@ -29316,7 +29316,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kaidan.yml`
-- **URL**: https://cdn.kde.org/ci-builds/network/kaidan/master/windows/kaidan-master-5751-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/network/kaidan/master/windows/kaidan-master-5758-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kalarm
 
@@ -29802,7 +29802,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-parley.yml`
-- **URL**: https://cdn.kde.org/ci-builds/education/parley/master/windows/parley-master-864-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/education/parley/master/windows/parley-master-869-windows-cl-msvc2022-x86_64.exe
 
 #### kde-picmi
 
@@ -29811,7 +29811,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-picmi.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/picmi/master/windows/picmi-master-754-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/picmi/master/windows/picmi-master-758-windows-cl-msvc2022-x86_64.exe
 
 #### kde-rkward
 
@@ -31224,7 +31224,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `levitsky-fontbase.yml`
-- **URL**: https://releases.fontba.se/win/FontBase-2.24.0.exe
+- **URL**: https://releases.fontba.se/win/FontBase-2.24.6.exe
 
 #### levminer-authme
 
@@ -32394,7 +32394,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `macabacus-macabacus.yml`
-- **URL**: https://softwarecdn.blob.core.windows.net/software/Macabacus-9.8.4.msi
+- **URL**: https://softwarecdn.blob.core.windows.net/software/Macabacus-9.8.5.msi
 
 #### macmillanlearning-iclickercloud
 
@@ -43293,7 +43293,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `okabe-rintarou-0-sjtucanvashelper.yml`
-- **URL**: https://github.com/Okabe-Rintarou-0/SJTU-Canvas-Helper/releases/download/app-v2.0.4/SJTU.Canvas.Helper_2.0.4_x64-setup.exe
+- **URL**: https://github.com/Okabe-Rintarou-0/SJTU-Canvas-Helper/releases/download/app-v2.0.5/SJTU.Canvas.Helper_2.0.5_x64-setup.exe
 
 #### okkosh-fnlock
 
@@ -45282,7 +45282,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `paulpacifico-shutterencoder.yml`
-- **URL**: https://www.shutterencoder.com/Shutter%20Encoder%2019.6%20Windows%2064bits.exe
+- **URL**: https://www.shutterencoder.com/Shutter%20Encoder%2019.7%20Windows%2064bits.exe
 
 #### paulsori-mstreamserver
 
@@ -48477,7 +48477,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rclone-manager-rclone-manager.yml`
-- **URL**: https://github.com/Zarestia-Dev/rclone-manager/releases/download/v0.1.6/RClone.Manager_0.1.6_x64_en-US_windows.msi
+- **URL**: https://github.com/Zarestia-Dev/rclone-manager/releases/download/v0.1.8/RClone.Manager_0.1.8_x64_en-US.msi
 
 #### rcloneui-rcloneui
 
@@ -51411,7 +51411,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-12-06/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-12-07/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -53175,7 +53175,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `spotify-spotify.yml`
-- **URL**: https://upgrade.scdn.co/upgrade/client/win32-x86_64/spotify_installer-1.2.79.246.g768eb550-1731.exe
+- **URL**: https://upgrade.scdn.co/upgrade/client/win32-x86_64/spotify_installer-1.2.79.250.g72d95fb3-1740.exe
 
 #### springlobby-springlobby
 
@@ -58863,7 +58863,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `viarotel-escrcpy.yml`
-- **URL**: https://github.com/viarotel-org/escrcpy/releases/download/v1.33.0/Escrcpy-1.33.0-win-setup-x64.exe
+- **URL**: https://github.com/viarotel-org/escrcpy/releases/download/v1.34.0/Escrcpy-1.34.0-win-setup-x64.exe
 
 #### vicon-viflow-8
 
@@ -60051,7 +60051,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wenanlin-wedi.yml`
-- **URL**: https://github.com/superyngo/wedi/releases/download/v0.2.3/wedi-windows-x86_64.exe
+- **URL**: https://github.com/superyngo/wedi/releases/download/v0.4.0/wedi-windows-x86_64.exe
 
 #### wenanlin-wenget
 
@@ -60069,7 +60069,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `werwolv-imhex.yml`
-- **URL**: https://github.com/WerWolv/ImHex/releases/download/v1.37.4/imhex-1.37.4-Windows-x86_64.msi
+- **URL**: https://github.com/WerWolv/ImHex/releases/download/v1.38.0/imhex-1.38.0-Windows-x86_64.msi
 
 #### westwind-markdownmonster
 
@@ -62427,7 +62427,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zhaokeli-fastgestures.yml`
-- **URL**: https://github.com/zhaokeli/FastGestures/releases/download/2.2.62/FastGestures-Setup-v2.2.62_x64.exe
+- **URL**: https://github.com/zhaokeli/FastGestures/releases/download/2.2.63/FastGestures-Setup-v2.2.63_x64.exe
 
 #### zhaopengme-gitnote
 
