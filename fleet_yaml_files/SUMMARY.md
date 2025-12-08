@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-12-07 18:04:56 UTC
+Generated on: 2025-12-08 06:05:40 UTC
 
 ## Summary
 
@@ -1045,7 +1045,7 @@ Total entries processed: 6975
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `elgato-stream-deck.yml`
-- **URL**: https://edge.elgato.com/egc/macos/sd/Stream_Deck_7.0.3.22071.pkg
+- **URL**: https://edge.elgato.com/egc/macos/sd/Stream_Deck_7.1.0.22321.pkg
 
 #### elgato-wave-link
 
@@ -5322,7 +5322,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `alibaba-quark.yml`
-- **URL**: https://umcdn.quark.cn/download/37212/quarkpc/pcquark@homepage_oficial/QuarkPC_V6.0.2.624_pc_pf30002_(zh-cn)_release_(Build2613096-1000-x64).exe
+- **URL**: https://umcdn.quark.cn/download/37212/quarkpc/pcquark@homepage_oficial/QuarkPC_V6.0.2.629_pc_pf30002_(zh-cn)_release_(Build2628175-1000-x64).exe
 
 #### alibaba-quarkclouddrive
 
@@ -11208,7 +11208,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `blix-bluemail.yml`
-- **URL**: https://download.bluemail.me/BlueMail/BlueMail-1.143.35.exe
+- **URL**: https://download.bluemail.me/BlueMail/BlueMail-1.143.36.exe
 
 #### blocknetproject-blocknet
 
@@ -13242,7 +13242,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `chrisant996-clink.yml`
-- **URL**: https://github.com/chrisant996/clink/releases/download/v1.9.3/clink.1.9.3.0ef759_setup.exe
+- **URL**: https://github.com/chrisant996/clink/releases/download/v1.9.4/clink.1.9.4.32ec3a_setup.exe
 
 #### chrisklimas-twine
 
@@ -23196,7 +23196,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/kt3jnw63fhpyknqv5vxyl22hpi_145.0.7566.0/145.0.7566.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/kukd3367r37tnotu66645wesgq_145.0.7567.0/145.0.7567.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -23205,7 +23205,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-dev-exe.yml`
-- **URL**: https://dl.google.com/release2/chrome/acy5d6r5ri6gqlvry446bpxwvhwq_145.0.7561.2/145.0.7561.2_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/l5g7pxxg37pp3afixopt623wtm_145.0.7561.3/145.0.7561.3_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev
 
@@ -26004,7 +26004,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `imagemagick-imagemagick-q16.yml`
-- **URL**: https://imagemagick.org/archive/binaries/ImageMagick-7.1.2-9-Q16-x64-dll.exe
+- **URL**: https://imagemagick.org/archive/binaries/ImageMagick-7.1.2-10-Q16-x64-dll.exe
 
 #### imagemagick-imagemagick-q8
 
@@ -26013,7 +26013,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `imagemagick-imagemagick-q8.yml`
-- **URL**: https://imagemagick.org/archive/binaries/ImageMagick-7.1.2-9-Q8-x64-dll.exe
+- **URL**: https://imagemagick.org/archive/binaries/ImageMagick-7.1.2-10-Q8-x64-dll.exe
 
 #### imagemagick-imagemagick
 
@@ -28515,7 +28515,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `joancharmant-kinovea.yml`
-- **URL**: https://www.kinovea.org/setup/kinovea.2025.1/2025.1.0/Kinovea-2025.1.0.exe
+- **URL**: https://www.kinovea.org/setup/kinovea.2025.1/2025.1.1/Kinovea-2025.1.1.exe
 
 #### joeipson-jellyamp
 
@@ -35553,7 +35553,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mikf-gallery-dl-nightly.yml`
-- **URL**: https://github.com/gdl-org/builds/releases/download/2025.12.05/gallery-dl_windows.exe
+- **URL**: https://github.com/gdl-org/builds/releases/download/2025.12.07/gallery-dl_windows.exe
 
 #### mikrotik-winbox
 
@@ -47856,7 +47856,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `qnap-netbakpcagent.yml`
-- **URL**: https://download.qnap.com/Storage/Utility/QNAP_HDP_PC_Agent-1.3.0.1134.exe
+- **URL**: https://download.qnap.com/Storage/Utility/QNAPNetBakPCAgent-1.2.6.920.exe
 
 #### qnap-netbakreplicator
 
@@ -48756,7 +48756,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rem0o-fancontrol.yml`
-- **URL**: https://github.com/Rem0o/FanControl.Releases/releases/download/V250/FanControl_250_net_10_0_Installer.exe
+- **URL**: https://github.com/Rem0o/FanControl.Releases/releases/download/V251/FanControl_251_net_10_0_Installer.exe
 
 #### remarkable-remarkablecompanionapp
 
@@ -57117,7 +57117,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `todesktop-todesktop.yml`
-- **URL**: https://download.todesktop.com/2108257l5oobyoe/ToDesktop%20Builder%20Setup%200.34.0%20-%20Build%20251001hukw4kcv0-x64.exe
+- **URL**: https://download.todesktop.com/2108257l5oobyoe/ToDesktop%20Builder%20Setup%200.35.0%20-%20Build%202512076ovlxx5ck-x64.exe
 
 #### toeverything-affine
 
@@ -58863,7 +58863,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `viarotel-escrcpy.yml`
-- **URL**: https://github.com/viarotel-org/escrcpy/releases/download/v1.34.0/Escrcpy-1.34.0-win-setup-x64.exe
+- **URL**: https://github.com/viarotel-org/escrcpy/releases/download/v1.34.1/Escrcpy-1.34.1-win-setup-x64.exe
 
 #### vicon-viflow-8
 
@@ -58917,7 +58917,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc-nightly.yml`
-- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251206-0423/vlc-4.0.0-dev-win64-ad4db7fd.msi
+- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251207-0430/vlc-4.0.0-dev-win64-67c201f0.msi
 
 #### videolan-vlc
 
@@ -58980,7 +58980,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.1957/gvim_9.1.1957_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.1962/gvim_9.1.1962_x64.exe
 
 #### vim-vim
 
@@ -59709,7 +59709,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `walkme-walkmeeditor.yml`
-- **URL**: https://cdn.walkme.com/walkme-editor/Container/Distributables/GA/x64/Windows/PerUserInstallers/WalkMe%20Editor-5.3.0-1-commercial.exe
+- **URL**: https://cdn.walkme.com/walkme-editor/Container/Distributables/GA/x64/Windows/PerUserInstallers/WalkMe%20Editor-5.3.1-0-commercial.exe
 
 #### walkovertechnologies-giddh
 
@@ -62049,7 +62049,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yt-dlp-yt-dlp-nightly.yml`
-- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.12.05.232956/yt-dlp.exe
+- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.12.06.232939/yt-dlp.exe
 
 #### yt-dlp-yt-dlp
 
