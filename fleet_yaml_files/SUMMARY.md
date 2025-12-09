@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-12-08 18:05:41 UTC
+Generated on: 2025-12-09 06:05:21 UTC
 
 ## Summary
 
-Total entries processed: 6975
+Total entries processed: 6977
 - macOS files: 392
-- Windows files: 6583
+- Windows files: 6585
 
 ## Generated Files
 
@@ -955,7 +955,7 @@ Total entries processed: 6975
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `duo-connect.yml`
-- **URL**: https://dl.duosecurity.com/DuoConnect-2.0.8.pkg
+- **URL**: https://dl.duosecurity.com/DuoConnect-2.0.9.pkg
 
 #### duodesktop
 
@@ -2233,7 +2233,7 @@ Total entries processed: 6975
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `odrive.yml`
-- **URL**: https://d3huse1s6vwzq6.cloudfront.net/odrivesync.7583.pkg
+- **URL**: https://d3huse1s6vwzq6.cloudfront.net/odrivesync.7586.pkg
 
 #### okta-advanced-server-access
 
@@ -16014,7 +16014,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dbeaver-dbeaver-lite.yml`
-- **URL**: https://downloads.dbeaver.net/lite/25.2.0/dbeaver-le-25.2.0-x86_64-setup.exe
+- **URL**: https://downloads.dbeaver.net/lite/25.3.0/dbeaver-le-25.3.0-x86_64-setup.exe
 
 #### dbeaver-dbeaver-team
 
@@ -22350,7 +22350,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ghost-him-zerolaunch-rs.yml`
-- **URL**: https://github.com/ghost-him/ZeroLaunch-rs/releases/download/v0.5.5/zerolaunch-rs_0.5.5_x64_en-US.msi
+- **URL**: https://github.com/ghost-him/ZeroLaunch-rs/releases/download/v0.6.1/zerolaunch-rs_0.6.1_x64_en-US.msi
 
 #### ghostery-ghosterydawn
 
@@ -23178,7 +23178,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-beta-exe.yml`
-- **URL**: https://dl.google.com/release2/chrome/addudfm2e5dxaubakn3kw6rnf6ka_143.0.7499.40/143.0.7499.40_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/nf2eye75kqbqtnaxgkeflvdkka_144.0.7559.3/144.0.7559.3_chrome_installer_uncompressed.exe
 
 #### google-chrome-beta
 
@@ -28479,7 +28479,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jlc-easyeda-pro.yml`
-- **URL**: https://image.easyeda.com/files/easyeda-pro-windows-x64-2.2.43.4.exe
+- **URL**: https://image.easyeda.com/files/easyeda-pro-windows-x64-2.2.45.4.exe
 
 #### jlc-easyeda
 
@@ -35517,7 +35517,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-wsl.yml`
-- **URL**: https://github.com/microsoft/WSL/releases/download/2.6.1/wsl.2.6.1.0.x64.msi
+- **URL**: https://github.com/microsoft/WSL/releases/download/2.6.2/wsl.2.6.2.0.x64.msi
 
 #### microstockr-desktopapp
 
@@ -40964,6 +40964,15 @@ Total entries processed: 6975
 - **File**: `narazaka-vrc-tail.yml`
 - **URL**: https://github.com/Narazaka/vrc-tail/releases/download/v1.4.1/vrc-tail.exe
 
+#### narula-nlock
+
+- **Source**: winget
+- **Name**: narula-nlock
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `narula-nlock.yml`
+- **URL**: https://appsdistributionstorage.blob.core.windows.net/msi/Narula/NLock/Narula.File.NLock.Setup.msi
+
 #### nashaofu-dingtalk
 
 - **Source**: winget
@@ -41565,7 +41574,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `networkoptix-nxwitness-client.yml`
-- **URL**: https://updates.networkoptix.com/default/41837/windows/nxwitness-client-6.0.6.41837-windows_x64.exe
+- **URL**: https://updates.networkoptix.com/default/42176/windows/nxwitness-client-6.1.0.42176-windows_x64.exe
 
 #### networkoptix-nxwitness-server
 
@@ -41790,7 +41799,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nexttrace-nexttrace-core.yml`
-- **URL**: https://github.com/nxtrace/NTrace-core/releases/download/v1.3.7/nexttrace_windows_amd64.exe
+- **URL**: https://github.com/nxtrace/NTrace-core/releases/download/v1.5.0/nexttrace_windows_amd64.exe
 
 #### nexusmods-vortex
 
@@ -53679,7 +53688,7 @@ Total entries processed: 6975
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `stellar-stellarcli.yml`
-- **URL**: https://github.com/stellar/stellar-cli/releases/download/v23.1.4/stellar-cli-installer-23.1.4-x86_64-pc-windows-msvc.exe
+- **URL**: https://github.com/stellar/stellar-cli/releases/download/v23.3.0/stellar-cli-installer-23.3.0-x86_64-pc-windows-msvc.exe
 
 #### stellardatarecovery-stellarconverterforedb
 
@@ -56371,6 +56380,15 @@ Total entries processed: 6975
 - **Version**: 
 - **File**: `thedocumentfoundation-libreoffice-helppack.yml`
 - **URL**: https://downloadarchive.documentfoundation.org/libreoffice/old/25.8.3.2/win/x86_64/LibreOffice_25.8.3.2_Win_x86-64_helppack_en-US.msi
+
+#### thedocumentfoundation-libreoffice-prerelease
+
+- **Source**: winget
+- **Name**: thedocumentfoundation-libreoffice-prerelease
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `thedocumentfoundation-libreoffice-prerelease.yml`
+- **URL**: https://downloadarchive.documentfoundation.org/libreoffice/old/26.2.0.0.alpha1/win/x86_64/LibreOfficeDev_26.2.0.0.alpha1_Win_x86-64.msi
 
 #### thedocumentfoundation-libreoffice-sdk
 
