@@ -1,4 +1,4 @@
-url: https://github.com/loft-sh/vcluster/releases/download/v0.30.2/vcluster-windows-amd64.exe
+url: https://github.com/loft-sh/vcluster/releases/download/v0.30.3/vcluster-windows-amd64.exe
 automatic_install: false
 self_service: false
 categories: []
