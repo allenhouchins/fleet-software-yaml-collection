@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-12-13 06:05:14 UTC
+Generated on: 2025-12-13 18:04:42 UTC
 
 ## Summary
 
-Total entries processed: 6990
+Total entries processed: 6988
 - macOS files: 391
-- Windows files: 6599
+- Windows files: 6597
 
 ## Generated Files
 
@@ -2260,7 +2260,7 @@ Total entries processed: 6990
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `onedrive.yml`
-- **URL**: https://oneclient.sfx.ms/Mac/Installers/25.184.0921.0004/universal/OneDrive.pkg
+- **URL**: https://oneclient.sfx.ms/Mac/Installers/25.222.1112.0002/universal/OneDrive.pkg
 
 #### opencloud
 
@@ -11165,24 +11165,6 @@ Total entries processed: 6990
 - **File**: `blastwave-blastshield.yml`
 - **URL**: https://dl.blastwave.io/client/BlastShield.msi
 
-#### blenderfoundation-blender-lts-3-3
-
-- **Source**: winget
-- **Name**: blenderfoundation-blender-lts-3-3
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `blenderfoundation-blender-lts-3-3.yml`
-- **URL**: https://download.blender.org/release/Blender3.3/blender-3.3.19-windows-x64.msi
-
-#### blenderfoundation-blender-lts-3-6
-
-- **Source**: winget
-- **Name**: blenderfoundation-blender-lts-3-6
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `blenderfoundation-blender-lts-3-6.yml`
-- **URL**: https://download.blender.org/release/Blender3.6/blender-3.6.12-windows-x64.msi
-
 #### blenderfoundation-blender
 
 - **Source**: winget
@@ -12711,7 +12693,7 @@ Total entries processed: 6990
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ccl-netlogo.yml`
-- **URL**: https://ccl.northwestern.edu/netlogo/7.0.2/NetLogo-7.0.2-64.msi
+- **URL**: https://ccl.northwestern.edu/netlogo/7.0.3/NetLogo-7.0.3-64.msi
 
 #### ccoors-valeronoi
 
@@ -12819,7 +12801,7 @@ Total entries processed: 6990
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `certum-smartsignsimplysigndesktop.yml`
-- **URL**: https://files.certum.eu/software/SimplySignDesktop/Windows/9.3.3.71/SimplySignDesktop-9.3.3.71-64-bit-en.msi
+- **URL**: https://files.certum.eu/software/SimplySignDesktop/Windows/9.3.4.72/SimplySignDesktop-9.3.4.72-64-bit-en.msi
 
 #### cevio-cevioai
 
@@ -17832,7 +17814,7 @@ Total entries processed: 6990
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `duongdieuphap-imageglass.yml`
-- **URL**: https://github.com/d2phap/ImageGlass/releases/download/9.3.2.520/ImageGlass_9.3.2.520_x64.msi
+- **URL**: https://github.com/d2phap/ImageGlass/releases/download/9.4.0.1120/ImageGlass_9.4.0.1120_x64.msi
 
 #### dupeguru-dupeguru
 
@@ -23232,7 +23214,7 @@ Total entries processed: 6990
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/acgrluklyhfvpyvl4b6fpg73ezbq_145.0.7570.0/145.0.7570.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/hhrcwwnhf77hpabeeftcffjfxu_145.0.7572.0/145.0.7572.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -23349,7 +23331,7 @@ Total entries processed: 6990
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-osvscanner.yml`
-- **URL**: https://github.com/google/osv-scanner/releases/download/v2.3.0/osv-scanner_windows_amd64.exe
+- **URL**: https://github.com/google/osv-scanner/releases/download/v2.3.1/osv-scanner_windows_amd64.exe
 
 #### google-playgames
 
@@ -23457,7 +23439,7 @@ Total entries processed: 6990
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gouryella-drip.yml`
-- **URL**: https://github.com/Gouryella/drip/releases/download/v0.3.1/drip-v0.3.1-windows-amd64.exe
+- **URL**: https://github.com/Gouryella/drip/releases/download/v0.4.1/drip-v0.4.1-windows-amd64.exe
 
 #### governikus-ausweisapp
 
@@ -29271,7 +29253,7 @@ Total entries processed: 6990
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-bovo.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/bovo/master/windows/bovo-master-756-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/bovo/master/windows/bovo-master-759-windows-cl-msvc2022-x86_64.exe
 
 #### kde-crowtranslate
 
@@ -29325,7 +29307,7 @@ Total entries processed: 6990
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-filelight.yml`
-- **URL**: https://cdn.kde.org/ci-builds/utilities/filelight/release-25.12/windows/filelight-release_25.12-1958-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/utilities/filelight/release-25.12/windows/filelight-release_25.12-1967-windows-cl-msvc2022-x86_64.exe
 
 #### kde-gcompris
 
@@ -29541,7 +29523,7 @@ Total entries processed: 6990
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kigo.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kigo/master/windows/kigo-master-840-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kigo/master/windows/kigo-master-841-windows-cl-msvc2022-x86_64.exe
 
 #### kde-killbots
 
@@ -29604,7 +29586,7 @@ Total entries processed: 6990
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kmahjongg.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kmahjongg/master/windows/kmahjongg-master-945-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kmahjongg/master/windows/kmahjongg-master-946-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kmines
 
@@ -29640,7 +29622,7 @@ Total entries processed: 6990
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kolf.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kolf/master/windows/kolf-master-926-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kolf/master/windows/kolf-master-938-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kollision
 
@@ -29802,7 +29784,7 @@ Total entries processed: 6990
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-lokalize.yml`
-- **URL**: https://cdn.kde.org/ci-builds/sdk/lokalize/release-25.12/windows/lokalize-release_25.12-2414-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/sdk/lokalize/release-25.12/windows/lokalize-release_25.12-2426-windows-cl-msvc2022-x86_64.exe
 
 #### kde-lskat
 
@@ -31323,7 +31305,7 @@ Total entries processed: 6990
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lgug2z-komorebi.yml`
-- **URL**: https://github.com/LGUG2Z/komorebi/releases/download/v0.1.38/komorebi-0.1.38-x86_64.msi
+- **URL**: https://github.com/LGUG2Z/komorebi/releases/download/v0.1.39/komorebi-0.1.39-x86_64.msi
 
 #### lgug2z-masir
 
@@ -33042,7 +33024,7 @@ Total entries processed: 6990
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mattermost-mattermostdesktop.yml`
-- **URL**: https://releases.mattermost.com/desktop/6.0.1/mattermost-desktop-setup-6.0.1-win.exe
+- **URL**: https://releases.mattermost.com/desktop/6.0.2/mattermost-desktop-setup-6.0.2-win.exe
 
 #### matthiaszronek-benchmate
 
@@ -35445,7 +35427,7 @@ Total entries processed: 6990
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-windowsadmincenter.yml`
-- **URL**: https://download.microsoft.com/download/1/0/5/1059800B-F375-451C-B37E-758FFC7C8C8B/WindowsAdminCenter2410.exe
+- **URL**: https://download.microsoft.com/download/5e854024-dcf1-4e86-9546-7389fd08a34b/WindowsAdminCenter2511.exe
 
 #### microsoft-windowsappruntime-1-0
 
@@ -41772,7 +41754,7 @@ Total entries processed: 6990
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `newrelic-infrastructureagent.yml`
-- **URL**: https://download.newrelic.com/infrastructure_agent/windows/newrelic-infra.1.71.2.msi
+- **URL**: https://download.newrelic.com/infrastructure_agent/windows/newrelic-infra.1.71.3.msi
 
 #### newzenmc-newzenlauncher
 
@@ -44040,7 +44022,7 @@ Total entries processed: 6990
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `openjs-nodejs-lts.yml`
-- **URL**: https://nodejs.org/dist/v24.11.1/node-v24.11.1-x64.msi
+- **URL**: https://nodejs.org/dist/v24.12.0/node-v24.12.0-x64.msi
 
 #### openjs-nodejs
 
@@ -47325,7 +47307,7 @@ Total entries processed: 6990
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `psyche-kelivo.yml`
-- **URL**: https://github.com/Chevey339/kelivo/releases/download/v1.1.3/Kelivo_windows_1.1.3+18_setup.exe
+- **URL**: https://github.com/Chevey339/kelivo/releases/download/v1.1.5/Kelivo_windows_1.1.5+22_setup.exe
 
 #### ptrtech-netsonar
 
@@ -49845,7 +49827,7 @@ Total entries processed: 6990
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `roxybrowser-roxybrowser.yml`
-- **URL**: https://lumibrowser-hk.oss-cn-hongkong.aliyuncs.com/public/package/app/Windows/64/3.6.1/RoxyBrowser_x64_3.6.1.exe
+- **URL**: https://lumibrowser-hk.oss-cn-hongkong.aliyuncs.com/public/package/app/Windows/64/3.6.2/RoxyBrowser_x64_3.6.2.exe
 
 #### royalapps-royalserver
 
@@ -51501,7 +51483,7 @@ Total entries processed: 6990
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-12-10/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-12-13/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -56973,7 +56955,7 @@ Total entries processed: 6990
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tibbo-ioninja.yml`
-- **URL**: https://ioninja.com/downloads/archive/ioninja/ioninja-5.9.0/ioninja-5.9.0-windows-amd64-core.msi
+- **URL**: https://ioninja.com/downloads/archive/ioninja/ioninja-5.9.1/ioninja-5.9.1-windows-amd64-core.msi
 
 #### tickstep-aliyunpan
 
@@ -58440,7 +58422,7 @@ Total entries processed: 6990
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `universalmediaserver-universalmediaserver.yml`
-- **URL**: https://github.com/UniversalMediaServer/UniversalMediaServer/releases/download/15.1.0/UMS-Windows-15.1.0-x86_64.exe
+- **URL**: https://github.com/UniversalMediaServer/UniversalMediaServer/releases/download/15.2.0/UMS-Windows-15.2.0-x86_64.exe
 
 #### universityofamsterdam-jasp
 
@@ -59322,7 +59304,7 @@ Total entries processed: 6990
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vladimiryakovlev-electronmail.yml`
-- **URL**: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.3/electron-mail-5.3.3-windows-x64-nsis-installer.exe
+- **URL**: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.4/electron-mail-5.3.4-windows-x64-nsis-installer.exe
 
 #### vleer-vleer
 
@@ -61770,7 +61752,7 @@ Total entries processed: 6990
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xmacslabs-mogan.yml`
-- **URL**: https://github.com/XmacsLabs/mogan/releases/download/v2025.2.1/MoganSTEM-v2025.2.1-64bit-installer.exe
+- **URL**: https://github.com/XmacsLabs/mogan/releases/download/v2025.2.2/MoganSTEM-v2025.2.2-64bit-installer.exe
 
 #### xmake-io-xmake
 
@@ -62193,7 +62175,7 @@ Total entries processed: 6990
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yt-dlp-yt-dlp-nightly.yml`
-- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.12.06.232939/yt-dlp.exe
+- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.12.09.233030/yt-dlp.exe
 
 #### yt-dlp-yt-dlp
 
@@ -62445,7 +62427,7 @@ Total entries processed: 6990
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zedindustries-zed-preview.yml`
-- **URL**: https://github.com/zed-industries/zed/releases/download/v0.216.0-pre/Zed-x86_64.exe
+- **URL**: https://github.com/zed-industries/zed/releases/download/v0.217.0-pre/Zed-x86_64.exe
 
 #### zedindustries-zed
 
