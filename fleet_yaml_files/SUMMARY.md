@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-12-14 06:05:24 UTC
+Generated on: 2025-12-14 18:05:13 UTC
 
 ## Summary
 
@@ -9399,7 +9399,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bazel-bazel.yml`
-- **URL**: https://github.com/bazelbuild/bazel/releases/download/8.4.2/bazel-8.4.2-windows-x86_64.exe
+- **URL**: https://github.com/bazelbuild/bazel/releases/download/8.5.0/bazel-8.5.0-windows-x86_64.exe
 
 #### bazel-bazelisk
 
@@ -10047,7 +10047,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bellsoft-libericajre-25-full.yml`
-- **URL**: https://download.bell-sw.com/java/25.0.1+11/bellsoft-jre25.0.1+11-windows-amd64-full.msi
+- **URL**: https://download.bell-sw.com/java/25.0.1+13/bellsoft-jre25.0.1+13-windows-amd64-full.msi
 
 #### bellsoft-libericajre-25
 
@@ -12054,7 +12054,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `buxuku-smartsub-cpu.yml`
-- **URL**: https://github.com/buxuku/SmartSub/releases/download/v2.7.0/SmartSub_Windows_2.7.0_x64_no-cuda_generic.exe
+- **URL**: https://github.com/buxuku/SmartSub/releases/download/v2.8.0/SmartSub_Windows_2.8.0_x64_no-cuda_generic.exe
 
 #### buxuku-smartsub-cuda-11-8-optimized
 
@@ -12261,7 +12261,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bytedance-trae.yml`
-- **URL**: https://lf-cdn.trae.ai/obj/trae-ai-us/pkg/app/releases/stable/1.0.25272/win32/Trae-Setup-x64.exe
+- **URL**: https://lf-cdn.trae.ai/obj/trae-ai-us/pkg/app/releases/stable/1.0.26198/win32/Trae-Setup-x64.exe
 
 #### bytedance-ui-tars
 
@@ -17283,7 +17283,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dnscrypt-dnscrypt-proxy.yml`
-- **URL**: https://github.com/DNSCrypt/dnscrypt-proxy/releases/download/2.1.14/dnscrypt-proxy-x64-2.1.14.msi
+- **URL**: https://github.com/DNSCrypt/dnscrypt-proxy/releases/download/2.1.15/dnscrypt-proxy-x64-2.1.15.msi
 
 #### docker-buildx
 
@@ -23214,7 +23214,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/ads7akvxl2drt4sfyi7nr47g5zda_145.0.7573.0/145.0.7573.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/adqlyqm5t2euveh5xhqtk27ecliq_145.0.7574.0/145.0.7574.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -24006,7 +24006,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gtxfury-flyclash.yml`
-- **URL**: https://github.com/GtxFury/FlyClash/releases/download/v0.2.3/FlyClash-0.2.3-x64-setup.exe
+- **URL**: https://github.com/GtxFury/FlyClash/releases/download/v0.2.4/FlyClash-0.2.4-x64-setup.exe
 
 #### guhan-goodcommit
 
@@ -60258,7 +60258,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wglunz-pstoedit.yml`
-- **URL**: https://sourceforge.net/projects/pstoedit/files/pstoedit/4.02/pstoedit_gui_setup_402_x64.exe/download
+- **URL**: https://github.com/woglu/pstoedit/releases/download/v4.3/pstoedit_gui_setup_x64_4.3.0.0.exe
 
 #### wherewhere-apkinstaller-classic
 
@@ -61977,7 +61977,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yaak-app.yml`
-- **URL**: https://github.com/mountain-loop/yaak/releases/download/v2025.9.2/Yaak_2025.9.2_x64-setup.exe
+- **URL**: https://github.com/mountain-loop/yaak/releases/download/v2025.9.3/Yaak_2025.9.3_x64-setup.exe
 
 #### yabe-yetanotherbacnetexplorer
 
