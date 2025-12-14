@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-12-13 18:04:42 UTC
+Generated on: 2025-12-14 06:05:24 UTC
 
 ## Summary
 
@@ -7230,7 +7230,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `anysphere-cursor.yml`
-- **URL**: https://downloads.cursor.com/production/56f0a83df8e9eb48585fcc4858a9440db4cc7771/win32/x64/user-setup/CursorUserSetup-x64-2.1.50.exe
+- **URL**: https://downloads.cursor.com/production/1685afce45886aa5579025ac7e077fc3d4369c52/win32/x64/user-setup/CursorUserSetup-x64-2.2.14.exe
 
 #### apache-directorystudio
 
@@ -8310,7 +8310,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `avacc-avadesktop.yml`
-- **URL**: https://ava-tauri-prod.s3.amazonaws.com/app-v2.3.6/AvaCC_2.3.6_x64-setup.exe
+- **URL**: https://ava-tauri-prod.s3.amazonaws.com/app-v2.5.8/AvaCC_2.5.8_x64-setup.exe
 
 #### avanquestpdfforge-pdfcreator-free
 
@@ -9813,7 +9813,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bellsoft-libericajre-11-full.yml`
-- **URL**: https://download.bell-sw.com/java/11.0.29+10/bellsoft-jre11.0.29+10-windows-amd64-full.msi
+- **URL**: https://download.bell-sw.com/java/11.0.29+12/bellsoft-jre11.0.29+12-windows-amd64-full.msi
 
 #### bellsoft-libericajre-11
 
@@ -9822,7 +9822,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bellsoft-libericajre-11.yml`
-- **URL**: https://download.bell-sw.com/java/11.0.29+10/bellsoft-jre11.0.29+10-windows-amd64.msi
+- **URL**: https://download.bell-sw.com/java/11.0.29+12/bellsoft-jre11.0.29+12-windows-amd64.msi
 
 #### bellsoft-libericajre-13-full
 
@@ -9975,7 +9975,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bellsoft-libericajre-21-full.yml`
-- **URL**: https://download.bell-sw.com/java/21.0.9+11/bellsoft-jre21.0.9+11-windows-amd64-full.msi
+- **URL**: https://download.bell-sw.com/java/21.0.9+15/bellsoft-jre21.0.9+15-windows-amd64-full.msi
 
 #### bellsoft-libericajre-21
 
@@ -9984,7 +9984,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bellsoft-libericajre-21.yml`
-- **URL**: https://download.bell-sw.com/java/21.0.9+11/bellsoft-jre21.0.9+11-windows-amd64.msi
+- **URL**: https://download.bell-sw.com/java/21.0.9+15/bellsoft-jre21.0.9+15-windows-amd64.msi
 
 #### bellsoft-libericajre-22-full
 
@@ -10056,7 +10056,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bellsoft-libericajre-25.yml`
-- **URL**: https://download.bell-sw.com/java/25.0.1+11/bellsoft-jre25.0.1+11-windows-amd64.msi
+- **URL**: https://download.bell-sw.com/java/25.0.1+13/bellsoft-jre25.0.1+13-windows-amd64.msi
 
 #### bellsoft-libericajre-8-full
 
@@ -11208,7 +11208,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `blix-bluemail.yml`
-- **URL**: https://download.bluemail.me/BlueMail/BlueMail-1.143.36.exe
+- **URL**: https://download.bluemail.me/BlueMail/BlueMail-1.143.37.exe
 
 #### blocknetproject-blocknet
 
@@ -11658,7 +11658,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `brave-brave-nightly.yml`
-- **URL**: https://github.com/brave/brave-browser/releases/download/v1.87.61/BraveBrowserStandaloneSilentNightlySetup.exe
+- **URL**: https://github.com/brave/brave-browser/releases/download/v1.87.74/BraveBrowserStandaloneSilentNightlySetup.exe
 
 #### brave-brave
 
@@ -13881,7 +13881,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cockos-reaper.yml`
-- **URL**: https://www.reaper.fm/files/7.x/reaper755_x64-install.exe
+- **URL**: https://www.reaper.fm/files/7.x/reaper756_x64-install.exe
 
 #### cocos-cocosdashboard
 
@@ -22179,7 +22179,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gdevelop-gdevelop.yml`
-- **URL**: https://github.com/4ian/GDevelop/releases/download/v5.6.249/GDevelop-5-Setup-5.6.249.exe
+- **URL**: https://github.com/4ian/GDevelop/releases/download/v5.6.250/GDevelop-5-Setup-5.6.250.exe
 
 #### gdgsoftware-paquetbuilder
 
@@ -23214,7 +23214,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/hhrcwwnhf77hpabeeftcffjfxu_145.0.7572.0/145.0.7572.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/ads7akvxl2drt4sfyi7nr47g5zda_145.0.7573.0/145.0.7573.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -25158,7 +25158,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hrzlgnm-mdns-browser.yml`
-- **URL**: https://github.com/hrzlgnm/mdns-browser/releases/download/mdns-browser-v1.0.0/mdns-browser_1.0.0_x64-setup.exe
+- **URL**: https://github.com/hrzlgnm/mdns-browser/releases/download/mdns-browser-v1.0.1/mdns-browser_1.0.1_x64-setup.exe
 
 #### htacg-tidy
 
@@ -29406,7 +29406,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-katomic.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/katomic/master/windows/katomic-master-816-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/katomic/master/windows/katomic-master-820-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kblackbox
 
@@ -29514,7 +29514,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kgoldrunner.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kgoldrunner/master/windows/kgoldrunner-master-1014-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kgoldrunner/master/windows/kgoldrunner-master-1025-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kigo
 
@@ -29640,7 +29640,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-konsole.yml`
-- **URL**: https://cdn.kde.org/ci-builds/utilities/konsole/master/windows/konsole-master-4410-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/utilities/konsole/master/windows/konsole-master-4415-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kontact
 
@@ -31368,7 +31368,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `libjpeg-turbo-libjpeg-turbo-vc.yml`
-- **URL**: https://github.com/libjpeg-turbo/libjpeg-turbo/releases/download/3.1.2/libjpeg-turbo-3.1.2-vc-x64.exe
+- **URL**: https://github.com/libjpeg-turbo/libjpeg-turbo/releases/download/3.1.3/libjpeg-turbo-3.1.3-vc-x64.exe
 
 #### libnyanpasu-clash-nyanpasu
 
@@ -40953,7 +40953,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nagios-ncpa.yml`
-- **URL**: https://assets.nagios.com/downloads/ncpa3/ncpa-3.2.1.exe
+- **URL**: https://assets.nagios.com/downloads/ncpa3/ncpa-3.2.2.exe
 
 #### naglecode-packetsender
 
@@ -43113,7 +43113,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `obsproject-obsstudio.yml`
-- **URL**: https://github.com/obsproject/obs-studio/releases/download/32.0.3/OBS-Studio-32.0.3-Windows-x64-Installer.exe
+- **URL**: https://github.com/obsproject/obs-studio/releases/download/32.0.4/OBS-Studio-32.0.4-Windows-x64-Installer.exe
 
 #### ocaml-opam
 
@@ -50196,7 +50196,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rustlang-rust-gnu.yml`
-- **URL**: https://static.rust-lang.org/dist/rust-1.91.1-x86_64-pc-windows-gnu.msi
+- **URL**: https://static.rust-lang.org/dist/rust-1.92.0-x86_64-pc-windows-gnu.msi
 
 #### rustlang-rust-msvc
 
@@ -55101,7 +55101,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tailscale-tailscale.yml`
-- **URL**: https://pkgs.tailscale.com/stable/tailscale-setup-full-1.90.9.exe
+- **URL**: https://pkgs.tailscale.com/stable/tailscale-setup-full-1.92.1.exe
 
 #### tailwindlabs-tailwindcss
 
@@ -59052,7 +59052,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc.yml`
-- **URL**: https://download.videolan.org/pub/videolan/vlc/3.0.22/win64/vlc-3.0.22-win64.msi
+- **URL**: https://download.videolan.org/pub/videolan/vlc/3.0.22/win64/vlc-3.0.22-win64.exe
 
 #### videolan-x264
 
@@ -59106,7 +59106,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.1975/gvim_9.1.1975_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.1976/gvim_9.1.1976_x64.exe
 
 #### vim-vim
 
@@ -62184,7 +62184,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yt-dlp-yt-dlp.yml`
-- **URL**: https://github.com/yt-dlp/yt-dlp/releases/download/2025.11.12/yt-dlp.exe
+- **URL**: https://github.com/yt-dlp/yt-dlp/releases/download/2025.12.08/yt-dlp.exe
 
 #### ytmdesktop-ytmdesktop
 
