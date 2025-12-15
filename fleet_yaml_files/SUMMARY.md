@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-12-14 18:05:13 UTC
+Generated on: 2025-12-15 06:05:39 UTC
 
 ## Summary
 
-Total entries processed: 6988
-- macOS files: 391
-- Windows files: 6597
+Total entries processed: 6990
+- macOS files: 392
+- Windows files: 6598
 
 ## Generated Files
 
@@ -1540,7 +1540,7 @@ Total entries processed: 6988
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `jyutping.yml`
-- **URL**: https://github.com/yuetyam/jyutping/releases/download/0.66.0/Jyutping-v0.66.0-Mac.pkg
+- **URL**: https://github.com/yuetyam/jyutping/releases/download/0.67.0/Jyutping-v0.67.0-Mac.pkg
 
 #### kdrive
 
@@ -2954,6 +2954,15 @@ Total entries processed: 6988
 - **Version**: 
 - **File**: `supportcompanion.yml`
 - **URL**: https://github.com/macadmins/SupportCompanion/releases/download/v2.3.1.81039/SupportCompanion-2.3.1.81039.pkg
+
+#### swiftdialog
+
+- **Source**: homebrew/installomator
+- **Name**: swiftdialog
+- **Description**: Generated from Homebrew cask or Installomator script
+- **Version**: 
+- **File**: `swiftdialog.yml`
+- **URL**: https://github.com/swiftDialog/swiftDialog/releases/download/v2.5.6/dialog-2.5.6-4805.pkg
 
 #### synology-image-assistant
 
@@ -9525,7 +9534,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `beeper-beeper.yml`
-- **URL**: https://beeper-desktop.download.beeper.com/builds/Beeper%20x64%204.2.269.exe
+- **URL**: https://beeper-desktop.download.beeper.com/builds/Beeper%20x64%204.2.330.exe
 
 #### beeradmoore-dlss-swapper
 
@@ -11658,7 +11667,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `brave-brave-nightly.yml`
-- **URL**: https://github.com/brave/brave-browser/releases/download/v1.87.74/BraveBrowserStandaloneSilentNightlySetup.exe
+- **URL**: https://github.com/brave/brave-browser/releases/download/v1.87.77/BraveBrowserStandaloneSilentNightlySetup.exe
 
 #### brave-brave
 
@@ -12072,7 +12081,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `buxuku-smartsub-cuda-11-8.yml`
-- **URL**: https://github.com/buxuku/SmartSub/releases/download/v2.7.0/SmartSub_Windows_2.7.0_x64_11.8.0_generic.exe
+- **URL**: https://github.com/buxuku/SmartSub/releases/download/v2.8.0/SmartSub_Windows_2.8.0_x64_11.8.0_generic.exe
 
 #### buxuku-smartsub-cuda-12-2-optimized
 
@@ -18876,7 +18885,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `electronicarts-eadesktop.yml`
-- **URL**: https://origin-a.akamaihd.net/EA-Desktop-Client-Download/installer-releases/EAappInstaller-13.608.0.6121-3970.exe
+- **URL**: https://origin-a.akamaihd.net/EA-Desktop-Client-Download/installer-releases/EAappInstaller-13.614.2.6133-836.exe
 
 #### electronicteam-flexihub
 
@@ -25959,7 +25968,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `igoogolx-lux.yml`
-- **URL**: https://github.com/igoogolx/lux/releases/download/v1.39.4/lux-1.39.4-x64-windows.exe
+- **URL**: https://github.com/igoogolx/lux/releases/download/v1.40.0/lux-1.40.0-x64-windows.exe
 
 #### igoravl-tfscmdlets
 
@@ -26031,7 +26040,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `imagemagick-imagemagick-q16.yml`
-- **URL**: https://imagemagick.org/archive/binaries/ImageMagick-7.1.2-10-Q16-x64-dll.exe
+- **URL**: https://imagemagick.org/archive/binaries/ImageMagick-7.1.2-11-Q16-x64-dll.exe
 
 #### imagemagick-imagemagick-q8
 
@@ -29289,7 +29298,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-elisa.yml`
-- **URL**: https://cdn.kde.org/ci-builds/multimedia/elisa/master/windows/elisa-master-4153-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/multimedia/elisa/master/windows/elisa-master-4162-windows-cl-msvc2022-x86_64.exe
 
 #### kde-falkon
 
@@ -31260,7 +31269,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `levitsky-fontbase.yml`
-- **URL**: https://releases.fontba.se/win/FontBase-2.24.8.exe
+- **URL**: https://releases.fontba.se/win/FontBase-2.24.9.exe
 
 #### levminer-authme
 
@@ -35850,7 +35859,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mixxx-mixxx.yml`
-- **URL**: https://downloads.mixxx.org/releases/2.5.3/mixxx-2.5.3-win64.msi
+- **URL**: https://downloads.mixxx.org/releases/2.5.4/mixxx-2.5.4-win64.msi
 
 #### mklabs-staruml
 
@@ -36147,7 +36156,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `monday-monday.yml`
-- **URL**: https://monday.com/monday-win-latest.exe
+- **URL**: https://monday.com/monday-msi-latest.msi
 
 #### moneymanagerex-moneymanagerex
 
@@ -36705,7 +36714,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-ach.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b2/win64/ach/Firefox%20Setup%20147.0b2.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b3/win64/ach/Firefox%20Setup%20147.0b3.exe
 
 #### mozilla-firefox-developeredition-af
 
@@ -36786,7 +36795,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-br.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b1/win64/br/Firefox%20Setup%20147.0b1.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b3/win64/br/Firefox%20Setup%20147.0b3.exe
 
 #### mozilla-firefox-developeredition-bs
 
@@ -36912,7 +36921,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-es-ar.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b1/win64/es-AR/Firefox%20Setup%20147.0b1.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b3/win64/es-AR/Firefox%20Setup%20147.0b3.exe
 
 #### mozilla-firefox-developeredition-es-cl
 
@@ -36939,7 +36948,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-es-mx.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b1/win64/es-MX/Firefox%20Setup%20147.0b1.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b3/win64/es-MX/Firefox%20Setup%20147.0b3.exe
 
 #### mozilla-firefox-developeredition-et
 
@@ -37011,7 +37020,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-fy-nl.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b2/win64/fy-NL/Firefox%20Setup%20147.0b2.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b3/win64/fy-NL/Firefox%20Setup%20147.0b3.exe
 
 #### mozilla-firefox-developeredition-ga-ie
 
@@ -37056,7 +37065,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-gu-in.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b1/win64/gu-IN/Firefox%20Setup%20147.0b1.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b3/win64/gu-IN/Firefox%20Setup%20147.0b3.exe
 
 #### mozilla-firefox-developeredition-he
 
@@ -37074,7 +37083,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-hi-in.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b1/win64/hi-IN/Firefox%20Setup%20147.0b1.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b3/win64/hi-IN/Firefox%20Setup%20147.0b3.exe
 
 #### mozilla-firefox-developeredition-hr
 
@@ -45048,7 +45057,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `panic-playdatesdk.yml`
-- **URL**: https://download.panic.com/playdate_sdk/Windows/PlaydateSDK-3.0.1.exe
+- **URL**: https://download.panic.com/playdate_sdk/Windows/PlaydateSDK-3.0.2.exe
 
 #### paodingai-calliper
 
@@ -49802,6 +49811,15 @@ Total entries processed: 6988
 - **File**: `rootsmagic-rootsmagic-11.yml`
 - **URL**: https://files.rootsmagic.com/RM11/RootsMagic-11-Setup-x64.exe
 
+#### rootsmagic-rootsmagic-9
+
+- **Source**: winget
+- **Name**: rootsmagic-rootsmagic-9
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `rootsmagic-rootsmagic-9.yml`
+- **URL**: https://files.rootsmagic.com/RM9/RootsMagic9SetupX64.exe
+
 #### roryok-poe-writer
 
 - **Source**: winget
@@ -53490,7 +53508,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `stakira-openutau-beta.yml`
-- **URL**: https://github.com/stakira/OpenUtau/releases/download/0.1.564/OpenUtau-win-x64.exe
+- **URL**: https://github.com/stakira/OpenUtau/releases/download/0.1.567/OpenUtau-win-x64.exe
 
 #### stakira-openutau
 
@@ -55866,7 +55884,7 @@ Total entries processed: 6988
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-ima-copilot.yml`
-- **URL**: https://ima-app.image.myqcloud.com/win/2.1.0_3528/ima.copilot_win_x64_1018_2.1.0_3528.exe
+- **URL**: https://ima-app.image.myqcloud.com/win/2.1.1_3544/ima.copilot_win_x64_1018_2.1.1_3544.exe
 
 #### tencent-qielive
 
