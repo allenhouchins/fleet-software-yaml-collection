@@ -1,4 +1,4 @@
-url: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b4/win64/da/Firefox%20Setup%20147.0b4.exe
+url: https://github.com/qyzhg/prism/releases/download/v0.9.20/prism_0.9.20_x64-setup.exe
 automatic_install: false
 self_service: false
 categories: []
