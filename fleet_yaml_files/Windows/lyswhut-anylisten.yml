@@ -1,4 +1,4 @@
-url: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b4/win64/hy-AM/Firefox%20Setup%20147.0b4.exe
+url: https://github.com/any-listen/any-listen-desktop/releases/download/v0.3.0/any-listen-0.3.0-x64-Setup.exe
 automatic_install: false
 self_service: false
 categories: []

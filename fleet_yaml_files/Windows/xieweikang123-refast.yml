@@ -1,4 +1,4 @@
-url: https://developer.salesforce.com/media/salesforce-cli/sfdx/channels/stable/sfdx-arm64.pkg
+url: https://github.com/Xieweikang123/ReFast/releases/download/1.0.30/ReFast_1.0.30_x64_zh-CN.msi
 automatic_install: false
 self_service: false
 categories: []
