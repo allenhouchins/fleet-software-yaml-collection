@@ -1,4 +1,4 @@
-url: https://downloads.topazlabs.com/deploy/TopazPhoto/1.1.0/TopazPhoto-1.1.0.pkg
+url: https://github.com/dlbroadfoot/bitbucket-cli/releases/download/v2.84.0/bb_2.84.0_windows_amd64.msi
 automatic_install: false
 self_service: false
 categories: []

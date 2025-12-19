@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-12-18 18:05:38 UTC
+Generated on: 2025-12-19 06:05:33 UTC
 
 ## Summary
 
-Total entries processed: 7015
+Total entries processed: 7026
 - macOS files: 378
-- Windows files: 6637
+- Windows files: 6648
 
 ## Generated Files
 
@@ -2602,7 +2602,7 @@ Total entries processed: 7015
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `salt.yml`
-- **URL**: https://packages.broadcom.com/artifactory/saltproject-generic/macos/3007.9/salt-3007.9-py3-arm64.pkg
+- **URL**: https://packages.broadcom.com/artifactory/saltproject-generic/macos/3007.10/salt-3007.10-py3-arm64.pkg
 
 #### samsung-magician
 
@@ -3034,7 +3034,7 @@ Total entries processed: 7015
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `topaz-photo.yml`
-- **URL**: https://downloads.topazlabs.com/deploy/TopazPhoto/1.0.2/TopazPhoto-1.0.2.pkg
+- **URL**: https://downloads.topazlabs.com/deploy/TopazPhoto/1.1.0/TopazPhoto-1.1.0.pkg
 
 #### topaz-video
 
@@ -3043,7 +3043,7 @@ Total entries processed: 7015
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `topaz-video.yml`
-- **URL**: https://downloads.topazlabs.com/deploy/TopazVideoStudio/1.0.4/TopazVideo-1.0.4.pkg
+- **URL**: https://downloads.topazlabs.com/deploy/TopazVideoStudio/1.1.0/TopazVideo-1.1.0.pkg
 
 #### tqsl
 
@@ -6438,7 +6438,7 @@ Total entries processed: 7015
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `amazon-kiro.yml`
-- **URL**: https://prod.download.desktop.kiro.dev/releases/stable/win32-x64/signed/0.7.5/kiro-ide-0.7.5-stable-win32-x64.exe
+- **URL**: https://prod.download.desktop.kiro.dev/releases/stable/win32-x64/signed/0.8.0/kiro-ide-0.8.0-stable-win32-x64.exe
 
 #### amazon-nosqlworkbench
 
@@ -9644,6 +9644,15 @@ Total entries processed: 7015
 - **File**: `bellsoft-libericajdk-20-full.yml`
 - **URL**: https://download.bell-sw.com/java/20.0.2+10/bellsoft-jdk20.0.2+10-windows-amd64-full.msi
 
+#### bellsoft-libericajdk-20-lite
+
+- **Source**: winget
+- **Name**: bellsoft-libericajdk-20-lite
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `bellsoft-libericajdk-20-lite.yml`
+- **URL**: https://download.bell-sw.com/java/20.0.2+10/bellsoft-jdk20.0.2+10-windows-amd64-lite.msi
+
 #### bellsoft-libericajdk-20
 
 - **Source**: winget
@@ -9662,6 +9671,15 @@ Total entries processed: 7015
 - **File**: `bellsoft-libericajdk-21-full.yml`
 - **URL**: https://download.bell-sw.com/java/21.0.9+11/bellsoft-jdk21.0.9+11-windows-amd64-full.msi
 
+#### bellsoft-libericajdk-21-lite
+
+- **Source**: winget
+- **Name**: bellsoft-libericajdk-21-lite
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `bellsoft-libericajdk-21-lite.yml`
+- **URL**: https://download.bell-sw.com/java/21.0.9+15/bellsoft-jdk21.0.9+15-windows-amd64-lite.msi
+
 #### bellsoft-libericajdk-21
 
 - **Source**: winget
@@ -9679,6 +9697,15 @@ Total entries processed: 7015
 - **Version**: 
 - **File**: `bellsoft-libericajdk-22-full.yml`
 - **URL**: https://download.bell-sw.com/java/22.0.2+11/bellsoft-jdk22.0.2+11-windows-amd64-full.msi
+
+#### bellsoft-libericajdk-22-lite
+
+- **Source**: winget
+- **Name**: bellsoft-libericajdk-22-lite
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `bellsoft-libericajdk-22-lite.yml`
+- **URL**: https://download.bell-sw.com/java/22.0.2+11/bellsoft-jdk22.0.2+11-windows-amd64-lite.msi
 
 #### bellsoft-libericajdk-22
 
@@ -9724,6 +9751,15 @@ Total entries processed: 7015
 - **Version**: 
 - **File**: `bellsoft-libericajdk-24-full.yml`
 - **URL**: https://download.bell-sw.com/java/24.0.2+12/bellsoft-jdk24.0.2+12-windows-amd64-full.msi
+
+#### bellsoft-libericajdk-24-lite
+
+- **Source**: winget
+- **Name**: bellsoft-libericajdk-24-lite
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `bellsoft-libericajdk-24-lite.yml`
+- **URL**: https://download.bell-sw.com/java/24.0.2+12/bellsoft-jdk24.0.2+12-windows-amd64-lite.msi
 
 #### bellsoft-libericajdk-24
 
@@ -10524,7 +10560,7 @@ Total entries processed: 7015
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `binaryfortress-displayfusion.yml`
-- **URL**: https://binaryfortressdownloads.com/Download/BFSFiles/101/DisplayFusionSetup-11.1.1.exe
+- **URL**: https://binaryfortressdownloads.com/Download/BFSFiles/101/DisplayFusionSetup-12.0.exe
 
 #### binaryfortress-fileseek
 
@@ -10542,7 +10578,7 @@ Total entries processed: 7015
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `binaryfortress-hashtools.yml`
-- **URL**: https://binaryfortressdownloads.com/Download/BFSFiles/109/HashToolsSetup-4.8.2.exe
+- **URL**: https://binaryfortressdownloads.com/Download/BFSFiles/109/HashToolsSetup-4.8.3.exe
 
 #### binaryfortress-logfusion
 
@@ -11037,7 +11073,7 @@ Total entries processed: 7015
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bitvise-ssh-client.yml`
-- **URL**: https://dl.bitvise.com/BvSshClient-952.exe
+- **URL**: https://dl.bitvise.com/BvSshClient-953.exe
 
 #### bitvise-ssh-server
 
@@ -11046,7 +11082,7 @@ Total entries processed: 7015
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bitvise-ssh-server.yml`
-- **URL**: https://dl.bitvise.com/BvSshServer-952.exe
+- **URL**: https://dl.bitvise.com/BvSshServer-953.exe
 
 #### bitwarden-bitwarden
 
@@ -11138,6 +11174,15 @@ Total entries processed: 7015
 - **File**: `blastwave-blastshield.yml`
 - **URL**: https://dl.blastwave.io/client/BlastShield.msi
 
+#### blenderfoundation-blender-lts-4-2
+
+- **Source**: winget
+- **Name**: blenderfoundation-blender-lts-4-2
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `blenderfoundation-blender-lts-4-2.yml`
+- **URL**: https://download.blender.org/release/Blender4.2/blender-4.2.16-windows-x64.msi
+
 #### blenderfoundation-blender-lts-4-5
 
 - **Source**: winget
@@ -11181,7 +11226,7 @@ Total entries processed: 7015
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `blitz-blitz.yml`
-- **URL**: https://blitz-main.blitz.gg/Blitz-2.1.460.exe
+- **URL**: https://blitz-main.blitz.gg/Blitz-2.1.461.exe
 
 #### blix-bluemail
 
@@ -12810,7 +12855,7 @@ Total entries processed: 7015
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cevio-cevioai.yml`
-- **URL**: https://cevio.jp/storage/cevio_ai/CeVIO_AI_Setup_x64_(9.1.17.0).msi
+- **URL**: https://cevio.jp/storage/cevio_ai/CeVIO_AI_Setup_x64_(9.1.19.0).msi
 
 #### cevio-ceviocs7
 
@@ -16554,7 +16599,7 @@ Total entries processed: 7015
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `devolutions-launcher.yml`
-- **URL**: https://cdn.devolutions.net/download/Setup.Devolutions.Launcher.2025.3.25.0.msi
+- **URL**: https://cdn.devolutions.net/download/Setup.Devolutions.Launcher.2025.3.26.0.msi
 
 #### devolutions-remotedesktopmanager
 
@@ -16986,7 +17031,7 @@ Total entries processed: 7015
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `discord-discord-canary.yml`
-- **URL**: https://canary.dl2.discordapp.net/distro/app/canary/win/x64/1.0.785/DiscordCanarySetup.exe
+- **URL**: https://canary.dl2.discordapp.net/distro/app/canary/win/x64/1.0.788/DiscordCanarySetup.exe
 
 #### discord-discord-development
 
@@ -17004,7 +17049,7 @@ Total entries processed: 7015
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `discord-discord-ptb.yml`
-- **URL**: https://ptb.dl2.discordapp.net/distro/app/ptb/win/x64/1.0.1171/DiscordPTBSetup.exe
+- **URL**: https://ptb.dl2.discordapp.net/distro/app/ptb/win/x64/1.0.1172/DiscordPTBSetup.exe
 
 #### discord-discord
 
@@ -17186,6 +17231,15 @@ Total entries processed: 7015
 - **File**: `djsweder-metarekordfixer.yml`
 - **URL**: https://github.com/DJSweder/MetaRekordFixer/releases/download/v1.0.0/metarekordfixer-1.0.0-win64-setup.exe
 
+#### dlbroadfoot-bb
+
+- **Source**: winget
+- **Name**: dlbroadfoot-bb
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `dlbroadfoot-bb.yml`
+- **URL**: https://github.com/dlbroadfoot/bitbucket-cli/releases/download/v2.84.0/bb_2.84.0_windows_amd64.msi
+
 #### dmitry-farafonov-micswitch
 
 - **Source**: winget
@@ -17337,7 +17391,7 @@ Total entries processed: 7015
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `docker-dockercompose.yml`
-- **URL**: https://github.com/docker/compose/releases/download/v5.0.0/docker-compose-windows-x86_64.exe
+- **URL**: https://github.com/docker/compose/releases/download/v5.0.1/docker-compose-windows-x86_64.exe
 
 #### docker-dockerdesktop
 
@@ -17590,6 +17644,15 @@ Total entries processed: 7015
 - **Version**: 
 - **File**: `dreamsourcelab-dsview.yml`
 - **URL**: https://www.dreamsourcelab.com/software/DSView_v1.3.2_x64_setup.exe
+
+#### dreamtonics-synthesizervstudio2pro
+
+- **Source**: winget
+- **Name**: dreamtonics-synthesizervstudio2pro
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `dreamtonics-synthesizervstudio2pro.yml`
+- **URL**: https://download.dreamtonics.com/svstudio2/svstudio2-pro-setup-latest.exe
 
 #### drofus-drofus
 
@@ -22899,7 +22962,7 @@ Total entries processed: 7015
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `glab-glab.yml`
-- **URL**: https://gitlab.com/gitlab-org/cli/-/releases/v1.80.2/downloads/glab_1.80.2_Windows_x86_64_installer.exe
+- **URL**: https://gitlab.com/gitlab-org/cli/-/releases/v1.80.4/downloads/glab_1.80.4_Windows_x86_64_installer.exe
 
 #### glassdevtools-void
 
@@ -26249,6 +26312,15 @@ Total entries processed: 7015
 - **File**: `inkscape-inkscape.yml`
 - **URL**: https://media.inkscape.org/dl/resources/file/inkscape-1.4.2_2025-05-13_f4327f4-x64.msi
 
+#### innovaphone-myapps
+
+- **Source**: winget
+- **Name**: innovaphone-myapps
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `innovaphone-myapps.yml`
+- **URL**: https://store.innovaphone.com/release/1610173/innovaphone-appstore?filename=1510536myappswindowsmyAppsSetup.msi&nameout=myAppsSetup.msi&update=true
+
 #### inpixio-inpixiophotostudio
 
 - **Source**: winget
@@ -27768,7 +27840,7 @@ Total entries processed: 7015
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jasonwei512-code-radio-cli.yml`
-- **URL**: https://github.com/JasonWei512/code-radio-cli/releases/download/v1.0.5/code-radio-1.0.5-windows-x86_64-msvc.exe
+- **URL**: https://github.com/JasonWei512/code-radio-cli/releases/download/v1.0.6/code-radio-1.0.6-windows-x64.exe
 
 #### jasperapp-jasper
 
@@ -28038,7 +28110,7 @@ Total entries processed: 7015
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-dottrace.yml`
-- **URL**: https://download.jetbrains.com/resharper/dotUltimate.2025.3.0.4/JetBrains.dotTrace.2025.3.0.4.web.exe
+- **URL**: https://download.jetbrains.com/resharper/dotUltimate.2025.3.1/JetBrains.dotTrace.2025.3.1.web.exe
 
 #### jetbrains-dotultimate
 
@@ -28281,7 +28353,7 @@ Total entries processed: 7015
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-resharper.yml`
-- **URL**: https://download.jetbrains.com/resharper/dotUltimate.2025.3.0.3/JetBrains.ReSharper.2025.3.0.3.web.exe
+- **URL**: https://download.jetbrains.com/resharper/dotUltimate.2025.3.1/JetBrains.ReSharper.2025.3.1.web.exe
 
 #### jetbrains-rider-eap
 
@@ -29370,7 +29442,7 @@ Total entries processed: 7015
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-elisa.yml`
-- **URL**: https://cdn.kde.org/ci-builds/multimedia/elisa/master/windows/elisa-master-4162-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/multimedia/elisa/master/windows/elisa-master-4164-windows-cl-msvc2022-x86_64.exe
 
 #### kde-falkon
 
@@ -29469,7 +29541,7 @@ Total entries processed: 7015
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kasts.yml`
-- **URL**: https://cdn.kde.org/ci-builds/multimedia/kasts/release-25.12/windows/kasts-release_25.12-4063-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/multimedia/kasts/release-25.12/windows/kasts-release_25.12-4070-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kate
 
@@ -29550,7 +29622,7 @@ Total entries processed: 7015
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kdenlive.yml`
-- **URL**: https://download.kde.org/stable/kdenlive/25.08/windows/kdenlive-25.08.3.exe
+- **URL**: https://download.kde.org/stable/kdenlive/25.12/windows/kdenlive-25.12.0-B.exe
 
 #### kde-kdevelop
 
@@ -30648,7 +30720,7 @@ Total entries processed: 7015
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kuaifan-dootask.yml`
-- **URL**: https://github.com/kuaifan/dootask/releases/download/v1.4.88/DooTask-v1.4.88-win-x64.exe
+- **URL**: https://github.com/kuaifan/dootask/releases/download/v1.4.99/DooTask-v1.4.99-win-x64.exe
 
 #### kubernetes-aws-iam-authenticator
 
@@ -32223,7 +32295,7 @@ Total entries processed: 7015
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lseg-refinitivworkspace.yml`
-- **URL**: https://cdn.refinitiv.com/public/packages/Workspace/RefinitivWorkspace-installer_1.26.504.exe
+- **URL**: https://cdn.refinitiv.com/public/packages/Workspace/RefinitivWorkspace-installer_1.26.602.exe
 
 #### lsofttechnologies-activebootdisk
 
@@ -32494,6 +32566,15 @@ Total entries processed: 7015
 - **Version**: 
 - **File**: `m-filescorporation-m-filesonline.yml`
 - **URL**: https://cdn3.m-files.com/public/M-Files_23.4/M-Files_Online_x64_eng_23_4_12528_8_EV.msi
+
+#### m-rajabi-dev-audioshelf
+
+- **Source**: winget
+- **Name**: m-rajabi-dev-audioshelf
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `m-rajabi-dev-audioshelf.yml`
+- **URL**: https://github.com/M-Rajabi-Dev/AudioShelf/releases/download/v1.1.0/AudioShelf-1.1.0-Win64-Setup.exe
 
 #### m336-musiclibraryplayer
 
@@ -34887,7 +34968,7 @@ Total entries processed: 7015
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-powerautomatedesktop.yml`
-- **URL**: https://download.microsoft.com/download/74235fda-bbef-4f72-8f0e-8abd99b23931/Setup.Microsoft.PowerAutomate.exe
+- **URL**: https://download.microsoft.com/download/8339add4-9a95-4e93-8008-b4730f19a2b8/Setup.Microsoft.PowerAutomate.exe
 
 #### microsoft-powerbi
 
@@ -35535,7 +35616,7 @@ Total entries processed: 7015
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-windowsadk.yml`
-- **URL**: https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/adksetup.exe
+- **URL**: https://download.microsoft.com/download/615540bc-be0b-433a-b91b-1f2b0642bb24/adk/adksetup.exe
 
 #### microsoft-windowsadmincenter
 
@@ -42134,6 +42215,15 @@ Total entries processed: 7015
 - **File**: `ni-ni-xnet.yml`
 - **URL**: https://download.ni.com/support/nipkg/products/ni-x/ni-xnet/25.8/online/ni-xnet_25.8_online.exe
 
+#### nibblenerds-viewpoint
+
+- **Source**: winget
+- **Name**: nibblenerds-viewpoint
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `nibblenerds-viewpoint.yml`
+- **URL**: https://nibblenerds.com/static/viewpoint_setup.exe
+
 #### nicesoftware-amazondcvclient
 
 - **Source**: winget
@@ -42501,7 +42591,7 @@ Total entries processed: 7015
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nomachine-nomachine-cloudserver.yml`
-- **URL**: https://web9001.nomachine.com/packages/9.2-PRODUCTION/Windows/nomachine-cloud-server_9.2.18_1_x64.exe
+- **URL**: https://web9001.nomachine.com/packages/9.3-PRODUCTION/Windows/nomachine-cloud-server_9.3.7_1_x64.exe
 
 #### nomachine-nomachine-enterpriseclient
 
@@ -42519,7 +42609,7 @@ Total entries processed: 7015
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nomachine-nomachine-enterprisecloudserver.yml`
-- **URL**: https://web9001.nomachine.com/packages/9.2-PRODUCTION/Windows/nomachine-enterprise-cloud-server_9.2.18_1_x64.exe
+- **URL**: https://web9001.nomachine.com/packages/9.3-PRODUCTION/Windows/nomachine-enterprise-cloud-server_9.3.7_1_x64.exe
 
 #### nomachine-nomachine-enterprisecloudservercluster
 
@@ -42528,7 +42618,7 @@ Total entries processed: 7015
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nomachine-nomachine-enterprisecloudservercluster.yml`
-- **URL**: https://web9001.nomachine.com/packages/9.2-PRODUCTION/Windows/nomachine-enterprise-cloud-server-cluster_9.2.18_1_x64.exe
+- **URL**: https://web9001.nomachine.com/packages/9.3-PRODUCTION/Windows/nomachine-enterprise-cloud-server-cluster_9.3.7_1_x64.exe
 
 #### nomachine-nomachine-enterprisedesktop
 
@@ -42537,7 +42627,7 @@ Total entries processed: 7015
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nomachine-nomachine-enterprisedesktop.yml`
-- **URL**: https://web9001.nomachine.com/packages/9.2-PRODUCTION/Windows/nomachine-enterprise-desktop_9.2.18_1_x64.exe
+- **URL**: https://web9001.nomachine.com/packages/9.3-PRODUCTION/Windows/nomachine-enterprise-desktop_9.3.7_1_x64.exe
 
 #### nomachine-nomachine-smallbusinesscloudserver
 
@@ -42555,7 +42645,7 @@ Total entries processed: 7015
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nomachine-nomachine-workgroupcloudserver.yml`
-- **URL**: https://web9001.nomachine.com/packages/9.2-PRODUCTION/Windows/nomachine-workgroup-cloud-server_9.2.18_1_x64.exe
+- **URL**: https://web9001.nomachine.com/packages/9.3-PRODUCTION/Windows/nomachine-workgroup-cloud-server_9.3.7_1_x64.exe
 
 #### nomachine-nomachine
 
@@ -42564,7 +42654,7 @@ Total entries processed: 7015
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nomachine-nomachine.yml`
-- **URL**: https://web9001.nomachine.com/download/9.2/Windows/nomachine_9.2.18_1_x64.exe
+- **URL**: https://web9001.nomachine.com/download/9.3/Windows/nomachine_9.3.7_1_x64.exe
 
 #### nomacs-nomacs-beta
 
@@ -45750,7 +45840,7 @@ Total entries processed: 7015
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `perforce-p4v.yml`
-- **URL**: https://www.perforce.com/downloads/perforce/r25.3/bin.ntx64/p4vinst64.exe
+- **URL**: https://www.perforce.com/downloads/perforce/r25.4/bin.ntx64/p4vinst64.exe
 
 #### perimeter81-harmonysase
 
@@ -47397,7 +47487,7 @@ Total entries processed: 7015
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `proton-protonpass.yml`
-- **URL**: https://proton.me/download/pass/windows/ProtonPass_Setup_1.33.2.exe
+- **URL**: https://proton.me/download/pass/windows/ProtonPass_Setup_1.33.3.exe
 
 #### proton-protonvpn
 
@@ -48181,6 +48271,15 @@ Total entries processed: 7015
 - **Version**: 
 - **File**: `qpdf-qpdf.yml`
 - **URL**: https://github.com/qpdf/qpdf/releases/download/v12.2.0/qpdf-12.2.0-msvc64.exe
+
+#### qr243vbi-nekobox
+
+- **Source**: winget
+- **Name**: qr243vbi-nekobox
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `qr243vbi-nekobox.yml`
+- **URL**: https://github.com/qr243vbi/nekobox/releases/download/5.9.9/nekobox-5.9.9-windows64-installer.exe
 
 #### qtextpad-qtextpad
 
@@ -49818,7 +49917,7 @@ Total entries processed: 7015
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `roblox-roblox.yml`
-- **URL**: https://setup.rbxcdn.com/version-e380c8edc8f6477c-RobloxPlayerInstaller.exe
+- **URL**: https://setup.rbxcdn.com/version-5b077c09380f4fe6-RobloxPlayerInstaller.exe
 
 #### robware-rvtools
 
@@ -62661,7 +62760,7 @@ Total entries processed: 7015
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zedindustries-zed-preview.yml`
-- **URL**: https://github.com/zed-industries/zed/releases/download/v0.218.0-pre/Zed-x86_64.exe
+- **URL**: https://github.com/zed-industries/zed/releases/download/v0.218.3-pre/Zed-x86_64.exe
 
 #### zedindustries-zed
 
@@ -62670,7 +62769,7 @@ Total entries processed: 7015
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zedindustries-zed.yml`
-- **URL**: https://github.com/zed-industries/zed/releases/download/v0.217.2/Zed-x86_64.exe
+- **URL**: https://github.com/zed-industries/zed/releases/download/v0.217.3/Zed-x86_64.exe
 
 #### zen-team-zen-browser-twilight
 
@@ -62994,7 +63093,7 @@ Total entries processed: 7015
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ztools-ztools.yml`
-- **URL**: https://github.com/ZToolsCenter/ZTools/releases/download/v1.1.1/ztools-1.1.1-setup.exe
+- **URL**: https://github.com/ZToolsCenter/ZTools/releases/download/v1.1.2/ztools-1.1.2-setup.exe
 
 #### zugferdcommunity-qubaviewer
 
