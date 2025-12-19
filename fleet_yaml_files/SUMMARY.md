@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-12-19 06:05:33 UTC
+Generated on: 2025-12-19 18:05:15 UTC
 
 ## Summary
 
-Total entries processed: 7026
+Total entries processed: 7033
 - macOS files: 378
-- Windows files: 6648
+- Windows files: 6655
 
 ## Generated Files
 
@@ -730,7 +730,7 @@ Total entries processed: 7026
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `citrix-workspace.yml`
-- **URL**: https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Mac/CitrixWorkspaceAppUniversal25.08.10.31.pkg
+- **URL**: https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Mac/CitrixWorkspaceAppUniversal25.11.0.36.pkg
 
 #### clamxav
 
@@ -1045,7 +1045,7 @@ Total entries processed: 7026
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `emclient.yml`
-- **URL**: https://cdn-dist.emclient.com/dist/v10.4.4209_Mac/setup.pkg
+- **URL**: https://cdn-dist.emclient.com/dist/v10.4.4293_Mac/setup.pkg
 
 #### enclave
 
@@ -1180,7 +1180,7 @@ Total entries processed: 7026
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `foxit-pdf-editor.yml`
-- **URL**: https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/mac/14.x/14.0.1/FoxitPDFEditor1401.L10N.Setup.pkg
+- **URL**: https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/mac/14.x/14.0.2/FoxitPDFEditor1402.L10N.Setup.pkg
 
 #### foxitreader
 
@@ -2764,7 +2764,7 @@ Total entries processed: 7026
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `softube-central.yml`
-- **URL**: https://softubestorage.b-cdn.net/softubecentraldata/softubecentral/Softube%20Central-2.1.5-universal.pkg
+- **URL**: https://softubestorage.b-cdn.net/softubecentraldata/softubecentral/Softube%20Central-2.1.6-universal.pkg
 
 #### softubecentral
 
@@ -3196,7 +3196,7 @@ Total entries processed: 7026
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `virtualdj.yml`
-- **URL**: https://download.virtualdj.com/b8962/05389D7D/install_virtualdj_2026_b8962_mac.pkg
+- **URL**: https://download.virtualdj.com/b8966/210F376F/install_virtualdj_2026_b8966_mac.pkg
 
 #### vnc-server
 
@@ -4431,7 +4431,7 @@ Total entries processed: 7026
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aelassas-servy.yml`
-- **URL**: https://github.com/aelassas/servy/releases/download/v4.1/servy-4.1-x64-installer.exe
+- **URL**: https://github.com/aelassas/servy/releases/download/v4.2/servy-4.2-x64-installer.exe
 
 #### aerosoft-one
 
@@ -6519,7 +6519,7 @@ Total entries processed: 7026
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `amd-lemonadeserver.yml`
-- **URL**: https://github.com/lemonade-sdk/lemonade/releases/download/v9.1.0/lemonade-server-minimal.msi
+- **URL**: https://github.com/lemonade-sdk/lemonade/releases/download/v9.1.1/lemonade-server-minimal.msi
 
 #### amd-ocat
 
@@ -7122,7 +7122,7 @@ Total entries processed: 7026
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `anyme123-claudeworkbench.yml`
-- **URL**: https://github.com/anyme123/Any-code/releases/download/v5.9.2/Any.Code_5.9.2_x64-setup.exe
+- **URL**: https://github.com/anyme123/Any-code/releases/download/v5.13.5/Any.Code_5.13.5_x64-setup.exe
 
 #### anysphere-cursor
 
@@ -7446,7 +7446,7 @@ Total entries processed: 7026
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `arduinosa-ide-stable.yml`
-- **URL**: https://github.com/arduino/arduino-ide/releases/download/2.3.6/arduino-ide_2.3.6_Windows_64bit.msi
+- **URL**: https://github.com/arduino/arduino-ide/releases/download/2.3.7/arduino-ide_2.3.7_Windows_64bit.msi
 
 #### arelle-arelle
 
@@ -8076,7 +8076,7 @@ Total entries processed: 7026
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `authormore-penpotdesktop.yml`
-- **URL**: https://github.com/author-more/penpot-desktop/releases/download/v0.21.0/Penpot-Desktop---Setup.exe
+- **URL**: https://github.com/author-more/penpot-desktop/releases/download/v0.22.0/penpot-desktop-x64.exe
 
 #### authpass-authpass
 
@@ -8481,7 +8481,7 @@ Total entries processed: 7026
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `azeus-convene.yml`
-- **URL**: https://www.azeusconvene.com/installers/winos/standard/convene_setup.9.1.213151-64bit.exe
+- **URL**: https://www.azeusconvene.com/installers/winos/standard/convene_setup.9.2.113290-64bit.exe
 
 #### azul-icedtea-web
 
@@ -10452,7 +10452,7 @@ Total entries processed: 7026
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `biglysoftware-biglybt.yml`
-- **URL**: https://github.com/BiglySoftware/BiglyBT/releases/download/v3.9.0.0/GitHub_BiglyBT_Installer64_WithJava21.exe
+- **URL**: https://github.com/BiglySoftware/BiglyBT/releases/download/v4.0.0.0/GitHub_BiglyBT_Installer64_WithJava21.exe
 
 #### bigsweetpotatostudio-hyperchat
 
@@ -11226,7 +11226,7 @@ Total entries processed: 7026
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `blitz-blitz.yml`
-- **URL**: https://blitz-main.blitz.gg/Blitz-2.1.461.exe
+- **URL**: https://blitz-main.blitz.gg/Blitz-2.1.462.exe
 
 #### blix-bluemail
 
@@ -13287,7 +13287,7 @@ Total entries processed: 7026
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `chirpsoftware-chirp-next.yml`
-- **URL**: https://archive.chirpmyradio.com/chirp_next/next-20251205/chirp-next-20251205-installer.exe
+- **URL**: https://archive.chirpmyradio.com/chirp_next/next-20251219/chirp-next-20251219-installer.exe
 
 #### chocolatey-chocolateygui
 
@@ -18885,7 +18885,7 @@ Total entries processed: 7026
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `elastic-filebeat.yml`
-- **URL**: https://artifacts.elastic.co/downloads/beats/filebeat/filebeat-9.2.2-windows-x86_64.msi
+- **URL**: https://artifacts.elastic.co/downloads/beats/filebeat/filebeat-9.2.3-windows-x86_64.msi
 
 #### elastic-heartbeat
 
@@ -18894,7 +18894,7 @@ Total entries processed: 7026
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `elastic-heartbeat.yml`
-- **URL**: https://artifacts.elastic.co/downloads/beats/heartbeat/heartbeat-9.2.2-windows-x86_64.msi
+- **URL**: https://artifacts.elastic.co/downloads/beats/heartbeat/heartbeat-9.2.3-windows-x86_64.msi
 
 #### elastic-metricbeat
 
@@ -23538,7 +23538,7 @@ Total entries processed: 7026
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gouryella-drip.yml`
-- **URL**: https://github.com/Gouryella/drip/releases/download/v0.4.1/drip-v0.4.1-windows-amd64.exe
+- **URL**: https://github.com/Gouryella/drip/releases/download/v0.5.2/drip-v0.5.2-windows-amd64.exe
 
 #### governikus-ausweisapp
 
@@ -24042,7 +24042,7 @@ Total entries processed: 7026
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gruntwork-cloud-nuke.yml`
-- **URL**: https://github.com/gruntwork-io/cloud-nuke/releases/download/v0.45.0/cloud-nuke_windows_amd64.exe
+- **URL**: https://github.com/gruntwork-io/cloud-nuke/releases/download/v0.46.0/cloud-nuke_windows_amd64.exe
 
 #### gruntwork-terragrunt
 
@@ -24790,6 +24790,15 @@ Total entries processed: 7026
 - **Version**: 
 - **File**: `hetman-uneraser.yml`
 - **URL**: https://hetmanrecovery.com/download/hetman_uneraser.exe
+
+#### hex-mirrorforphotoshopserver
+
+- **Source**: winget
+- **Name**: hex-mirrorforphotoshopserver
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `hex-mirrorforphotoshopserver.yml`
+- **URL**: https://github.com/hex/mirror-for-photoshop-server/releases/download/v2025.12.66/mirror-for-photoshop-server-installer-win-x64.exe
 
 #### hex-rays-ida-free
 
@@ -27364,6 +27373,15 @@ Total entries processed: 7026
 - **Version**: 
 - **File**: `jamescj60-universalx86tuningutility.yml`
 - **URL**: https://github.com/JamesCJ60/Universal-x86-Tuning-Utility/releases/download/2.3.2/Universal.x86.Tuning.Utility.V2.msi
+
+#### jamestsang-nettune
+
+- **Source**: winget
+- **Name**: jamestsang-nettune
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `jamestsang-nettune.yml`
+- **URL**: https://github.com/jtsang4/nettune/releases/download/v0.2.4/nettune-windows-amd64.exe
 
 #### jamovi-desktop-current
 
@@ -29982,7 +30000,7 @@ Total entries processed: 7026
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-okular.yml`
-- **URL**: https://cdn.kde.org/ci-builds/graphics/okular/release-25.12/windows/okular-release_25.12-7019-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/graphics/okular/release-25.12/windows/okular-release_25.12-7043-windows-cl-msvc2022-x86_64.exe
 
 #### kde-parley
 
@@ -30360,7 +30378,7 @@ Total entries processed: 7026
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kindness-kismet-stelliberty.yml`
-- **URL**: https://github.com/Kindness-Kismet/Stelliberty/releases/download/v1.1.50/Stelliberty-v1.1.50-windows-x64-setup.exe
+- **URL**: https://github.com/Kindness-Kismet/Stelliberty/releases/download/v1.1.81/Stelliberty-v1.1.81-windows-x64-setup.exe
 
 #### kingsoft-kmeeting
 
@@ -34617,7 +34635,7 @@ Total entries processed: 7026
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-edge.yml`
-- **URL**: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f4a1088c-eb1b-450c-8902-d4198f2d643d/MicrosoftEdgeEnterpriseX64.msi
+- **URL**: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f14840f4-b905-4a62-8b20-b7a2f24512db/MicrosoftEdgeEnterpriseX64.msi
 
 #### microsoft-edgewebview2runtime
 
@@ -42521,6 +42539,51 @@ Total entries processed: 7026
 - **File**: `nitrosoftware-nitropro.yml`
 - **URL**: https://downloads.gonitro.com/professional_14.41.1.4/en/retail/nitro_pro14_ba_x64.msi
 
+#### niubi-partitioneditor-enterprise
+
+- **Source**: winget
+- **Name**: niubi-partitioneditor-enterprise
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `niubi-partitioneditor-enterprise.yml`
+- **URL**: https://www.hdd-tool.com/download/NPE_enterprise.exe
+
+#### niubi-partitioneditor-free
+
+- **Source**: winget
+- **Name**: niubi-partitioneditor-free
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `niubi-partitioneditor-free.yml`
+- **URL**: https://www.hdd-tool.com/download/NPE_free.exe
+
+#### niubi-partitioneditor-professional
+
+- **Source**: winget
+- **Name**: niubi-partitioneditor-professional
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `niubi-partitioneditor-professional.yml`
+- **URL**: https://www.hdd-tool.com/download/NPE_pro.exe
+
+#### niubi-partitioneditor-server
+
+- **Source**: winget
+- **Name**: niubi-partitioneditor-server
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `niubi-partitioneditor-server.yml`
+- **URL**: https://www.hdd-tool.com/download/NPE_server.exe
+
+#### niubi-partitioneditor-technician
+
+- **Source**: winget
+- **Name**: niubi-partitioneditor-technician
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `niubi-partitioneditor-technician.yml`
+- **URL**: https://www.hdd-tool.com/download/NPE_technician.exe
+
 #### nlitesoft-ntlite
 
 - **Source**: winget
@@ -44697,7 +44760,7 @@ Total entries processed: 7026
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `opera-operaair.yml`
-- **URL**: https://get.geo.opera.com/pub/opera_air/125.0.5729.39/win/Opera_Air_125.0.5729.39_Setup_x64.exe
+- **URL**: https://get.geo.opera.com/pub/opera_air/125.0.5729.48/win/Opera_Air_125.0.5729.48_Setup_x64.exe
 
 #### opera-operacrypto
 
@@ -51798,7 +51861,7 @@ Total entries processed: 7026
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-12-17/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-12-19/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -52329,7 +52392,7 @@ Total entries processed: 7026
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sjtu-sjtudrive.yml`
-- **URL**: https://pan.sjtu.edu.cn/releases/TCE-Drive-win32-2.8.8-1003-309.exe
+- **URL**: https://pan.sjtu.edu.cn/releases/TCE-Drive-win32-2.9.0-1003-319.exe
 
 #### skardyy-rhiza
 
@@ -53562,7 +53625,7 @@ Total entries processed: 7026
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `spotify-spotify.yml`
-- **URL**: https://upgrade.scdn.co/upgrade/client/win32-x86_64/spotify_installer-1.2.79.425.g1d0fcf61-256.exe
+- **URL**: https://upgrade.scdn.co/upgrade/client/win32-x86_64/spotify_installer-1.2.80.191.g39184aea-607.exe
 
 #### springlobby-springlobby
 
@@ -53787,7 +53850,7 @@ Total entries processed: 7026
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `stackrox-kube-linter.yml`
-- **URL**: https://github.com/stackrox/kube-linter/releases/download/v0.7.6/kube-linter.exe
+- **URL**: https://github.com/stackrox/kube-linter/releases/download/v0.8.1/kube-linter.exe
 
 #### stacks-stacks
 
@@ -54309,7 +54372,7 @@ Total entries processed: 7026
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `stirlingtools-stirlingpdf.yml`
-- **URL**: https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v2.1.4/Stirling-PDF-windows-x86_64.msi
+- **URL**: https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v2.1.5/Stirling-PDF-windows-x86_64.msi
 
 #### stnkl-everythingtoolbar-beta
 
@@ -54939,7 +55002,7 @@ Total entries processed: 7026
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `swift-toolchain.yml`
-- **URL**: https://download.swift.org/swift-6.2.2-release/windows10/swift-6.2.2-RELEASE/swift-6.2.2-RELEASE-windows10.exe
+- **URL**: https://download.swift.org/swift-6.2.3-release/windows10/swift-6.2.3-RELEASE/swift-6.2.3-RELEASE-windows10.exe
 
 #### swiftyapp-swifty
 
@@ -56136,7 +56199,7 @@ Total entries processed: 7026
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-codebuddy.yml`
-- **URL**: https://codebuddy-1328495429.cos.accelerate.myqcloud.com/aiide/win32-x64-user/CodeBuddy-win32-x64-user-4.1.1.14743363-fce7caa702-5639732c.exe
+- **URL**: https://codebuddy-1328495429.cos.accelerate.myqcloud.com/aiide/win32-x64-user/CodeBuddy-win32-x64-user-4.1.2.15364975-c66da3dc81-5917ed8b.exe
 
 #### tencent-cosbrowser
 
@@ -61356,7 +61419,7 @@ Total entries processed: 7026
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wondershare-pdfelement-12.yml`
-- **URL**: https://download.wondershare.com/cbs_down/pdfelement-pro_64bit_12.1.2_full5239.exe
+- **URL**: https://download.wondershare.com/cbs_down/pdfelement-pro_64bit_12.1.3_full5239.exe
 
 #### wondershare-pdfelement-8
 
@@ -63048,7 +63111,7 @@ Total entries processed: 7026
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zoom-zoom-vdi.yml`
-- **URL**: https://zoom.us/download/vdi/6.5.12.26790/ZoomInstallerVDI.msi?archType=x64
+- **URL**: https://zoom.us/download/vdi/6.6.10.26830/ZoomInstallerVDI.msi?archType=x64
 
 #### zoom-zoom
 
@@ -63093,7 +63156,7 @@ Total entries processed: 7026
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ztools-ztools.yml`
-- **URL**: https://github.com/ZToolsCenter/ZTools/releases/download/v1.1.2/ztools-1.1.2-setup.exe
+- **URL**: https://github.com/ZToolsCenter/ZTools/releases/download/v1.1.9/ZTools-1.1.9-x64-setup.exe
 
 #### zugferdcommunity-qubaviewer
 
