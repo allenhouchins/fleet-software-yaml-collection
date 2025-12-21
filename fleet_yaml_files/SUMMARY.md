@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-12-20 18:05:05 UTC
+Generated on: 2025-12-21 06:05:04 UTC
 
 ## Summary
 
@@ -3187,7 +3187,7 @@ Total entries processed: 7035
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `virtualdj.yml`
-- **URL**: https://download.virtualdj.com/b8966/210F376F/install_virtualdj_2026_b8966_mac.pkg
+- **URL**: https://download.virtualdj.com/b8970/EBDA532F/install_virtualdj_2026_b8970_mac.pkg
 
 #### vnc-server
 
@@ -3855,7 +3855,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ablaze-floorp.yml`
-- **URL**: https://github.com/Floorp-Projects/Floorp/releases/download/v12.8.3/floorp-windows-x86_64.installer.exe
+- **URL**: https://github.com/Floorp-Projects/Floorp/releases/download/v12.9.0/floorp-windows-x86_64.installer.exe
 
 #### abrignoni-aleapp-cli
 
@@ -6546,7 +6546,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `amir1376-abdownloadmanager.yml`
-- **URL**: https://github.com/amir1376/ab-download-manager/releases/download/v1.8.0/ABDownloadManager_1.8.0_windows_x64.exe
+- **URL**: https://github.com/amir1376/ab-download-manager/releases/download/v1.8.1/ABDownloadManager_1.8.1_windows_x64.exe
 
 #### amn-iconextractor
 
@@ -7941,7 +7941,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `atomixproductions-virtualdj.yml`
-- **URL**: https://download.virtualdj.com/b8962/05389D7D/install_virtualdj_2026_b8962_pc.msi
+- **URL**: https://download.virtualdj.com/b8970/EBDA532F/install_virtualdj_2026_b8970_pc.msi
 
 #### atticus64-juice
 
@@ -11973,7 +11973,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `buchen-portfolio.yml`
-- **URL**: https://github.com/portfolio-performance/portfolio/releases/download/0.80.4/PortfolioPerformance-0.80.4-setup.exe
+- **URL**: https://github.com/portfolio-performance/portfolio/releases/download/0.81.0/PortfolioPerformance-0.81.0-setup.exe
 
 #### buct0r-fullfetch
 
@@ -23304,7 +23304,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/ac2pfxriknitsoygxqefcfdsq5ga_145.0.7587.0/145.0.7587.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/acr4mn7eazq7lpwduejzxfblkjcq_145.0.7589.0/145.0.7589.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -29811,7 +29811,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-konsole.yml`
-- **URL**: https://cdn.kde.org/ci-builds/utilities/konsole/master/windows/konsole-master-4420-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/utilities/konsole/master/windows/konsole-master-4430-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kontact
 
@@ -34707,7 +34707,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-integrationruntime.yml`
-- **URL**: https://download.microsoft.com/download/e/4/7/e4771905-1079-445b-8bf9-8a1a075d8a10/IntegrationRuntime_5.55.9306.2.msi
+- **URL**: https://download.microsoft.com/download/e/4/7/e4771905-1079-445b-8bf9-8a1a075d8a10/IntegrationRuntime_5.61.9466.1.msi
 
 #### microsoft-ironpython-2
 
@@ -59502,7 +59502,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.1997/gvim_9.1.1997_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.2001/gvim_9.1.2001_x64.exe
 
 #### vim-vim
 
