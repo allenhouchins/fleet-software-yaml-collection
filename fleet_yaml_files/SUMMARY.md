@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-12-21 06:05:04 UTC
+Generated on: 2025-12-21 18:05:01 UTC
 
 ## Summary
 
@@ -3855,7 +3855,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ablaze-floorp.yml`
-- **URL**: https://github.com/Floorp-Projects/Floorp/releases/download/v12.9.0/floorp-windows-x86_64.installer.exe
+- **URL**: https://github.com/Floorp-Projects/Floorp/releases/download/v12.9.1/floorp-windows-x86_64.installer.exe
 
 #### abrignoni-aleapp-cli
 
@@ -5052,7 +5052,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `alexx2000-doublecommander.yml`
-- **URL**: https://github.com/doublecmd/doublecmd/releases/download/v1.1.30/doublecmd-1.1.30.x86_64-win64.msi
+- **URL**: https://github.com/doublecmd/doublecmd/releases/download/v1.1.31/doublecmd-1.1.31.x86_64-win64.msi
 
 #### alfaview-alfaview
 
@@ -7203,7 +7203,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `appbytroye-koodoreader.yml`
-- **URL**: https://dl.koodoreader.com/v2.2.3/Koodo-Reader-2.2.3-x64.exe
+- **URL**: https://dl.koodoreader.com/v2.2.4/Koodo-Reader-2.2.4-x64.exe
 
 #### appest-dida
 
@@ -7321,15 +7321,6 @@ Total entries processed: 7035
 - **Version**: 
 - **File**: `appmakes-typora.yml`
 - **URL**: https://download.typora.io/windows/typora-setup-x64-1.9.5.exe
-
-#### appwork-jdownloader
-
-- **Source**: winget
-- **Name**: appwork-jdownloader
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `appwork-jdownloader.yml`
-- **URL**: https://installer.jdownloader.org/JD2SilentSetup_x64.exe
 
 #### apreltech-hvmanager
 
@@ -12666,7 +12657,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `carvel-ytt.yml`
-- **URL**: https://github.com/carvel-dev/ytt/releases/download/v0.52.1/ytt-windows-amd64.exe
+- **URL**: https://github.com/carvel-dev/ytt/releases/download/v0.52.2/ytt-windows-amd64.exe
 
 #### castr-castr
 
@@ -15789,7 +15780,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `darktable-darktable.yml`
-- **URL**: https://github.com/darktable-org/darktable/releases/download/release-5.2.1/darktable-5.2.1-win64.exe
+- **URL**: https://github.com/darktable-org/darktable/releases/download/release-5.4.0/darktable-5.4.0-win64.exe
 
 #### dascanard-radioss
 
@@ -22926,7 +22917,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `giuliosorrentino-windatefrom.yml`
-- **URL**: https://github.com/GiulianoSpaghetti/WinDateFrom.avalonia/releases/download/6.0/WinDateFrom.Avalonia-6.0-amd64.msi
+- **URL**: https://github.com/GiulianoSpaghetti/WinDateFrom.avalonia/releases/download/6.0/WinDateFrom.Avalonia-6.0.0.1-amd64.msi
 
 #### giuliosorrentino-wxbriscola
 
@@ -30416,6 +30407,15 @@ Total entries processed: 7035
 - **File**: `kinooksoftware-inc-ultrarecall.yml`
 - **URL**: https://www.kinook.com/Download/UltraRecallProX64Eval.exe
 
+#### kinooksoftware-inc-visualbuildprofessional
+
+- **Source**: winget
+- **Name**: kinooksoftware-inc-visualbuildprofessional
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `kinooksoftware-inc-visualbuildprofessional.yml`
+- **URL**: https://www.kinook.com/Download/VisBuildProX64Eval.exe
+
 #### kitemaker-kitemaker
 
 - **Source**: winget
@@ -30531,7 +30531,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `knimeag-knimeanalyticsplatform.yml`
-- **URL**: https://download.knime.org/analytics-platform/win/KNIME%205.7.0%20Installer%20(64bit).exe
+- **URL**: https://download.knime.org/analytics-platform/win/KNIME%205.9.0%20Installer%20(64bit).exe
 
 #### knoopx-feeder
 
@@ -51870,7 +51870,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-12-20/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-12-21/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -55065,7 +55065,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sylvainrougeaux-echosync.yml`
-- **URL**: https://api.luminescence-software.org/download.php?software=echosync&installer=msi&version=7610
+- **URL**: https://api.luminescence-software.org/download.php?software=echosync&installer=msi&version=8000
 
 #### sylvainrougeaux-metatogger
 
@@ -59700,7 +59700,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vladimiryakovlev-electronmail.yml`
-- **URL**: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.4/electron-mail-5.3.4-windows-x64-nsis-installer.exe
+- **URL**: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.5/electron-mail-5.3.5-windows-x64-nsis-installer.exe
 
 #### vleer-vleer
 

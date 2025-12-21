@@ -1,4 +1,4 @@
-url: https://github.com/carvel-dev/ytt/releases/download/v0.52.1/ytt-windows-amd64.exe
+url: https://github.com/carvel-dev/ytt/releases/download/v0.52.2/ytt-windows-amd64.exe
 automatic_install: false
 self_service: false
 categories: []
