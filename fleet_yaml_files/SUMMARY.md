@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-12-21 18:05:01 UTC
+Generated on: 2025-12-22 06:05:22 UTC
 
 ## Summary
 
@@ -757,7 +757,7 @@ Total entries processed: 7035
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `clip-studio-paint.yml`
-- **URL**: https://vd.clipstudio.net/clipcontent/paint/app/422/CSP_422m_app.pkg
+- **URL**: https://vd.clipstudio.net/clipcontent/paint/app/423/CSP_423m_app.pkg
 
 #### cold-turkey-blocker
 
@@ -1342,7 +1342,7 @@ Total entries processed: 7035
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `gyazo.yml`
-- **URL**: https://files.gyazo.com/setup/Gyazo-10.3.3.pkg
+- **URL**: https://files.gyazo.com/setup/Gyazo-10.4.0.pkg
 
 #### hackolade
 
@@ -7734,7 +7734,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `asgardexmaintainers-asgardex.yml`
-- **URL**: https://github.com/asgardex/asgardex-desktop/releases/download/v1.41.1/ASGARDEX-1.41.1-win.exe
+- **URL**: https://github.com/asgardex/asgardex-desktop/releases/download/v1.41.5/ASGARDEX-1.41.5-win.exe
 
 #### ashishbharadwajj-flawesome
 
@@ -11055,7 +11055,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bitvise-ssh-client.yml`
-- **URL**: https://dl.bitvise.com/BvSshClient-953.exe
+- **URL**: https://dl.bitvise.com/BvSshClient-954.exe
 
 #### bitvise-ssh-server
 
@@ -11685,7 +11685,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `brave-brave.yml`
-- **URL**: https://github.com/brave/brave-browser/releases/download/v1.85.111/BraveBrowserStandaloneSilentSetup.exe
+- **URL**: https://github.com/brave/brave-browser/releases/download/v1.85.118/BraveBrowserStandaloneSilentSetup.exe
 
 #### breeze2-dsumanager
 
@@ -16140,7 +16140,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `deanxv-donehub.yml`
-- **URL**: https://github.com/deanxv/done-hub/releases/download/v1.9.0/done-hub.exe
+- **URL**: https://github.com/deanxv/done-hub/releases/download/v1.9.5/done-hub.exe
 
 #### debaucheeopensourcegroup-barrier
 
@@ -21684,7 +21684,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `freedv-freedv.yml`
-- **URL**: https://github.com/drowe67/freedv-gui/releases/download/v1.9.9.2/FreeDV-1.9.9.2-windows-x86_64.exe
+- **URL**: https://github.com/drowe67/freedv-gui/releases/download/v2.1.0/FreeDV-2.1.0-windows-x86_64.exe
 
 #### freefem-freefem
 
@@ -23295,7 +23295,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/acr4mn7eazq7lpwduejzxfblkjcq_145.0.7589.0/145.0.7589.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/acve4mwbtrequt2ffpzs2sqy3z3q_145.0.7591.0/145.0.7591.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -26769,7 +26769,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ipep-scantailor-experimental.yml`
-- **URL**: https://github.com/ImageProcessing-ElectronicPublications/scantailor-experimental/releases/download/1.2025.07.07/scantailor-experimental-1.2025.07.07-X86-64-install.exe
+- **URL**: https://github.com/ImageProcessing-ElectronicPublications/scantailor-experimental/releases/download/1.2025.12.21/scantailor-experimental-1.2025.12.21-X86-64-install.exe
 
 #### ipevo-visualizer
 
@@ -28380,7 +28380,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-rider.yml`
-- **URL**: https://download.jetbrains.com/rider/JetBrains.Rider-2025.3.0.3.exe
+- **URL**: https://download.jetbrains.com/rider/JetBrains.Rider-2025.3.1.exe
 
 #### jetbrains-rubymine-eap
 
@@ -29982,7 +29982,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-neochat.yml`
-- **URL**: https://cdn.kde.org/ci-builds/network/neochat/release-25.12/windows/neochat-release_25.12-13753-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/network/neochat/release-25.12/windows/neochat-release_25.12-13772-windows-cl-msvc2022-x86_64.exe
 
 #### kde-okular
 
@@ -34050,7 +34050,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-azure-functionscoretools.yml`
-- **URL**: https://github.com/Azure/azure-functions-core-tools/releases/download/4.5.0/func-cli-4.5.0-x64.msi
+- **URL**: https://github.com/Azure/azure-functions-core-tools/releases/download/4.6.0/func-cli-4.6.0-x64.msi
 
 #### microsoft-azure-iotexplorer
 
@@ -34455,7 +34455,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-dotnet-framework-developerpack-4.yml`
-- **URL**: https://download.microsoft.com/download/8/1/8/81877d8b-a9b2-4153-9ad2-63a6441d11dd/NDP481-DevPack-ENU.exe
+- **URL**: https://download.visualstudio.microsoft.com/download/pr/714a99a2-db28-432e-9a39-4345ba11e73f/5108686aec021898cec3de2cc4d9fd3c/ndp48-devpack-enu.exe
 
 #### microsoft-dotnet-runtime-10
 
@@ -34644,7 +34644,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-edgewebview2runtime.yml`
-- **URL**: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/cf825563-a30a-402a-8c0b-5e339e0c0474/MicrosoftEdgeWebView2RuntimeInstallerX64.exe
+- **URL**: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/3d17cc3e-6ac5-47d3-825e-c7b309e4047b/MicrosoftEdgeWebView2RuntimeInstallerX64.exe
 
 #### microsoft-gameinput
 
@@ -34896,7 +34896,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-officedeploymenttool.yml`
-- **URL**: https://download.microsoft.com/download/6c1eeb25-cf8b-41d9-8d0d-cc1dbc032140/officedeploymenttool_19231-20156.exe
+- **URL**: https://download.microsoft.com/download/6c1eeb25-cf8b-41d9-8d0d-cc1dbc032140/officedeploymenttool_19426-20170.exe
 
 #### microsoft-onedrive
 
@@ -34905,7 +34905,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-onedrive.yml`
-- **URL**: https://oneclient.sfx.ms/Win/Installers/25.216.1104.0002/amd64/OneDriveSetup.exe
+- **URL**: https://oneclient.sfx.ms/Win/Installers/25.222.1112.0002/amd64/OneDriveSetup.exe
 
 #### microsoft-openjdk-11
 
@@ -42537,7 +42537,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nitrosoftware-nitropro.yml`
-- **URL**: https://downloads.gonitro.com/professional_14.41.1.4/en/retail/nitro_pro14_ba_x64.msi
+- **URL**: https://downloads.gonitro.com/professional_14.42.0.34/en/retail/nitro_pro14_ba_x64.msi
 
 #### niubi-partitioneditor-enterprise
 
@@ -49188,7 +49188,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rem0o-fancontrol.yml`
-- **URL**: https://github.com/Rem0o/FanControl.Releases/releases/download/V251/FanControl_251_net_10_0_Installer.exe
+- **URL**: https://github.com/Rem0o/FanControl.Releases/releases/download/V252/FanControl_252_net_10_0_Installer.exe
 
 #### remarkable-remarkablecompanionapp
 
@@ -59502,7 +59502,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.2001/gvim_9.1.2001_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.2006/gvim_9.1.2006_x64.exe
 
 #### vim-vim
 
@@ -59646,7 +59646,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vivaldi-vivaldi.yml`
-- **URL**: https://downloads.vivaldi.com/stable/Vivaldi.7.7.3851.61.x64.exe
+- **URL**: https://downloads.vivaldi.com/stable/Vivaldi.7.7.3851.66.x64.exe
 
 #### vivi-vivi
 
@@ -60600,7 +60600,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `werwolv-imhex.yml`
-- **URL**: https://github.com/WerWolv/ImHex/releases/download/v1.38.0/imhex-1.38.0-Windows-x86_64.msi
+- **URL**: https://github.com/WerWolv/ImHex/releases/download/v1.38.1/imhex-1.38.1-Windows-x86_64.msi
 
 #### westwind-markdownmonster
 
@@ -62247,7 +62247,7 @@ Total entries processed: 7035
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xournal---xournal--.yml`
-- **URL**: https://github.com/xournalpp/xournalpp/releases/download/v1.2.8/xournalpp-1.2.8-windows-setup-AMD64.exe
+- **URL**: https://github.com/xournalpp/xournalpp/releases/download/v1.3.0/xournalpp-1.3.0-windows-setup-AMD64.exe
 
 #### xpf0000-flyenv
 
