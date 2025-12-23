@@ -1,4 +1,4 @@
-url: https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0.1/win64/cs/Firefox%20Setup%20146.0.1.exe
+url: https://github.com/Jul13n1/arc-release/releases/download/v1.0.6/Arc_Installer.exe
 automatic_install: false
 self_service: false
 categories: []
