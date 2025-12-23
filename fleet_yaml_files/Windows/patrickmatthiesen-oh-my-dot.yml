@@ -1,4 +1,4 @@
-url: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b7/win64/mk/Firefox%20Setup%20147.0b7.exe
+url: https://github.com/PatrickMatthiesen/oh-my-dot/releases/download/0.0.14/oh-my-dot.exe
 automatic_install: false
 self_service: false
 categories: []
