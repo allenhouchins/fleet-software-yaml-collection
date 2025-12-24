@@ -1,11 +1,11 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-12-24 06:05:38 UTC
+Generated on: 2025-12-24 18:05:27 UTC
 
 ## Summary
 
-Total entries processed: 7054
-- macOS files: 377
+Total entries processed: 7055
+- macOS files: 378
 - Windows files: 6677
 
 ## Generated Files
@@ -1668,6 +1668,15 @@ Total entries processed: 7054
 - **File**: `mamp.yml`
 - **URL**: https://downloads.mamp.info/MAMP-PRO/macOS/MAMP-PRO/MAMP-MAMP-PRO-7.3-Apple-chip.pkg
 
+#### maru-jan
+
+- **Source**: homebrew/installomator
+- **Name**: maru-jan
+- **Description**: Generated from Homebrew cask or Installomator script
+- **Version**: 
+- **File**: `maru-jan.yml`
+- **URL**: https://www.maru-jan.com/download/Inst_MaruJan_Mac.pkg
+
 #### mbed-studio
 
 - **Source**: homebrew/installomator
@@ -3151,7 +3160,7 @@ Total entries processed: 7054
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `uuremote.yml`
-- **URL**: https://a56.gdl.netease.com/uuyc_4.10.0.pkg
+- **URL**: https://a56.gdl.netease.com/uuyc_4.11.0.pkg
 
 #### vcam
 
@@ -3603,7 +3612,7 @@ Total entries processed: 7054
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `3dflow-3dfzephyr-free.yml`
-- **URL**: https://3df-eu.fra1.digitaloceanspaces.com/8.031/3DF%20Zephyr%20Free%20v8.031%20(x64).exe
+- **URL**: https://3df-eu.fra1.digitaloceanspaces.com/8.038/3DF%20Zephyr%20Free%20v8.038%20(x64).exe
 
 #### 3dvista-virtualtour
 
@@ -11541,7 +11550,7 @@ Total entries processed: 7054
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bosyun-pixso-cn.yml`
-- **URL**: https://pixso-pub-prod.obs.cn-east-3.myhuaweicloud.com/cms/download/package/app/bosyun/2.2.1/Pixso_win_v2_2_1.exe
+- **URL**: https://pixso-pub-prod.obs.cn-east-3.myhuaweicloud.com/cms/download/package/app/bosyun/2.2.2/Pixso_win_v2_2_2.exe
 
 #### bosyun-pixso
 
@@ -12270,7 +12279,7 @@ Total entries processed: 7054
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bytedance-lark.yml`
-- **URL**: https://sf16-sg.larksuitecdn.com/obj/lark-artifact-storage/6f3cb5a7/Lark-win32_x64-7.57.7-signed.exe
+- **URL**: https://sf16-sg.larksuitecdn.com/obj/lark-artifact-storage/d8de2291/Lark-win32_x64-7.58.11-signed.exe
 
 #### bytedance-sodamusic
 
@@ -14412,7 +14421,7 @@ Total entries processed: 7054
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cometnetwork-bitcomet.yml`
-- **URL**: https://download.bitcomet.com/achive/BitComet_2.18_setup.exe
+- **URL**: https://download.bitcomet.com/achive/BitComet_2.19_setup.exe
 
 #### comfy-comfyui-desktop
 
@@ -29514,7 +29523,7 @@ Total entries processed: 7054
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-dolphin.yml`
-- **URL**: https://cdn.kde.org/ci-builds/system/dolphin/release-25.12/windows/dolphin-release_25.12-6866-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/system/dolphin/release-25.12/windows/dolphin-release_25.12-6877-windows-cl-msvc2022-x86_64.exe
 
 #### kde-elisa
 
@@ -39684,7 +39693,7 @@ Total entries processed: 7054
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-cs.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/146.0/win64/cs/Thunderbird%20Setup%20146.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/146.0.1/win64/cs/Thunderbird%20Setup%20146.0.1.exe
 
 #### mozilla-thunderbird-cy
 
@@ -40422,7 +40431,7 @@ Total entries processed: 7054
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-ga-ie.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/146.0/win64/ga-IE/Thunderbird%20Setup%20146.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/146.0.1/win64/ga-IE/Thunderbird%20Setup%20146.0.1.exe
 
 #### mozilla-thunderbird-gd
 
@@ -40728,7 +40737,7 @@ Total entries processed: 7054
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-th.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/146.0/win64/th/Thunderbird%20Setup%20146.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/146.0.1/win64/th/Thunderbird%20Setup%20146.0.1.exe
 
 #### mozilla-thunderbird-tr
 
@@ -41232,7 +41241,7 @@ Total entries processed: 7054
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `n3uronconnectivitysystems-n3uron.yml`
-- **URL**: https://get.n3uron.com/n3uron-setup-windows-x64.exe
+- **URL**: https://binaries.n3uron.com/release/n3uron-setup-1.22.0-x86_64-win32-msvc-251223.1657.exe
 
 #### n457-uncolored
 
@@ -48243,7 +48252,7 @@ Total entries processed: 7054
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `qgis-qfield.yml`
-- **URL**: https://github.com/opengisch/QField/releases/download/v4.0.2/qfield-v4.0.2-windows-x64.exe
+- **URL**: https://github.com/opengisch/QField/releases/download/v4.0.3/qfield-v4.0.3-windows-x64.exe
 
 #### qiagen-clcgenomicsworkbench
 
@@ -51996,7 +52005,7 @@ Total entries processed: 7054
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-12-22/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-12-24/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -56424,7 +56433,7 @@ Total entries processed: 7054
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-qqmusic.yml`
-- **URL**: https://c.y.qq.com/cgi-bin/file_redirect.fcg?bid=dldir&file=ecosfile%2Fmusic_clntupate%2Fpc%2Fother%2FQQMusic_Setup_2196.exe&sign=1-3a8c352f31e08d7e71ad9ac307d21395c02b8789c622e129a8edbc31934507ad-692d7f5f
+- **URL**: https://c.y.qq.com/cgi-bin/file_redirect.fcg?bid=dldir&file=ecosfile%2Fmusic_clntupate%2Fpc%2Fother%2FQQMusic_Setup_2200.exe&sign=1-68a957fbbb3e746905d2802d07afd4d24fa355dfb0fc3c29fc49e489a5e95d87-694b8b55
 
 #### tencent-qqpinyin
 
@@ -60600,7 +60609,7 @@ Total entries processed: 7054
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `waytech-clouddrive2.yml`
-- **URL**: https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v0.9.17/CloudDrive2Setup-X64-0.9.17.exe
+- **URL**: https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v0.9.18/CloudDrive2Setup-X64-0.9.18.exe
 
 #### weakauras-weakaurascompanion
 
@@ -61581,7 +61590,7 @@ Total entries processed: 7054
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wondershare-pdfelement-12.yml`
-- **URL**: https://download.wondershare.com/cbs_down/pdfelement-pro_64bit_12.1.3_full5239.exe
+- **URL**: https://download.wondershare.com/cbs_down/pdfelement-pro_64bit_12.1.4_full5239.exe
 
 #### wondershare-pdfelement-8
 
@@ -62661,7 +62670,7 @@ Total entries processed: 7054
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ycookiey-yclocky.yml`
-- **URL**: https://github.com/ycookiey/yClocky/releases/download/v1.0.1/yClocky.exe
+- **URL**: https://github.com/ycookiey/yClocky/releases/download/v1.0.2/yClocky.exe
 
 #### yendisentertainment-krunkerclient
 
