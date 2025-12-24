@@ -1,4 +1,4 @@
-url: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/146.0.1/win64/de/Thunderbird%20Setup%20146.0.1.exe
+url: https://github.com/raspberrypi/rpi-imager/releases/download/v2.0.3/imager-v2.0.3.exe
 automatic_install: false
 self_service: false
 categories: []
