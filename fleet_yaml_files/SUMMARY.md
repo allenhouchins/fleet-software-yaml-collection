@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-12-25 18:05:21 UTC
+Generated on: 2025-12-26 06:05:30 UTC
 
 ## Summary
 
@@ -5214,7 +5214,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `alibaba-quark.yml`
-- **URL**: https://umcdn.quark.cn/download/37212/quarkpc/pcquark@homepage_oficial/QuarkPC_V6.0.8.649_pc_pf30002_(zh-cn)_release_(Build2653461-1000-x64).exe
+- **URL**: https://umcdn.quark.cn/download/37212/quarkpc/pcquark@homepage_oficial/QuarkPC_V6.1.3.663_pc_pf30002_(zh-cn)_release_(Build2674620-1000-x64).exe
 
 #### alibaba-quarkclouddrive
 
@@ -11883,7 +11883,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `browseros-browseros.yml`
-- **URL**: https://github.com/browseros-ai/BrowserOS/releases/download/v0.34.0/BrowserOS_v0.34.0_x64_installer.exe
+- **URL**: https://github.com/browseros-ai/BrowserOS/releases/download/v0.35.0/BrowserOS_v0.35.0_x64_installer.exe
 
 #### browserstack-browserstacklocal
 
@@ -18300,7 +18300,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `eat-pray-ai-yutu.yml`
-- **URL**: https://github.com/eat-pray-ai/yutu/releases/download/v0.10.3/yutu-windows-amd64.exe
+- **URL**: https://github.com/eat-pray-ai/yutu/releases/download/v0.10.4/yutu-windows-amd64.exe
 
 #### ebbflow-ebbflow
 
@@ -22854,7 +22854,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gitlab-runner.yml`
-- **URL**: https://gitlab-runner-downloads.s3.amazonaws.com/v18.7.0/binaries/gitlab-runner-windows-amd64.exe
+- **URL**: https://gitlab-runner-downloads.s3.amazonaws.com/v18.7.1/binaries/gitlab-runner-windows-amd64.exe
 
 #### gitthermal-thermal
 
@@ -23340,7 +23340,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-androidstudio.yml`
-- **URL**: https://redirector.gvt1.com/edgedl/android/studio/install/2025.2.2.7/android-studio-2025.2.2.7-windows.exe
+- **URL**: https://redirector.gvt1.com/edgedl/android/studio/install/2025.2.2.8/android-studio-2025.2.2.8-windows.exe
 
 #### google-antigravity
 
@@ -48792,7 +48792,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rakuten-viber.yml`
-- **URL**: https://download.cdn.viber.com/desktop/windows/26.8.3/ViberSetup.msi
+- **URL**: https://download.cdn.viber.com/desktop/windows/26.8.4/ViberSetup.msi
 
 #### rambax-simpletransfer
 
@@ -54075,7 +54075,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `stardesk-stardesk.yml`
-- **URL**: https://dl.stardesk.net/StarDesk_Setup_1.0.4.5925_1127231252_webcoop.exe
+- **URL**: https://github.com/vantixxcode/Stardesk-Releases/releases/download/v1.0.5/StarDesk_Setup_1.0.5.6225_1222170245_webcoop.exe
 
 #### stardock-curtains
 
@@ -58737,7 +58737,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ultimategadgetlaboratories-uhkagent.yml`
-- **URL**: https://github.com/UltimateHackingKeyboard/agent/releases/download/v8.0.1/UHK.Agent-8.0.1-win-x64.exe
+- **URL**: https://github.com/UltimateHackingKeyboard/agent/releases/download/v9.0.0/UHK.Agent-9.0.0-win-x64.exe
 
 #### ultra-ultra
 
@@ -59601,7 +59601,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc-nightly.yml`
-- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251215-0429/vlc-4.0.0-dev-win64-c833c4be.msi
+- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251222-0430/vlc-4.0.0-dev-win64-057833ca.msi
 
 #### videolan-vlc
 
@@ -60420,7 +60420,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wanghongenpin-proxypin.yml`
-- **URL**: https://github.com/wanghongenpin/proxypin/releases/download/v1.2.2/proxypin-windows-setup.exe
+- **URL**: https://github.com/wanghongenpin/proxypin/releases/download/v1.2.3/proxypin-windows-setup.exe
 
 #### wangyu-bilibilivideodownload
 
@@ -60456,7 +60456,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `warmdev-ash.yml`
-- **URL**: https://github.com/warmdev17/ash/releases/download/v1.0.5/ash-installer.exe
+- **URL**: https://github.com/warmdev17/ash/releases/download/v2.0.0/ash-installer.exe
 
 #### warzone2100project-warzone2100
 
@@ -61941,7 +61941,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wxriw-lyricify.yml`
-- **URL**: https://github.com/WXRIW/Lyricify-App/releases/download/v4.3.38/Lyricify.Setup.Ver.4.3.38.251016-release.x64.exe
+- **URL**: https://github.com/WXRIW/Lyricify-App/releases/download/v4.3.40/Lyricify.Setup.Ver.4.3.40.251226-release.x64.exe
 
 #### xampprocky-tokei
 
@@ -61977,7 +61977,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xanderfrangos-twinkletray.yml`
-- **URL**: https://github.com/xanderfrangos/twinkle-tray/releases/download/v1.17.1/Twinkle.Tray.v1.17.1.exe
+- **URL**: https://github.com/xanderfrangos/twinkle-tray/releases/download/v1.17.2/Twinkle.Tray.v1.17.2.exe
 
 #### xanthus58-afformationrequester
 
@@ -62481,7 +62481,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xrevealteam-xreveal.yml`
-- **URL**: https://www.xreveal.com/download/xreveal_2.8.8_x64.exe
+- **URL**: https://www.xreveal.com/download/xreveal_2.8.9_x64.exe
 
 #### xssnick-ton-torrent
 
@@ -62787,7 +62787,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yt-dlp-yt-dlp-nightly.yml`
-- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.12.09.233030/yt-dlp.exe
+- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.12.24.233043/yt-dlp.exe
 
 #### yt-dlp-yt-dlp
 
