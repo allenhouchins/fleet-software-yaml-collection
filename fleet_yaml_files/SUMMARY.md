@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-12-26 06:05:30 UTC
+Generated on: 2025-12-26 18:05:14 UTC
 
 ## Summary
 
@@ -3531,7 +3531,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `360-360chrome-x.yml`
-- **URL**: https://sedl.360tpcdn.com/cse/360csex_23.1.1137.64.exe
+- **URL**: https://sedl.360tpcdn.com/cse/360csex_23.1.1153.64.exe
 
 #### 360-360desktoplite
 
@@ -10596,7 +10596,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `binaryfortress-displayfusion.yml`
-- **URL**: https://binaryfortressdownloads.com/Download/BFSFiles/101/DisplayFusionSetup-12.0.exe
+- **URL**: https://binaryfortressdownloads.com/Download/BFSFiles/101/DisplayFusionSetup-12.0c.exe
 
 #### binaryfortress-fileseek
 
@@ -12333,7 +12333,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bytedance-trae-cn.yml`
-- **URL**: https://lf-cdn.trae.ai/obj/trae-ai-us/pkg/app/releases/stable/1.0.26196/win32/Trae%20CN-Setup-x64.exe
+- **URL**: https://lf-cdn.trae.ai/obj/trae-ai-us/pkg/app/releases/stable/1.0.27214/win32/Trae%20CN-Setup-x64.exe
 
 #### bytedance-trae
 
@@ -13449,7 +13449,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `chrox-readest.yml`
-- **URL**: https://github.com/readest/readest/releases/download/v0.9.95/Readest_0.9.95_x64-setup.exe
+- **URL**: https://github.com/readest/readest/releases/download/v0.9.96/Readest_0.9.96_x64-setup.exe
 
 #### chungzh-notepanda
 
@@ -14349,7 +14349,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `coldlake-stellarplayer.yml`
-- **URL**: https://player-download.coldlake1.com/player/20251124130236/Stellar_20251124130236_official_stable_full_x64.exe
+- **URL**: https://player-download.coldlake1.com/player/20251224144630/Stellar_20251224144630_official_stable_full_x64.exe
 
 #### coldturkeysoftware-coldturkeyblocker
 
@@ -22998,7 +22998,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `giuliosorrentino-windatefrom.yml`
-- **URL**: https://github.com/GiulianoSpaghetti/WinDateFrom.avalonia/releases/download/6.0/WinDateFrom.Avalonia-6.0.0.1-amd64.msi
+- **URL**: https://github.com/GiulianoSpaghetti/WinDateFrom.avalonia/releases/download/6.0/WinDateFrom.Avalonia-6.0-amd64.msi
 
 #### giuliosorrentino-wxbriscola
 
@@ -23376,7 +23376,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/dwu2vfdlgtkpgaiexxj4xyvny4_145.0.7598.0/145.0.7598.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/adpopaiq5aaz7vfosikexymygdza_145.0.7600.0/145.0.7600.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -24168,7 +24168,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gtxfury-flyclash.yml`
-- **URL**: https://github.com/GtxFury/FlyClash/releases/download/v0.2.4/FlyClash-0.2.4-x64-setup.exe
+- **URL**: https://github.com/GtxFury/FlyClash/releases/download/v0.2.5/FlyClash-0.2.5-x64-setup.exe
 
 #### guhan-goodcommit
 
@@ -24312,7 +24312,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `haimacloud-haimacloud.yml`
-- **URL**: https://pc-cos.haimacloud.com/release/haimayun/v2.4.1/windows/海马云电脑-v2.4.1-win32-x64.exe
+- **URL**: https://pc-cos.haimacloud.com/release/haimayun/v2.4.2/windows/海马云电脑-v2.4.2-win32-x64.exe
 
 #### hainguyen-mechvibes
 
@@ -24330,7 +24330,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `haiying-aionui.yml`
-- **URL**: https://github.com/iOfficeAI/AionUi/releases/download/v1.6.5/AionUi-1.6.5-win-x64.exe
+- **URL**: https://github.com/iOfficeAI/AionUi/releases/download/v1.6.7/AionUi-1.6.7-win-x64.exe
 
 #### hakuneko-hakuneko-nightly
 
@@ -28515,7 +28515,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-teamcity.yml`
-- **URL**: https://download.jetbrains.com/teamcity/TeamCity-2025.07.3.exe
+- **URL**: https://download.jetbrains.com/teamcity/TeamCity-2025.11.exe
 
 #### jetbrains-toolbox
 
@@ -44049,7 +44049,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `onlyoffice-desktopeditors.yml`
-- **URL**: https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.2.0/DesktopEditors_x64.exe
+- **URL**: https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.2.1/DesktopEditors_x64.exe
 
 #### onoff-onlook
 
@@ -50574,7 +50574,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rubyinstallerteam-ruby-3-4.yml`
-- **URL**: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.7-1/rubyinstaller-3.4.7-1-x64.exe
+- **URL**: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.8-1/rubyinstaller-3.4.8-1-x64.exe
 
 #### rubyinstallerteam-rubywithdevkit-2-6
 
@@ -52023,7 +52023,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-12-25/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-12-26/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -55713,7 +55713,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tandem-tandem.yml`
-- **URL**: https://download.todesktop.com/200527auaqaacsy/Tandem%20Setup%202.2.1633%20-%20Build%20250926cixb47e8j-x64.exe
+- **URL**: https://download.todesktop.com/200527auaqaacsy/Tandem%20Setup%203.0.0%20-%20Build%20251226zduiutrs9-x64.exe
 
 #### tangshimin-mujing
 
@@ -56451,7 +56451,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-qqmusic.yml`
-- **URL**: https://c.y.qq.com/cgi-bin/file_redirect.fcg?bid=dldir&file=ecosfile%2Fmusic_clntupate%2Fpc%2Fother%2FQQMusic_Setup_2200.exe&sign=1-68a957fbbb3e746905d2802d07afd4d24fa355dfb0fc3c29fc49e489a5e95d87-694b8b55
+- **URL**: https://c.y.qq.com/cgi-bin/file_redirect.fcg?bid=dldir&file=ecosfile%2Fmusic_clntupate%2Fpc%2Fother%2FQQMusic_Setup_2201.exe&sign=1-c98195b3a0589ddd4429c727f6f529c843fa894b02bbe09e7a616f8152f053a3-694e3336
 
 #### tencent-qqpinyin
 
@@ -56586,7 +56586,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-yuanbao.yml`
-- **URL**: https://cdn-hybrid-prod.hunyuan.tencent.com/Desktop/official/4f77db9b3fccfe9e1fe0d3adc69e98a9/yuanbao_2.47.0.636_x64.exe
+- **URL**: https://cdn-hybrid-prod.hunyuan.tencent.com/Desktop/official/a98d85e15d9dff2f9a2ddd4ca35b0022/yuanbao_2.49.0.615_x64.exe
 
 #### tenpi-musicplayer
 
