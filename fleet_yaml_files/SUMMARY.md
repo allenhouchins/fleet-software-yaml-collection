@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-12-27 06:05:13 UTC
+Generated on: 2025-12-27 18:05:05 UTC
 
 ## Summary
 
@@ -1360,7 +1360,7 @@ Total entries processed: 7064
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `hackolade.yml`
-- **URL**: https://hackolade.s3.amazonaws.com/previous/v8.8.1/Hackolade-macARM64-setup-signed.pkg
+- **URL**: https://hackolade.s3.amazonaws.com/previous/v8.8.2/Hackolade-macARM64-setup-signed.pkg
 
 #### hancom-docs
 
@@ -7167,7 +7167,7 @@ Total entries processed: 7064
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `anysphere-cursor.yml`
-- **URL**: https://downloads.cursor.com/production/86d7e0c1a66a0a5f7e32cdbaf9b4bfbaf20ddaf2/win32/x64/user-setup/CursorUserSetup-x64-2.2.35.exe
+- **URL**: https://downloads.cursor.com/production/20adc1003928b0f1b99305dbaf845656ff81f5d4/win32/x64/user-setup/CursorUserSetup-x64-2.2.44.exe
 
 #### apache-directorystudio
 
@@ -26418,7 +26418,7 @@ Total entries processed: 7064
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `inkscape-inkscape.yml`
-- **URL**: https://media.inkscape.org/dl/resources/file/inkscape-1.4.2_2025-05-13_f4327f4-x64.msi
+- **URL**: https://media.inkscape.org/dl/resources/file/inkscape-signed.msi
 
 #### innovaphone-myapps
 
@@ -26517,7 +26517,7 @@ Total entries processed: 7064
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `integrit-hackolade.yml`
-- **URL**: https://s3-eu-west-1.amazonaws.com/hackolade/previous/v8.8.1/Hackolade-win64-setup-signed.exe
+- **URL**: https://s3-eu-west-1.amazonaws.com/hackolade/previous/v8.8.2/Hackolade-win64-setup-signed.exe
 
 #### intel-fortrancompiler
 
@@ -27489,7 +27489,7 @@ Total entries processed: 7064
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jamestsang-nettune.yml`
-- **URL**: https://github.com/jtsang4/nettune/releases/download/v0.2.4/nettune-windows-amd64.exe
+- **URL**: https://github.com/jtsang4/nettune/releases/download/v0.2.5/nettune-windows-amd64.exe
 
 #### jamovi-desktop-current
 
@@ -31458,7 +31458,7 @@ Total entries processed: 7064
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `legeling-prompthub.yml`
-- **URL**: https://github.com/legeling/PromptHub/releases/download/v0.3.2/PromptHub-Setup-0.3.2-x64.exe
+- **URL**: https://github.com/legeling/PromptHub/releases/download/v0.3.3/PromptHub-Setup-0.3.3-x64.exe
 
 #### legithubdetai-animeback
 
@@ -42510,7 +42510,7 @@ Total entries processed: 7064
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nicolasbonamy-witsy.yml`
-- **URL**: https://github.com/nbonamy/witsy/releases/download/v3.3.0/Witsy-3.3.0-win32-x64.Setup.exe
+- **URL**: https://github.com/nbonamy/witsy/releases/download/v3.3.1/Witsy-3.3.1-win32-x64.Setup.exe
 
 #### nicolasconstant-sengi
 
@@ -46578,7 +46578,7 @@ Total entries processed: 7064
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pixpin-pixpin-beta.yml`
-- **URL**: https://download.pixpinapp.com/PixPin_cn_zh-cn_2.3.3.0.exe
+- **URL**: https://download.pixpinapp.com/PixPin_cn_zh-cn_2.3.7.0.exe
 
 #### pixpin-pixpin
 
@@ -52077,7 +52077,7 @@ Total entries processed: 7064
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-12-26/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-12-27/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -52383,7 +52383,7 @@ Total entries processed: 7064
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sidero-omnictl.yml`
-- **URL**: https://github.com/siderolabs/omni/releases/download/v1.4.3/omnictl-windows-amd64.exe
+- **URL**: https://github.com/siderolabs/omni/releases/download/v1.4.4/omnictl-windows-amd64.exe
 
 #### sidero-talosctl
 
@@ -53850,7 +53850,7 @@ Total entries processed: 7064
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `spotify-spotify.yml`
-- **URL**: https://upgrade.scdn.co/upgrade/client/win32-x86_64/spotify_installer-1.2.80.232.gcd5eb6df-705.exe
+- **URL**: https://upgrade.scdn.co/upgrade/client/win32-x86_64/spotify_installer-1.2.80.354.gc3785978-1005.exe
 
 #### springlobby-springlobby
 
@@ -58593,7 +58593,7 @@ Total entries processed: 7064
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tuxguitar-tuxguitar.yml`
-- **URL**: https://github.com/helge17/tuxguitar/releases/download/2.0.0/tuxguitar-2.0.0-windows-swt-x86_64-installer.exe
+- **URL**: https://github.com/helge17/tuxguitar/releases/download/2.0.1/tuxguitar-2.0.1-windows-swt-x86_64-installer.exe
 
 #### tweaknow-autodark
 
@@ -60411,7 +60411,7 @@ Total entries processed: 7064
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wagnardsoft-displaydriveruninstaller.yml`
-- **URL**: https://www.wagnardsoft.com/DDU/download/DDU%20v18.1.3.9_setup.exe
+- **URL**: https://www.wagnardsoft.com/DDU/download/DDU%20v18.1.4.0_setup.exe
 
 #### wago-addons
 
@@ -60681,7 +60681,7 @@ Total entries processed: 7064
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `waytech-clouddrive2.yml`
-- **URL**: https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v0.9.18/CloudDrive2Setup-X64-0.9.18.exe
+- **URL**: https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v0.9.19/CloudDrive2Setup-X64-0.9.19.exe
 
 #### weakauras-weakaurascompanion
 
@@ -60951,7 +60951,7 @@ Total entries processed: 7064
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `whta-tamara.yml`
-- **URL**: https://download.tamara.app/2025.4.1.5/installer.exe
+- **URL**: https://download.tamara.app/2025.4.1.6/installer.exe
 
 #### whyboris-video-hub-app-demo
 
