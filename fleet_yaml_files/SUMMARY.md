@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-12-26 18:05:14 UTC
+Generated on: 2025-12-27 06:05:13 UTC
 
 ## Summary
 
-Total entries processed: 7057
+Total entries processed: 7064
 - macOS files: 380
-- Windows files: 6677
+- Windows files: 6684
 
 ## Generated Files
 
@@ -208,7 +208,7 @@ Total entries processed: 7057
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `aws-vpn-client.yml`
-- **URL**: https://d20adtppz83p9s.cloudfront.net/OSX/5.3.2/AWS_VPN_Client.pkg
+- **URL**: https://d20adtppz83p9s.cloudfront.net/OSX/5.3.3/AWS_VPN_Client.pkg
 
 #### awscli2
 
@@ -2953,7 +2953,7 @@ Total entries processed: 7057
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `teleport-suite.yml`
-- **URL**: https://cdn.teleport.dev/teleport-18.6.1.pkg
+- **URL**: https://cdn.teleport.dev/teleport-18.6.2.pkg
 
 #### temurin-11
 
@@ -3830,6 +3830,15 @@ Total entries processed: 7057
 - **File**: `abc-powerextension.yml`
 - **URL**: https://perbank.cdn-static.abchina.com/POBNew/ext/PowerExtensionABC.exe
 
+#### abdelmoniemelhifnawy-pidcat
+
+- **Source**: winget
+- **Name**: abdelmoniemelhifnawy-pidcat
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `abdelmoniemelhifnawy-pidcat.yml`
+- **URL**: https://github.com/abdalmoniem/pidcat/releases/download/v2.5.5/PidCat_v2.5.5_Sat_27_Dec_2025_01_26_51.484_AM.exe
+
 #### abdelrahmanbayoumi-azkar
 
 - **Source**: winget
@@ -3882,7 +3891,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ablaze-floorp.yml`
-- **URL**: https://github.com/Floorp-Projects/Floorp/releases/download/v12.9.1/floorp-windows-x86_64.installer.exe
+- **URL**: https://github.com/Floorp-Projects/Floorp/releases/download/v12.9.2/floorp-windows-x86_64.installer.exe
 
 #### abrignoni-aleapp-cli
 
@@ -6242,6 +6251,15 @@ Total entries processed: 7057
 - **File**: `amanharwara-altus.yml`
 - **URL**: https://github.com/amanharwara/altus/releases/download/5.6.0/Altus-Setup-5.6.0.exe
 
+#### amarbego-gittop
+
+- **Source**: winget
+- **Name**: amarbego-gittop
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `amarbego-gittop.yml`
+- **URL**: https://github.com/AmarBego/GitTop/releases/download/v0.1.5/gittop-0.1.5-setup.exe
+
 #### amarbego-rscoop
 
 - **Source**: winget
@@ -7140,7 +7158,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `anyme123-claudeworkbench.yml`
-- **URL**: https://github.com/anyme123/Any-code/releases/download/v5.13.5/Any.Code_5.13.5_x64-setup.exe
+- **URL**: https://github.com/anyme123/Any-code/releases/download/v5.9.7/Any.Code_5.9.7_x64-setup.exe
 
 #### anysphere-cursor
 
@@ -7383,7 +7401,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `arashivisioninc-insta360studio.yml`
-- **URL**: https://file.insta360.com/static/68bd3361b2b7928b574687fdb0858003/Insta360_Studio_5.8.4_release_insta360(RC_build61)_20251208_172239_1765185975449.exe
+- **URL**: https://file.insta360.com/static/f76e37c662d8c627153ab8cdb301b8d9/Insta360_Studio_5.8.6_release_insta360(RC_build67)_20251226_170408_1766740076009.exe
 
 #### araxis-merge
 
@@ -9526,6 +9544,15 @@ Total entries processed: 7057
 - **Version**: 
 - **File**: `bellsoft-libericajdk-14-full.yml`
 - **URL**: https://download.bell-sw.com/java/14.0.2+13/bellsoft-jdk14.0.2+13-windows-amd64-full.msi
+
+#### bellsoft-libericajdk-14-lite
+
+- **Source**: winget
+- **Name**: bellsoft-libericajdk-14-lite
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `bellsoft-libericajdk-14-lite.yml`
+- **URL**: https://download.bell-sw.com/java/14.0.2+13/bellsoft-jdk14.0.2+13-windows-amd64-lite.msi
 
 #### bellsoft-libericajdk-14
 
@@ -12775,6 +12802,15 @@ Total entries processed: 7057
 - **Version**: 
 - **File**: `cbs-rainbow.yml`
 - **URL**: https://cbs-rainbow.cbs.co.kr/install_pc/rainbowInstall.exe
+
+#### ccextractor-ccextractor
+
+- **Source**: winget
+- **Name**: ccextractor-ccextractor
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `ccextractor-ccextractor.yml`
+- **URL**: https://github.com/CCExtractor/ccextractor/releases/download/v0.96.2/CCExtractor.0.96.2.msi
 
 #### ccl-netlogo
 
@@ -18975,7 +19011,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `elastic-packetbeat.yml`
-- **URL**: https://artifacts.elastic.co/downloads/beats/packetbeat/packetbeat-9.2.2-windows-x86_64.msi
+- **URL**: https://artifacts.elastic.co/downloads/beats/packetbeat/packetbeat-9.2.3-windows-x86_64.msi
 
 #### elastic-winlogbeat
 
@@ -21576,7 +21612,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `foxit-phantompdf.yml`
-- **URL**: https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/14.0.0/FoxitPDFEditor140_L10N_Setup_x64.exe
+- **URL**: https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/14.0.2/FoxitPDFEditor1402_L10N_Setup_x64.exe
 
 #### framer-framer
 
@@ -23376,7 +23412,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/adpopaiq5aaz7vfosikexymygdza_145.0.7600.0/145.0.7600.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/acbwnoq4mmqqm7jk2hbkhkascbcq_145.0.7601.0/145.0.7601.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -23961,7 +23997,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gravitational-teleportconnect.yml`
-- **URL**: https://cdn.teleport.dev/Teleport%20Connect%20Setup-18.6.1.exe
+- **URL**: https://cdn.teleport.dev/Teleport%20Connect%20Setup-18.6.2.exe
 
 #### grayloginc-graylogsidecar
 
@@ -24627,7 +24663,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hellofont-hellofont.yml`
-- **URL**: https://download.hellofont.cn/Client/Release/channels/official/字由%20Setup%205.0.2.exe
+- **URL**: https://download.hellofont.cn/Client/Release/channels/official/字由%20Setup%205.0.3.exe
 
 #### helmutbuhler-8gadgetpack
 
@@ -28146,7 +28182,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-clion.yml`
-- **URL**: https://download.jetbrains.com/cpp/CLion-2025.2.5.exe
+- **URL**: https://download.jetbrains.com/cpp/CLion-2025.3.exe
 
 #### jetbrains-datagrip-eap
 
@@ -28263,7 +28299,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-goland.yml`
-- **URL**: https://download.jetbrains.com/go/goland-2025.2.5.exe
+- **URL**: https://download.jetbrains.com/go/goland-2025.3.exe
 
 #### jetbrains-hub
 
@@ -28769,6 +28805,15 @@ Total entries processed: 7057
 - **File**: `jlc-lceda.yml`
 - **URL**: https://image.lceda.cn/files/lceda-windows-x64-6.5.51.exe
 
+#### joadoumie-nbacommandpaletteextension
+
+- **Source**: winget
+- **Name**: joadoumie-nbacommandpaletteextension
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `joadoumie-nbacommandpaletteextension.yml`
+- **URL**: https://github.com/joadoumie/NBACmdPalExtension/releases/download/NBAExtension-v0.0.1.0/NBAExtension-Setup-0.0.1.0-x64.exe
+
 #### joancharmant-kinovea
 
 - **Source**: winget
@@ -29100,7 +29145,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jul13n1-arcagent.yml`
-- **URL**: https://github.com/Jul13n1/arc-release/releases/download/v1.0.6/Arc_Installer.exe
+- **URL**: https://github.com/Jul13n1/arc-release/releases/download/agent-v1.3.0/Arc_Installer_v1.3.0_windows.exe
 
 #### julialang-julia
 
@@ -29154,7 +29199,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `junkundi-crossdesk.yml`
-- **URL**: https://github.com/kunkundi/crossdesk/releases/download/v1.1.13-20251209-58c24b7/crossdesk-win-x64-v1.1.13-20251209-58c24b7.exe
+- **URL**: https://github.com/kunkundi/crossdesk/releases/download/v1.1.14-20251210-e09243f/crossdesk-win-x64-v1.1.14-20251210-e09243f.exe
 
 #### jurplel-qview
 
@@ -29605,6 +29650,15 @@ Total entries processed: 7057
 - **Version**: 
 - **File**: `kde-haruna.yml`
 - **URL**: https://cdn.kde.org/ci-builds/multimedia/haruna/master/windows/haruna-master-1525-windows-gcc-x86_64.exe
+
+#### kde-kaichat
+
+- **Source**: winget
+- **Name**: kde-kaichat
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `kde-kaichat.yml`
+- **URL**: https://cdn.kde.org/ci-builds/utilities/kaichat/0.5/windows/kaichat-0.5-575-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kaidan
 
@@ -30288,7 +30342,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kevinboss-port.yml`
-- **URL**: https://github.com/kevinboss/port/releases/download/v2.3.1/port.exe
+- **URL**: https://github.com/kevinboss/port/releases/download/v2.3.2/port.exe
 
 #### kevinbralten-png2ico
 
@@ -41808,7 +41862,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `netbird-netbird.yml`
-- **URL**: https://github.com/netbirdio/netbird/releases/download/v0.60.7/netbird_installer_0.60.7_windows_amd64.msi
+- **URL**: https://github.com/netbirdio/netbird/releases/download/v0.60.9/netbird_installer_0.60.9_windows_amd64.msi
 
 #### netease-cloudmusic
 
@@ -55695,7 +55749,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `talkdesk-talkdesk.yml`
-- **URL**: https://td-infra-prd-us-east-1-s3-atlaselectron.s3.amazonaws.com/talkdesk-3.0.0.exe
+- **URL**: https://td-infra-prd-us-east-1-s3-atlaselectron.s3.amazonaws.com/talkdesk-3.0.2.exe
 
 #### tamsosvardu-renpycheatgenerator
 
@@ -56001,7 +56055,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `teamsophia-sophiascript.yml`
-- **URL**: https://github.com/farag2/Sophia-Script-for-Windows/releases/download/7.0.0/Sophia.Script.for.Windows.11.v7.0.0_WinGet.exe
+- **URL**: https://github.com/farag2/Sophia-Script-for-Windows/releases/download/7.0.1/Sophia.Script.for.Windows.11.v7.0.1_WinGet.exe
 
 #### teamspeaksystems-teamspeakclient-beta-5
 
@@ -59664,7 +59718,7 @@ Total entries processed: 7057
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.2006/gvim_9.1.2006_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.2022/gvim_9.1.2022_x64.exe
 
 #### vim-vim
 
@@ -63184,6 +63238,15 @@ Total entries processed: 7057
 - **Version**: 
 - **File**: `zheguisoft-zg-ipchat.yml`
 - **URL**: https://www.zheguisoft.com/releases/zg-ipchat-1.00.05.exe
+
+#### zhipuai-autoglm
+
+- **Source**: winget
+- **Name**: zhipuai-autoglm
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `zhipuai-autoglm.yml`
+- **URL**: https://autoglm.aminer.cn/autotyper/updates/AutoGLM_win32_x64_1.2.0.exe
 
 #### zhipuai-chatglm
 

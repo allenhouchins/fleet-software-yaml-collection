@@ -1,4 +1,4 @@
-url: https://artifacts.elastic.co/downloads/beats/packetbeat/packetbeat-9.2.3-windows-x86_64.msi
+url: https://download.bell-sw.com/java/14.0.2+13/bellsoft-jdk14.0.2+13-windows-amd64-lite.msi
 automatic_install: false
 self_service: false
 categories: []

@@ -1,4 +1,4 @@
-url: https://artifacts.elastic.co/downloads/beats/packetbeat/packetbeat-9.2.3-windows-x86_64.msi
+url: https://github.com/CCExtractor/ccextractor/releases/download/v0.96.2/CCExtractor.0.96.2.msi
 automatic_install: false
 self_service: false
 categories: []
