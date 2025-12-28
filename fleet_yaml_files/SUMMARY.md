@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-12-27 18:05:05 UTC
+Generated on: 2025-12-28 06:05:17 UTC
 
 ## Summary
 
-Total entries processed: 7064
+Total entries processed: 7068
 - macOS files: 380
-- Windows files: 6684
+- Windows files: 6688
 
 ## Generated Files
 
@@ -12936,7 +12936,7 @@ Total entries processed: 7064
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cevio-cevioai.yml`
-- **URL**: https://cevio.jp/storage/cevio_ai/CeVIO_AI_Setup_x64_(9.1.19.0).msi
+- **URL**: http://storage.cevio.jp/product/CeVIO_AI_Setup_x64_(9.1.5.0).msi
 
 #### cevio-ceviocs7
 
@@ -13351,6 +13351,15 @@ Total entries processed: 7064
 - **Version**: 
 - **File**: `chillicream-bananacakepop.yml`
 - **URL**: https://download.chillicream.com/bananacakepop/BananaCakePop-1.0.0-preview.31-win-x64.exe
+
+#### chillicream-nitro
+
+- **Source**: winget
+- **Name**: chillicream-nitro
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `chillicream-nitro.yml`
+- **URL**: https://cdn.chillicream.com/app/Nitro-29.0.1-win-x64.exe
 
 #### chirpsoftware-chirp-legacy
 
@@ -22064,6 +22073,15 @@ Total entries processed: 7064
 - **File**: `g0rocks-cab.yml`
 - **URL**: https://github.com/G0rocks/cab/releases/download/V0.0.0-Alpha/cab.exe
 
+#### g0rocks-desktopshortcutremover
+
+- **Source**: winget
+- **Name**: g0rocks-desktopshortcutremover
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `g0rocks-desktopshortcutremover.yml`
+- **URL**: https://github.com/G0rocks/desktop_shortcut_remover/releases/download/1.0.0/desktop_shortcut_remover.exe
+
 #### g3g4x5x6-ultimate-cube
 
 - **Source**: winget
@@ -23034,7 +23052,7 @@ Total entries processed: 7064
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `giuliosorrentino-windatefrom.yml`
-- **URL**: https://github.com/GiulianoSpaghetti/WinDateFrom.avalonia/releases/download/6.0/WinDateFrom.Avalonia-6.0-amd64.msi
+- **URL**: https://github.com/GiulianoSpaghetti/WinDateFrom.avalonia/releases/download/6.0/WinDateFrom.Avalonia-6.0.0.1-amd64.msi
 
 #### giuliosorrentino-wxbriscola
 
@@ -23412,7 +23430,7 @@ Total entries processed: 7064
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/acbwnoq4mmqqm7jk2hbkhkascbcq_145.0.7601.0/145.0.7601.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/g6o3fiu6l5n6gpl2ob7ga67i5q_145.0.7603.0/145.0.7603.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -34959,7 +34977,7 @@ Total entries processed: 7064
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-msmpi.yml`
-- **URL**: https://download.microsoft.com/download/a/5/2/a5207ca5-1203-491a-8fb8-906fd68ae623/msmpisetup.exe
+- **URL**: https://download.microsoft.com/download/7/2/7/72731ebb-b63c-4170-ade7-836966263a8f/msmpisetup.exe
 
 #### microsoft-msmpisdk
 
@@ -43041,7 +43059,7 @@ Total entries processed: 7064
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `notepad---notepad--.yml`
-- **URL**: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.8.9/npp.8.8.9.Installer.x64.exe
+- **URL**: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9/npp.8.9.Installer.x64.exe
 
 #### notepad2mod-notepad2mod
 
@@ -43905,7 +43923,7 @@ Total entries processed: 7064
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `oliverbetz-exiftool.yml`
-- **URL**: https://oliverbetz.de/cms/files/Artikel/ExifTool-for-Windows/ExifTool_install_13.44_64.exe
+- **URL**: https://oliverbetz.de/cms/files/Artikel/ExifTool-for-Windows/ExifTool_install_13.45_64.exe
 
 #### oliverfida-fsimman
 
@@ -52383,7 +52401,7 @@ Total entries processed: 7064
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sidero-omnictl.yml`
-- **URL**: https://github.com/siderolabs/omni/releases/download/v1.4.4/omnictl-windows-amd64.exe
+- **URL**: https://github.com/siderolabs/omni/releases/download/v1.4.5/omnictl-windows-amd64.exe
 
 #### sidero-talosctl
 
@@ -56424,7 +56442,7 @@ Total entries processed: 7064
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-codebuddy.yml`
-- **URL**: https://codebuddy-1328495429.cos.accelerate.myqcloud.com/aiide/win32-x64-user/CodeBuddy-win32-x64-user-4.1.2.15364975-c66da3dc81-5917ed8b.exe
+- **URL**: https://codebuddy-1328495429.cos.accelerate.myqcloud.com/aiide/win32-x64-user/CodeBuddy-win32-x64-user-4.2.2.16135922-ac46abb397-d4a42927.exe
 
 #### tencent-cosbrowser
 
@@ -58829,6 +58847,15 @@ Total entries processed: 7064
 - **File**: `unetbootin-unetbootin.yml`
 - **URL**: https://github.com/unetbootin/unetbootin/releases/download/702/unetbootin-windows-702.exe
 
+#### ungive-musicpresence
+
+- **Source**: winget
+- **Name**: ungive-musicpresence
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `ungive-musicpresence.yml`
+- **URL**: https://github.com/ungive/discord-music-presence/releases/download/v2.3.4/musicpresence-2.3.4-windows-x64-installer.exe
+
 #### unibo-alchemist
 
 - **Source**: winget
@@ -59655,7 +59682,7 @@ Total entries processed: 7064
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc-nightly.yml`
-- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251222-0430/vlc-4.0.0-dev-win64-057833ca.msi
+- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251227-0425/vlc-4.0.0-dev-win64-36464b93.msi
 
 #### videolan-vlc
 
@@ -62113,6 +62140,15 @@ Total entries processed: 7064
 - **Version**: 
 - **File**: `xcas-xcas.yml`
 - **URL**: https://www-fourier.univ-grenoble-alpes.fr/~parisse/giac/xcasinst.exe
+
+#### xdpxi-xds-code
+
+- **Source**: winget
+- **Name**: xdpxi-xds-code
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `xdpxi-xds-code.yml`
+- **URL**: https://github.com/XDPXI/XDs-Code/releases/download/0.7.5/xds-code_0.7.5_windows-x64-msi.msi
 
 #### xenserver-xentools
 
