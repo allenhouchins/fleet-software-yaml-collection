@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-12-29 06:06:24 UTC
+Generated on: 2025-12-29 18:05:31 UTC
 
 ## Summary
 
@@ -1531,7 +1531,7 @@ Total entries processed: 7068
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `krisp.yml`
-- **URL**: https://cdn.krisp.ai/mp/mn/3.8/mac/Krisp_3.8.2_arm64.pkg
+- **URL**: https://cdn.krisp.ai/mp/mn/3.9/mac/Krisp_3.9.4_arm64.pkg
 
 #### libndi
 
@@ -3169,7 +3169,7 @@ Total entries processed: 7068
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `uuremote.yml`
-- **URL**: https://a56.gdl.netease.com/uuyc_4.11.0.pkg
+- **URL**: https://a56.gdl.netease.com/uuyc_4.11.1.pkg
 
 #### vcam
 
@@ -3232,7 +3232,7 @@ Total entries processed: 7068
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `weasis.yml`
-- **URL**: https://github.com/nroduit/Weasis/releases/download/v4.6.5/Weasis-4.6.5-aarch64.pkg
+- **URL**: https://github.com/nroduit/Weasis/releases/download/v4.6.6/Weasis-4.6.6-aarch64.pkg
 
 #### webex-meetings
 
@@ -20757,7 +20757,7 @@ Total entries processed: 7068
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `firezone-client-gui.yml`
-- **URL**: https://github.com/firezone/firezone/releases/download/gui-client-1.5.8/firezone-client-gui-windows_1.5.8_x86_64.msi
+- **URL**: https://github.com/firezone/firezone/releases/download/gui-client-1.5.9/firezone-client-gui-windows_1.5.9_x86_64.msi
 
 #### firezone-client-headless
 
@@ -23070,7 +23070,7 @@ Total entries processed: 7068
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `giuspen-cherrytree.yml`
-- **URL**: https://www.giuspen.net/software/cherrytree_1.6.0.0_win64_setup.exe
+- **URL**: https://github.com/giuspen/cherrytree/releases/download/v1.6.2/cherrytree_1.6.2.0_win64_setup.exe
 
 #### glab-glab
 
@@ -26436,7 +26436,7 @@ Total entries processed: 7068
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `inkscape-inkscape.yml`
-- **URL**: https://media.inkscape.org/dl/resources/file/inkscape-signed.msi
+- **URL**: https://media.inkscape.org/dl/resources/file/inkscape-1.4.3.msi
 
 #### innovaphone-myapps
 
@@ -28065,7 +28065,7 @@ Total entries processed: 7068
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jeffvli-feishin.yml`
-- **URL**: https://github.com/jeffvli/feishin/releases/download/v1.0.1/Feishin-1.0.1-win-x64.exe
+- **URL**: https://github.com/jeffvli/feishin/releases/download/v1.0.2/Feishin-1.0.2-win-x64.exe
 
 #### jeffvli-sonixd
 
@@ -41511,7 +41511,7 @@ Total entries processed: 7068
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nass-wrok.yml`
-- **URL**: https://github.com/manfred-mueller/Wrok/releases/download/0.8.0/Wrok-Setup-0.8.0.exe
+- **URL**: https://github.com/manfred-mueller/Wrok/releases/download/0.9.1/Wrok-Setup-0.9.1.exe
 
 #### nathanbeals-winssh-pageant
 
@@ -48846,7 +48846,7 @@ Total entries processed: 7068
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rakudo-rakudo-star.yml`
-- **URL**: https://rakudo.org/dl/star/rakudo-star-2025.05-01-win-x86_64-msvc.msi
+- **URL**: https://rakudo.org/dl/star/rakudo-star-2025.12-01-win-x86_64-msvc.msi
 
 #### rakudo-rakudo
 
@@ -48855,7 +48855,7 @@ Total entries processed: 7068
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rakudo-rakudo.yml`
-- **URL**: https://rakudo.org/dl/rakudo/rakudo-moar-2025.05-01-win-x86_64-msvc.msi
+- **URL**: https://rakudo.org/dl/rakudo/rakudo-moar-2025.12-01-win-x86_64-msvc.msi
 
 #### rakuten-viber
 
@@ -56487,7 +56487,7 @@ Total entries processed: 7068
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-ima-copilot.yml`
-- **URL**: https://ima-app.image.myqcloud.com/win/2.1.1_3544/ima.copilot_win_x64_1018_2.1.1_3544.exe
+- **URL**: https://ima-app.image.myqcloud.com/win/2.1.3_3576/ima.copilot_win_x64_1018_2.1.3_3576.exe
 
 #### tencent-qielive
 
@@ -57684,7 +57684,7 @@ Total entries processed: 7068
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `timebuzzer-timebuzzer.yml`
-- **URL**: https://timebuzzer.com/get/updates/timeBuzzer-3.7.78.exe
+- **URL**: https://timebuzzer.com/get/updates/timeBuzzer-3.7.84.exe
 
 #### timeraa-premid
 
@@ -59682,7 +59682,7 @@ Total entries processed: 7068
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc-nightly.yml`
-- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251227-0425/vlc-4.0.0-dev-win64-36464b93.msi
+- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251229-0423/vlc-4.0.0-dev-win64-5a666ee2.msi
 
 #### videolan-vlc
 
@@ -60708,7 +60708,7 @@ Total entries processed: 7068
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `waytech-clouddrive2.yml`
-- **URL**: https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v0.9.19/CloudDrive2Setup-X64-0.9.19.exe
+- **URL**: https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v0.9.20/CloudDrive2Setup-X64-0.9.20.exe
 
 #### weakauras-weakaurascompanion
 
@@ -60726,7 +60726,7 @@ Total entries processed: 7068
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `weasisteam-weasis.yml`
-- **URL**: https://github.com/nroduit/Weasis/releases/download/v4.6.4/Weasis-4.6.4-x86-64.msi
+- **URL**: https://github.com/nroduit/Weasis/releases/download/v4.6.6/Weasis-4.6.6-x86-64.msi
 
 #### webalexeu-winbgp
 
@@ -61770,7 +61770,7 @@ Total entries processed: 7068
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wondershare-repairit.yml`
-- **URL**: https://download.wondershare.com/cbs_down/repairit_6.6.0_full5913.exe
+- **URL**: https://download.wondershare.com/cbs_down/repairit_6.6.1_full5913.exe
 
 #### wondershare-ubackit
 
