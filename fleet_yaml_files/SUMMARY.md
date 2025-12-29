@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-12-28 18:05:25 UTC
+Generated on: 2025-12-29 06:06:24 UTC
 
 ## Summary
 
@@ -6834,7 +6834,7 @@ Total entries processed: 7068
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `andromeda-andromeda.yml`
-- **URL**: https://github.com/tryandromeda/andromeda/releases/download/0.1.1/andromeda-windows-amd64.exe
+- **URL**: https://github.com/tryandromeda/andromeda/releases/download/0.1.2/andromeda-windows-amd64.exe
 
 #### angeloconvento-overkeys
 
@@ -23430,7 +23430,7 @@ Total entries processed: 7068
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/g6o3fiu6l5n6gpl2ob7ga67i5q_145.0.7603.0/145.0.7603.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/noirmdaz7vtgcl7fj3ev27jvru_145.0.7605.0/145.0.7605.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -28065,7 +28065,7 @@ Total entries processed: 7068
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jeffvli-feishin.yml`
-- **URL**: https://github.com/jeffvli/feishin/releases/download/v0.9.0/Feishin-0.9.0-win-x64.exe
+- **URL**: https://github.com/jeffvli/feishin/releases/download/v1.0.1/Feishin-1.0.1-win-x64.exe
 
 #### jeffvli-sonixd
 
@@ -50574,7 +50574,7 @@ Total entries processed: 7068
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ruben2776-picview.yml`
-- **URL**: https://github.com/Ruben2776/PicView/releases/download/4.0.0/Setup-PicView-v4.0.0-win-x64.exe
+- **URL**: https://github.com/Ruben2776/PicView/releases/download/4.1.0/Setup-PicView-v4.1.0-win-x64.exe
 
 #### rubick-rubick
 
@@ -56073,7 +56073,7 @@ Total entries processed: 7068
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `teamsophia-sophiascript.yml`
-- **URL**: https://github.com/farag2/Sophia-Script-for-Windows/releases/download/7.0.1/Sophia.Script.for.Windows.11.v7.0.1_WinGet.exe
+- **URL**: https://github.com/farag2/Sophia-Script-for-Windows/releases/download/7.0.2/Sophia.Script.for.Windows.11.v7.0.2_WinGet.exe
 
 #### teamspeaksystems-teamspeakclient-beta-5
 
