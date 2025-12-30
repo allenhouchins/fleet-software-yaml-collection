@@ -1,4 +1,4 @@
-url: https://cdn.kde.org/ci-builds/multimedia/elisa/master/windows/elisa-master-4187-windows-cl-msvc2022-x86_64.exe
+url: https://github.com/Cteros/eno-m-desktop/releases/download/v2.2.0/ENO-M-Windows-2.2.0-Setup.exe
 automatic_install: false
 self_service: false
 categories: []
