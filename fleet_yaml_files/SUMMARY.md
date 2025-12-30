@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-12-30 06:05:37 UTC
+Generated on: 2025-12-30 18:05:28 UTC
 
 ## Summary
 
-Total entries processed: 7077
+Total entries processed: 7079
 - macOS files: 380
-- Windows files: 6697
+- Windows files: 6699
 
 ## Generated Files
 
@@ -208,7 +208,7 @@ Total entries processed: 7077
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `aws-vpn-client.yml`
-- **URL**: https://d20adtppz83p9s.cloudfront.net/OSX/5.3.3/AWS_VPN_Client.pkg
+- **URL**: https://d20adtppz83p9s.cloudfront.net/OSX_ARM64/5.3.3/AWS_VPN_Client_ARM64.pkg
 
 #### awscli2
 
@@ -3394,7 +3394,7 @@ Total entries processed: 7077
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `zoom-for-it-admins.yml`
-- **URL**: https://cdn.zoom.us/prod/6.7.0.71075/ZoomInstallerIT.pkg
+- **URL**: https://cdn.zoom.us/prod/6.7.2.72191/ZoomInstallerIT.pkg
 
 #### zoom
 
@@ -8382,7 +8382,7 @@ Total entries processed: 7077
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `axeprpr-sshcopyid.yml`
-- **URL**: https://github.com/axeprpr/ssh-copy-id-windows/releases/download/v1.0.0/ssh-copy-id.exe
+- **URL**: https://github.com/axeprpr/ssh-copy-id-windows/releases/download/v1.1.0/ssh-copy-id.exe
 
 #### axialis-icongenerator
 
@@ -8958,7 +8958,7 @@ Total entries processed: 7077
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `b3log-siyuan.yml`
-- **URL**: https://github.com/siyuan-note/siyuan/releases/download/v3.5.0/siyuan-3.5.0-win.exe
+- **URL**: https://github.com/siyuan-note/siyuan/releases/download/v3.5.2/siyuan-3.5.2-win.exe
 
 #### b4ck-b4ck
 
@@ -18653,6 +18653,15 @@ Total entries processed: 7077
 - **File**: `eclipseadoptium-temurin-8-jre.yml`
 - **URL**: https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u472-b08/OpenJDK8U-jre_x64_windows_hotspot_8u472b08.msi
 
+#### eclipsecommunity-r3dfox
+
+- **Source**: winget
+- **Name**: eclipsecommunity-r3dfox
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `eclipsecommunity-r3dfox.yml`
+- **URL**: https://github.com/Eclipse-Community/r3dfox/releases/download/v146.0/r3dfox-146.0.en-US.win64.installer.exe
+
 #### eclipsefoundation-mosquitto
 
 - **Source**: winget
@@ -20866,6 +20875,15 @@ Total entries processed: 7077
 - **Version**: 
 - **File**: `flameshot-flameshot.yml`
 - **URL**: https://github.com/flameshot-org/flameshot/releases/download/v13.3.0/Flameshot-13.3.0-win64.msi
+
+#### flashpeak-slimjet
+
+- **Source**: winget
+- **Name**: flashpeak-slimjet
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `flashpeak-slimjet.yml`
+- **URL**: https://www.slimjetbrowser.com/release/sjtsetup_x64.exe
 
 #### flawiddsouza-restfox
 
@@ -27363,7 +27381,7 @@ Total entries processed: 7077
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `j3n5en-ensoai.yml`
-- **URL**: https://github.com/J3n5en/EnsoAI/releases/download/v0.1.18/EnsoAI-Setup-0.1.18.exe
+- **URL**: https://github.com/J3n5en/EnsoAI/releases/download/v0.2.8/EnsoAI-Setup-0.2.8.exe
 
 #### jabba-team-jabba
 
@@ -28407,7 +28425,7 @@ Total entries processed: 7077
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-intellijidea-community.yml`
-- **URL**: https://download.jetbrains.com/idea/ideaIC-2025.2.5.exe
+- **URL**: https://download.jetbrains.com/idea/ideaIC-2025.2.6.exe
 
 #### jetbrains-intellijidea-educational
 
@@ -28443,7 +28461,7 @@ Total entries processed: 7077
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-intellijidea.yml`
-- **URL**: https://download.jetbrains.com/idea/idea-2025.3.exe
+- **URL**: https://download.jetbrains.com/idea/idea-2025.3.1.exe
 
 #### jetbrains-ktorcli
 
@@ -34077,7 +34095,7 @@ Total entries processed: 7077
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `miaotouy-aiohub.yml`
-- **URL**: https://github.com/miaotouy/aio-hub/releases/download/v0.4.5-r.1/AIO.Hub_0.4.5-r.1_x64-setup.exe
+- **URL**: https://github.com/miaotouy/aio-hub/releases/download/v0.4.7-dev.3/AIO.Hub_0.4.7-dev.3_x64-setup.exe
 
 #### miaulightouch-obs-virtual-cam
 
@@ -41943,7 +41961,7 @@ Total entries processed: 7077
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `netbird-netbird.yml`
-- **URL**: https://github.com/netbirdio/netbird/releases/download/v0.60.9/netbird_installer_0.60.9_windows_amd64.msi
+- **URL**: https://github.com/netbirdio/netbird/releases/download/v0.61.0/netbird_installer_0.61.0_windows_amd64.msi
 
 #### netease-cloudmusic
 
@@ -42987,7 +43005,7 @@ Total entries processed: 7077
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nomacs-nomacs.yml`
-- **URL**: https://github.com/nomacs/nomacs/releases/download/3.16.224/nomacs-setup-x64.exe
+- **URL**: https://github.com/nomacs/nomacs/releases/download/3.22.0/nomacs-setup-x64.msi
 
 #### nomandhoni-blinkeye
 
@@ -50880,7 +50898,7 @@ Total entries processed: 7077
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rustlang-rust-msvc.yml`
-- **URL**: https://static.rust-lang.org/dist/rust-1.91.1-x86_64-pc-windows-msvc.msi
+- **URL**: https://static.rust-lang.org/dist/rust-1.92.0-x86_64-pc-windows-msvc.msi
 
 #### rustlang-rustup
 
@@ -52158,7 +52176,7 @@ Total entries processed: 7077
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-12-28/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-12-30/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -61770,7 +61788,7 @@ Total entries processed: 7077
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wondershare-pdfelement-12.yml`
-- **URL**: https://download.wondershare.com/cbs_down/pdfelement-pro_64bit_12.1.4_full5239.exe
+- **URL**: https://download.wondershare.com/cbs_down/pdfelement-pro_64bit_12.1.5_full5239.exe
 
 #### wondershare-pdfelement-8
 
@@ -61905,7 +61923,7 @@ Total entries processed: 7077
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wondershare-uniconverter-17.yml`
-- **URL**: https://download.wondershare.com/cbs_down/uniconverter_64bit_17.1.1_full14204.exe
+- **URL**: https://download.wondershare.com/cbs_down/uniconverter_64bit_17.1.2_full14204.exe
 
 #### wondershare-uniconverter-cn
 
@@ -63363,7 +63381,7 @@ Total entries processed: 7077
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zhipuai-autoglm.yml`
-- **URL**: https://autoglm.aminer.cn/autotyper/updates/AutoGLM_win32_x64_1.2.0.exe
+- **URL**: https://autoglm.aminer.cn/autotyper/updates/AutoGLM_win32_x64_1.3.0.exe
 
 #### zhipuai-chatglm
 
@@ -63498,7 +63516,7 @@ Total entries processed: 7077
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zoom-zoom-exe.yml`
-- **URL**: https://zoom.us/client/6.7.0.24657/ZoomInstallerFull.exe?archType=x64
+- **URL**: https://zoom.us/client/6.7.2.26346/ZoomInstallerFull.exe?archType=x64
 
 #### zoom-zoom-vdi
 
@@ -63516,7 +63534,7 @@ Total entries processed: 7077
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zoom-zoom.yml`
-- **URL**: https://zoom.us/client/6.7.0.24657/ZoomInstallerFull.msi?archType=x64
+- **URL**: https://zoom.us/client/6.7.2.26346/ZoomInstallerFull.msi?archType=x64
 
 #### zoom-zoomoutlookplugin
 
