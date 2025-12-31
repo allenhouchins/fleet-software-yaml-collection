@@ -1,4 +1,4 @@
-url: https://cdn.zabbix.com/zabbix/binaries/stable/7.4/7.4.4/zabbix_agent2-7.4.4-windows-amd64-openssl.msi
+url: https://cdn.zabbix.com/zabbix/binaries/stable/7.4/7.4.6/zabbix_agent2-7.4.6-windows-amd64-openssl.msi
 automatic_install: false
 self_service: false
 categories: []
