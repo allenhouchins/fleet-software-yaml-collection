@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2025-12-30 18:05:28 UTC
+Generated on: 2025-12-31 06:05:26 UTC
 
 ## Summary
 
-Total entries processed: 7079
+Total entries processed: 7090
 - macOS files: 380
-- Windows files: 6699
+- Windows files: 6710
 
 ## Generated Files
 
@@ -1144,7 +1144,7 @@ Total entries processed: 7079
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `flox.yml`
-- **URL**: https://downloads.flox.dev/by-env/stable/osx/flox-1.8.0.aarch64-darwin.pkg
+- **URL**: https://downloads.flox.dev/by-env/stable/osx/flox-1.8.1.aarch64-darwin.pkg
 
 #### fme
 
@@ -7167,7 +7167,7 @@ Total entries processed: 7079
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `anysphere-cursor.yml`
-- **URL**: https://downloads.cursor.com/production/20adc1003928b0f1b99305dbaf845656ff81f5d4/win32/x64/user-setup/CursorUserSetup-x64-2.2.44.exe
+- **URL**: https://downloads.cursor.com/production/bb2dbaacf30bb7eb9fd48a37812a8f326defa533/win32/x64/user-setup/CursorUserSetup-x64-2.3.15.exe
 
 #### apache-directorystudio
 
@@ -9858,7 +9858,7 @@ Total entries processed: 7079
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bellsoft-libericajdk-25-full.yml`
-- **URL**: https://download.bell-sw.com/java/25.0.1+11/bellsoft-jdk25.0.1+11-windows-amd64-full.msi
+- **URL**: https://download.bell-sw.com/java/25.0.1+13/bellsoft-jdk25.0.1+13-windows-amd64-full.msi
 
 #### bellsoft-libericajdk-25-lite
 
@@ -10380,7 +10380,7 @@ Total entries processed: 7079
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `benthicsoftware-pledit-7.yml`
-- **URL**: https://www.benthicsoftware.com/apps/pledit7setup740_64bit.exe
+- **URL**: https://www.benthicsoftware.com/apps/pledit7setup742_64bit.exe
 
 #### bepassorg-obliviondesktop
 
@@ -14322,7 +14322,7 @@ Total entries processed: 7079
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `codexu-notegen.yml`
-- **URL**: https://github.com/codexu/note-gen/releases/download/note-gen-v0.22.4/NoteGen_0.22.4_x64-setup.exe
+- **URL**: https://github.com/codexu/note-gen/releases/download/note-gen-v0.23.2/NoteGen_0.23.2_x64-setup.exe
 
 #### codice-plasticscm-cloudedition
 
@@ -15448,6 +15448,15 @@ Total entries processed: 7079
 - **Version**: 
 - **File**: `crystaldewworld-crystaldiskmark.yml`
 - **URL**: https://sourceforge.net/projects/crystaldiskmark/files/9.0.1/CrystalDiskMark9_0_1.exe
+
+#### crystaldewworld-crystalmark3d25
+
+- **Source**: winget
+- **Name**: crystaldewworld-crystalmark3d25
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `crystaldewworld-crystalmark3d25.yml`
+- **URL**: https://sourceforge.net/projects/crystalmark3d25/files/1.0.0/CrystalMark3D25_1_0_0.exe
 
 #### crystaldewworld-crystalmarkretro-aoiedition
 
@@ -19416,7 +19425,7 @@ Total entries processed: 7079
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `emurasoft-emeditor.yml`
-- **URL**: https://download.emeditor.info/emed64_25.4.3.msi
+- **URL**: https://download.emeditor.info/emed64_25.4.4.msi
 
 #### enarxproject-enarx
 
@@ -21423,7 +21432,7 @@ Total entries processed: 7079
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `flyhunterl-flymd.yml`
-- **URL**: https://github.com/flyhunterl/flymd/releases/download/v0.8.7/flymd_0.8.7_x64-setup.exe
+- **URL**: https://github.com/flyhunterl/flymd/releases/download/v0.9.1/flymd_0.9.1_x64-setup.exe
 
 #### fnmt-configuradorfnmt
 
@@ -22026,7 +22035,7 @@ Total entries processed: 7079
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `funroutine-workflowy.yml`
-- **URL**: https://github.com/workflowy/desktop/releases/download/v4.3.2512222320/WorkFlowy-Installer-4.3.2512222320.exe
+- **URL**: https://github.com/workflowy/desktop/releases/download/v4.3.2512301231/WorkFlowy-Installer-4.3.2512301231.exe
 
 #### fupdec-mediachips
 
@@ -22360,6 +22369,15 @@ Total entries processed: 7079
 - **Version**: 
 - **File**: `garbomuffin-turbowarp.yml`
 - **URL**: https://github.com/TurboWarp/desktop/releases/download/v1.9.3/TurboWarp-Setup-1.9.3-x64.exe
+
+#### gardener-gardenctl
+
+- **Source**: winget
+- **Name**: gardener-gardenctl
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `gardener-gardenctl.yml`
+- **URL**: https://github.com/gardener/gardenctl-v2/releases/download/v2.12.0/gardenctl_v2_windows_amd64.exe
 
 #### gardener-gardenlogin
 
@@ -23351,6 +23369,15 @@ Total entries processed: 7079
 - **File**: `gnu-wget2.yml`
 - **URL**: https://github.com/rockdaboot/wget2/releases/download/v2.1.0/wget2.exe
 
+#### gnupg-gnupg
+
+- **Source**: winget
+- **Name**: gnupg-gnupg
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `gnupg-gnupg.yml`
+- **URL**: https://gnupg.org/ftp/gcrypt/binary/gnupg-w32-2.5.16_20251230.exe
+
 #### gnupg-gpg4win-beta
 
 - **Source**: winget
@@ -23502,7 +23529,7 @@ Total entries processed: 7079
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/acw4634icsgcwjvcim4wzskceika_145.0.7607.0/145.0.7607.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/acrhvr7a6yp4igr37bmxa6izxlgq_145.0.7609.0/145.0.7609.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -34277,6 +34304,15 @@ Total entries processed: 7079
 - **File**: `microsoft-azure-aztfy.yml`
 - **URL**: https://github.com/Azure/aztfy/releases/download/v0.9.0/aztfy_v0.9.0_x64.msi
 
+#### microsoft-azure-cloudhsm-clientsdk
+
+- **Source**: winget
+- **Name**: microsoft-azure-cloudhsm-clientsdk
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `microsoft-azure-cloudhsm-clientsdk.yml`
+- **URL**: https://github.com/microsoft/MicrosoftAzureCloudHSM/releases/download/AzureCloudHSM-ClientSDK-2.0.2.2/AzureCloudHSM-ClientSDK-Windows-2.0.2.2.msi
+
 #### microsoft-azure-connectedmachineagent
 
 - **Source**: winget
@@ -34492,6 +34528,15 @@ Total entries processed: 7079
 - **Version**: 
 - **File**: `microsoft-devtunnel.yml`
 - **URL**: https://tunnelsassetsprod.blob.core.windows.net/cli/1.0.964+9595af4514/devtunnel.exe
+
+#### microsoft-directx-toolkit-xwbtool
+
+- **Source**: winget
+- **Name**: microsoft-directx-toolkit-xwbtool
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `microsoft-directx-toolkit-xwbtool.yml`
+- **URL**: https://github.com/microsoft/DirectXTK/releases/download/oct2025/XWBTool.exe
 
 #### microsoft-directxtex-texassemble
 
@@ -34907,6 +34952,15 @@ Total entries processed: 7079
 - **File**: `microsoft-edgewebview2runtime.yml`
 - **URL**: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/3d17cc3e-6ac5-47d3-825e-c7b309e4047b/MicrosoftEdgeWebView2RuntimeInstallerX64.exe
 
+#### microsoft-etl2pcapng
+
+- **Source**: winget
+- **Name**: microsoft-etl2pcapng
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `microsoft-etl2pcapng.yml`
+- **URL**: https://github.com/microsoft/etl2pcapng/releases/download/v1.11.0/etl2pcapng.exe
+
 #### microsoft-gameinput
 
 - **Source**: winget
@@ -34996,6 +35050,15 @@ Total entries processed: 7079
 - **Version**: 
 - **File**: `microsoft-laps.yml`
 - **URL**: https://download.microsoft.com/download/C/7/A/C7AAD914-A8A6-4904-88A1-29E657445D03/LAPS.x64.msi
+
+#### microsoft-lightgbm
+
+- **Source**: winget
+- **Name**: microsoft-lightgbm
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `microsoft-lightgbm.yml`
+- **URL**: https://github.com/microsoft/LightGBM/releases/download/v4.6.0/lightgbm.exe
 
 #### microsoft-lingeringobjectliquidator
 
@@ -35292,7 +35355,7 @@ Total entries processed: 7079
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-powershell-preview.yml`
-- **URL**: https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.5/PowerShell-7.6.0-preview.5-win-x64.msi
+- **URL**: https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.6/PowerShell-7.6.0-preview.6-win-x64.msi
 
 #### microsoft-powershell
 
@@ -35519,6 +35582,15 @@ Total entries processed: 7079
 - **File**: `microsoft-sqlserver-2022-express.yml`
 - **URL**: https://download.microsoft.com/download/5/1/4/5145fe04-4d30-4b85-b0d1-39533663a2f1/SQL2022-SSEI-Expr.exe
 
+#### microsoft-sqlserver-oledbdriver
+
+- **Source**: winget
+- **Name**: microsoft-sqlserver-oledbdriver
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `microsoft-sqlserver-oledbdriver.yml`
+- **URL**: https://download.microsoft.com/download/b5865bb8-7bc6-4068-9c1d-fb77c256a865/amd64/1033/msoledbsql.msi
+
 #### microsoft-sqlservermanagementstudio-21-preview
 
 - **Source**: winget
@@ -35581,6 +35653,15 @@ Total entries processed: 7079
 - **Version**: 
 - **File**: `microsoft-surfacehubrecoverytool.yml`
 - **URL**: https://download.microsoft.com/download/8/3/f/83fd5089-d14e-42e3-af7c-6fc36f80d347/SurfaceHub_Recovery_v2.7.139.0.msi
+
+#### microsoft-sysinternals-autologon
+
+- **Source**: winget
+- **Name**: microsoft-sysinternals-autologon
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `microsoft-sysinternals-autologon.yml`
+- **URL**: https://live.sysinternals.com/Autologon64.exe
 
 #### microsoft-sysinternals-strings
 
@@ -36093,7 +36174,7 @@ Total entries processed: 7079
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mikf-gallery-dl-nightly.yml`
-- **URL**: https://github.com/gdl-org/builds/releases/download/2025.12.16/gallery-dl_windows.exe
+- **URL**: https://github.com/gdl-org/builds/releases/download/2025.12.30/gallery-dl_windows.exe
 
 #### mikrotik-winbox
 
@@ -41007,7 +41088,7 @@ Total entries processed: 7079
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mq1-tinywiibackupmanager.yml`
-- **URL**: https://github.com/mq1/TinyWiiBackupManager/releases/download/v4.4.8/TinyWiiBackupManager-v4.4.8-windows-x86_64-setup.exe
+- **URL**: https://github.com/mq1/TinyWiiBackupManager/releases/download/v4.9.22/TinyWiiBackupManager-v4.9.22-windows-x86_64-setup.exe
 
 #### mremoteng-mremoteng-nightly
 
@@ -44321,6 +44402,15 @@ Total entries processed: 7079
 - **File**: `ooni-ooni-probe.yml`
 - **URL**: https://github.com/ooni/probe-desktop/releases/download/v3.9.9/OONI-Probe-Setup-3.9.9.exe
 
+#### opautoclicker-opautoclicker
+
+- **Source**: winget
+- **Name**: opautoclicker-opautoclicker
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `opautoclicker-opautoclicker.yml`
+- **URL**: https://sourceforge.net/projects/orphamielautoclicker/files/4.1/AutoClicker.exe
+
 #### open-policy-agent-opa
 
 - **Source**: winget
@@ -45815,15 +45905,6 @@ Total entries processed: 7079
 - **File**: `pasteintofile-pasteintofile.yml`
 - **URL**: https://github.com/eltos/PasteIntoFile/releases/download/v5.4/PasteIntoFile_v5.4_installer.msi
 
-#### patchdeck-agent
-
-- **Source**: winget
-- **Name**: patchdeck-agent
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `patchdeck-agent.yml`
-- **URL**: https://download.patchdeck.com/PatchdeckWindowsAgentInstaller.2.16.0.msi
-
 #### patchmypc-patchmypc
 
 - **Source**: winget
@@ -46021,6 +46102,15 @@ Total entries processed: 7079
 - **Version**: 
 - **File**: `pclcommunity-pcl2.yml`
 - **URL**: https://github.com/PCL-Community/PCL2-CE/releases/download/2.11.9/PCL2_CE_Release_x64.exe
+
+#### pcman-bbs-pcman
+
+- **Source**: winget
+- **Name**: pcman-bbs-pcman
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `pcman-bbs-pcman.yml`
+- **URL**: https://github.com/pcman-bbs/pcman-windows/releases/download/v9.5.0-beta3/PCMan.exe
 
 #### pcsx2team-pcsx2
 
@@ -46245,7 +46335,7 @@ Total entries processed: 7079
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `peterpawlowski-foobar2000.yml`
-- **URL**: https://www.foobar2000.org/files/foobar2000-x64_v2.25.3.exe
+- **URL**: https://www.foobar2000.org/files/foobar2000-x64_v2.25.4.exe
 
 #### peterstrick-vivetool-gui
 
@@ -46677,7 +46767,7 @@ Total entries processed: 7079
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pixpin-pixpin-beta.yml`
-- **URL**: https://download.pixpinapp.com/PixPin_cn_zh-cn_2.3.7.0.exe
+- **URL**: https://download.pixpinapp.com/PixPin_cn_zh-cn_2.3.8.0.exe
 
 #### pixpin-pixpin
 
@@ -49234,6 +49324,15 @@ Total entries processed: 7079
 - **Version**: 
 - **File**: `rcmaehl-whynotwin11.yml`
 - **URL**: https://github.com/rcmaehl/WhyNotWin11/releases/download/2.6.1.1/WhyNotWin11.exe
+
+#### readai-readai
+
+- **Source**: winget
+- **Name**: readai-readai
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `readai-readai.yml`
+- **URL**: https://readai-desktop-updates-production.s3.us-east-1.amazonaws.com/installers/windows/x86_64/1.0.5/Read+AI_1.0.5_x64-setup.exe
 
 #### readdle-spark
 
@@ -54122,6 +54221,15 @@ Total entries processed: 7079
 - **File**: `srjuddington-slade.yml`
 - **URL**: https://github.com/sirjuddington/SLADE/releases/download/3.2.7/Setup_SLADE_3.2.7_x64.exe
 
+#### srware-iron
+
+- **Source**: winget
+- **Name**: srware-iron
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `srware-iron.yml`
+- **URL**: https://www.srware.net/downloads/srware_iron64.exe
+
 #### srwi-everythingtoolbar-deskband
 
 - **Source**: winget
@@ -55398,7 +55506,7 @@ Total entries processed: 7079
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sylvainrougeaux-metatogger.yml`
-- **URL**: https://api.luminescence-software.org/download.php?software=metatogger&installer=msi&version=7651
+- **URL**: https://api.luminescence-software.org/download.php?software=metatogger&installer=msi&version=7700
 
 #### sylviiu-ezytdl
 
@@ -55669,15 +55777,6 @@ Total entries processed: 7079
 - **Version**: 
 - **File**: `sysinfotools-mboxexportertool.yml`
 - **URL**: https://www.sysinfotools.com/demo-version/SysInfo-MBOX-Exporter-Demo.exe
-
-#### sysinternals-autologon
-
-- **Source**: winget
-- **Name**: sysinternals-autologon
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `sysinternals-autologon.yml`
-- **URL**: https://live.sysinternals.com/Autologon64.exe
 
 #### szchkt-leaklog
 
@@ -56163,7 +56262,7 @@ Total entries processed: 7079
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `teamsophia-sophiascript.yml`
-- **URL**: https://github.com/farag2/Sophia-Script-for-Windows/releases/download/7.0.2/Sophia.Script.for.Windows.11.v7.0.2_WinGet.exe
+- **URL**: https://github.com/farag2/Sophia-Script-for-Windows/releases/download/7.0.3/Sophia.Script.for.Windows.11.v7.0.3_WinGet.exe
 
 #### teamspeaksystems-teamspeakclient-beta-5
 
@@ -59781,7 +59880,7 @@ Total entries processed: 7079
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc-nightly.yml`
-- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251229-0423/vlc-4.0.0-dev-win64-5a666ee2.msi
+- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251230-0438/vlc-4.0.0-dev-win64-5a666ee2.msi
 
 #### videolan-vlc
 
@@ -61212,7 +61311,7 @@ Total entries processed: 7079
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `windirstat-windirstat-beta.yml`
-- **URL**: https://github.com/windirstat/windirstat/releases/download/beta/v2.4.0/2025-11-07/WinDirStat-x64.msi
+- **URL**: https://github.com/windirstat/windirstat/releases/download/beta/v2.4.2/2025-12-30/WinDirStat-x64.msi
 
 #### windirstat-windirstat
 
@@ -62976,7 +63075,7 @@ Total entries processed: 7079
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yt-dlp-yt-dlp-nightly.yml`
-- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.12.24.233043/yt-dlp.exe
+- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.12.29.233040/yt-dlp.exe
 
 #### yt-dlp-yt-dlp
 

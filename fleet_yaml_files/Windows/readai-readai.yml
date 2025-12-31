@@ -1,4 +1,4 @@
-url: https://github.com/gdl-org/builds/releases/download/2025.12.30/gallery-dl_windows.exe
+url: https://readai-desktop-updates-production.s3.us-east-1.amazonaws.com/installers/windows/x86_64/1.0.5/Read+AI_1.0.5_x64-setup.exe
 automatic_install: false
 self_service: false
 categories: []

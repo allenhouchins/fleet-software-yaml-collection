@@ -1,4 +1,4 @@
-url: https://download.patchdeck.com/PatchdeckWindowsAgentInstaller.2.16.0.msi
+url: https://github.com/microsoft/MicrosoftAzureCloudHSM/releases/download/AzureCloudHSM-ClientSDK-2.0.2.2/AzureCloudHSM-ClientSDK-Windows-2.0.2.2.msi
 automatic_install: false
 self_service: false
 categories: []
