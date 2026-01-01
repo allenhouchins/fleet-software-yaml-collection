@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-01-01 06:05:30 UTC
+Generated on: 2026-01-01 18:05:33 UTC
 
 ## Summary
 
@@ -3873,7 +3873,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `abgox-inputtip.yml`
-- **URL**: https://github.com/abgox/InputTip/releases/download/v2025.10.09/InputTip.exe
+- **URL**: https://github.com/abgox/InputTip/releases/download/v2026.01.01/InputTip.exe
 
 #### ablaze-floorp-daylight
 
@@ -11442,7 +11442,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `blueberrycongee-luminanote.yml`
-- **URL**: https://github.com/blueberrycongee/Lumina-Note/releases/download/v0.3.9/lumina-note_0.3.9_x64-setup.exe
+- **URL**: https://github.com/blueberrycongee/Lumina-Note/releases/download/v0.4.0/lumina-note_0.4.0_x64-setup.exe
 
 #### bluebubbles-bluebubbles
 
@@ -11559,7 +11559,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bodaay-hfdownloader.yml`
-- **URL**: https://github.com/bodaay/HuggingFaceModelDownloader/releases/download/2.3.1/hfdownloader_windows_amd64_2.3.1.exe
+- **URL**: https://github.com/bodaay/HuggingFaceModelDownloader/releases/download/2.3.3/hfdownloader_windows_amd64_2.3.3.exe
 
 #### bomist-bomist
 
@@ -11793,7 +11793,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `brave-brave-beta.yml`
-- **URL**: https://github.com/brave/brave-browser/releases/download/v1.86.123/BraveBrowserStandaloneSilentBetaSetup.exe
+- **URL**: https://github.com/brave/brave-browser/releases/download/v1.86.128/BraveBrowserStandaloneSilentBetaSetup.exe
 
 #### brave-brave-dev
 
@@ -14340,7 +14340,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `codexu-notegen.yml`
-- **URL**: https://github.com/codexu/note-gen/releases/download/note-gen-v0.23.2/NoteGen_0.23.2_x64-setup.exe
+- **URL**: https://github.com/codexu/note-gen/releases/download/note-gen-v0.23.3/NoteGen_0.23.3_x64-setup.exe
 
 #### codice-plasticscm-cloudedition
 
@@ -14520,7 +14520,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `combostrap-doc-exec.yml`
-- **URL**: https://github.com/combostrap/doc-exec/releases/download/v1.0.0/combostrap-doc-exec-1.0.0-jre-x64.msi
+- **URL**: https://github.com/combostrap/doc-exec/releases/download/v1.1.0/combostrap-doc-exec-1.1.0-jre-x64.msi
 
 #### cometnetwork-bitcomet
 
@@ -17706,7 +17706,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `donutware-fladder.yml`
-- **URL**: https://github.com/DonutWare/Fladder/releases/download/v0.8.0/Fladder-Windows-0.8.0-Setup.exe
+- **URL**: https://github.com/DonutWare/Fladder/releases/download/v0.8.1/Fladder-Windows-0.8.1-Setup.exe
 
 #### dorssel-usbipd-win
 
@@ -22665,7 +22665,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `germancoding-synctrayzor.yml`
-- **URL**: https://github.com/GermanCoding/SyncTrayzor/releases/download/v2.0.4/SyncTrayzorSetup-x64.exe
+- **URL**: https://github.com/GermanCoding/SyncTrayzor/releases/download/v2.1.0/SyncTrayzorSetup-x64.exe
 
 #### getfloma-floma
 
@@ -23538,7 +23538,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-beta-exe.yml`
-- **URL**: https://dl.google.com/release2/chrome/nf2eye75kqbqtnaxgkeflvdkka_144.0.7559.3/144.0.7559.3_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/ad5hlh45z4kr5nrynm7dhikbqzhq_144.0.7559.31/144.0.7559.31_chrome_installer_uncompressed.exe
 
 #### google-chrome-beta
 
@@ -24294,7 +24294,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gruntwork-terragrunt.yml`
-- **URL**: https://github.com/gruntwork-io/terragrunt/releases/download/v0.96.0/terragrunt_windows_amd64.exe
+- **URL**: https://github.com/gruntwork-io/terragrunt/releases/download/v0.96.1/terragrunt_windows_amd64.exe
 
 #### grz-meshcam
 
@@ -25590,7 +25590,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hulaspark-hula.yml`
-- **URL**: https://github.com/HuLaSpark/HuLa/releases/download/v3.0.5/HuLa_3.0.5_x64-setup.exe
+- **URL**: https://github.com/HuLaSpark/HuLa/releases/download/v3.0.8/HuLa_3.0.8_x64-setup.exe
 
 #### hulubulusoftware-advancedrenamer
 
@@ -29748,7 +29748,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-elisa.yml`
-- **URL**: https://cdn.kde.org/ci-builds/multimedia/elisa/master/windows/elisa-master-4187-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/multimedia/elisa/master/windows/elisa-master-4194-windows-cl-msvc2022-x86_64.exe
 
 #### kde-falkon
 
@@ -32376,7 +32376,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `loft-sh-vcluster.yml`
-- **URL**: https://github.com/loft-sh/vcluster/releases/download/v0.30.3/vcluster-windows-amd64.exe
+- **URL**: https://github.com/loft-sh/vcluster/releases/download/v0.30.4/vcluster-windows-amd64.exe
 
 #### loftlabs-devpod-cli
 
@@ -32862,7 +32862,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lycheeverse-lychee.yml`
-- **URL**: https://github.com/lycheeverse/lychee/releases/download/lychee-v0.20.1/lychee-x86_64-windows.exe
+- **URL**: https://github.com/lycheeverse/lychee/releases/download/lychee-v0.22.0/lychee-x86_64-windows.exe
 
 #### lyonbros-turtl
 
@@ -35193,7 +35193,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-msodbcsql-18.yml`
-- **URL**: https://download.microsoft.com/download/48a8e0c3-556b-4012-ba65-fcea935447f2/amd64/1033/msodbcsql.msi
+- **URL**: https://download.microsoft.com/download/8d6e3acc-bf5b-41fe-ad51-a9ad406a780f/amd64/1033/msodbcsql.msi
 
 #### microsoft-netmon
 
@@ -36687,7 +36687,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `moeruai-airi.yml`
-- **URL**: https://github.com/moeru-ai/airi/releases/download/v0.8.0-beta.2/AIRI-0.8.0-beta.2-windows-x64-setup.exe
+- **URL**: https://github.com/moeru-ai/airi/releases/download/v0.8.0-beta.3/AIRI-0.8.0-beta.3-windows-x64-setup.exe
 
 #### moggla-wincom
 
@@ -40899,7 +40899,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-nn-no.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/146.0/win64/nn-NO/Thunderbird%20Setup%20146.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/146.0.1/win64/nn-NO/Thunderbird%20Setup%20146.0.1.exe
 
 #### mozilla-thunderbird-pa-in
 
@@ -40944,7 +40944,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-rm.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/146.0/win64/rm/Thunderbird%20Setup%20146.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/146.0.1/win64/rm/Thunderbird%20Setup%20146.0.1.exe
 
 #### mozilla-thunderbird-ro
 
@@ -41043,7 +41043,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-uz.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/146.0/win64/uz/Thunderbird%20Setup%20146.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/146.0.1/win64/uz/Thunderbird%20Setup%20146.0.1.exe
 
 #### mozilla-thunderbird-vi
 
@@ -46137,7 +46137,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pclcommunity-pcl2-ce-beta.yml`
-- **URL**: https://github.com/PCL-Community/PCL2-CE/releases/download/2.12.0-beta.15/PCL2_CE_Beta_x64.exe
+- **URL**: https://github.com/PCL-Community/PCL2-CE/releases/download/2.13.0-beta.1/PCL2_CE_Beta_x64.exe
 
 #### pclcommunity-pcl2-ce
 
@@ -46515,7 +46515,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `photonicstul-plask.yml`
-- **URL**: https://get.plask.app/packages/PLaSK-2025.12.01-win64-py313.exe
+- **URL**: https://get.plask.app/packages/PLaSK-2025.12.02-win64-py313.exe
 
 #### photovariantssoftware-photovariants
 
@@ -49449,7 +49449,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `reblexis-lookpilot.yml`
-- **URL**: https://github.com/Reblexis/lookpilot-downloads/releases/download/v1.7.0/LookPilot-Setup-1.7.0.exe
+- **URL**: https://github.com/Reblexis/lookpilot-downloads/releases/download/v1.7.11/LookPilot-Setup-1.7.11.exe
 
 #### receitafederaldobrasil-escritura--odigitalecf
 
@@ -50979,7 +50979,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ruihu-apifox.yml`
-- **URL**: https://file-assets.apifox.com/download/2.7.9/Apifox-2.7.9.exe
+- **URL**: https://file-assets.apifox.com/download/2.8.0/Apifox-2.8.0.exe
 
 #### runebook-tome
 
@@ -52203,7 +52203,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sentry-sentry-cli.yml`
-- **URL**: https://github.com/getsentry/sentry-cli/releases/download/3.0.0/sentry-cli-Windows-x86_64.exe
+- **URL**: https://github.com/getsentry/sentry-cli/releases/download/3.0.1/sentry-cli-Windows-x86_64.exe
 
 #### seonglae-intuiter
 
@@ -52338,7 +52338,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2025-12-31/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-01-01/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -58359,7 +58359,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tortoisegit-tortoisegit.yml`
-- **URL**: https://download.tortoisegit.org/tgit/2.18.0.0/TortoiseGit-2.18.0.0-64bit.msi
+- **URL**: https://download.tortoisegit.org/tgit/2.18.0.0/TortoiseGit-2.18.0.1-64bit.msi
 
 #### tortoisehg-tortoisehg
 
@@ -59250,7 +59250,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `unity-unity-6000.yml`
-- **URL**: https://download.unity3d.com/download_unity/d1870ce95baf/Windows64EditorInstaller/UnitySetup64-6000.3.0f1.exe
+- **URL**: https://download.unity3d.com/download_unity/a9779f353c9b/Windows64EditorInstaller/UnitySetup64-6000.3.2f1.exe
 
 #### unity-unity-cn-2020
 
@@ -62418,7 +62418,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xdpxi-sponge.yml`
-- **URL**: http://cdn.xdpxi.net:8716/sponge/1.0.1/sponge-1.0.1-installer.exe
+- **URL**: http://cdn.xdpxi.net:8716/sponge/1.0.3/sponge-1.0.3-installer.exe
 
 #### xdpxi-xds-code
 
@@ -62553,7 +62553,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xieweikang123-refast.yml`
-- **URL**: https://github.com/Xieweikang123/ReFast/releases/download/1.0.30/ReFast_1.0.30_x64_zh-CN.msi
+- **URL**: https://github.com/Xieweikang123/ReFast/releases/download/1.0.33/ReFast_1.0.33_x64_zh-CN.msi
 
 #### xiles-nexusfont
 
@@ -63759,7 +63759,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ztools-ztools.yml`
-- **URL**: https://github.com/ZToolsCenter/ZTools/releases/download/v1.2.2/ZTools-1.2.2-x64-setup.exe
+- **URL**: https://github.com/ZToolsCenter/ZTools/releases/download/v1.2.4/ZTools-1.2.4-x64-setup.exe
 
 #### zugferdcommunity-qubaviewer
 
