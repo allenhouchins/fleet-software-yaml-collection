@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-01-02 06:05:35 UTC
+Generated on: 2026-01-02 18:05:21 UTC
 
 ## Summary
 
-Total entries processed: 7099
+Total entries processed: 7100
 - macOS files: 380
-- Windows files: 6719
+- Windows files: 6720
 
 ## Generated Files
 
@@ -6852,7 +6852,7 @@ Total entries processed: 7099
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `angeloconvento-overkeys.yml`
-- **URL**: https://github.com/conventoangelo/OverKeys/releases/download/v0.3.2/overkeys_0.3.2_x64_setup.exe
+- **URL**: https://github.com/conventoangelo/OverKeys/releases/download/v0.3.3/overkeys_0.3.3_x64_setup.exe
 
 #### angrymiao-ammaster
 
@@ -7662,7 +7662,7 @@ Total entries processed: 7099
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `artemchepurnyi-keyguard.yml`
-- **URL**: https://github.com/AChep/keyguard-app/releases/download/r20251228.3/Keyguard-2.0.2.msi
+- **URL**: https://github.com/AChep/keyguard-app/releases/download/r20260102.2/Keyguard-2.1.0.msi
 
 #### artempyanykh-marksman
 
@@ -13413,7 +13413,7 @@ Total entries processed: 7099
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `chrisant996-clink.yml`
-- **URL**: https://github.com/chrisant996/clink/releases/download/v1.9.5/clink.1.9.5.ee6b4f_setup.exe
+- **URL**: https://github.com/chrisant996/clink/releases/download/v1.9.6/clink.1.9.6.3ded5d_setup.exe
 
 #### chrisklimas-twine
 
@@ -13746,7 +13746,7 @@ Total entries processed: 7099
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `clashvergerev-clashvergerev.yml`
-- **URL**: https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.3/Clash.Verge_2.4.3_x64-setup.exe
+- **URL**: https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.4/Clash.Verge_2.4.4_x64-setup.exe
 
 #### classicdiy-modbustool
 
@@ -14304,7 +14304,7 @@ Total entries processed: 7099
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `codexu-notegen.yml`
-- **URL**: https://github.com/codexu/note-gen/releases/download/note-gen-v0.23.3/NoteGen_0.23.3_x64-setup.exe
+- **URL**: https://github.com/codexu/note-gen/releases/download/note-gen-v0.23.4/NoteGen_0.23.4_x64-setup.exe
 
 #### codice-plasticscm-cloudedition
 
@@ -17562,7 +17562,7 @@ Total entries processed: 7099
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `docmirror-dev-sidecar.yml`
-- **URL**: https://github.com/docmirror/dev-sidecar/releases/download/v2.0.0/DevSidecar-2.0.0-windows-x64.exe
+- **URL**: https://github.com/docmirror/dev-sidecar/releases/download/release-2.0.1/DevSidecar-2.0.1-windows-x86_64.exe
 
 #### documizeinc-zerabase
 
@@ -18057,7 +18057,7 @@ Total entries processed: 7099
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `duongdieuphap-imageglass.yml`
-- **URL**: https://github.com/d2phap/ImageGlass/releases/download/9.4.0.1120/ImageGlass_9.4.0.1120_x64.msi
+- **URL**: https://github.com/d2phap/ImageGlass/releases/download/9.4.1.15/ImageGlass_9.4.1.15_x64.msi
 
 #### dupeguru-dupeguru
 
@@ -19092,7 +19092,7 @@ Total entries processed: 7099
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `elastic-winlogbeat.yml`
-- **URL**: https://artifacts.elastic.co/downloads/beats/winlogbeat/winlogbeat-9.2.2-windows-x86_64.msi
+- **URL**: https://artifacts.elastic.co/downloads/beats/winlogbeat/winlogbeat-9.2.3-windows-x86_64.msi
 
 #### electerm-electerm
 
@@ -28922,6 +28922,15 @@ Total entries processed: 7099
 - **File**: `jlc-lceda.yml`
 - **URL**: https://image.lceda.cn/files/lceda-windows-x64-6.5.51.exe
 
+#### jmmg-ocwin
+
+- **Source**: winget
+- **Name**: jmmg-ocwin
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `jmmg-ocwin.yml`
+- **URL**: https://www.jmmgc.com/downloads/OC2025_Final.exe
+
 #### joadoumie-nbacommandpaletteextension
 
 - **Source**: winget
@@ -30576,7 +30585,7 @@ Total entries processed: 7099
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kicad-kicad.yml`
-- **URL**: https://github.com/KiCad/kicad-source-mirror/releases/download/9.0.6/kicad-9.0.6-x86_64.exe
+- **URL**: https://github.com/KiCad/kicad-source-mirror/releases/download/9.0.7/kicad-9.0.7-x86_64.exe
 
 #### kidasasoftware-inc-milestonesprofessional2019-64
 
@@ -36930,7 +36939,7 @@ Total entries processed: 7099
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `moritzbunkus-mkvtoolnix.yml`
-- **URL**: https://mkvtoolnix.download/windows/releases/96.0/mkvtoolnix-64-bit-96.0-setup.exe
+- **URL**: https://mkvtoolnix.download/windows/releases/97.0/mkvtoolnix-64-bit-97.0-setup.exe
 
 #### morpheusly-secureconnections
 
@@ -41898,7 +41907,7 @@ Total entries processed: 7099
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `neemb-distill.yml`
-- **URL**: https://dev-distill-releases.s3.us-east-2.amazonaws.com/web-monitor/beta/3.13.4/installer/Distill%20Web%20Monitor-win32-x64-3.13.4-beta.exe
+- **URL**: https://dev-distill-releases.s3.us-east-2.amazonaws.com/web-monitor/beta/3.13.5/installer/Distill%20Web%20Monitor-win32-x64-3.13.5-beta.exe
 
 #### nefarius-hidhide
 
@@ -42357,7 +42366,7 @@ Total entries processed: 7099
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nexmoe-vidbee.yml`
-- **URL**: https://github.com/nexmoe/VidBee/releases/download/v1.1.0/vidbee-1.1.0-setup.exe
+- **URL**: https://github.com/nexmoe/VidBee/releases/download/v1.1.3/vidbee-1.1.3-setup.exe
 
 #### nexon-nexonplug
 
@@ -46371,7 +46380,7 @@ Total entries processed: 7099
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `peterpawlowski-foobar2000.yml`
-- **URL**: https://www.foobar2000.org/files/foobar2000-x64_v2.25.4.exe
+- **URL**: https://www.foobar2000.org/files/foobar2000-x64_v2.25.5.exe
 
 #### peterstrick-vivetool-gui
 
@@ -52221,7 +52230,7 @@ Total entries processed: 7099
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sergeysvistunov-uptooda.yml`
-- **URL**: https://github.com/zenden2k/uptooda/releases/download/1.4.5/uptooda-1.4.5-build-5392-x64-setup.exe
+- **URL**: https://github.com/zenden2k/uptooda/releases/download/1.4.6/uptooda-1.4.6-build-5402-x64-setup.exe
 
 #### serhiislieptsov-utilso
 
@@ -52320,7 +52329,7 @@ Total entries processed: 7099
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-01-01/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-01-02/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -52905,7 +52914,7 @@ Total entries processed: 7099
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `skycoin-skywire.yml`
-- **URL**: https://github.com/skycoin/skywire/releases/download/v1.3.31/skywire-installer-v1.3.31-windows-amd64.msi
+- **URL**: https://github.com/skycoin/skywire/releases/download/v1.3.32/skywire-installer-v1.3.32-windows-amd64.msi
 
 #### skyjake-lagrange
 
@@ -56901,7 +56910,7 @@ Total entries processed: 7099
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-yuanbao.yml`
-- **URL**: https://cdn-hybrid-prod.hunyuan.tencent.com/Desktop/official/a98d85e15d9dff2f9a2ddd4ca35b0022/yuanbao_2.49.0.615_x64.exe
+- **URL**: https://cdn-hybrid-prod.hunyuan.tencent.com/Desktop/official/4941ec4214029786138a1671e4809d24/yuanbao_2.50.0.614_x64.exe
 
 #### tenpi-musicplayer
 
@@ -58251,7 +58260,7 @@ Total entries processed: 7099
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `topalasoftwaresolutions-siw.yml`
-- **URL**: https://www.gtopala.com/download/20251119c/siwtrial-setup.exe
+- **URL**: https://www.gtopala.com/download/20260102/siwtrial-setup.exe
 
 #### topazlabs-topazdenoiseai
 
@@ -61365,7 +61374,7 @@ Total entries processed: 7099
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `windirstat-windirstat-beta.yml`
-- **URL**: https://github.com/windirstat/windirstat/releases/download/beta/v2.4.4/2025-12-31/WinDirStat-x64.msi
+- **URL**: https://github.com/windirstat/windirstat/releases/download/beta/v2.4.5/2026-01-02/WinDirStat-x64.msi
 
 #### windirstat-windirstat
 
@@ -62400,7 +62409,7 @@ Total entries processed: 7099
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xdpxi-sponge.yml`
-- **URL**: http://cdn.xdpxi.net:8716/sponge/1.0.3/sponge-1.0.3-installer.exe
+- **URL**: http://cdn.xdpxi.net:8716/sponge/1.0.5/sponge-1.0.5-installer.exe
 
 #### xdpxi-xds-code
 
@@ -63741,7 +63750,7 @@ Total entries processed: 7099
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ztools-ztools.yml`
-- **URL**: https://github.com/ZToolsCenter/ZTools/releases/download/v1.2.4/ZTools-1.2.4-x64-setup.exe
+- **URL**: https://github.com/ZToolsCenter/ZTools/releases/download/v1.2.5/ZTools-1.2.5-x64-setup.exe
 
 #### zugferdcommunity-qubaviewer
 
