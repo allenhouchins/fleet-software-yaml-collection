@@ -1,7 +1,10 @@
-url: https://artifacts.videolan.org/vlc/nightly-win64/20260102-0423/vlc-4.0.0-dev-win64-69b49846.msi
+url: https://www.jmmgc.com/downloads/Text_File_Editor_Standalone.exe
 automatic_install: false
 self_service: false
 categories: []
+install_script: '# TODO: Add install script for this EXE'
+uninstall_script: '# TODO: Add uninstall script for this EXE'
 
 # Categories are currently limited to Browsers, Communication, Developer tools, and Productivity.
 # This is a minimum version of this file. All configurable parameters can be seen at https://fleetdm.com/docs/rest-api/rest-api#parameters139
+# Note: Any exe requires an install script and uninstall script to be defined

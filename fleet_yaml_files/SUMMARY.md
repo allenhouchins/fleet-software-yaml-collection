@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-01-02 18:05:21 UTC
+Generated on: 2026-01-03 06:05:21 UTC
 
 ## Summary
 
-Total entries processed: 7100
+Total entries processed: 7101
 - macOS files: 380
-- Windows files: 6720
+- Windows files: 6721
 
 ## Generated Files
 
@@ -1360,7 +1360,7 @@ Total entries processed: 7100
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `hackolade.yml`
-- **URL**: https://hackolade.s3.amazonaws.com/previous/v8.8.2/Hackolade-macARM64-setup-signed.pkg
+- **URL**: https://hackolade.s3.amazonaws.com/previous/v8.8.3/Hackolade-macARM64-setup-signed.pkg
 
 #### hancom-docs
 
@@ -3277,7 +3277,7 @@ Total entries processed: 7100
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `windows-app.yml`
-- **URL**: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_11.3.0_installer.pkg
+- **URL**: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_11.3.1_installer.pkg
 
 #### wireless-workbench
 
@@ -7176,7 +7176,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `anysphere-cursor.yml`
-- **URL**: https://downloads.cursor.com/production/df371ac0d93fe1a68d05eeb59a09c5c39add0c89/win32/x64/user-setup/CursorUserSetup-x64-2.3.18.exe
+- **URL**: https://downloads.cursor.com/production/68e0a0385b87408d050869ea543e3778ad53f78a/win32/x64/user-setup/CursorUserSetup-x64-2.3.21.exe
 
 #### apache-directorystudio
 
@@ -7914,7 +7914,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `atlassian-servicemanagementlts.yml`
-- **URL**: https://product-downloads.atlassian.com/software/jira/downloads/atlassian-servicedesk-10.3.11-x64.exe
+- **URL**: https://www.atlassian.com/software/jira/downloads/binary/atlassian-servicedesk-10.3.15-x64.exe
 
 #### atlassian-sourcetree
 
@@ -10713,7 +10713,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `binaryfortress-windowinspector.yml`
-- **URL**: https://binaryfortressdownloads.com/Download/BFSFiles/126/WindowInspectorSetup-3.6.exe
+- **URL**: https://binaryfortressdownloads.com/Download/BFSFiles/126/WindowInspectorSetup-3.8c.exe
 
 #### binarymark-advancedfilefinder
 
@@ -11811,7 +11811,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `brave-brave-nightly.yml`
-- **URL**: https://github.com/brave/brave-browser/releases/download/v1.87.135/BraveBrowserStandaloneSilentNightlySetup.exe
+- **URL**: https://github.com/brave/brave-browser/releases/download/v1.87.139/BraveBrowserStandaloneSilentNightlySetup.exe
 
 #### brave-brave
 
@@ -19038,7 +19038,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `elastic-auditbeat.yml`
-- **URL**: https://artifacts.elastic.co/downloads/beats/auditbeat/auditbeat-9.2.2-windows-x86_64.msi
+- **URL**: https://artifacts.elastic.co/downloads/beats/auditbeat/auditbeat-9.2.3-windows-x86_64.msi
 
 #### elastic-elasticsearch
 
@@ -19074,7 +19074,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `elastic-metricbeat.yml`
-- **URL**: https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-9.2.2-windows-x86_64.msi
+- **URL**: https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-9.2.3-windows-x86_64.msi
 
 #### elastic-packetbeat
 
@@ -23520,7 +23520,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/ofsughm7nzgawjvwuuhdlnpz7y_145.0.7611.0/145.0.7611.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/acar6us6zy4jtlg5f73wwiljwkqq_145.0.7613.0/145.0.7613.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -26625,7 +26625,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `integrit-hackolade.yml`
-- **URL**: https://s3-eu-west-1.amazonaws.com/hackolade/previous/v8.8.2/Hackolade-win64-setup-signed.exe
+- **URL**: https://s3-eu-west-1.amazonaws.com/hackolade/previous/v8.8.3/Hackolade-win64-setup-signed.exe
 
 #### intel-fortrancompiler
 
@@ -28533,7 +28533,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-phpstorm.yml`
-- **URL**: https://download.jetbrains.com/webide/PhpStorm-2025.3.exe
+- **URL**: https://download.jetbrains.com/webide/PhpStorm-2025.3.1.exe
 
 #### jetbrains-pycharm-community-eap
 
@@ -28650,7 +28650,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-rustrover.yml`
-- **URL**: https://download.jetbrains.com/rustrover/RustRover-2025.3.exe
+- **URL**: https://download.jetbrains.com/rustrover/RustRover-2025.3.1.exe
 
 #### jetbrains-space
 
@@ -28930,6 +28930,15 @@ Total entries processed: 7100
 - **Version**: 
 - **File**: `jmmg-ocwin.yml`
 - **URL**: https://www.jmmgc.com/downloads/OC2025_Final.exe
+
+#### jmmg-textfileeditor
+
+- **Source**: winget
+- **Name**: jmmg-textfileeditor
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `jmmg-textfileeditor.yml`
+- **URL**: https://www.jmmgc.com/downloads/Text_File_Editor_Standalone.exe
 
 #### joadoumie-nbacommandpaletteextension
 
@@ -30387,7 +30396,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kellyelton-max-backup.yml`
-- **URL**: https://github.com/kellyelton/MaxBackup/releases/download/0.2.16/Max.Installer.Package.msi
+- **URL**: https://github.com/kellyelton/MaxBackup/releases/download/0.2.25/Max.Installer.Package.msi
 
 #### kenkun-aviutlexedit2
 
@@ -36183,7 +36192,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mikf-gallery-dl-nightly.yml`
-- **URL**: https://github.com/gdl-org/builds/releases/download/2026.01.01/gallery-dl_windows.exe
+- **URL**: https://github.com/gdl-org/builds/releases/download/2026.01.02/gallery-dl_windows.exe
 
 #### mikrotik-winbox
 
@@ -37092,7 +37101,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `movavi-movavivideoeditor.yml`
-- **URL**: https://content.movavi.com/sparkle/ve/win/x86_64/26_5_0/MovaviVideoEditorSetup_26_5_0_x64___19484_release-VEM-26.5_7a53173_CyprusBuild003_WIN64_setup.exe
+- **URL**: https://content.movavi.com/sparkle/ve/win/x86_64/26_6_0/MovaviVideoEditorSetup_26_6_0_x64___19633_release-VEM-26.6_2f7cc30_CyprusBuild003_WIN64_setup.exe
 
 #### movavi-movavivideoeditorplus
 
@@ -39450,7 +39459,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-kn.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64/kn/Firefox%20Setup%20146.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0.1/win64/kn/Firefox%20Setup%20146.0.1.exe
 
 #### mozilla-firefox-ko
 
@@ -39459,7 +39468,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-ko.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64/ko/Firefox%20Setup%20146.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0.1/win64/ko/Firefox%20Setup%20146.0.1.exe
 
 #### mozilla-firefox-lij
 
@@ -39468,7 +39477,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-lij.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64/lij/Firefox%20Setup%20146.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0.1/win64/lij/Firefox%20Setup%20146.0.1.exe
 
 #### mozilla-firefox-lt
 
@@ -39585,7 +39594,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-pl.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64/pl/Firefox%20Setup%20146.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0.1/win64/pl/Firefox%20Setup%20146.0.1.exe
 
 #### mozilla-firefox-pt-br
 
@@ -39594,7 +39603,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-pt-br.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64/pt-BR/Firefox%20Setup%20146.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0.1/win64/pt-BR/Firefox%20Setup%20146.0.1.exe
 
 #### mozilla-firefox-pt-pt
 
@@ -39612,7 +39621,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-rm.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64/rm/Firefox%20Setup%20146.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0.1/win64/rm/Firefox%20Setup%20146.0.1.exe
 
 #### mozilla-firefox-ro
 
@@ -45066,7 +45075,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `openttd-openttd.yml`
-- **URL**: https://cdn.openttd.org/openttd-releases/14.1/openttd-14.1-windows-win64.exe
+- **URL**: https://cdn.openttd.org/openttd-releases/15.0/openttd-15.0-windows-win64.exe
 
 #### openvpntechnologies-openvpn
 
@@ -50592,7 +50601,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ronghuaxueleng-claudecodeconfigmanager.yml`
-- **URL**: https://github.com/ronghuaxueleng/claude-code-config-manage-gui/releases/download/v1.6.0/claude-code-config-manager_1.6.0_x64-setup.exe
+- **URL**: https://github.com/ronghuaxueleng/claude-code-config-manage-gui/releases/download/v1.7.0/claude-code-config-manager_1.7.0_x64-setup.exe
 
 #### ronyshapiro-passwordsafe
 
@@ -51357,7 +51366,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sandboxie-classic.yml`
-- **URL**: https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.16.8/Sandboxie-Classic-x64-v5.71.8.exe
+- **URL**: https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.16.9/Sandboxie-Classic-x64-v5.71.9.exe
 
 #### sandboxie-plus
 
@@ -51843,7 +51852,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `scootersoftware-beyondcompare-5.yml`
-- **URL**: https://www.scootersoftware.com/files/BCompare-5.1.6.31527.exe
+- **URL**: https://www.scootersoftware.com/files/BCompare-5.1.7.31736.exe
 
 #### scopefun-scopefun
 
@@ -54327,7 +54336,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sst-opencodedesktop.yml`
-- **URL**: https://github.com/sst/opencode/releases/download/v1.0.164/opencode-desktop-windows-x64.exe
+- **URL**: https://github.com/sst/opencode/releases/download/v1.0.223/opencode-desktop-windows-x64.exe
 
 #### stacher-youtube-dl
 
@@ -56091,7 +56100,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `taozuhong-kangaroomultiple.yml`
-- **URL**: https://github.com/dbkangaroo/kangaroo/releases/download/v8.92.1.1130/Kangaroo-Multiple-8.92.1.1130-x86_64.exe
+- **URL**: https://github.com/dbkangaroo/kangaroo/releases/download/v9.0.1.104/Kangaroo-Multiple-9.0.1.104-x86_64.exe
 
 #### taozuhong-kangarooredis
 
@@ -56100,7 +56109,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `taozuhong-kangarooredis.yml`
-- **URL**: https://github.com/dbkangaroo/kangaroo/releases/download/v8.92.1.1130/Kangaroo-Redis-8.92.1.1130-x86_64.exe
+- **URL**: https://github.com/dbkangaroo/kangaroo/releases/download/v9.0.1.104/Kangaroo-Redis-9.0.1.104-x86_64.exe
 
 #### taraksharma-nighthawk
 
@@ -59943,7 +59952,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc-nightly.yml`
-- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20251230-0438/vlc-4.0.0-dev-win64-5a666ee2.msi
+- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20260102-0423/vlc-4.0.0-dev-win64-69b49846.msi
 
 #### videolan-vlc
 
@@ -61374,7 +61383,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `windirstat-windirstat-beta.yml`
-- **URL**: https://github.com/windirstat/windirstat/releases/download/beta/v2.4.5/2026-01-02/WinDirStat-x64.msi
+- **URL**: https://github.com/windirstat/windirstat/releases/download/beta/v2.4.6/2026-01-02/WinDirStat-x64.msi
 
 #### windirstat-windirstat
 
@@ -63156,7 +63165,7 @@ Total entries processed: 7100
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yt-dlp-yt-dlp-nightly.yml`
-- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2025.12.31.233056/yt-dlp.exe
+- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2026.01.01.233103/yt-dlp.exe
 
 #### yt-dlp-yt-dlp
 
