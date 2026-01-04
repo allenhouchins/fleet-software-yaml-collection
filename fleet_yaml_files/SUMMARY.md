@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-01-04 06:05:13 UTC
+Generated on: 2026-01-04 18:04:57 UTC
 
 ## Summary
 
@@ -7266,7 +7266,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `appest-dida.yml`
-- **URL**: https://cdn.dida365.cn/download/win64/dida_win_setup_release_x64_6420.exe
+- **URL**: https://cdn.dida365.cn/download/win64/dida_win_setup_release_x64_8000.exe
 
 #### appest-ticktick
 
@@ -11442,7 +11442,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `blueberrycongee-luminanote.yml`
-- **URL**: https://github.com/blueberrycongee/Lumina-Note/releases/download/v0.4.1/lumina-note_0.4.1_x64-setup.exe
+- **URL**: https://github.com/blueberrycongee/Lumina-Note/releases/download/v0.4.2/lumina-note_0.4.2_x64-setup.exe
 
 #### bluebubbles-bluebubbles
 
@@ -12378,7 +12378,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bytedance-sodamusic.yml`
-- **URL**: https://lf-luna-release.qishui.com/obj/luna-release/2.9.1/273418830/SodaMusic-v2.9.1-official-win32_x64.exe
+- **URL**: https://lf-luna-release.qishui.com/obj/luna-release/2.9.5/281148410/SodaMusic-v2.9.5-official-win32_x64.exe
 
 #### bytedance-streamingtool
 
@@ -21423,7 +21423,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `flyhunterl-flymd.yml`
-- **URL**: https://github.com/flyhunterl/flymd/releases/download/v0.9.2/flymd_0.9.2_x64-setup.exe
+- **URL**: https://github.com/flyhunterl/flymd/releases/download/v0.9.3/flymd_0.9.3_x64-setup.exe
 
 #### fnmt-configuradorfnmt
 
@@ -21927,7 +21927,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `freeplane-freeplane.yml`
-- **URL**: https://sourceforge.net/projects/freeplane/files/freeplane%20stable/Freeplane-Setup-1.12.14.exe/download
+- **URL**: https://sourceforge.net/projects/freeplane/files/freeplane%20stable/Freeplane-Setup-1.12.15.exe/download
 
 #### friction-friction
 
@@ -28164,7 +28164,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jeffvli-feishin.yml`
-- **URL**: https://github.com/jeffvli/feishin/releases/download/v1.1.0/Feishin-1.1.0-win-x64.exe
+- **URL**: https://github.com/jeffvli/feishin/releases/download/v1.2.0/Feishin-1.2.0-win-x64.exe
 
 #### jeffvli-sonixd
 
@@ -28668,7 +28668,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-teamcity.yml`
-- **URL**: https://download.jetbrains.com/teamcity/TeamCity-2025.11.exe
+- **URL**: https://download.jetbrains.com/teamcity/TeamCity-2025.11.1.exe
 
 #### jetbrains-toolbox
 
@@ -28749,7 +28749,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jgraph-draw.yml`
-- **URL**: https://github.com/jgraph/drawio-desktop/releases/download/v29.0.3/draw.io-29.0.3-windows-installer.exe
+- **URL**: https://github.com/jgraph/drawio-desktop/releases/download/v29.2.9/draw.io-29.2.9-windows-installer.exe
 
 #### jhen0409-reactnativedebugger
 
@@ -29937,7 +29937,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kdiamond.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kdiamond/master/windows/kdiamond-master-801-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kdiamond/master/windows/kdiamond-master-803-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kdiff3
 
@@ -30009,7 +30009,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kjumpingcube.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kjumpingcube/master/windows/kjumpingcube-master-808-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kjumpingcube/master/windows/kjumpingcube-master-810-windows-cl-msvc2022-x86_64.exe
 
 #### kde-klickety
 
@@ -30171,7 +30171,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-ksquares.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/ksquares/master/windows/ksquares-master-793-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/ksquares/master/windows/ksquares-master-795-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kstars
 
@@ -30207,7 +30207,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-ktuberling.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/ktuberling/master/windows/ktuberling-master-881-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/ktuberling/master/windows/ktuberling-master-885-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kturtle
 
@@ -30288,7 +30288,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-parley.yml`
-- **URL**: https://cdn.kde.org/ci-builds/education/parley/master/windows/parley-master-875-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/education/parley/master/windows/parley-master-878-windows-cl-msvc2022-x86_64.exe
 
 #### kde-picmi
 
@@ -30297,7 +30297,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-picmi.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/picmi/master/windows/picmi-master-766-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/picmi/master/windows/picmi-master-768-windows-cl-msvc2022-x86_64.exe
 
 #### kde-rkward
 
@@ -31035,7 +31035,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kuaifan-dootask.yml`
-- **URL**: https://github.com/kuaifan/dootask/releases/download/v1.4.99/DooTask-v1.4.99-win-x64.exe
+- **URL**: https://github.com/kuaifan/dootask/releases/download/v1.5.5/DooTask-v1.5.5-win-x64.exe
 
 #### kubernetes-aws-iam-authenticator
 
@@ -33339,7 +33339,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `marcelolvcabral-brightscriptemulator.yml`
-- **URL**: https://github.com/lvcabral/brs-desktop/releases/download/v2.1.0/brs-desktop-2.1.0-windows.exe
+- **URL**: https://github.com/lvcabral/brs-desktop/releases/download/v2.1.2/brs-desktop-2.1.2-windows.exe
 
 #### marcespinsanz-gravitoneditor
 
@@ -37533,7 +37533,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-es-mx.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b4/win64/es-MX/Firefox%20Setup%20147.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b7/win64/es-MX/Firefox%20Setup%20147.0b7.exe
 
 #### mozilla-firefox-developeredition-et
 
@@ -37920,7 +37920,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-pa-in.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b6/win64/pa-IN/Firefox%20Setup%20147.0b6.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b7/win64/pa-IN/Firefox%20Setup%20147.0b7.exe
 
 #### mozilla-firefox-developeredition-pl
 
@@ -38127,7 +38127,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-trs.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b4/win64/trs/Firefox%20Setup%20147.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b7/win64/trs/Firefox%20Setup%20147.0b7.exe
 
 #### mozilla-firefox-developeredition-uk
 
@@ -38172,7 +38172,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-xh.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b4/win64/xh/Firefox%20Setup%20147.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b7/win64/xh/Firefox%20Setup%20147.0b7.exe
 
 #### mozilla-firefox-developeredition-zh-cn
 
@@ -41628,7 +41628,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nashaofu-shell360.yml`
-- **URL**: https://github.com/nashaofu/shell360/releases/download/v0.1.15/Shell360_0.1.15_x64-setup.exe
+- **URL**: https://github.com/nashaofu/shell360/releases/download/v0.1.16/Shell360_0.1.16_x64-setup.exe
 
 #### nasm-nasm
 
@@ -42897,7 +42897,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nitrorcr-aiasworkspace.yml`
-- **URL**: https://github.com/NitroRCr/AIaW/releases/download/v1.8.6/AI.as.Workspace_1.8.6_x64-setup.exe
+- **URL**: https://github.com/NitroRCr/AIaW/releases/download/v1.8.7/AI.as.Workspace_1.8.7_x64-setup.exe
 
 #### nitrosoftware-nitropro-nls
 
@@ -52338,7 +52338,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-01-03/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-01-04/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -55929,7 +55929,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tableclothproject-tablecloth.yml`
-- **URL**: https://github.com/yourtablecloth/TableCloth/releases/download/v1.15.0/TableCloth_1.15.0.0_Release_x64.exe
+- **URL**: https://github.com/yourtablecloth/TableCloth/releases/download/v1.16.0/TableCloth_1.16.0.0_Release_x64.exe
 
 #### tableplus-tableplus
 
@@ -62418,7 +62418,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xdpxi-sponge.yml`
-- **URL**: http://cdn.xdpxi.net:8716/sponge/1.0.6/sponge-1.0.6-windows-installer.exe
+- **URL**: http://cdn.xdpxi.net:8716/sponge/1.0.7/sponge-1.0.7-windows-installer.exe
 
 #### xdpxi-xds-code
 
@@ -62508,7 +62508,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xiaoyifang-goldendict-ng.yml`
-- **URL**: https://github.com/xiaoyifang/goldendict-ng/releases/download/v25.10.2-Release.673d1b90/GoldenDict-ng-25.10.2-Qt6.7.2-Windows-installer.exe
+- **URL**: https://github.com/xiaoyifang/goldendict-ng/releases/download/v26.1.0-Release.13f0f844/GoldenDict-ng-26.1.0-Qt6.7.2-Windows-installer.exe
 
 #### xiaoyouchr-ghostdownloader
 
@@ -62715,7 +62715,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xmake-io-xmake.yml`
-- **URL**: https://github.com/xmake-io/xmake/releases/download/v3.0.5/xmake-v3.0.5.win64.exe
+- **URL**: https://github.com/xmake-io/xmake/releases/download/v3.0.6/xmake-v3.0.6.win64.exe
 
 #### xmarmalade-alisthelper
 
@@ -63066,7 +63066,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ycookiey-yclocky.yml`
-- **URL**: https://github.com/ycookiey/yClocky/releases/download/v1.0.3/yClocky.exe
+- **URL**: https://github.com/ycookiey/yClocky/releases/download/v1.0.4/yClocky.exe
 
 #### yendisentertainment-krunkerclient
 
