@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-01-04 18:04:57 UTC
+Generated on: 2026-01-05 06:07:45 UTC
 
 ## Summary
 
-Total entries processed: 7101
-- macOS files: 380
-- Windows files: 6721
+Total entries processed: 7099
+- macOS files: 379
+- Windows files: 6720
 
 ## Generated Files
 
@@ -1884,15 +1884,6 @@ Total entries processed: 7101
 - **File**: `mmhmm-studio.yml`
 - **URL**: https://updates.mmhmm.app/mac/mmhmmStudio.pkg
 
-#### monity-helper
-
-- **Source**: homebrew/installomator
-- **Name**: monity-helper
-- **Description**: Generated from Homebrew cask or Installomator script
-- **Version**: 
-- **File**: `monity-helper.yml`
-- **URL**: https://monityapp.com/download/MonityHelper.pkg
-
 #### mono-mdk
 
 - **Source**: homebrew/installomator
@@ -3711,7 +3702,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `64gram-64gram.yml`
-- **URL**: https://github.com/TDesktop-x64/tdesktop/releases/download/v1.1.91/64Gram-setup-x64.1.1.91.exe
+- **URL**: https://github.com/TDesktop-x64/tdesktop/releases/download/v1.1.92/64Gram-setup-x64.1.1.92.exe
 
 #### 720kb-ndm
 
@@ -5295,7 +5286,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `alist-alistdesktop.yml`
-- **URL**: https://github.com/AlistGo/desktop-release/releases/download/v3.55.0/alist-desktop_3.55.0_x64-setup.exe
+- **URL**: https://github.com/AlistGo/desktop-release/releases/download/v3.56.0/alist-desktop_3.56.0_x64-setup.exe
 
 #### allanchain-sanebreak
 
@@ -7662,7 +7653,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `artemchepurnyi-keyguard.yml`
-- **URL**: https://github.com/AChep/keyguard-app/releases/download/r20260102.2/Keyguard-2.1.0.msi
+- **URL**: https://github.com/AChep/keyguard-app/releases/download/r20260105/Keyguard-2.2.0.msi
 
 #### artempyanykh-marksman
 
@@ -9462,7 +9453,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `beekeeper-studio-beekeeper-studio.yml`
-- **URL**: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.4.10/Beekeeper-Studio-Setup-5.4.10.exe
+- **URL**: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.5.1/Beekeeper-Studio-Setup-5.5.1.exe
 
 #### beeper-beeper
 
@@ -12360,7 +12351,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bytedance-jianyingpro.yml`
-- **URL**: https://lf3-package.vlabstatic.com/obj/faceu-packages/Jianying_9_7_1_13726_jianyingpro_0_creatortool.exe
+- **URL**: https://lf3-package.vlabstatic.com/obj/faceu-packages/Jianying_9_8_0_13769_jianyingpro_0_creatortool.exe
 
 #### bytedance-lark
 
@@ -12414,7 +12405,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bytedance-trae.yml`
-- **URL**: https://lf-cdn.trae.ai/obj/trae-ai-us/pkg/app/releases/stable/1.0.27216/win32/Trae-Setup-x64.exe
+- **URL**: https://lf-cdn.trae.ai/obj/trae-ai-us/pkg/app/releases/stable/1.0.26989/win32/Trae-Setup-x64.exe
 
 #### bytedance-ui-tars
 
@@ -14520,7 +14511,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `commercialhaskell-stack.yml`
-- **URL**: https://github.com/commercialhaskell/stack/releases/download/v3.7.1/stack-3.7.1-windows-x86_64-installer.exe
+- **URL**: https://github.com/commercialhaskell/stack/releases/download/v3.9.1/stack-3.9.1-windows-x86_64-installer.exe
 
 #### commitly-commitly
 
@@ -25473,7 +25464,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hrzlgnm-mdns-browser.yml`
-- **URL**: https://github.com/hrzlgnm/mdns-browser/releases/download/mdns-browser-v1.0.6/mdns-browser_1.0.6_x64-setup.exe
+- **URL**: https://github.com/hrzlgnm/mdns-browser/releases/download/mdns-browser-v1.0.7/mdns-browser_1.0.7_x64-setup.exe
 
 #### htacg-tidy
 
@@ -29532,7 +29523,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kangfenmao-cherrystudio.yml`
-- **URL**: https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.3/Cherry-Studio-1.7.3-x64-setup.exe
+- **URL**: https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.6/Cherry-Studio-1.7.6-x64-setup.exe
 
 #### kapibala-shuitun
 
@@ -32675,6 +32666,15 @@ Total entries processed: 7101
 - **File**: `lucanet-lucanetsoftwaremanager.yml`
 - **URL**: https://cdn.lucanet.com/installer/LucaNet.SoftwareManager_Installer_2503+7.msi
 
+#### lucasdeeiroz-robotrunner
+
+- **Source**: winget
+- **Name**: lucasdeeiroz-robotrunner
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `lucasdeeiroz-robotrunner.yml`
+- **URL**: https://github.com/lucasdeeiroz/robot_runner/releases/download/v2.0.74/Robot.Runner_2.0.74_windows_x64-setup.exe
+
 #### lucasreade-ohhaibrowser
 
 - **Source**: winget
@@ -33627,7 +33627,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `maximumadhd-robloxstudiomodmanager.yml`
-- **URL**: https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager/releases/download/v2025.05.01/RobloxStudioModManager.exe
+- **URL**: https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager/releases/download/v2025.12.10/RobloxStudioModManager.exe
 
 #### maximus5-conemu
 
@@ -35499,7 +35499,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-servicefabricruntime.yml`
-- **URL**: https://download.microsoft.com/download/b/8/a/b8a2fb98-0ec1-41e5-be98-9d8b5abf7856/MicrosoftServiceFabric.11.1.208.1.exe
+- **URL**: https://download.microsoft.com/download/b/8/a/b8a2fb98-0ec1-41e5-be98-9d8b5abf7856/MicrosoftServiceFabric.11.3.475.1.exe
 
 #### microsoft-servicefabricsdk
 
@@ -37479,7 +37479,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-en-ca.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b6/win64/en-CA/Firefox%20Setup%20147.0b6.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b7/win64/en-CA/Firefox%20Setup%20147.0b7.exe
 
 #### mozilla-firefox-developeredition-en-gb
 
@@ -37623,7 +37623,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-gd.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b5/win64/gd/Firefox%20Setup%20147.0b5.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b7/win64/gd/Firefox%20Setup%20147.0b7.exe
 
 #### mozilla-firefox-developeredition-gl
 
@@ -37722,7 +37722,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-id.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b4/win64/id/Firefox%20Setup%20147.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b7/win64/id/Firefox%20Setup%20147.0b7.exe
 
 #### mozilla-firefox-developeredition-is
 
@@ -38037,7 +38037,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-sq.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b4/win64/sq/Firefox%20Setup%20147.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b7/win64/sq/Firefox%20Setup%20147.0b7.exe
 
 #### mozilla-firefox-developeredition-sr
 
@@ -47838,7 +47838,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `prog-progdvb-professional.yml`
-- **URL**: https://files.progdvb.com/progdvb/ProgDVB7.64.0x64Pro.exe
+- **URL**: https://files4.progdvb.com/progdvb/ProgDVB7.69.9x64Pro.exe
 
 #### prog-progfinder
 
@@ -49296,7 +49296,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `raycarrot-raymancontrolpanel.yml`
-- **URL**: https://github.com/RayCarrot/RayCarrot.RCP.Metro/releases/download/14.2.4/Rayman.Control.Panel.exe
+- **URL**: https://github.com/RayCarrot/RayCarrot.RCP.Metro/releases/download/14.3.0.4/RaymanControlPanel.exe
 
 #### raycho-raycho
 
@@ -54336,7 +54336,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sst-opencodedesktop.yml`
-- **URL**: https://github.com/sst/opencode/releases/download/v1.0.223/opencode-desktop-windows-x64.exe
+- **URL**: https://github.com/anomalyco/opencode/releases/download/v1.1.1/opencode-desktop-windows-x64.exe
 
 #### stacher-youtube-dl
 
@@ -55929,7 +55929,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tableclothproject-tablecloth.yml`
-- **URL**: https://github.com/yourtablecloth/TableCloth/releases/download/v1.16.0/TableCloth_1.16.0.0_Release_x64.exe
+- **URL**: https://github.com/yourtablecloth/TableCloth/releases/download/v1.16.1/TableCloth_1.16.1.0_Release_x64.exe
 
 #### tableplus-tableplus
 
@@ -59684,24 +59684,6 @@ Total entries processed: 7101
 - **File**: `vb-audio-voicemeeter-banana.yml`
 - **URL**: https://download.vb-audio.com/Download_CABLE/VoicemeeterProSetup.exe
 
-#### vb-audio-voicemeeter-potato
-
-- **Source**: winget
-- **Name**: vb-audio-voicemeeter-potato
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `vb-audio-voicemeeter-potato.yml`
-- **URL**: https://download.vb-audio.com/Download_CABLE/Voicemeeter8Setup.exe
-
-#### vb-audio-voicemeeter
-
-- **Source**: winget
-- **Name**: vb-audio-voicemeeter
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `vb-audio-voicemeeter.yml`
-- **URL**: https://download.vb-audio.com/Download_CABLE/VoicemeeterSetup.exe
-
 #### vcmi-vcmi
 
 - **Source**: winget
@@ -61113,7 +61095,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wenming-thirdspace.yml`
-- **URL**: https://github.com/wenming-ma/ThirdSpace/releases/download/v0.1.0/ThirdSpace_0.1.0_x64_en-US.msi
+- **URL**: https://github.com/wenming-ma/ThirdSpace/releases/download/v0.2.0/ThirdSpace_0.2.0.msi
 
 #### werwolv-imhex
 
@@ -61383,7 +61365,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `windirstat-windirstat-beta.yml`
-- **URL**: https://github.com/windirstat/windirstat/releases/download/beta/v2.4.6/2026-01-02/WinDirStat-x64.msi
+- **URL**: https://github.com/windirstat/windirstat/releases/download/beta/v2.4.7/2026-01-04/WinDirStat-x64.msi
 
 #### windirstat-windirstat
 
@@ -61464,7 +61446,7 @@ Total entries processed: 7101
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `winmerge-winmerge-beta.yml`
-- **URL**: https://github.com/WinMerge/winmerge/releases/download/v2.16.35/WinMerge-2.16.35-x64-PerUser-Setup.exe
+- **URL**: https://github.com/WinMerge/winmerge/releases/download/v2.16.53/WinMerge-2.16.53-x64-PerUser-Setup.exe
 
 #### winmerge-winmerge
 
