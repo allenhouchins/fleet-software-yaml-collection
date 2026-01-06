@@ -1,0 +1,7 @@
+url: https://github.com/pa001024/dna-builder/releases/download/v0.8.3/dna-builder_0.8.3_x64_zh-CN.msi
+automatic_install: false
+self_service: false
+categories: []
+
+# Categories are currently limited to Browsers, Communication, Developer tools, and Productivity.
+# This is a minimum version of this file. All configurable parameters can be seen at https://fleetdm.com/docs/rest-api/rest-api#parameters139
