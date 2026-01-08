@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-01-08 06:05:47 UTC
+Generated on: 2026-01-08 18:05:02 UTC
 
 ## Summary
 
-Total entries processed: 7118
+Total entries processed: 7119
 - macOS files: 379
-- Windows files: 6739
+- Windows files: 6740
 
 ## Generated Files
 
@@ -2764,7 +2764,7 @@ Total entries processed: 7118
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `softube-central.yml`
-- **URL**: https://softubestorage.b-cdn.net/softubecentraldata/softubecentral/Softube%20Central-2.1.6-universal.pkg
+- **URL**: https://softubestorage.b-cdn.net/softubecentraldata/softubecentral/Softube%20Central-2.1.7-universal.pkg
 
 #### softubecentral
 
@@ -2944,7 +2944,7 @@ Total entries processed: 7118
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `teleport-suite.yml`
-- **URL**: https://cdn.teleport.dev/teleport-18.6.2.pkg
+- **URL**: https://cdn.teleport.dev/teleport-18.6.3.pkg
 
 #### temurin-11
 
@@ -4458,7 +4458,7 @@ Total entries processed: 7118
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aelassas-servy.yml`
-- **URL**: https://github.com/aelassas/servy/releases/download/v4.7/servy-4.7-x64-installer.exe
+- **URL**: https://github.com/aelassas/servy/releases/download/v4.8/servy-4.8-x64-installer.exe
 
 #### aerosoft-one
 
@@ -4701,7 +4701,7 @@ Total entries processed: 7118
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aiclientproxy-proxycast.yml`
-- **URL**: https://github.com/aiclientproxy/proxycast/releases/download/v0.34.0/ProxyCast_0.34.0_x64-setup.exe
+- **URL**: https://github.com/aiclientproxy/proxycast/releases/download/v0.36.3/ProxyCast_0.36.3_x64-setup.exe
 
 #### aignesberger-websitewatcher
 
@@ -5214,7 +5214,7 @@ Total entries processed: 7118
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `alibaba-qianwen.yml`
-- **URL**: https://qianwen-portal-cdn.tongyi.com/native/app/1.2.3/win32/x64/qwenclient_setup_1.2.3.2512151443.exe
+- **URL**: https://qianwen-portal-cdn.tongyi.com/native/app/1.2.4/win32/x64/qwenclient_setup_1.2.4.2601061931.exe
 
 #### alibaba-qoder
 
@@ -6276,7 +6276,7 @@ Total entries processed: 7118
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `amarbego-gittop.yml`
-- **URL**: https://github.com/AmarBego/GitTop/releases/download/v0.3.0/gittop-0.3.0-windows-x86_64-setup.exe
+- **URL**: https://github.com/AmarBego/GitTop/releases/download/v0.4.0/gittop-0.4.0-windows-x86_64-setup.exe
 
 #### amarbego-rscoop
 
@@ -7284,7 +7284,7 @@ Total entries processed: 7118
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `appest-ticktick.yml`
-- **URL**: https://download.ticktick.app/download/win64/tick_win_setup_release_x64_8000.exe
+- **URL**: https://download.ticktick.app/download/win64/tick_wins_setup_release_x64_8001.exe
 
 #### appflowy-appflowy
 
@@ -11811,7 +11811,7 @@ Total entries processed: 7118
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `brave-brave-beta.yml`
-- **URL**: https://github.com/brave/brave-browser/releases/download/v1.86.131/BraveBrowserStandaloneSilentBetaSetup.exe
+- **URL**: https://github.com/brave/brave-browser/releases/download/v1.86.134/BraveBrowserStandaloneSilentBetaSetup.exe
 
 #### brave-brave-dev
 
@@ -12378,7 +12378,7 @@ Total entries processed: 7118
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bytedance-jianyingpro.yml`
-- **URL**: https://lf3-package.vlabstatic.com/obj/faceu-packages/Jianying_9_8_0_13769_jianyingpro_0_creatortool.exe
+- **URL**: https://lf3-package.vlabstatic.com/obj/faceu-packages/Jianying_9_9_0_13784_jianyingpro_0_creatortool.exe
 
 #### bytedance-lark
 
@@ -14331,7 +14331,7 @@ Total entries processed: 7118
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `codexu-notegen.yml`
-- **URL**: https://github.com/codexu/note-gen/releases/download/note-gen-v0.23.6/NoteGen_0.23.6_x64-setup.exe
+- **URL**: https://github.com/codexu/note-gen/releases/download/note-gen-v0.23.7/NoteGen_0.23.7_x64-setup.exe
 
 #### codice-plasticscm-cloudedition
 
@@ -14529,7 +14529,7 @@ Total entries processed: 7118
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `comfy-comfyui-desktop.yml`
-- **URL**: https://download.todesktop.com/241012ess7yxs0e/ComfyUI%20Setup%200.7.0%20-%20Build%20260105ukyud5po2-x64.exe
+- **URL**: https://download.todesktop.com/241012ess7yxs0e/ComfyUI%20Setup%200.7.2%20-%20Build%2026010815jy3gb43-x64.exe
 
 #### commandline-wave
 
@@ -18894,7 +18894,7 @@ Total entries processed: 7118
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `eeo-classin.yml`
-- **URL**: https://download.eeo.cn/client/classin_win_install_6.0.5.3601_x64.exe
+- **URL**: https://download.eeo.cn/client/classin_win_install_6.0.5.3621_x64.exe
 
 #### eeo-classinx
 
@@ -18903,7 +18903,7 @@ Total entries processed: 7118
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `eeo-classinx.yml`
-- **URL**: https://download.eeo.cn/client/classinx_win_install_6.0.5.3603_x64.exe
+- **URL**: https://download.eeo.cn/client/classinx_win_install_6.0.5.3623_x64.exe
 
 #### eff-certbot
 
@@ -21468,7 +21468,7 @@ Total entries processed: 7118
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `flyhunterl-flymd.yml`
-- **URL**: https://github.com/flyhunterl/flymd/releases/download/v0.9.9/flymd_0.9.9_x64-setup.exe
+- **URL**: https://github.com/flyhunterl/flymd/releases/download/v1.0.0/flymd_1.0.0_x64-setup.exe
 
 #### fnmt-configuradorfnmt
 
@@ -22062,7 +22062,7 @@ Total entries processed: 7118
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `funroutine-workflowy.yml`
-- **URL**: https://github.com/workflowy/desktop/releases/download/v4.3.2512301231/WorkFlowy-Installer-4.3.2512301231.exe
+- **URL**: https://github.com/workflowy/desktop/releases/download/v4.3.2601071721/WorkFlowy-Installer-4.3.2601071721.exe
 
 #### fupdec-mediachips
 
@@ -23556,7 +23556,7 @@ Total entries processed: 7118
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/adk6rrvvmyujglqrtxfq3kt3bdjq_145.0.7621.0/145.0.7621.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/jhd63k42bjrffp5cqmd4qs34me_145.0.7622.0/145.0.7622.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -24510,7 +24510,7 @@ Total entries processed: 7118
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `haiying-aionui.yml`
-- **URL**: https://github.com/iOfficeAI/AionUi/releases/download/v1.6.8/AionUi-1.6.8-win-x64.exe
+- **URL**: https://github.com/iOfficeAI/AionUi/releases/download/v1.6.9/AionUi-1.6.9-win-x64.exe
 
 #### hakuneko-hakuneko-nightly
 
@@ -25743,7 +25743,7 @@ Total entries processed: 7118
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hydrusnetwork-hydrusnetwork.yml`
-- **URL**: https://github.com/hydrusnetwork/hydrus/releases/download/v652/Hydrus.Network.652.-.Windows.-.Installer.exe
+- **URL**: https://github.com/hydrusnetwork/hydrus/releases/download/v654/Hydrus.Network.654.-.Windows.-.Installer.exe
 
 #### hyperion-hyperion
 
@@ -29775,7 +29775,7 @@ Total entries processed: 7118
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-dolphin.yml`
-- **URL**: https://cdn.kde.org/ci-builds/system/dolphin/release-25.12/windows/dolphin-release_25.12-6918-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/system/dolphin/release-25.12/windows/dolphin-release_25.12-6924-windows-cl-msvc2022-x86_64.exe
 
 #### kde-elisa
 
@@ -32754,7 +32754,7 @@ Total entries processed: 7118
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lucasdeeiroz-robotrunner.yml`
-- **URL**: https://github.com/lucasdeeiroz/robot_runner/releases/download/v2.0.74/Robot.Runner_2.0.74_windows_x64-setup.exe
+- **URL**: https://github.com/lucasdeeiroz/robot_runner/releases/download/v2.0.75/Robot.Runner_2.0.75_windows_x64-setup.exe
 
 #### lucasreade-ohhaibrowser
 
@@ -49964,6 +49964,15 @@ Total entries processed: 7118
 - **File**: `retroshare-retroshare.yml`
 - **URL**: https://github.com/RetroShare/RetroShare/releases/download/v0.6.7.2/RetroShare-0.6.7a-4-ga1fdce2e5-20231126-Qt-5.15.2-x64-setup.exe
 
+#### revenge-stremioenhanced
+
+- **Source**: winget
+- **Name**: revenge-stremioenhanced
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `revenge-stremioenhanced.yml`
+- **URL**: https://github.com/REVENGE977/stremio-enhanced/releases/download/v1.0.2/Stremio.Enhanced.Setup.1.0.2.exe
+
 #### revival-wordlight
 
 - **Source**: winget
@@ -50808,7 +50817,7 @@ Total entries processed: 7118
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `roxybrowser-roxybrowser.yml`
-- **URL**: https://lumibrowser-hk.oss-cn-hongkong.aliyuncs.com/public/package/app/Windows/64/3.6.6/RoxyBrowser_x64_3.6.6.exe
+- **URL**: https://lumibrowser-hk.oss-cn-hongkong.aliyuncs.com/public/package/app/Windows/64/3.6.8/RoxyBrowser_x64_3.6.8.exe
 
 #### royalapps-royalserver
 
@@ -52473,7 +52482,7 @@ Total entries processed: 7118
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-01-07/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-01-08/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -56964,7 +56973,7 @@ Total entries processed: 7118
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-tcedrive.yml`
-- **URL**: https://pan.tencent.com/api/upgrade/TCE-Drive-win32-2.12.2-161.exe
+- **URL**: https://pan.tencent.com/api/upgrade/TCE-Drive-win32-2.12.3-162.exe
 
 #### tencent-tencentdocs
 
@@ -57072,7 +57081,7 @@ Total entries processed: 7118
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-yuanbao.yml`
-- **URL**: https://cdn-hybrid-prod.hunyuan.tencent.com/Desktop/official/4941ec4214029786138a1671e4809d24/yuanbao_2.50.0.614_x64.exe
+- **URL**: https://cdn-hybrid-prod.hunyuan.tencent.com/Desktop/official/facf76db629b69d0e7fe8188e73dc517/yuanbao_2.51.0.623_x64.exe
 
 #### tenpi-musicplayer
 
@@ -59043,7 +59052,7 @@ Total entries processed: 7118
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tutanota-tutanota.yml`
-- **URL**: https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-319.260105.0/tutanota-desktop-win.exe
+- **URL**: https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-319.260107.1/tutanota-desktop-win.exe
 
 #### tuxguitar-tuxguitar
 
@@ -63246,7 +63255,7 @@ Total entries processed: 7118
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yetone-openaitranslator.yml`
-- **URL**: https://github.com/nextai-translator/nextai-translator/releases/download/v0.6.5/NextAI.Translator_0.6.5_x64-setup.exe
+- **URL**: https://github.com/nextai-translator/nextai-translator/releases/download/v0.6.8/NextAI.Translator_0.6.8_x64-setup.exe
 
 #### yggdrasilnetwork-yggdrasil
 
@@ -63723,7 +63732,7 @@ Total entries processed: 7118
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zhipuai-autoglm.yml`
-- **URL**: https://autoglm.aminer.cn/autotyper/updates/AutoGLM_win32_x64_1.3.0.exe
+- **URL**: https://autoglm.aminer.cn/autotyper/updates/AutoGLM_win32_x64_1.4.0.exe
 
 #### zhipuai-chatglm
 
