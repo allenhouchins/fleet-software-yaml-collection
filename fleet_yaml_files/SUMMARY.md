@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-01-08 18:05:02 UTC
+Generated on: 2026-01-09 06:05:44 UTC
 
 ## Summary
 
-Total entries processed: 7119
+Total entries processed: 7120
 - macOS files: 379
-- Windows files: 6740
+- Windows files: 6741
 
 ## Generated Files
 
@@ -2161,7 +2161,7 @@ Total entries processed: 7119
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `okta-verify.yml`
-- **URL**: https://okta.okta.com/artifacts/OKTA_VERIFY_MACOS/9.54.1/OktaVerify-9.54.1-5838-ebd8af7.pkg
+- **URL**: https://okta.okta.com/artifacts/OKTA_VERIFY_MACOS/9.55.0/OktaVerify-9.55.0-5890-a5cb8c9.pkg
 
 #### oktaverify
 
@@ -3043,7 +3043,7 @@ Total entries processed: 7119
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `topaz-video.yml`
-- **URL**: https://downloads.topazlabs.com/deploy/TopazVideoStudio/1.1.0/TopazVideo-1.1.0.pkg
+- **URL**: https://downloads.topazlabs.com/deploy/TopazVideoStudio/1.1.1/TopazVideo-1.1.1.pkg
 
 #### tqsl
 
@@ -8130,7 +8130,7 @@ Total entries processed: 7119
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `authormore-penpotdesktop.yml`
-- **URL**: https://github.com/author-more/penpot-desktop/releases/download/v0.22.0/penpot-desktop-x64.exe
+- **URL**: https://github.com/author-more/penpot-desktop/releases/download/v0.23.0/penpot-desktop-x64.exe
 
 #### authpass-authpass
 
@@ -9489,7 +9489,7 @@ Total entries processed: 7119
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `beeper-beeper.yml`
-- **URL**: https://beeper-desktop.download.beeper.com/builds/Beeper%20x64%204.2.367.exe
+- **URL**: https://beeper-desktop.download.beeper.com/builds/Beeper%20x64%204.2.455.exe
 
 #### beeradmoore-dlss-swapper
 
@@ -10713,7 +10713,7 @@ Total entries processed: 7119
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `binaryfortress-traystatus.yml`
-- **URL**: https://binaryfortressdownloads.com/Download/BFSFiles/114/TrayStatusSetup-5.1.3.exe
+- **URL**: https://binaryfortressdownloads.com/Download/BFSFiles/114/TrayStatusSetup-5.1.4.exe
 
 #### binaryfortress-voicebot
 
@@ -11829,7 +11829,7 @@ Total entries processed: 7119
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `brave-brave-nightly.yml`
-- **URL**: https://github.com/brave/brave-browser/releases/download/v1.87.154/BraveBrowserStandaloneSilentNightlySetup.exe
+- **URL**: https://github.com/brave/brave-browser/releases/download/v1.87.160/BraveBrowserStandaloneSilentNightlySetup.exe
 
 #### brave-brave
 
@@ -17229,7 +17229,7 @@ Total entries processed: 7119
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `discord-discord-ptb.yml`
-- **URL**: https://ptb.dl2.discordapp.net/distro/app/ptb/win/x64/1.0.1172/DiscordPTBSetup.exe
+- **URL**: https://ptb.dl2.discordapp.net/distro/app/ptb/win/x64/1.0.1173/DiscordPTBSetup.exe
 
 #### discord-discord
 
@@ -17976,7 +17976,7 @@ Total entries processed: 7119
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `duckstudio-chinesegit.yml`
-- **URL**: https://github.com/DuckDuckStudio/Chinese_git/releases/download/v3.3/Chinese_git_Setup_v3.3.exe
+- **URL**: https://github.com/DuckDuckStudio/Chinese_git/releases/download/v3.4/Chinese_git_Setup_v3.4.exe
 
 #### duckstudio-fufudevtools
 
@@ -21468,7 +21468,7 @@ Total entries processed: 7119
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `flyhunterl-flymd.yml`
-- **URL**: https://github.com/flyhunterl/flymd/releases/download/v1.0.0/flymd_1.0.0_x64-setup.exe
+- **URL**: https://github.com/flyhunterl/flymd/releases/download/v1.0.1/flymd_1.0.1_x64-setup.exe
 
 #### fnmt-configuradorfnmt
 
@@ -24006,7 +24006,7 @@ Total entries processed: 7119
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `grafanalabs-alloy.yml`
-- **URL**: https://github.com/grafana/alloy/releases/download/v1.12.1-rc.2/alloy-installer-windows-amd64.exe
+- **URL**: https://github.com/grafana/alloy/releases/download/v1.12.2/alloy-installer-windows-amd64.exe
 
 #### grafanalabs-grafana-enterprise
 
@@ -24078,7 +24078,7 @@ Total entries processed: 7119
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `granola-granola.yml`
-- **URL**: https://api.granola.ai/v1/check-for-update/Granola-6.462.1-win-x64.exe
+- **URL**: https://api.granola.ai/v1/check-for-update/Granola-6.479.0-win-x64.exe
 
 #### graphcool-graphqlplayground
 
@@ -28425,7 +28425,7 @@ Total entries processed: 7119
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-gateway.yml`
-- **URL**: https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2025.3.exe
+- **URL**: https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2025.3.1.exe
 
 #### jetbrains-gitclient-eap
 
@@ -29910,7 +29910,7 @@ Total entries processed: 7119
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-katomic.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/katomic/master/windows/katomic-master-827-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/katomic/master/windows/katomic-master-829-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kblackbox
 
@@ -31225,6 +31225,15 @@ Total entries processed: 7119
 - **Version**: 
 - **File**: `kubus-bcfmanager-revit-2025.yml`
 - **URL**: https://download.bimcollab.com/BCF%20Manager%207.1%20build%203%20RVT2025.msi
+
+#### kubus-bcfmanager-revit-2026
+
+- **Source**: winget
+- **Name**: kubus-bcfmanager-revit-2026
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `kubus-bcfmanager-revit-2026.yml`
+- **URL**: https://download.bimcollab.com/BCF%20Manager%207.1%20build%2012%20RVT2026.msi
 
 #### kubus-bcfmanager-standalone
 
@@ -54489,7 +54498,7 @@ Total entries processed: 7119
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sst-opencodedesktop.yml`
-- **URL**: https://github.com/anomalyco/opencode/releases/download/v1.1.4/opencode-desktop-windows-x64.exe
+- **URL**: https://github.com/anomalyco/opencode/releases/download/v1.1.7/opencode-desktop-windows-x64.exe
 
 #### stacher-youtube-dl
 
