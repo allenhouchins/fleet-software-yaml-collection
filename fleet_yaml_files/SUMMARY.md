@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-01-09 06:05:44 UTC
+Generated on: 2026-01-09 18:05:57 UTC
 
 ## Summary
 
-Total entries processed: 7120
+Total entries processed: 7121
 - macOS files: 379
-- Windows files: 6741
+- Windows files: 6742
 
 ## Generated Files
 
@@ -3160,7 +3160,7 @@ Total entries processed: 7120
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `uuremote.yml`
-- **URL**: https://a56.gdl.netease.com/uuyc_4.12.0.pkg
+- **URL**: https://a56.gdl.netease.com/uuyc_4.12.1.pkg
 
 #### vcam
 
@@ -4144,6 +4144,15 @@ Total entries processed: 7120
 - **Version**: 
 - **File**: `activitywatch-activitywatch.yml`
 - **URL**: https://github.com/ActivityWatch/activitywatch/releases/download/v0.13.2/activitywatch-v0.13.2-windows-x86_64-setup.exe
+
+#### actualbudget-actualbudget
+
+- **Source**: winget
+- **Name**: actualbudget-actualbudget
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `actualbudget-actualbudget.yml`
+- **URL**: https://github.com/actualbudget/actual/releases/latest/download/Actual-windows-x64.exe
 
 #### adalang-alire
 
