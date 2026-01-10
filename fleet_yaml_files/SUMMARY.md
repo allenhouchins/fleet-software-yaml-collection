@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-01-10 06:05:18 UTC
+Generated on: 2026-01-10 18:05:23 UTC
 
 ## Summary
 
@@ -235,7 +235,7 @@ Total entries processed: 7124
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `azookey.yml`
-- **URL**: https://github.com/azooKey/azooKey-Desktop/releases/download/v0.1.2/azooKey-release-signed.pkg
+- **URL**: https://github.com/azooKey/azooKey-Desktop/releases/download/v0.1.3/azooKey-release-signed.pkg
 
 #### background-music
 
@@ -4710,7 +4710,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aiclientproxy-proxycast.yml`
-- **URL**: https://github.com/aiclientproxy/proxycast/releases/download/v0.38.0/ProxyCast_0.38.0_x64-setup.exe
+- **URL**: https://github.com/aiclientproxy/proxycast/releases/download/v0.39.0/ProxyCast_0.39.0_x64-setup.exe
 
 #### aignesberger-websitewatcher
 
@@ -6969,7 +6969,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `anthropic-claudecode.yml`
-- **URL**: https://storage.googleapis.com/claude-code-dist-86c565f3-f756-42ad-8dfa-d59b1c096819/claude-code-releases/2.1.2/win32-x64/claude.exe
+- **URL**: https://storage.googleapis.com/claude-code-dist-86c565f3-f756-42ad-8dfa-d59b1c096819/claude-code-releases/2.1.3/win32-x64/claude.exe
 
 #### antibodysoftware-wizfile
 
@@ -11199,7 +11199,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bitvise-ssh-client.yml`
-- **URL**: https://dl.bitvise.com/BvSshClient-955.exe
+- **URL**: https://dl.bitvise.com/BvSshClient-956.exe
 
 #### bitvise-ssh-server
 
@@ -11208,7 +11208,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bitvise-ssh-server.yml`
-- **URL**: https://dl.bitvise.com/BvSshServer-953.exe
+- **URL**: https://dl.bitvise.com/BvSshServer-956.exe
 
 #### bitwarden-bitwarden
 
@@ -11838,7 +11838,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `brave-brave-nightly.yml`
-- **URL**: https://github.com/brave/brave-browser/releases/download/v1.88.3/BraveBrowserStandaloneSilentNightlySetup.exe
+- **URL**: https://github.com/brave/brave-browser/releases/download/v1.88.7/BraveBrowserStandaloneSilentNightlySetup.exe
 
 #### brave-brave
 
@@ -16248,7 +16248,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dbadminx-diff.yml`
-- **URL**: https://github.com/DBAdminX/Diff/releases/download/v1.0.5/Diff.exe
+- **URL**: https://github.com/ZeroMarker/Diff/releases/download/v1.1.2/Diff.exe
 
 #### dbbrowserforsqlite-dbbrowserforsqlite
 
@@ -17823,7 +17823,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `drakkan-sftpgoenterprise.yml`
-- **URL**: https://download.sftpgo.com/windows/sftpgo_windows_v2.7.20251107_x86_64_onprem.exe
+- **URL**: https://download.sftpgo.com/windows/sftpgo_windows_v2.7.20260110_x86_64_onprem.exe
 
 #### drawpile-drawpile
 
@@ -19470,7 +19470,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `emurasoft-emeditor.yml`
-- **URL**: https://download.emeditor.info/emed64_25.4.4.msi
+- **URL**: https://download.emeditor.info/emed64_25.4.5.msi
 
 #### enarxproject-enarx
 
@@ -21486,7 +21486,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `flyhunterl-flymd.yml`
-- **URL**: https://github.com/flyhunterl/flymd/releases/download/v1.0.2/flymd_1.0.2_x64-setup.exe
+- **URL**: https://github.com/flyhunterl/flymd/releases/download/v1.0.3/flymd_1.0.3_x64-setup.exe
 
 #### fnmt-configuradorfnmt
 
@@ -21720,7 +21720,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `foxit-foxitreader.yml`
-- **URL**: https://cdn01.foxitsoftware.com/product/reader/desktop/win/2025.2.1/FoxitPDFReader202521_L10N_Setup_x64.exe
+- **URL**: https://cdn01.foxitsoftware.com/product/reader/desktop/win/2025.3.0/FoxitPDFReader20253_L10N_Setup_x64.exe
 
 #### foxit-phantompdf-subscription-msi
 
@@ -21729,7 +21729,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `foxit-phantompdf-subscription-msi.yml`
-- **URL**: https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/2025.2.0/FoxitPDFEditor20252_L10N_Setup_x64.msi
+- **URL**: https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/2025.3.0/FoxitPDFEditor20253_L10N_Setup_Prom_x64.exe
 
 #### foxit-phantompdf-subscription
 
@@ -23574,7 +23574,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/acq5ucxs65z77vrfhlhnicotxj3a_145.0.7625.0/145.0.7625.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/acpzycebsihqjjkuqbijdv3cc2za_145.0.7626.0/145.0.7626.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -29793,7 +29793,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-dolphin.yml`
-- **URL**: https://cdn.kde.org/ci-builds/system/dolphin/release-25.12/windows/dolphin-release_25.12-6924-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/system/dolphin/release-25.12/windows/dolphin-release_25.12-6945-windows-cl-msvc2022-x86_64.exe
 
 #### kde-elisa
 
@@ -29802,7 +29802,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-elisa.yml`
-- **URL**: https://cdn.kde.org/ci-builds/multimedia/elisa/master/windows/elisa-master-4216-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/multimedia/elisa/master/windows/elisa-master-4221-windows-cl-msvc2022-x86_64.exe
 
 #### kde-falkon
 
@@ -29946,7 +29946,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kblocks.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kblocks/master/windows/kblocks-master-852-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kblocks/master/windows/kblocks-master-858-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kbounce
 
@@ -30738,7 +30738,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kindness-kismet-stelliberty.yml`
-- **URL**: https://github.com/Kindness-Kismet/Stelliberty/releases/download/v1.2.001/Stelliberty-v1.2.001-windows-x64-setup.exe
+- **URL**: https://github.com/Kindness-Kismet/Stelliberty/releases/download/v1.2.020/Stelliberty-v1.2.020-windows-x64-setup.exe
 
 #### kingsoft-kmeeting
 
@@ -36336,7 +36336,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `milkshift-goofcord.yml`
-- **URL**: https://github.com/Milkshiift/GoofCord/releases/download/v1.9.0/GoofCord-Setup-x64.exe
+- **URL**: https://github.com/Milkshiift/GoofCord/releases/download/v2.0.0/GoofCord-Setup-x64.exe
 
 #### millerpuckette-pd64
 
@@ -42501,7 +42501,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nexmoe-vidbee.yml`
-- **URL**: https://github.com/nexmoe/VidBee/releases/download/v1.1.4/vidbee-1.1.4-setup.exe
+- **URL**: https://github.com/nexmoe/VidBee/releases/download/v1.1.5/vidbee-1.1.5-setup.exe
 
 #### nexon-nexonplug
 
@@ -47361,7 +47361,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `posit-positron.yml`
-- **URL**: https://cdn.posit.co/positron/releases/win/x86_64/Positron-2025.07.0-204-UserSetup.exe
+- **URL**: https://cdn.posit.co/positron/releases/win/x86_64/Positron-2026.01.0-147-UserSetup-x64.exe
 
 #### posit-quarto
 
@@ -48261,7 +48261,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ptrtech-netsonar.yml`
-- **URL**: https://github.com/sn4k3/NetSonar/releases/download/0.1.2/NetSonar_win-x64_v0.1.2.msi
+- **URL**: https://github.com/sn4k3/NetSonar/releases/download/0.2.1/NetSonar_win-x64_v0.2.1.msi
 
 #### ptrtech-uvtools
 
@@ -52527,7 +52527,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-01-09/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-01-10/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -54318,7 +54318,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `spotify-spotify.yml`
-- **URL**: https://upgrade.scdn.co/upgrade/client/win32-x86_64/spotify_installer-1.2.81.241.g2943f0b9-1642.exe
+- **URL**: https://upgrade.scdn.co/upgrade/client/win32-x86_64/spotify_installer-1.2.81.258.g6cf93e85-1761.exe
 
 #### springlobby-springlobby
 
@@ -55083,7 +55083,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `stirlingtools-stirlingpdf.yml`
-- **URL**: https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v2.1.5/Stirling-PDF-windows-x86_64.msi
+- **URL**: https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v2.2.0/Stirling-PDF-windows-x86_64.msi
 
 #### stnkl-everythingtoolbar-beta
 
@@ -58233,7 +58233,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `timokoessler-2faguard.yml`
-- **URL**: https://github.com/timokoessler/2FAGuard/releases/download/v1.6.3/2FAGuard-Installer-1.6.3.exe
+- **URL**: https://github.com/timokoessler/2FAGuard/releases/download/v1.7.0/2FAGuard-Installer-1.7.0.exe
 
 #### timschneeb-galaxybudsclient
 
@@ -62958,7 +62958,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xmn-bettertrumpet.yml`
-- **URL**: https://github.com/xammen/BetterTrumpet/releases/download/v2.3.0/BetterTrumpet.exe
+- **URL**: https://github.com/xammen/BetterTrumpet/releases/download/v2.3.1/BetterTrumpet-2.3.1-Portable.exe
 
 #### xnsoft-xnconvert
 
