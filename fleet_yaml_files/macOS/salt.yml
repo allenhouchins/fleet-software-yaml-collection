@@ -1,4 +1,4 @@
-url: https://packages.broadcom.com/artifactory/saltproject-generic/macos/3007.10/salt-3007.10-py3-arm64.pkg
+url: https://packages.broadcom.com/artifactory/saltproject-generic/macos/3007.11/salt-3007.11-py3-arm64.pkg
 automatic_install: false
 self_service: false
 categories: []
