@@ -1,11 +1,11 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-01-11 06:05:26 UTC
+Generated on: 2026-01-11 18:05:07 UTC
 
 ## Summary
 
-Total entries processed: 7123
-- macOS files: 379
+Total entries processed: 7122
+- macOS files: 378
 - Windows files: 6744
 
 ## Generated Files
@@ -1162,7 +1162,7 @@ Total entries processed: 7123
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `folding-at-home-beta.yml`
-- **URL**: https://download.foldingathome.org/releases/beta/fah-client/macos-12-universal/release/fah-client_8.5.5_universal.pkg
+- **URL**: https://download.foldingathome.org/releases/beta/fah-client/macos-12-universal/release/fah-client_8.5.6_universal.pkg
 
 #### folding-at-home
 
@@ -2819,15 +2819,6 @@ Total entries processed: 7123
 - **Version**: 
 - **File**: `spyder.yml`
 - **URL**: https://github.com/spyder-ide/spyder/releases/download/v6.1.2/Spyder-macOS-arm64.pkg
-
-#### squirrel-app
-
-- **Source**: homebrew/installomator
-- **Name**: squirrel-app
-- **Description**: Generated from Homebrew cask or Installomator script
-- **Version**: 
-- **File**: `squirrel-app.yml`
-- **URL**: https://github.com/rime/squirrel/releases/download/1.0.3/Squirrel-1.0.3.pkg
 
 #### steelseries-gg
 
@@ -4710,7 +4701,7 @@ Total entries processed: 7123
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aiclientproxy-proxycast.yml`
-- **URL**: https://github.com/aiclientproxy/proxycast/releases/download/v0.41.0/ProxyCast_0.41.0_x64-setup.exe
+- **URL**: https://github.com/aiclientproxy/proxycast/releases/download/v0.42.0/ProxyCast_0.42.0_x64-setup.exe
 
 #### aignesberger-websitewatcher
 
@@ -7311,7 +7302,7 @@ Total entries processed: 7123
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `appiumdevelopers-appiuminspector.yml`
-- **URL**: https://github.com/appium/appium-inspector/releases/download/v2025.8.2/Appium-Inspector-2025.8.2-win-x64.exe
+- **URL**: https://github.com/appium/appium-inspector/releases/download/v2026.1.2/Appium-Inspector-2026.1.2-win-x64.exe
 
 #### apple-appleapplicationsupport-x64
 
@@ -7689,7 +7680,7 @@ Total entries processed: 7123
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `artemchepurnyi-keyguard.yml`
-- **URL**: https://github.com/AChep/keyguard-app/releases/download/r20260105/Keyguard-2.2.0.msi
+- **URL**: https://github.com/AChep/keyguard-app/releases/download/r20260111/Keyguard-2.3.0.msi
 
 #### artempyanykh-marksman
 
@@ -11075,15 +11066,6 @@ Total entries processed: 7123
 - **File**: `bisq-bisq.yml`
 - **URL**: https://github.com/bisq-network/bisq/releases/download/v1.9.8/Bisq-64bit-1.9.8.exe
 
-#### bit4id-firma4ng-infocamere
-
-- **Source**: winget
-- **Name**: bit4id-firma4ng-infocamere
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `bit4id-firma4ng-infocamere.yml`
-- **URL**: https://id.infocamere.it/assets/software/infocameresign_0.0.87.exe
-
 #### bitbeans-simplednscrypt
 
 - **Source**: winget
@@ -12126,7 +12108,7 @@ Total entries processed: 7123
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `buchen-portfolio.yml`
-- **URL**: https://github.com/portfolio-performance/portfolio/releases/download/0.81.0/PortfolioPerformance-0.81.0-setup.exe
+- **URL**: https://github.com/portfolio-performance/portfolio/releases/download/0.81.1/PortfolioPerformance-0.81.1-setup.exe
 
 #### buct0r-fullfetch
 
@@ -13719,7 +13701,7 @@ Total entries processed: 7123
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cisco-webex.yml`
-- **URL**: https://binaries.webex.com/WebexDesktop-Win-64-Gold/20260107161836/Webex.msi
+- **URL**: https://binaries.webex.com/WebexDesktop-Win-64-Gold/20260108142244/Webex.msi
 
 #### citadel5-jp-gs-base
 
@@ -15718,6 +15700,15 @@ Total entries processed: 7123
 - **Version**: 
 - **File**: `cyberhive-connect.yml`
 - **URL**: https://pkgs.cyberhive.com/windows/stable/cyberhive-connect_3.9.0-0f3d4277.exe
+
+#### cyberintelsystems-cicb
+
+- **Source**: winget
+- **Name**: cyberintelsystems-cicb
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `cyberintelsystems-cicb.yml`
+- **URL**: https://cicbv2release.blob.core.windows.net/cicbv2-release/CICBv2-Win-v2.3.2.52.msi
 
 #### cyberscarecrow-cyberscarecrow
 
@@ -19713,7 +19704,7 @@ Total entries processed: 7123
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `erez-c137-netspeedtray.yml`
-- **URL**: https://github.com/erez-c137/NetSpeedTray/releases/download/v1.1.9/NetSpeedTray-1.1.9-x64-Setup.exe
+- **URL**: https://github.com/erez-c137/NetSpeedTray/releases/download/v1.2.0/NetSpeedTray-1.2.0-x64-Setup.exe
 
 #### erikaraojo-fintx
 
@@ -21486,7 +21477,7 @@ Total entries processed: 7123
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `flyhunterl-flymd.yml`
-- **URL**: https://github.com/flyhunterl/flymd/releases/download/v1.0.3/flymd_1.0.3_x64-setup.exe
+- **URL**: https://github.com/flyhunterl/flymd/releases/download/v1.1.1/flymd_1.1.1_x64-setup.exe
 
 #### fnmt-configuradorfnmt
 
@@ -23574,7 +23565,7 @@ Total entries processed: 7123
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/acpzycebsihqjjkuqbijdv3cc2za_145.0.7626.0/145.0.7626.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/j3vyt7p7zu3thy4uwgudmitk7e_145.0.7628.0/145.0.7628.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -23583,7 +23574,7 @@ Total entries processed: 7123
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-dev-exe.yml`
-- **URL**: https://dl.google.com/release2/chrome/acs6z6pipjuspcicju7yzfvtndxq_145.0.7620.2/145.0.7620.2_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/dc4qhhdubk6eoe6q6e7m74xm64_145.0.7620.3/145.0.7620.3_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev
 
@@ -28956,7 +28947,7 @@ Total entries processed: 7123
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jlc-lceda-pro.yml`
-- **URL**: https://image.lceda.cn/files/lceda-pro-windows-x64-3.2.69.exe
+- **URL**: https://image.lceda.cn/files/lceda-pro-windows-x64-3.2.77.exe
 
 #### jlc-lceda
 
@@ -29793,7 +29784,7 @@ Total entries processed: 7123
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-elisa.yml`
-- **URL**: https://cdn.kde.org/ci-builds/multimedia/elisa/master/windows/elisa-master-4221-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/multimedia/elisa/master/windows/elisa-master-4225-windows-cl-msvc2022-x86_64.exe
 
 #### kde-falkon
 
@@ -30459,7 +30450,7 @@ Total entries processed: 7123
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kellyelton-max-backup.yml`
-- **URL**: https://github.com/kellyelton/MaxBackup/releases/download/0.2.25/Max.Installer.Package.msi
+- **URL**: https://github.com/kellyelton/MaxBackup/releases/download/0.2.26/Max.Installer.Package.msi
 
 #### kenkun-aviutlexedit2
 
@@ -30729,7 +30720,7 @@ Total entries processed: 7123
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kindness-kismet-stelliberty.yml`
-- **URL**: https://github.com/Kindness-Kismet/Stelliberty/releases/download/v1.2.020/Stelliberty-v1.2.020-windows-x64-setup.exe
+- **URL**: https://github.com/Kindness-Kismet/Stelliberty/releases/download/v1.2.039/Stelliberty-v1.2.039-windows-x64-setup.exe
 
 #### kingsoft-kmeeting
 
@@ -31278,7 +31269,7 @@ Total entries processed: 7123
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kuingsmile-piclist.yml`
-- **URL**: https://github.com/Kuingsmile/PicList/releases/download/v3.1.1/PicList-Setup-3.1.1.exe
+- **URL**: https://github.com/Kuingsmile/PicList/releases/download/v3.2.0/PicList-Setup-3.2.0.exe
 
 #### kumospace-kumospace
 
@@ -31341,7 +31332,7 @@ Total entries processed: 7123
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kwaroran-risuai.yml`
-- **URL**: https://github.com/kwaroran/RisuAI/releases/download/v166.3.2/RisuAI_166.3.2_x64-setup.exe
+- **URL**: https://github.com/kwaroran/Risuai/releases/download/v2026.1.90/RisuAI_2026.1.90_x64-setup.exe
 
 #### kydronepilot-spaceeye
 
@@ -32772,7 +32763,7 @@ Total entries processed: 7123
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lucasdeeiroz-robotrunner.yml`
-- **URL**: https://github.com/lucasdeeiroz/robot_runner/releases/download/v2.0.78/Robot.Runner_2.0.78_windows_x64-setup.exe
+- **URL**: https://github.com/lucasdeeiroz/robot_runner/releases/download/v2.0.80/Robot.Runner_2.0.80_windows_x64-setup.exe
 
 #### lucasreade-ohhaibrowser
 
@@ -32826,7 +32817,7 @@ Total entries processed: 7123
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lukashermann-stagetimer-io.yml`
-- **URL**: https://storage.googleapis.com/stagetimer-prod.appspot.com/releases/2.24.0/stagetimer.io-2.24.0-setup.exe
+- **URL**: https://storage.googleapis.com/stagetimer-prod.appspot.com/releases/3.1.2/stagetimer.io-3.1.2-setup.exe
 
 #### lukaszswiszcz-winpinator
 
@@ -33852,7 +33843,7 @@ Total entries processed: 7123
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mcmilk-7zip-zstd.yml`
-- **URL**: https://github.com/mcmilk/7-Zip-zstd/releases/download/v25.01-v1.5.7-R1/7z25.01-zstd-x64.exe
+- **URL**: https://github.com/mcmilk/7-Zip-zstd/releases/download/v25.01-v1.5.7-R4/7z25.01-zstd-x64.exe
 
 #### mcreator-mcreator
 
@@ -35139,7 +35130,7 @@ Total entries processed: 7123
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-integrationruntime.yml`
-- **URL**: https://download.microsoft.com/download/e/4/7/e4771905-1079-445b-8bf9-8a1a075d8a10/IntegrationRuntime_5.61.9466.1.msi
+- **URL**: https://download.microsoft.com/download/e/4/7/e4771905-1079-445b-8bf9-8a1a075d8a10/IntegrationRuntime_5.61.9481.1.msi
 
 #### microsoft-ironpython-2
 
@@ -42492,7 +42483,7 @@ Total entries processed: 7123
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nexmoe-vidbee.yml`
-- **URL**: https://github.com/nexmoe/VidBee/releases/download/v1.1.6/vidbee-1.1.6-setup.exe
+- **URL**: https://github.com/nexmoe/VidBee/releases/download/v1.1.7/vidbee-1.1.7-setup.exe
 
 #### nexon-nexonplug
 
@@ -49539,7 +49530,7 @@ Total entries processed: 7123
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `readai-readai.yml`
-- **URL**: https://readai-desktop-updates-production.s3.us-east-1.amazonaws.com/installers/windows/x86_64/1.0.5/Read+AI_1.0.5_x64-setup.exe
+- **URL**: https://readai-desktop-updates-production.s3.us-east-1.amazonaws.com/installers/windows/x86_64/latest/Read+AI_latest_x64-setup.exe
 
 #### readdle-spark
 
@@ -52518,7 +52509,7 @@ Total entries processed: 7123
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-01-10/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-01-11/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -59403,7 +59394,7 @@ Total entries processed: 7123
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `unikeen-sjmcl.yml`
-- **URL**: https://mc.sjtu.cn/sjmcl/releases/SJMCL_0.6.5_windows_x86_64.msi
+- **URL**: https://mc.sjtu.cn/sjmcl/releases/SJMCL_0.7.0_windows_x86_64_setup.exe
 
 #### unipro-ugene
 
@@ -59538,7 +59529,7 @@ Total entries processed: 7123
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `universalmediaserver-universalmediaserver.yml`
-- **URL**: https://github.com/UniversalMediaServer/UniversalMediaServer/releases/download/15.2.0/UMS-Windows-15.2.0-x86_64.exe
+- **URL**: https://github.com/UniversalMediaServer/UniversalMediaServer/releases/download/15.3.0/UMS-Windows-15.3.0-x86_64.exe
 
 #### universityofamsterdam-jasp
 
@@ -60987,7 +60978,7 @@ Total entries processed: 7123
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `warmdev-ash.yml`
-- **URL**: https://github.com/warmdev17/ash/releases/download/v2.0.1/ash-installer.exe
+- **URL**: https://github.com/warmdev17/ash/releases/download/v2.0.2/ash-installer.exe
 
 #### warzone2100project-warzone2100
 
@@ -61158,7 +61149,7 @@ Total entries processed: 7123
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `waytech-clouddrive2.yml`
-- **URL**: https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v0.9.21/CloudDrive2Setup-X64-0.9.21.exe
+- **URL**: https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v0.9.22/CloudDrive2Setup-X64-0.9.22.exe
 
 #### weakauras-weakaurascompanion
 
