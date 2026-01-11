@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-01-10 18:05:23 UTC
+Generated on: 2026-01-11 06:05:26 UTC
 
 ## Summary
 
-Total entries processed: 7124
+Total entries processed: 7123
 - macOS files: 379
-- Windows files: 6745
+- Windows files: 6744
 
 ## Generated Files
 
@@ -4710,7 +4710,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aiclientproxy-proxycast.yml`
-- **URL**: https://github.com/aiclientproxy/proxycast/releases/download/v0.39.0/ProxyCast_0.39.0_x64-setup.exe
+- **URL**: https://github.com/aiclientproxy/proxycast/releases/download/v0.41.0/ProxyCast_0.41.0_x64-setup.exe
 
 #### aignesberger-websitewatcher
 
@@ -5358,7 +5358,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `alperhan-crossmacro.yml`
-- **URL**: https://github.com/alper-han/CrossMacro/releases/download/v0.8.4/CrossMacro-0.8.4-win-x64.exe
+- **URL**: https://github.com/alper-han/CrossMacro/releases/download/v0.9.0/CrossMacro-0.9.0-win-x64.exe
 
 #### altair-graphql-altair
 
@@ -6969,7 +6969,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `anthropic-claudecode.yml`
-- **URL**: https://storage.googleapis.com/claude-code-dist-86c565f3-f756-42ad-8dfa-d59b1c096819/claude-code-releases/2.1.3/win32-x64/claude.exe
+- **URL**: https://storage.googleapis.com/claude-code-dist-86c565f3-f756-42ad-8dfa-d59b1c096819/claude-code-releases/2.1.4/win32-x64/claude.exe
 
 #### antibodysoftware-wizfile
 
@@ -7194,7 +7194,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `anysphere-cursor.yml`
-- **URL**: https://downloads.cursor.com/production/4ca9b38c6c97d4243bf0c61e51426667cb964bdc/win32/x64/user-setup/CursorUserSetup-x64-2.3.29.exe
+- **URL**: https://downloads.cursor.com/production/643ba67cd252e2888e296dd0cf34a0c5d7625b96/win32/x64/user-setup/CursorUserSetup-x64-2.3.34.exe
 
 #### apache-directorystudio
 
@@ -11100,7 +11100,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bitcoincoreproject-bitcoincore.yml`
-- **URL**: https://bitcoincore.org/bin/bitcoin-core-30.1/bitcoin-30.1-win64-setup.exe
+- **URL**: https://bitcoincore.org/bin/bitcoin-core-30.2/bitcoin-30.2-win64-setup.exe
 
 #### bitfocus-companion
 
@@ -11982,7 +11982,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `browseros-browseros.yml`
-- **URL**: https://github.com/browseros-ai/BrowserOS/releases/download/v0.36.0/BrowserOS_v0.36.1_x64_installer.exe
+- **URL**: https://github.com/browseros-ai/BrowserOS/releases/download/v0.36.2/BrowserOS_v0.36.2_x64_installer.exe
 
 #### browserstack-browserstacklocal
 
@@ -13548,7 +13548,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `chrox-readest.yml`
-- **URL**: https://github.com/readest/readest/releases/download/v0.9.96/Readest_0.9.96_x64-setup.exe
+- **URL**: https://github.com/readest/readest/releases/download/v0.9.97/Readest_0.9.97_x64-setup.exe
 
 #### chungzh-notepanda
 
@@ -14079,7 +14079,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cockos-reaper.yml`
-- **URL**: https://www.reaper.fm/files/7.x/reaper758_x64-install.exe
+- **URL**: https://www.reaper.fm/files/7.x/reaper759_x64-install.exe
 
 #### cocos-cocosdashboard
 
@@ -19578,7 +19578,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `enter-tainer-typstyle.yml`
-- **URL**: https://github.com/typstyle-rs/typstyle/releases/download/v0.14.0/typstyle-x86_64-pc-windows-msvc.exe
+- **URL**: https://github.com/typstyle-rs/typstyle/releases/download/v0.14.4/typstyle-x86_64-pc-windows-msvc.exe
 
 #### entropiq-agent
 
@@ -28166,15 +28166,6 @@ Total entries processed: 7124
 - **File**: `jayakumarreddy-local-mock-server.yml`
 - **URL**: https://github.com/jayakumarreddy/Local-Mock-Server/releases/download/v1.2.0/Local-Mock-Server-Setup-1.2.0.exe
 
-#### jazzdelightsme-wingetpathupdater
-
-- **Source**: winget
-- **Name**: jazzdelightsme-wingetpathupdater
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `jazzdelightsme-wingetpathupdater.yml`
-- **URL**: https://github.com/jazzdelightsme/PowershellStub/releases/download/v1.0/PowershellStub.exe
-
 #### jbreland-autoflac
 
 - **Source**: winget
@@ -30162,7 +30153,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-konsole.yml`
-- **URL**: https://cdn.kde.org/ci-builds/utilities/konsole/master/windows/konsole-master-4454-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/utilities/konsole/master/windows/konsole-master-4472-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kontact
 
@@ -42501,7 +42492,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nexmoe-vidbee.yml`
-- **URL**: https://github.com/nexmoe/VidBee/releases/download/v1.1.5/vidbee-1.1.5-setup.exe
+- **URL**: https://github.com/nexmoe/VidBee/releases/download/v1.1.6/vidbee-1.1.6-setup.exe
 
 #### nexon-nexonplug
 
@@ -48792,7 +48783,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `qingfeng-heyboxchat.yml`
-- **URL**: https://macc.max-c.com/chat/pc/chat_installer_x64_new_1.52.0.1296.exe
+- **URL**: https://macc.max-c.com/chat/pc/chat_installer_x64_new_1.53.0.1308.exe
 
 #### qingfeng-heyboxwow
 
@@ -55767,7 +55758,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sylvainrougeaux-echosync.yml`
-- **URL**: https://api.luminescence-software.org/download.php?software=echosync&installer=msi&version=8003
+- **URL**: https://api.luminescence-software.org/download.php?software=echosync&installer=msi&version=8004
 
 #### sylvainrougeaux-metatogger
 
@@ -56154,7 +56145,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tagspaces-tagspaces.yml`
-- **URL**: https://github.com/tagspaces/tagspaces/releases/download/v6.7.3/tagspaces-win-x64-6.7.3.exe
+- **URL**: https://github.com/tagspaces/tagspaces/releases/download/v6.8.1/tagspaces-win-x64-6.8.1.exe
 
 #### taiizor-sucrosewallpaperengine
 
@@ -60141,7 +60132,7 @@ Total entries processed: 7124
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc-nightly.yml`
-- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20260109-0426/vlc-4.0.0-dev-win64-804bb118.msi
+- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20260110-0425/vlc-4.0.0-dev-win64-36d591a3.msi
 
 #### videolan-vlc
 
