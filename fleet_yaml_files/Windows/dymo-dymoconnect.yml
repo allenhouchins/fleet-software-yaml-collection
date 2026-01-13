@@ -1,4 +1,4 @@
-url: https://download.dymo.com/dymo/Software/Win/DCDSetup1.5.1.20.exe
+url: https://dymoreleasecontent.blob.core.windows.net/dymo-release/DCDSetup1.5.1.20.exe
 automatic_install: false
 self_service: false
 categories: []
