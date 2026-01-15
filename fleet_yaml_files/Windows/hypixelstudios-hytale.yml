@@ -1,0 +1,10 @@
+url: https://launcher.hytale.com/builds/release/windows/amd64/hytale-launcher-installer-2026.01.14-cabac20.exe
+automatic_install: false
+self_service: false
+categories: []
+install_script: '# TODO: Add install script for this EXE'
+uninstall_script: '# TODO: Add uninstall script for this EXE'
+
+# Categories are currently limited to Browsers, Communication, Developer tools, and Productivity.
+# This is a minimum version of this file. All configurable parameters can be seen at https://fleetdm.com/docs/rest-api/rest-api#parameters139
+# Note: Any exe requires an install script and uninstall script to be defined
