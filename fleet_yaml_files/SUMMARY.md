@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-01-17 06:05:18 UTC
+Generated on: 2026-01-17 18:04:56 UTC
 
 ## Summary
 
@@ -21639,7 +21639,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `flyhunterl-flymd.yml`
-- **URL**: https://github.com/flyhunterl/flymd/releases/download/v1.1.9/flymd_1.1.9_x64-setup.exe
+- **URL**: https://github.com/flyhunterl/flymd/releases/download/v1.2.1/flymd_1.2.1_x64-setup.exe
 
 #### fnmt-configuradorfnmt
 
@@ -23772,7 +23772,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/acbjqsnsahrgvtniyxnwfy3edzla_146.0.7637.0/146.0.7637.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/acl7qp2gf6pj6qe6azfqbz6svtxa_146.0.7638.0/146.0.7638.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -30972,7 +30972,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kindness-kismet-stelliberty.yml`
-- **URL**: https://github.com/Kindness-Kismet/Stelliberty/releases/download/v1.2.055/Stelliberty-v1.2.055-windows-x64-setup.exe
+- **URL**: https://github.com/Kindness-Kismet/Stelliberty/releases/download/v1.2.060/Stelliberty-v1.2.060-windows-x64-setup.exe
 
 #### kingsoft-kmeeting
 
@@ -31836,7 +31836,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lbjlaq-antigravitytools.yml`
-- **URL**: https://github.com/lbjlaq/Antigravity-Manager/releases/download/v3.3.35/Antigravity.Tools_3.3.35_x64-setup.exe
+- **URL**: https://github.com/lbjlaq/Antigravity-Manager/releases/download/v3.3.37/Antigravity.Tools_3.3.37_x64-setup.exe
 
 #### lbry-lbry
 
@@ -42816,7 +42816,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nexmoe-vidbee.yml`
-- **URL**: https://github.com/nexmoe/VidBee/releases/download/v1.1.8/vidbee-1.1.8-setup.exe
+- **URL**: https://github.com/nexmoe/VidBee/releases/download/v1.2.0/vidbee-1.2.0-setup.exe
 
 #### nexon-nexonplug
 
@@ -44679,7 +44679,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `oncue-oncue.yml`
-- **URL**: https://download.oncuetech.com/oncue/setup/OnCue-4.5.1260-win-x64-setup.exe
+- **URL**: https://download.oncuetech.com/oncue/setup/OnCue-4.5.1265-win-x64-setup.exe
 
 #### ondrejsalplachta-advancedlogviewer
 
@@ -52923,7 +52923,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-01-16/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-01-17/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -57333,7 +57333,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-codebuddy.yml`
-- **URL**: https://codebuddy-1328495429.cos.accelerate.myqcloud.com/aiide/win32-x64-user/CodeBuddy-win32-x64-user-4.3.1.17774035-b21d6138e6-556acf0d.exe
+- **URL**: https://codebuddy-1328495429.cos.accelerate.myqcloud.com/aiide/win32-x64-user/CodeBuddy-win32-x64-user-4.3.2.17787057-5f7842a9cf-c146e3ea.exe
 
 #### tencent-cosbrowser
 
@@ -58665,7 +58665,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `timokoessler-2faguard.yml`
-- **URL**: https://github.com/timokoessler/2FAGuard/releases/download/v1.7.0/2FAGuard-Installer-1.7.0.exe
+- **URL**: https://github.com/timokoessler/2FAGuard/releases/download/v1.7.1/2FAGuard-Installer-1.7.1.exe
 
 #### timschneeb-galaxybudsclient
 
@@ -60483,7 +60483,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `version-fox-vfox.yml`
-- **URL**: https://github.com/version-fox/vfox/releases/download/v1.0.2/vfox_1.0.2_windows_setup_x86_64.exe
+- **URL**: https://github.com/version-fox/vfox/releases/download/v1.0.3/vfox_1.0.3_windows_setup_x86_64.exe
 
 #### veyonsolutions-veyon
 
@@ -60519,7 +60519,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `viarotel-escrcpy.yml`
-- **URL**: https://github.com/viarotel-org/escrcpy/releases/download/v2.1.7/Escrcpy-2.1.7-win-setup-x64.exe
+- **URL**: https://github.com/viarotel-org/escrcpy/releases/download/v2.2.0/Escrcpy-2.2.0-win-setup-x64.exe
 
 #### vicon-viflow-8
 
@@ -62769,7 +62769,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wood3n-biu.yml`
-- **URL**: https://github.com/wood3n/biu/releases/download/v1.12.0/Biu-1.12.0-win-setup-x64.exe
+- **URL**: https://github.com/wood3n/biu/releases/download/v1.13.0/Biu-1.13.0-win-setup-x64.exe
 
 #### wordmark-wordmark
 
@@ -63345,7 +63345,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xmacslabs-mogan.yml`
-- **URL**: https://github.com/XmacsLabs/mogan/releases/download/v2025.2.3/MoganSTEM-v2025.2.3-64bit-installer.exe
+- **URL**: https://github.com/XmacsLabs/mogan/releases/download/v2026.1.1/MoganSTEM-v2026.1.1-64bit-installer.exe
 
 #### xmake-io-xmake
 
