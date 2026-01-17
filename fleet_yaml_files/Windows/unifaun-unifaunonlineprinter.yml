@@ -1,4 +1,4 @@
-url: https://clientinstall.unifaun.com/clientinstall-latest/installs/UnifaunOnlinePrinter64.msi
+url: https://delivery-clientinstall.s3.eu-north-1.amazonaws.com/installs/WIN/UnifaunOnlinePrinter64.msi
 automatic_install: false
 self_service: false
 categories: []
