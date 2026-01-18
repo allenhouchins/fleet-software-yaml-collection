@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-01-17 18:04:56 UTC
+Generated on: 2026-01-18 06:05:14 UTC
 
 ## Summary
 
-Total entries processed: 7174
+Total entries processed: 7173
 - macOS files: 379
-- Windows files: 6795
+- Windows files: 6794
 
 ## Generated Files
 
@@ -1360,7 +1360,7 @@ Total entries processed: 7174
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `hackolade.yml`
-- **URL**: https://hackolade.s3.amazonaws.com/previous/v8.8.4/Hackolade-macARM64-setup-signed.pkg
+- **URL**: https://hackolade.s3.amazonaws.com/previous/v8.8.5/Hackolade-macARM64-setup-signed.pkg
 
 #### hancom-docs
 
@@ -5322,7 +5322,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `alibaba-yuque.yml`
-- **URL**: https://app.nlark.com/yuque-desktop/4.2.1.1333/BJ1a46561481d641ab927571f720c08672/Yuque-4.2.1.1333.exe
+- **URL**: https://app.nlark.com/yuque-desktop/4.2.1.1333/BJb9b3ac5707c1430cad5c839db7606e46/Yuque-4.2.1.1333.exe
 
 #### aliceandbob-io-aliceandbob
 
@@ -9552,7 +9552,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `beeradmoore-dlss-swapper.yml`
-- **URL**: https://github.com/beeradmoore/dlss-swapper/releases/download/v1.2.3.1/DLSS.Swapper-1.2.3.1-installer.exe
+- **URL**: https://github.com/beeradmoore/dlss-swapper/releases/download/v1.2.3.2/DLSS.Swapper-1.2.3.2-installer.exe
 
 #### belgiangovernment-eidmiddleware
 
@@ -18345,7 +18345,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dw-spectrum-client.yml`
-- **URL**: https://updates.digital-watchdog.com/digitalwatchdog/41837/windows/dwspectrum-client-6.0.6.41837-windows_x64.exe
+- **URL**: https://updates.digital-watchdog.com/digitalwatchdog/42176/windows/dwspectrum-client-6.1.0.42176-windows_x64.exe
 
 #### dw-spectrum-server
 
@@ -18354,7 +18354,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dw-spectrum-server.yml`
-- **URL**: https://updates.digital-watchdog.com/digitalwatchdog/41837/windows/dwspectrum-server-6.0.6.41837-windows_x64.exe
+- **URL**: https://updates.digital-watchdog.com/digitalwatchdog/42176/windows/dwspectrum-server-6.1.0.42176-windows_x64.exe
 
 #### dwango-opentoonz-nightly
 
@@ -19803,7 +19803,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `epicgames-epicgameslauncher.yml`
-- **URL**: https://download.epicgames.com/Builds/UnrealEngineLauncher/Installers/Windows/EpicInstaller-19.1.5.msi?launcherfilename=EpicInstaller-19.1.5.msi
+- **URL**: https://epicgames-download1.akamaized.net/Builds/UnrealEngineLauncher/Installers/Windows/EpicInstaller-19.1.5.msi?launcherfilename=EpicInstaller-19.1.5.msi
 
 #### epilogue-epilogueoperator
 
@@ -23772,7 +23772,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/acl7qp2gf6pj6qe6azfqbz6svtxa_146.0.7638.0/146.0.7638.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/ad2ye5dgaokvbmzkz7udt3lrw4fq_146.0.7639.0/146.0.7639.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -29793,7 +29793,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kandomenu-kando.yml`
-- **URL**: https://github.com/kando-menu/kando/releases/download/v2.1.2/Kando-2.1.2.Setup-x64.exe
+- **URL**: https://github.com/kando-menu/kando/releases/download/v2.2.0/Kando-2.2.0.Setup-x64.exe
 
 #### kangfenmao-cherrystudio
 
@@ -29892,7 +29892,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kayapater-videodownloader.yml`
-- **URL**: https://github.com/kayapater/video-downloader/releases/download/v1.4.0/VideoDownloader-v1.4.0-Setup.msi
+- **URL**: https://github.com/kayapater/video-downloader/releases/download/v1.5.0/VideoDownloader-v1.5.0-Setup.msi
 
 #### kayapater-winkit
 
@@ -30180,7 +30180,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kbounce.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kbounce/master/windows/kbounce-master-798-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kbounce/master/windows/kbounce-master-803-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kbreakout
 
@@ -30198,7 +30198,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kbruch.yml`
-- **URL**: https://cdn.kde.org/ci-builds/education/kbruch/master/windows/kbruch-master-791-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/education/kbruch/master/windows/kbruch-master-794-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kdeconnect
 
@@ -30234,7 +30234,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kdiamond.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kdiamond/master/windows/kdiamond-master-805-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kdiamond/master/windows/kdiamond-master-808-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kdiff3
 
@@ -30252,7 +30252,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kfourinline.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kfourinline/master/windows/kfourinline-master-850-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kfourinline/master/windows/kfourinline-master-853-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kgoldrunner
 
@@ -30387,7 +30387,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-konsole.yml`
-- **URL**: https://cdn.kde.org/ci-builds/utilities/konsole/master/windows/konsole-master-4472-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/utilities/konsole/master/windows/konsole-master-4488-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kontact
 
@@ -30567,7 +30567,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-neochat.yml`
-- **URL**: https://cdn.kde.org/ci-builds/network/neochat/release-25.12/windows/neochat-release_25.12-14006-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/network/neochat/release-25.12/windows/neochat-release_25.12-14146-windows-cl-msvc2022-x86_64.exe
 
 #### kde-okular
 
@@ -30612,7 +30612,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-ruqola.yml`
-- **URL**: https://cdn.kde.org/ci-builds/network/ruqola/2.6/windows/ruqola-2.6-12091-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/network/ruqola/2.6/windows/ruqola-2.6-12110-windows-cl-msvc2022-x86_64.exe
 
 #### kde-tokodon
 
@@ -31836,7 +31836,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lbjlaq-antigravitytools.yml`
-- **URL**: https://github.com/lbjlaq/Antigravity-Manager/releases/download/v3.3.37/Antigravity.Tools_3.3.37_x64-setup.exe
+- **URL**: https://github.com/lbjlaq/Antigravity-Manager/releases/download/v3.3.40/Antigravity.Tools_3.3.40_x64-setup.exe
 
 #### lbry-lbry
 
@@ -34716,7 +34716,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-azure-connectedmachineagent.yml`
-- **URL**: https://gbl.his.arc.azure.com/azcmagent/latest/AzureConnectedMachineAgent.msi
+- **URL**: https://gbl.his.arc.azure.com/azcmagent/1.60/AzureConnectedMachineAgent.msi
 
 #### microsoft-azure-cosmosemulator
 
@@ -36103,15 +36103,6 @@ Total entries processed: 7174
 - **Version**: 
 - **File**: `microsoft-sysinternals-strings.yml`
 - **URL**: https://live.sysinternals.com/Strings64.exe
-
-#### microsoft-sysinternals-sysmon
-
-- **Source**: winget
-- **Name**: microsoft-sysinternals-sysmon
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `microsoft-sysinternals-sysmon.yml`
-- **URL**: https://live.sysinternals.com/Sysmon64.exe
 
 #### microsoft-teams-classic
 
@@ -47280,7 +47271,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pixpin-pixpin-beta.yml`
-- **URL**: https://download.pixpinapp.com/PixPin_cn_zh-cn_2.4.3.0.exe
+- **URL**: https://download.pixpinapp.com/PixPin_cn_zh-cn_2.4.6.0.exe
 
 #### pixpin-pixpin
 
@@ -49512,7 +49503,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `railos-railos.yml`
-- **URL**: https://github.com/Railway-Op-Sim/RailOS-Inno-Setup/releases/download/v2.23.3/RailOS-x64.exe
+- **URL**: https://github.com/Railway-Op-Sim/RailOS-Inno-Setup/releases/download/v2.23.4/RailOS-x64.exe
 
 #### raimersoft-radiomaximus
 
@@ -53724,7 +53715,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `smartsoft-smartftp.yml`
-- **URL**: https://static.smartftp.com/static/Products/Client/10.0.3305.0/x64/SmartFTP.msi
+- **URL**: https://static.smartftp.com/static/Products/Client/10.0.3306.0/x64/SmartFTP.msi
 
 #### smath-smathstudio-enterprise
 
@@ -55623,7 +55614,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `streamlink-streamlink.yml`
-- **URL**: https://github.com/streamlink/windows-builds/releases/download/8.1.0-2/streamlink-8.1.0-2-py314-x86_64.exe
+- **URL**: https://github.com/streamlink/windows-builds/releases/download/8.1.1-1/streamlink-8.1.1-1-py314-x86_64.exe
 
 #### streamway-obsplugin
 
@@ -62022,7 +62013,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `windirstat-windirstat.yml`
-- **URL**: https://github.com/windirstat/windirstat/releases/download/release/v2.2.2/WinDirStat-x64.msi
+- **URL**: https://github.com/windirstat/windirstat/releases/download/release/v2.5.0/WinDirStat-x64.msi
 
 #### windscribe-windscribe
 
