@@ -1,4 +1,4 @@
-url: https://cicbv2release.blob.core.windows.net/cicbv2-release/CICBv2-Win-v2.3.60.msi
+url: https://github.com/cyberintelsystems/cicb/releases/download/Release/CICBv2-Win-v2.3.60.msi
 automatic_install: false
 self_service: false
 categories: []
