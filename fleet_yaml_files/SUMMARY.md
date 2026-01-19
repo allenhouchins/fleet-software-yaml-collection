@@ -1,11 +1,11 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-01-18 18:05:00 UTC
+Generated on: 2026-01-19 06:07:40 UTC
 
 ## Summary
 
-Total entries processed: 7173
-- macOS files: 379
+Total entries processed: 7172
+- macOS files: 378
 - Windows files: 6794
 
 ## Generated Files
@@ -1109,15 +1109,6 @@ Total entries processed: 7173
 - **Version**: 
 - **File**: `evercast.yml`
 - **URL**: https://s3.amazonaws.com/files.evercast.us/Evercast.pkg
-
-#### expressvpn
-
-- **Source**: homebrew/installomator
-- **Name**: expressvpn
-- **Description**: Generated from Homebrew cask or Installomator script
-- **Version**: 
-- **File**: `expressvpn.yml`
-- **URL**: https://www.expressvpn.works/clients/mac/expressvpn_mac_11.71.0.90727_release.pkg
 
 #### finalshell
 
@@ -4728,7 +4719,7 @@ Total entries processed: 7173
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aiclientproxy-proxycast.yml`
-- **URL**: https://github.com/aiclientproxy/proxycast/releases/download/v0.47.4/ProxyCast_0.47.4_x64-setup.exe
+- **URL**: https://github.com/aiclientproxy/proxycast/releases/download/v0.48.1/ProxyCast_0.47.4_x64-setup.exe
 
 #### aignesberger-websitewatcher
 
@@ -6996,7 +6987,7 @@ Total entries processed: 7173
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `anthropic-claude.yml`
-- **URL**: https://downloads.claude.ai/releases/win32/x64/1.1.351/Claude-648bf5d398e0cfa0a1bb1f8d93c80bb638c85bd2.exe
+- **URL**: https://downloads.claude.ai/releases/win32/x64/1.1.381/Claude-c2a39e9c82f5a4d51f511f53f532afd276312731.exe
 
 #### anthropic-claudecode
 
@@ -7923,7 +7914,7 @@ Total entries processed: 7173
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `astronet-scholaread.yml`
-- **URL**: https://cdn.scholaread.com/assets/pc-releases/1.1.60/com/Scholaread-win-x64-1.1.60.exe
+- **URL**: https://cdn.scholaread.com/assets/pc-releases/1.1.62/com/Scholaread-win-x64-1.1.62.exe
 
 #### astronomer-astro
 
@@ -12171,7 +12162,7 @@ Total entries processed: 7173
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `buchen-portfolio.yml`
-- **URL**: https://github.com/portfolio-performance/portfolio/releases/download/0.81.1/PortfolioPerformance-0.81.1-setup.exe
+- **URL**: https://github.com/portfolio-performance/portfolio/releases/download/0.81.2/PortfolioPerformance-0.81.2-setup.exe
 
 #### buct0r-fullfetch
 
@@ -13485,7 +13476,7 @@ Total entries processed: 7173
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `chirpsoftware-chirp-next.yml`
-- **URL**: https://archive.chirpmyradio.com/chirp_next/next-20260102/chirp-next-20260102-installer.exe
+- **URL**: https://archive.chirpmyradio.com/chirp_next/next-20260116/chirp-next-20260116-installer.exe
 
 #### chocolatey-chocolateygui
 
@@ -17607,7 +17598,7 @@ Total entries processed: 7173
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dmm-gameplayer.yml`
-- **URL**: https://dlapp-dmmgameplayer.games.dmm.com/DMMGamePlayer-Setup-5.4.10.exe
+- **URL**: https://dlapp-dmmgameplayer.games.dmm.com/DMMGamePlayer-Setup-5.4.21.exe
 
 #### dmt-dmt840mdcontrollersoftware
 
@@ -20163,7 +20154,7 @@ Total entries processed: 7173
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `evandde-g4starter.yml`
-- **URL**: https://github.com/evandde/G4Starter/releases/download/v0.2.0/G4Starter.exe
+- **URL**: https://github.com/evandde/G4Starter/releases/download/v0.3.0/G4Starter.exe
 
 #### evanr-imagefiles
 
@@ -30387,7 +30378,7 @@ Total entries processed: 7173
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-konsole.yml`
-- **URL**: https://cdn.kde.org/ci-builds/utilities/konsole/master/windows/konsole-master-4488-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/utilities/konsole/master/windows/konsole-master-4491-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kontact
 
@@ -31836,7 +31827,7 @@ Total entries processed: 7173
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lbjlaq-antigravitytools.yml`
-- **URL**: https://github.com/lbjlaq/Antigravity-Manager/releases/download/v3.3.42/Antigravity.Tools_3.3.42_x64-setup.exe
+- **URL**: https://github.com/lbjlaq/Antigravity-Manager/releases/download/v3.3.44/Antigravity.Tools_3.3.44_x64-setup.exe
 
 #### lbry-lbry
 
@@ -37110,7 +37101,7 @@ Total entries processed: 7173
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `moheshwaramarnathbiswas-usefultoolsforwindows.yml`
-- **URL**: https://github.com/fluentmoheshwar/useful-tools/releases/download/v3.6/Useful_Tools_For_Windows_Installer.exe
+- **URL**: https://github.com/fluentmoheshwar/useful-tools/releases/download/v3.7.0/Useful_Tools_For_Windows_Installer.exe
 
 #### moises-moises
 
@@ -37353,7 +37344,7 @@ Total entries processed: 7173
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `morganzwest-hsemulate.yml`
-- **URL**: https://github.com/morganzwest/hsemulator/releases/download/v0.3.1/hsemulate-0.3.1-windows-x64-installer.exe
+- **URL**: https://github.com/morganzwest/hsemulator/releases/download/v0.4.0/hsemulate-0.4.0-windows-x64-installer.exe
 
 #### morgen-morgen
 
@@ -55128,7 +55119,7 @@ Total entries processed: 7173
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `steady-steady.yml`
-- **URL**: https://download.todesktop.com/250228ns15hrp4z/Steady%20Setup%201.1.0-x64.exe
+- **URL**: https://download.todesktop.com/250228ns15hrp4z/Steady%20Setup%201.1.1-x64.exe
 
 #### steamgriddb-rommanager
 
@@ -55614,7 +55605,7 @@ Total entries processed: 7173
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `streamlink-streamlink.yml`
-- **URL**: https://github.com/streamlink/windows-builds/releases/download/8.1.1-1/streamlink-8.1.1-1-py314-x86_64.exe
+- **URL**: https://github.com/streamlink/windows-builds/releases/download/8.1.2-1/streamlink-8.1.2-1-py314-x86_64.exe
 
 #### streamway-obsplugin
 
@@ -56469,7 +56460,7 @@ Total entries processed: 7173
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `szchkt-leaklog.yml`
-- **URL**: https://github.com/szchkt/leaklog/releases/download/v2.3.2/Leaklog-2.3.2-win64.exe
+- **URL**: https://github.com/szchkt/leaklog/releases/download/v2.3.3/Leaklog-2.3.3-win64.exe
 
 #### sztheory-exifcleaner
 
@@ -58908,7 +58899,7 @@ Total entries processed: 7173
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `topalasoftwaresolutions-siw.yml`
-- **URL**: https://www.gtopala.com/download/20260103c/siwtrial-setup.exe
+- **URL**: https://www.gtopala.com/download/20260103d/siwtrial-setup.exe
 
 #### topazlabs-topazdenoiseai
 
@@ -60564,7 +60555,7 @@ Total entries processed: 7173
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc-nightly.yml`
-- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20260114-0423/vlc-4.0.0-dev-win64-1857cf2c.msi
+- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20260118-0425/vlc-4.0.0-dev-win64-5dd32a7e.msi
 
 #### videolan-vlc
 
