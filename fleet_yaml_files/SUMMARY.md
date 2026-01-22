@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-01-22 06:06:11 UTC
+Generated on: 2026-01-22 18:05:30 UTC
 
 ## Summary
 
-Total entries processed: 7176
+Total entries processed: 7177
 - macOS files: 378
-- Windows files: 6798
+- Windows files: 6799
 
 ## Generated Files
 
@@ -721,7 +721,7 @@ Total entries processed: 7176
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `cisco-jabber.yml`
-- **URL**: https://binaries.webex.com/jabberclientmac/20251118100311/Install_Cisco-Jabber-Mac.pkg
+- **URL**: https://binaries.webex.com/jabberclientmac/20260122074039/Install_Cisco-Jabber-Mac.pkg
 
 #### citrix-workspace
 
@@ -3151,7 +3151,7 @@ Total entries processed: 7176
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `uuremote.yml`
-- **URL**: https://a56.gdl.netease.com/uuyc_4.13.0.pkg
+- **URL**: https://a56.gdl.netease.com/uuyc_4.14.0.pkg
 
 #### vcam
 
@@ -9534,7 +9534,7 @@ Total entries processed: 7176
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `beeper-beeper.yml`
-- **URL**: https://beeper-desktop.download.beeper.com/builds/Beeper%20x64%204.2.482.exe
+- **URL**: https://beeper-desktop.download.beeper.com/builds/Beeper%20x64%204.2.495.exe
 
 #### beeradmoore-dlss-swapper
 
@@ -12018,7 +12018,7 @@ Total entries processed: 7176
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `browseros-browseros.yml`
-- **URL**: https://github.com/browseros-ai/BrowserOS/releases/download/v0.36.2/BrowserOS_v0.36.2_x64_installer.exe
+- **URL**: https://github.com/browseros-ai/BrowserOS/releases/download/v0.37.0/BrowserOS_v0.37.0.3_x64_installer.exe
 
 #### browserstack-browserstacklocal
 
@@ -12711,7 +12711,7 @@ Total entries processed: 7176
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `canva-canva.yml`
-- **URL**: https://desktop-release.canva.com/Canva%20Setup%201.119.0.exe
+- **URL**: https://desktop-release.canva.com/Canva%20Setup%201.120.0.exe
 
 #### caobinrg-electron-office-tools
 
@@ -16437,7 +16437,7 @@ Total entries processed: 7176
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dbvis-dbvisualizer.yml`
-- **URL**: https://www.dbvis.com/product_download/dbvis-25.3.1/media/dbvis_windows-x64_25_3_1_jre.exe
+- **URL**: https://www.dbvis.com/product_download/dbvis-25.3.2/media/dbvis_windows-x64_25_3_2_jre.exe
 
 #### dcss-dungeoncrawlstonesoup
 
@@ -17148,7 +17148,7 @@ Total entries processed: 7176
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `digitalscholar-zotero.yml`
-- **URL**: https://download.zotero.org/client/release/7.0.9/Zotero-7.0.9_x64_setup.exe
+- **URL**: https://download.zotero.org/client/release/8.0/Zotero-8.0_x64_setup.exe
 
 #### digitalscience-papers
 
@@ -17832,7 +17832,7 @@ Total entries processed: 7176
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dongdongbh-mindwtr.yml`
-- **URL**: https://github.com/dongdongbh/Mindwtr/releases/download/v0.5.6/Mindwtr_0.5.6_x64-setup.exe
+- **URL**: https://github.com/dongdongbh/Mindwtr/releases/download/v0.5.7/Mindwtr_0.5.7_x64-setup.exe
 
 #### donmar-bonsai
 
@@ -17958,7 +17958,7 @@ Total entries processed: 7176
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `drakkan-sftpgoenterprise.yml`
-- **URL**: https://download.sftpgo.com/windows/sftpgo_windows_v2.7.20260110_x86_64_onprem.exe
+- **URL**: https://download.sftpgo.com/windows/sftpgo_windows_v2.7.20260120_x86_64_onprem.exe
 
 #### drawpile-drawpile
 
@@ -20515,6 +20515,15 @@ Total entries processed: 7176
 - **Version**: 
 - **File**: `faronstudio-pixplant.yml`
 - **URL**: https://www.pixplant.com/download/PixPlant5-Setup.exe
+
+#### faserf-switchcraft
+
+- **Source**: winget
+- **Name**: faserf-switchcraft
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `faserf-switchcraft.yml`
+- **URL**: https://github.com/FaserF/SwitchCraft/releases/download/v2026.1.3/SwitchCraft-Setup.exe
 
 #### fastcopy-fastcopy
 
@@ -23403,7 +23412,7 @@ Total entries processed: 7176
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `glab-glab.yml`
-- **URL**: https://gitlab.com/gitlab-org/cli/-/releases/v1.80.4/downloads/glab_1.80.4_Windows_x86_64_installer.exe
+- **URL**: https://gitlab.com/gitlab-org/cli/-/releases/v1.81.0/downloads/glab_1.81.0_Windows_x86_64_installer.exe
 
 #### glassdevtools-void
 
@@ -30342,7 +30351,7 @@ Total entries processed: 7176
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kmines.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kmines/master/windows/kmines-master-882-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kmines/master/windows/kmines-master-885-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kmymoney
 
@@ -30441,7 +30450,7 @@ Total entries processed: 7176
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kshisen.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kshisen/master/windows/kshisen-master-830-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kshisen/master/windows/kshisen-master-833-windows-cl-msvc2022-x86_64.exe
 
 #### kde-ksnakeduel
 
@@ -31872,7 +31881,7 @@ Total entries processed: 7176
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lebo-lebo.yml`
-- **URL**: https://download.mirrorcast.cn/release/electron/packages/prod/202510271549-lebo-23303-6.3.38-x64.exe
+- **URL**: https://download.mirrorcast.cn/release/electron/packages/prod/202601211643-lebo-23303-6.3.56-x64.exe
 
 #### ledgerhq-ledgerlive
 
@@ -36057,7 +36066,7 @@ Total entries processed: 7176
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-sqlservermanagementstudio-22.yml`
-- **URL**: https://download.visualstudio.microsoft.com/download/pr/451b234a-4e25-491d-a007-bf3e55b2562f/4a7eda53a20fecf4d012d8b845bf4b7e2c94a4bced41f979b85cdee1b517021f/vs_SSMS.exe
+- **URL**: https://download.visualstudio.microsoft.com/download/pr/98009c04-e4b8-4223-8794-58f961de75a4/75159abce36103c35f173e03b7b3ec0b004094013968f5980d77a4c0436e36c7/vs_SSMS.exe
 
 #### microsoft-sqlservermanagementstudio
 
@@ -36597,7 +36606,7 @@ Total entries processed: 7176
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mikf-gallery-dl-nightly.yml`
-- **URL**: https://github.com/gdl-org/builds/releases/download/2026.01.19/gallery-dl_windows.exe
+- **URL**: https://github.com/gdl-org/builds/releases/download/2026.01.21/gallery-dl_windows.exe
 
 #### mikrotik-winbox
 
@@ -45759,7 +45768,7 @@ Total entries processed: 7176
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `oracle-weblogicremoteconsole.yml`
-- **URL**: https://github.com/oracle/weblogic-remote-console/releases/download/v2.4.18/WebLogic-Remote-Console-2.4.18-win.exe
+- **URL**: https://github.com/oracle/weblogic-remote-console/releases/download/v2.4.19/WebLogic-Remote-Console-2.4.19-win.exe
 
 #### orange-opensource-hurl
 
@@ -48594,7 +48603,7 @@ Total entries processed: 7176
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ptrtech-netsonar.yml`
-- **URL**: https://github.com/sn4k3/NetSonar/releases/download/0.2.1/NetSonar_win-x64_v0.2.1.msi
+- **URL**: https://github.com/sn4k3/NetSonar/releases/download/0.2.2/NetSonar_win-x64_v0.2.2.msi
 
 #### ptrtech-uvtools
 
@@ -51537,7 +51546,7 @@ Total entries processed: 7176
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ruihu-apifox.yml`
-- **URL**: https://file-assets.apifox.com/download/2.8.0/Apifox-2.8.0.exe
+- **URL**: https://file-assets.apifox.com/download/2.8.2/Apifox-2.8.2.exe
 
 #### runebook-tome
 
@@ -60582,7 +60591,7 @@ Total entries processed: 7176
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc-nightly.yml`
-- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20260118-0425/vlc-4.0.0-dev-win64-5dd32a7e.msi
+- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20260121-0430/vlc-4.0.0-dev-win64-0ab833bf.msi
 
 #### videolan-vlc
 
