@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-01-21 18:13:47 UTC
+Generated on: 2026-01-22 06:06:11 UTC
 
 ## Summary
 
-Total entries processed: 7174
-- macOS files: 377
-- Windows files: 6797
+Total entries processed: 7176
+- macOS files: 378
+- Windows files: 6798
 
 ## Generated Files
 
@@ -82,7 +82,7 @@ Total entries processed: 7174
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `anka-build-cloud-controller.yml`
-- **URL**: https://downloads.veertu.com/anka/anka-controller-arm64-1.49.0-7d53dd9f.pkg
+- **URL**: https://downloads.veertu.com/anka/anka-controller-arm64-1.49.1-b75b7e88.pkg
 
 #### anka-build-cloud-registry
 
@@ -91,7 +91,7 @@ Total entries processed: 7174
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `anka-build-cloud-registry.yml`
-- **URL**: https://downloads.veertu.com/anka/anka-registry-arm64-1.49.0-7d53dd9f.pkg
+- **URL**: https://downloads.veertu.com/anka/anka-registry-arm64-1.49.1-b75b7e88.pkg
 
 #### anka-virtualization
 
@@ -110,6 +110,15 @@ Total entries processed: 7174
 - **Version**: 
 - **File**: `appsanywhere.yml`
 - **URL**: https://files.appsanywhere.com/clients/appsanywhere/mac/${latestVersion}/apps-anywhere-setup-InstitutionId-${latestVersion}.pkg
+
+#### aquaskk-prerelease
+
+- **Source**: homebrew/installomator
+- **Name**: aquaskk-prerelease
+- **Description**: Generated from Homebrew cask or Installomator script
+- **Version**: 
+- **File**: `aquaskk-prerelease.yml`
+- **URL**: https://github.com/codefirst/aquaskk/releases/download/4.7.8/AquaSKK-4.7.8.pkg
 
 #### aquaskk
 
@@ -2134,7 +2143,7 @@ Total entries processed: 7174
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `okta-advanced-server-access.yml`
-- **URL**: https://dist.scaleft.com/repos/macos/stable/all/macos-client/v1.99.5/ScaleFT-1.99.5.pkg
+- **URL**: https://dist.scaleft.com/repos/macos/stable/all/macos-client/v1.99.7/ScaleFT-1.99.7.pkg
 
 #### okta-verify
 
@@ -2224,7 +2233,7 @@ Total entries processed: 7174
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `orka-vm-tools.yml`
-- **URL**: https://orka-tools.s3.amazonaws.com/orka-vm-tools/official/3.5.0/orka-vm-tools.pkg
+- **URL**: https://orka-tools.s3.amazonaws.com/orka-vm-tools/official/3.5.2/orka-vm-tools.pkg
 
 #### orka
 
@@ -2242,7 +2251,7 @@ Total entries processed: 7174
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `orka3.yml`
-- **URL**: https://cli-builds-public.s3.amazonaws.com/official/3.5.1/orka3/macos/arm64/orka3.pkg
+- **URL**: https://cli-builds-public.s3.amazonaws.com/official/3.5.2/orka3/macos/arm64/orka3.pkg
 
 #### osquery
 
@@ -2926,7 +2935,7 @@ Total entries processed: 7174
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `teleport-suite.yml`
-- **URL**: https://cdn.teleport.dev/teleport-18.6.3.pkg
+- **URL**: https://cdn.teleport.dev/teleport-18.6.4.pkg
 
 #### temurin-11
 
@@ -6600,7 +6609,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `amd-lemonadeserver.yml`
-- **URL**: https://github.com/lemonade-sdk/lemonade/releases/download/v9.1.3/lemonade-server-minimal.msi
+- **URL**: https://github.com/lemonade-sdk/lemonade/releases/download/v9.1.4/lemonade-server-minimal.msi
 
 #### amd-ocat
 
@@ -8130,7 +8139,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `auramarker-lattics.yml`
-- **URL**: https://releases.zine.la/lattics/win/Lattics_win_installer_x64_3.4.5.exe
+- **URL**: https://releases.zine.la/lattics/win/Lattics_win_installer_x64_3.4.6.exe
 
 #### aurora-aurora
 
@@ -14628,7 +14637,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `comfy-comfyui-desktop.yml`
-- **URL**: https://download.todesktop.com/241012ess7yxs0e/ComfyUI%20Setup%200.7.2%20-%20Build%2026010815jy3gb43-x64.exe
+- **URL**: https://download.todesktop.com/241012ess7yxs0e/ComfyUI%20Setup%200.7.4%20-%20Build%20260121uixerk9zk-x64.exe
 
 #### commandline-wave
 
@@ -22323,7 +22332,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `fuyoo-bsrdc.yml`
-- **URL**: https://github.com/fuyoo/bs-redis-desktop-client/releases/download/v1.1.1/Windows.x64.v1.1.1.installer.exe
+- **URL**: https://github.com/fuyoo/bs-redis-desktop-client/releases/download/v2.0.0-2/BS_2.0.0-2_x64-setup.exe
 
 #### fxsound-fxsound
 
@@ -23763,7 +23772,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/k35li3dvuqgbhqek24y7i76bgi_146.0.7647.0/146.0.7647.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/npabmmzhc4q3sq3jb7twycmy7i_146.0.7648.0/146.0.7648.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -28920,7 +28929,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-webstorm-eap.yml`
-- **URL**: https://download.jetbrains.com/webstorm/WebStorm-253.30387.24.exe
+- **URL**: https://download.jetbrains.com/webstorm/WebStorm-261.17801.57.exe
 
 #### jetbrains-webstorm
 
@@ -32835,7 +32844,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lolle2000la-imagesort.yml`
-- **URL**: https://github.com/Lolle2000la/Image-Sort/releases/download/v2.14.4/ImageSort.x64.msi
+- **URL**: https://github.com/Lolle2000la/Image-Sort/releases/download/v2.14.5/ImageSort.x64.msi
 
 #### long-woo-12306-electron
 
@@ -36048,7 +36057,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-sqlservermanagementstudio-22.yml`
-- **URL**: https://download.visualstudio.microsoft.com/download/pr/d3b4e0f6-4bc0-4ec0-ba9c-20b355d61cc4/b50e52759454345ab17bdafcb40774f9bc635cf8fd933dacc4097909f3dbccf7/vs_SSMS.exe
+- **URL**: https://download.visualstudio.microsoft.com/download/pr/451b234a-4e25-491d-a007-bf3e55b2562f/4a7eda53a20fecf4d012d8b845bf4b7e2c94a4bced41f979b85cdee1b517021f/vs_SSMS.exe
 
 #### microsoft-sqlservermanagementstudio
 
@@ -41502,7 +41511,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mpv-net.yml`
-- **URL**: https://github.com/mpvnet-player/mpv.net/releases/download/v7.1.1.0/mpv.net-v7.1.1.0-setup.exe
+- **URL**: https://github.com/mpvnet-player/mpv.net/releases/download/v7.1.2.0/mpv.net-v7.1.2.0-setup-x64.exe
 
 #### mq1-tinywiibackupmanager
 
@@ -45552,7 +45561,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `opera-opera-dev.yml`
-- **URL**: https://get.geo.opera.com/pub/opera-developer/127.0.5776.0/win/Opera_Developer_127.0.5776.0_Setup_x64.exe
+- **URL**: https://get.geo.opera.com/pub/opera-developer/128.0.5783.0/win/Opera_Developer_128.0.5783.0_Setup_x64.exe
 
 #### opera-opera
 
@@ -45867,7 +45876,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `osgeo-qgis.yml`
-- **URL**: https://qgis.org/downloads/QGIS-OSGeo4W-3.44.6-1.msi
+- **URL**: https://qgis.org/downloads/QGIS-OSGeo4W-3.44.7-1.msi
 
 #### osk-tetr
 
@@ -47380,6 +47389,15 @@ Total entries processed: 7174
 - **Version**: 
 - **File**: `platformlabs-toolkit.yml`
 - **URL**: https://dl.platformlabs.org/winget-pkgs/PlatformLabs_Toolkit/v1.0.0/PlatformLabs_Toolkit_v1.0.0_x64.exe
+
+#### playstation-playstationaccessories
+
+- **Source**: winget
+- **Name**: playstation-playstationaccessories
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `playstation-playstationaccessories.yml`
+- **URL**: https://fwupdater.dl.playstation.net/fwupdater/PlayStationAccessoriesInstaller.exe
 
 #### plazmaburst2-plazmaburst2
 
@@ -54669,7 +54687,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `splitmedialabs-xsplitbroadcaster.yml`
-- **URL**: https://cdn.xsplit.com/download/bc/m54/4.5.2512.0304/XSplit_Broadcaster_4.5.2512.0304.exe
+- **URL**: https://cdn.xsplit.com/download/bc/m54/4.5.2601.1401/XSplit_Broadcaster_4.5.2601.1401.exe
 
 #### splitmedialabs-xsplitvcam
 
@@ -60114,7 +60132,7 @@ Total entries processed: 7174
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `urbackup-urbackup-client.yml`
-- **URL**: https://hndl.urbackup.org/Client/2.5.27/UrBackup%20Client%202.5.27.exe
+- **URL**: https://hndl.urbackup.org/Client/2.5.28/UrBackup%20Client%202.5.28.exe
 
 #### urbackup-urbackup-server
 
