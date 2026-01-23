@@ -1,4 +1,4 @@
-url: https://www.voidtools.com/Everything-1.4.1.1031.x64.msi
+url: https://github.com/microsoft/shell-intune-samples/raw/refs/heads/master/Linux/WSL/IntuneWSLPluginInstaller/IntuneWSLPluginInstaller.msi
 automatic_install: false
 self_service: false
 categories: []
