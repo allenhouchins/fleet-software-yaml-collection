@@ -1,4 +1,4 @@
-url: https://github.com/crystal-lang/crystal/releases/download/1.18.2/crystal-1.18.2-windows-x86_64-msvc-unsupported.exe
+url: https://github.com/crystal-lang/crystal/releases/download/1.19.1/crystal-1.19.1-windows-x86_64-msvc-unsupported.exe
 automatic_install: false
 self_service: false
 categories: []
