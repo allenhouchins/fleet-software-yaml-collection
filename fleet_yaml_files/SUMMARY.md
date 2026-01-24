@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-01-24 06:05:18 UTC
+Generated on: 2026-01-24 18:05:20 UTC
 
 ## Summary
 
@@ -118,7 +118,7 @@ Total entries processed: 7192
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `appvolume.yml`
-- **URL**: https://releases.appvolume.app/AppVolume-0.1.31-arm64.pkg
+- **URL**: https://releases.appvolume.app/AppVolume-0.1.32-arm64.pkg
 
 #### aquaskk-prerelease
 
@@ -7734,7 +7734,7 @@ Total entries processed: 7192
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `artemchepurnyi-keyguard.yml`
-- **URL**: https://github.com/AChep/keyguard-app/releases/download/r20260123/Keyguard-2.3.1.msi
+- **URL**: https://github.com/AChep/keyguard-app/releases/download/r20260124/Keyguard-2.3.2.msi
 
 #### artempyanykh-marksman
 
@@ -18129,7 +18129,7 @@ Total entries processed: 7192
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `drygvalartyom-delafterreboot.yml`
-- **URL**: https://github.com/Artyomka628/DelAfterReboot/releases/download/v2.0.0/DelAfterReboot-x64.msi
+- **URL**: https://github.com/Artyomka628/DelAfterReboot/releases/download/v2.5.0/DelAfterReboot-x64.msi
 
 #### dscalzi-helioslauncher
 
@@ -23601,7 +23601,7 @@ Total entries processed: 7192
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `glzr-io-zebar.yml`
-- **URL**: https://github.com/glzr-io/zebar/releases/download/v3.1.1/zebar-v3.1.1-opt1-x64.msi
+- **URL**: https://github.com/glzr-io/zebar/releases/download/v3.2.0/zebar-v3.2.0-opt1-x64.msi
 
 #### gmbertani-echoes
 
@@ -23817,7 +23817,7 @@ Total entries processed: 7192
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-antigravity.yml`
-- **URL**: https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/1.14.2-6046590149459968/windows-x64/Antigravity.exe
+- **URL**: https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/1.15.6-5250816192937984/windows-x64/Antigravity.exe
 
 #### google-chrome-beta-exe
 
@@ -24780,7 +24780,7 @@ Total entries processed: 7192
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `haimacloud-haimacloud.yml`
-- **URL**: https://pc-cos.haimacloud.com/release/haimayun/v2.4.5/windows/海马云电脑-v2.4.5-win32-x64.exe
+- **URL**: https://pc-cos.haimacloud.com/release/haimayun/v2.4.6/windows/海马云电脑-v2.4.6-win32-x64.exe
 
 #### hainguyen-mechvibes
 
@@ -26067,7 +26067,7 @@ Total entries processed: 7192
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hypixelstudios-hytale.yml`
-- **URL**: https://launcher.hytale.com/builds/release/windows/amd64/hytale-launcher-installer-2026.01.23-e5bfce5.exe
+- **URL**: https://launcher.hytale.com/builds/release/windows/amd64/hytale-launcher-installer-2026.01.24-997c2cb.exe
 
 #### ia-iawriter
 
@@ -26787,7 +26787,7 @@ Total entries processed: 7192
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `imputnet-helium.yml`
-- **URL**: https://github.com/imputnet/helium-windows/releases/download/0.7.7.1/helium_0.7.7.1_x64-installer.exe
+- **URL**: https://github.com/imputnet/helium-windows/releases/download/0.8.3.1/helium_0.8.3.1_x64-installer.exe
 
 #### indigobyte-drexplain
 
@@ -28785,7 +28785,7 @@ Total entries processed: 7192
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-intellijidea-ultimate-eap.yml`
-- **URL**: https://download.jetbrains.com/idea/idea-253.30387.20.exe
+- **URL**: https://download.jetbrains.com/idea/idea-261.17801.55.exe
 
 #### jetbrains-intellijidea-ultimate
 
@@ -30252,7 +30252,7 @@ Total entries processed: 7192
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kblackbox.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kblackbox/master/windows/kblackbox-master-792-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kblackbox/master/windows/kblackbox-master-795-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kblocks
 
@@ -32007,7 +32007,7 @@ Total entries processed: 7192
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `legeling-prompthub.yml`
-- **URL**: https://github.com/legeling/PromptHub/releases/download/v0.3.8/PromptHub-Setup-0.3.8-x64.exe
+- **URL**: https://github.com/legeling/PromptHub/releases/download/v0.3.9/PromptHub-Setup-0.3.9-x64.exe
 
 #### legithubdetai-animeback
 
@@ -33168,7 +33168,7 @@ Total entries processed: 7192
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lukashermann-stagetimer-io.yml`
-- **URL**: https://storage.googleapis.com/stagetimer-prod.appspot.com/releases/3.2.0/stagetimer.io-3.2.0-setup.exe
+- **URL**: https://storage.googleapis.com/stagetimer-prod.appspot.com/releases/3.2.1/stagetimer.io-3.2.1-setup.exe
 
 #### lukaszswiszcz-winpinator
 
@@ -35886,7 +35886,7 @@ Total entries processed: 7192
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-powerbi.yml`
-- **URL**: https://download.microsoft.com/download/8/8/0/880BCA75-79DD-466A-927D-1ABF1F5454B0/PBIDesktopSetup-2025-11_x64.exe
+- **URL**: https://download.microsoft.com/download/8/8/0/880BCA75-79DD-466A-927D-1ABF1F5454B0/PBIDesktopSetup-2026-01_x64.exe
 
 #### microsoft-powerbireportbuilder
 
@@ -42519,7 +42519,7 @@ Total entries processed: 7192
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `neosku-aviutl2-catalog.yml`
-- **URL**: https://github.com/Neosku/aviutl2-catalog/releases/download/v0.3.0/AviUtl2_Catalog_0.3.0_x64-setup.exe
+- **URL**: https://github.com/Neosku/aviutl2-catalog/releases/download/v0.3.1/AviUtl2_Catalog_0.3.1_x64-setup.exe
 
 #### neosubhamoy-neodlp
 
@@ -42933,7 +42933,7 @@ Total entries processed: 7192
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nexmoe-vidbee.yml`
-- **URL**: https://github.com/nexmoe/VidBee/releases/download/v1.2.3/vidbee-1.2.3-setup.exe
+- **URL**: https://github.com/nexmoe/VidBee/releases/download/v1.2.4/vidbee-1.2.4-setup.exe
 
 #### nexon-nexonplug
 
@@ -48387,7 +48387,7 @@ Total entries processed: 7192
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `printfn-fend.yml`
-- **URL**: https://github.com/printfn/fend/releases/download/v1.5.7/fend-1.5.7-windows-x64.msi
+- **URL**: https://github.com/printfn/fend/releases/download/v1.5.8/fend-1.5.8-windows-x64.msi
 
 #### printnode-printnode
 
@@ -49197,7 +49197,7 @@ Total entries processed: 7192
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `qgis-qfield.yml`
-- **URL**: https://github.com/opengisch/QField/releases/download/v4.0.4/qfield-v4.0.4-windows-x64.exe
+- **URL**: https://github.com/opengisch/QField/releases/download/v4.0.5/qfield-v4.0.5-windows-x64.exe
 
 #### qiagen-clcgenomicsworkbench
 
@@ -54876,7 +54876,7 @@ Total entries processed: 7192
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `spotify-spotify.yml`
-- **URL**: https://upgrade.scdn.co/upgrade/client/win32-x86_64/spotify_installer-1.2.81.264.gb4ad4efa-1866.exe
+- **URL**: https://upgrade.scdn.co/upgrade/client/win32-x86_64/spotify_installer-1.2.82.423.ga54eef9e-1135.exe
 
 #### springlobby-springlobby
 
@@ -55596,7 +55596,7 @@ Total entries processed: 7192
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `stempedia-pictoblox.yml`
-- **URL**: https://download.pictoblox.ai/win/PictoBlox-Setup-9.0.0.exe
+- **URL**: https://download.pictoblox.ai/win/PictoBlox-Setup-9.0.1.exe
 
 #### stephandilly-gitui
 
