@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-01-25 06:05:29 UTC
+Generated on: 2026-01-25 18:05:18 UTC
 
 ## Summary
 
@@ -4476,7 +4476,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aelassas-servy.yml`
-- **URL**: https://github.com/aelassas/servy/releases/download/v5.7/servy-5.7-x64-installer.exe
+- **URL**: https://github.com/aelassas/servy/releases/download/v5.8/servy-5.8-x64-installer.exe
 
 #### aerosoft-one
 
@@ -7239,7 +7239,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `anysphere-cursor.yml`
-- **URL**: https://downloads.cursor.com/production/2ca326e0d1ce10956aea33d54c0e2d8c13c58a32/win32/x64/user-setup/CursorUserSetup-x64-2.3.41.exe
+- **URL**: https://downloads.cursor.com/production/dc8361355d709f306d5159635a677a571b277bcc/win32/x64/user-setup/CursorUserSetup-x64-2.4.21.exe
 
 #### apache-directorystudio
 
@@ -7320,7 +7320,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `appbytroye-koodoreader.yml`
-- **URL**: https://dl.koodoreader.com/v2.2.5/Koodo-Reader-2.2.5-x64.exe
+- **URL**: https://dl.koodoreader.com/v2.2.6/Koodo-Reader-2.2.6-x64.exe
 
 #### appest-dida
 
@@ -7491,7 +7491,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `arcaderenegade-sidebardiagnostics.yml`
-- **URL**: https://github.com/ArcadeRenegade/SidebarDiagnostics/releases/download/v3.6.3/Setup.exe
+- **URL**: https://github.com/ArcadeRenegade/SidebarDiagnostics/releases/download/v3.6.1/Setup.exe
 
 #### archi-archi
 
@@ -7734,7 +7734,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `artemchepurnyi-keyguard.yml`
-- **URL**: https://github.com/AChep/keyguard-app/releases/download/r20260124/Keyguard-2.3.2.msi
+- **URL**: https://github.com/AChep/keyguard-app/releases/download/r20260125.1/Keyguard-2.3.3.msi
 
 #### artempyanykh-marksman
 
@@ -8634,7 +8634,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `azul-zulu-11-jdk.yml`
-- **URL**: https://cdn.azul.com/zulu/bin/zulu11.84.17-ca-jdk11.0.29-win_x64.msi
+- **URL**: https://cdn.azul.com/zulu/bin/zulu11.86.19-ca-jdk11.0.30-win_x64.msi
 
 #### azul-zulu-11-jre
 
@@ -11208,7 +11208,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bitmutex-winhider.yml`
-- **URL**: https://github.com/aamitn/winhider/releases/download/v1.0.6/WinhiderInstaller.exe
+- **URL**: https://github.com/aamitn/winhider/releases/download/v1.0.7/WinhiderInstaller.exe
 
 #### bitrecover-aadhaarcardpasswordremover
 
@@ -12189,7 +12189,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `buchen-portfolio.yml`
-- **URL**: https://github.com/portfolio-performance/portfolio/releases/download/0.81.2/PortfolioPerformance-0.81.2-setup.exe
+- **URL**: https://github.com/portfolio-performance/portfolio/releases/download/0.81.3/PortfolioPerformance-0.81.3-setup.exe
 
 #### buct0r-fullfetch
 
@@ -12549,7 +12549,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `c3er-mdview.yml`
-- **URL**: https://github.com/c3er/mdview/releases/download/v3.2.0/mdview-3.2.0-x64.exe
+- **URL**: https://github.com/c3er/mdview/releases/download/v4.0.0/mdview-4.0.0-x64.exe
 
 #### cabininteractive-hamrspro
 
@@ -13881,7 +13881,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `clashvergerev-clashvergerev.yml`
-- **URL**: https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.4/Clash.Verge_2.4.4_x64-setup.exe
+- **URL**: https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.5/Clash.Verge_2.4.5_x64-setup.exe
 
 #### classicdiy-modbustool
 
@@ -16419,7 +16419,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dbadminx-diff.yml`
-- **URL**: https://github.com/ZeroMarker/Diff/releases/download/v1.1.2/Diff.exe
+- **URL**: https://github.com/ZeroMarker/Diff/releases/download/v1.2.9/DiffViewer-Installer-v1.2.9.exe
 
 #### dbbrowserforsqlite-dbbrowserforsqlite
 
@@ -19362,7 +19362,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `electerm-electerm.yml`
-- **URL**: https://github.com/electerm/electerm/releases/download/v2.4.16/electerm-2.4.16-win-x64-installer.exe
+- **URL**: https://github.com/electerm/electerm/releases/download/v2.4.28/electerm-2.4.28-win-x64-installer.exe
 
 #### electron-store-electron-app-store
 
@@ -24798,7 +24798,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `haiying-aionui.yml`
-- **URL**: https://github.com/iOfficeAI/AionUi/releases/download/v1.7.4/AionUi-1.7.4-win-x64.exe
+- **URL**: https://github.com/iOfficeAI/AionUi/releases/download/v1.7.6/AionUi-1.7.6-win-x64.exe
 
 #### hakuneko-hakuneko-nightly
 
@@ -26940,7 +26940,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `inspectdevtools-inspect.yml`
-- **URL**: https://download.todesktop.com/231013edhal6kvv/Inspect%20Setup%202.1.0%20-%20Build%2026011411odxb1yl-x64.exe
+- **URL**: https://download.todesktop.com/231013edhal6kvv/Inspect%20Setup%202.3.0%20-%20Build%202601246lxu9gz59-x64.exe
 
 #### insta360-link-controller
 
@@ -30216,7 +30216,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kapman.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kapman/master/windows/kapman-master-807-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kapman/master/windows/kapman-master-810-windows-cl-msvc2022-x86_64.exe
 
 #### kde-karp
 
@@ -30396,7 +30396,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kiten.yml`
-- **URL**: https://cdn.kde.org/ci-builds/education/kiten/master/windows/kiten-master-931-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/education/kiten/master/windows/kiten-master-934-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kjumpingcube
 
@@ -30432,7 +30432,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kmahjongg.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kmahjongg/master/windows/kmahjongg-master-956-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kmahjongg/master/windows/kmahjongg-master-959-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kmines
 
@@ -30657,7 +30657,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-marknote.yml`
-- **URL**: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-1020-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-1026-windows-cl-msvc2022-x86_64.exe
 
 #### kde-neochat
 
@@ -51312,7 +51312,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `romtenma-siki.yml`
-- **URL**: https://sikiapp.net/archives/0.39.0/SikiSetup-0.39.0.exe
+- **URL**: https://sikiapp.net/archives/0.39.3/SikiSetup-0.39.3.exe
 
 #### ronghuaxueleng-claudecodeconfigmanager
 
@@ -60393,7 +60393,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `v2raya-v2raya.yml`
-- **URL**: https://github.com/v2rayA/v2rayA/releases/download/v2.2.7.4/installer_windows_inno_x64_2.2.7.4.exe
+- **URL**: https://github.com/v2rayA/v2rayA/releases/download/v2.2.7.5/installer_windows_inno_x64_2.2.7.5.exe
 
 #### vaclavslavik-poedit
 
@@ -60762,7 +60762,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc-nightly.yml`
-- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20260121-0430/vlc-4.0.0-dev-win64-0ab833bf.msi
+- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20260123-0424/vlc-4.0.0-dev-win64-c3b1c713.msi
 
 #### videolan-vlc
 
@@ -60996,7 +60996,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vkbo-novelwriter.yml`
-- **URL**: https://github.com/vkbo/novelWriter/releases/download/v2.8.1/novelwriter-2.8.1-amd64-setup.exe
+- **URL**: https://github.com/vkbo/novelWriter/releases/download/v2.8.2/novelwriter-2.8.2-amd64-setup.exe
 
 #### vkontakte-vkmessenger
 
@@ -62058,7 +62058,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `whstudio-inspiremusic.yml`
-- **URL**: https://github.com/WHStudio/InspireMusic/releases/download/v1.3.3.1/InspireMusic_1.3.3_x64-setup.exe
+- **URL**: https://github.com/WHStudio/InspireMusic/releases/download/v1.3.3.2/InspireMusic_1.3.3_x64-setup.exe
 
 #### whta-tamara
 
@@ -64272,7 +64272,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zedindustries-zed-preview.yml`
-- **URL**: https://github.com/zed-industries/zed/releases/download/v0.221.2-pre/Zed-x86_64.exe
+- **URL**: https://github.com/zed-industries/zed/releases/download/v0.221.3-pre/Zed-x86_64.exe
 
 #### zedindustries-zed
 
@@ -64281,7 +64281,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zedindustries-zed.yml`
-- **URL**: https://github.com/zed-industries/zed/releases/download/v0.220.5/Zed-x86_64.exe
+- **URL**: https://github.com/zed-industries/zed/releases/download/v0.220.6/Zed-x86_64.exe
 
 #### zen-team-zen-browser-twilight
 
