@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-01-25 18:05:18 UTC
+Generated on: 2026-01-26 06:07:11 UTC
 
 ## Summary
 
@@ -9435,7 +9435,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bazel-bazelisk.yml`
-- **URL**: https://github.com/bazelbuild/bazelisk/releases/download/v1.28.0/bazelisk-windows-amd64.exe
+- **URL**: https://github.com/bazelbuild/bazelisk/releases/download/v1.28.1/bazelisk-windows-amd64.exe
 
 #### bbatistadaniel-autoclicker
 
@@ -13512,7 +13512,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `chirpsoftware-chirp-next.yml`
-- **URL**: https://archive.chirpmyradio.com/chirp_next/next-20260116/chirp-next-20260116-installer.exe
+- **URL**: https://archive.chirpmyradio.com/chirp_next/next-20260123/chirp-next-20260123-installer.exe
 
 #### chocolatey-chocolateygui
 
@@ -17886,7 +17886,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dongdongbh-mindwtr.yml`
-- **URL**: https://github.com/dongdongbh/Mindwtr/releases/download/v0.5.9/Mindwtr_0.5.9_x64-setup.exe
+- **URL**: https://github.com/dongdongbh/Mindwtr/releases/download/v0.6.0/Mindwtr_0.6.0_x64-setup.exe
 
 #### donmar-bonsai
 
@@ -21702,7 +21702,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `flyhunterl-flymd.yml`
-- **URL**: https://github.com/flyhunterl/flymd/releases/download/v1.2.7/flymd_1.2.7_x64-setup.exe
+- **URL**: https://github.com/flyhunterl/flymd/releases/download/v1.2.8/flymd_1.2.8_x64-setup.exe
 
 #### fnmt-configuradorfnmt
 
@@ -30414,7 +30414,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-klickety.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/klickety/master/windows/klickety-master-873-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/klickety/master/windows/klickety-master-879-windows-cl-msvc2022-x86_64.exe
 
 #### kde-klines
 
@@ -30657,7 +30657,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-marknote.yml`
-- **URL**: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-1026-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-1032-windows-cl-msvc2022-x86_64.exe
 
 #### kde-neochat
 
@@ -31935,7 +31935,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lbjlaq-antigravitytools.yml`
-- **URL**: https://github.com/lbjlaq/Antigravity-Manager/releases/download/v3.3.50/Antigravity.Tools_3.3.50_x64-setup.exe
+- **URL**: https://github.com/lbjlaq/Antigravity-Manager/releases/download/v4.0.0/Antigravity.Tools_4.0.0_x64-setup.exe
 
 #### lbry-lbry
 
@@ -36741,7 +36741,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mikf-gallery-dl-nightly.yml`
-- **URL**: https://github.com/gdl-org/builds/releases/download/2026.01.21/gallery-dl_windows.exe
+- **URL**: https://github.com/gdl-org/builds/releases/download/2026.01.25/gallery-dl_windows.exe
 
 #### mikrotik-winbox
 
@@ -44697,7 +44697,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `oliverbetz-exiftool.yml`
-- **URL**: https://oliverbetz.de/cms/files/Artikel/ExifTool-for-Windows/ExifTool_install_13.45_64.exe
+- **URL**: https://oliverbetz.de/cms/files/Artikel/ExifTool-for-Windows/ExifTool_install_13.46_64.exe
 
 #### oliverfida-fsimman
 
@@ -60825,7 +60825,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.2108/gvim_9.1.2108_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.2110/gvim_9.1.2110_x64.exe
 
 #### vim-vim
 
@@ -62193,7 +62193,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `win32ss-supermium.yml`
-- **URL**: https://github.com/win32ss/supermium/releases/download/v138-r8/supermium_138_64_setup_win10_11.exe
+- **URL**: https://github.com/win32ss/supermium/releases/download/v138-r9/supermium_138_64_setup_win10_11.exe
 
 #### winbee-cashcash
 
@@ -62211,7 +62211,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `windirstat-windirstat-beta.yml`
-- **URL**: https://github.com/windirstat/windirstat/releases/download/beta/v2.4.9/2026-01-07/WinDirStat-x64.msi
+- **URL**: https://github.com/windirstat/windirstat/releases/download/beta/v2.5.1/2026-01-25/WinDirStat-x64.msi
 
 #### windirstat-windirstat
 
@@ -63579,7 +63579,7 @@ Total entries processed: 7197
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xmediarecode-xmediarecode.yml`
-- **URL**: https://www.xmedia-recode.de/download/XMediaRecode3621_x64_setup.exe
+- **URL**: https://www.xmedia-recode.de/download/XMediaRecode3622_x64_setup.exe
 
 #### xmind-xmind
 
