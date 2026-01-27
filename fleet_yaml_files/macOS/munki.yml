@@ -1,4 +1,4 @@
-url: https://github.com/munki/munki/releases/download/v7.0.6/munkitools-7.0.6.5465.pkg
+url: https://github.com/munki/munki/releases/download/v7.0.7/munkitools-7.0.7.5468.pkg
 automatic_install: false
 self_service: false
 categories: []
