@@ -1,4 +1,4 @@
-url: https://s3.amazonaws.com/ddagent-windows-stable/ddagent-cli-7.75.0.msi
+url: https://s3.amazonaws.com/ddagent-windows-stable/ddagent-cli-7.75.1.msi
 automatic_install: false
 self_service: false
 categories: []
