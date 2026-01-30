@@ -1,10 +1,7 @@
-url: https://api.granola.ai/v1/check-for-update/Granola-6.529.0-win-x64.exe
+url: https://storage.googleapis.com/client-installing/WINNT_x86/vcc-client.msi
 automatic_install: false
 self_service: false
 categories: []
-install_script: '# TODO: Add install script for this EXE'
-uninstall_script: '# TODO: Add uninstall script for this EXE'
 
 # Categories are currently limited to Browsers, Communication, Developer tools, and Productivity.
 # This is a minimum version of this file. All configurable parameters can be seen at https://fleetdm.com/docs/rest-api/rest-api#parameters139
-# Note: Any exe requires an install script and uninstall script to be defined
