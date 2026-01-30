@@ -1,4 +1,4 @@
-url: https://downloads.tableau.com/esdalt/2025.3.2/TableauReader-2025-3-2-arm64.pkg
+url: https://ipevo-software.s3.us-east-1.amazonaws.com/CamControl/windows/CamControlDesktop_2.0.1.0.msi
 automatic_install: false
 self_service: false
 categories: []
