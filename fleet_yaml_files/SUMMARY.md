@@ -1,11 +1,11 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-01-31 06:09:48 UTC
+Generated on: 2026-01-31 18:06:13 UTC
 
 ## Summary
 
-Total entries processed: 7233
-- macOS files: 382
+Total entries processed: 7234
+- macOS files: 383
 - Windows files: 6851
 
 ## Generated Files
@@ -416,6 +416,15 @@ Total entries processed: 7233
 - **Version**: 
 - **File**: `brosix.yml`
 - **URL**: https://www.brosix.com/downloads/builds/official/Brosix.pkg
+
+#### cardinal
+
+- **Source**: homebrew/installomator
+- **Name**: cardinal
+- **Description**: Generated from Homebrew cask or Installomator script
+- **Version**: 
+- **File**: `cardinal.yml`
+- **URL**: https://github.com/DISTRHO/Cardinal/releases/download/26.01/Cardinal-macOS-universal-26.01.pkg
 
 #### catoclient
 
@@ -2206,7 +2215,7 @@ Total entries processed: 7233
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `onedrive.yml`
-- **URL**: https://oneclient.sfx.ms/Mac/Installers/25.238.1204.0001/universal/OneDrive.pkg
+- **URL**: https://oneclient.sfx.ms/Mac/Installers/25.243.1211.0001/universal/OneDrive.pkg
 
 #### opencloud
 
@@ -4224,7 +4233,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `adamtheturtle-doccmd.yml`
-- **URL**: https://github.com/adamtheturtle/doccmd/releases/download/2026.01.23.4/doccmd-windows.exe
+- **URL**: https://github.com/adamtheturtle/doccmd/releases/download/2026.01.31.3/doccmd-windows.exe
 
 #### aderitoneto-afterlife
 
@@ -9453,7 +9462,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `baxi-mybaxipro.yml`
-- **URL**: https://pcstwinget.blob.core.windows.net/pc-servicetool-images/My_Baxi_PRO_2025_09_220.msi
+- **URL**: https://pcstwinget.blob.core.windows.net/pc-servicetool-images/My_Baxi_Pro_2026_1_160.msi
 
 #### baxi-servicetool
 
@@ -12693,7 +12702,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `calibre-calibre.yml`
-- **URL**: https://download.calibre-ebook.com/9.0.0/calibre-64bit-9.0.0.msi
+- **URL**: https://download.calibre-ebook.com/9.1.0/calibre-64bit-9.1.0.msi
 
 #### calibrite-profiler
 
@@ -14295,7 +14304,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cocojojo5213-devjanitor.yml`
-- **URL**: https://github.com/cocojojo5213/Dev-Janitor/releases/download/v2.2.5/Dev.Janitor_2.2.5_x64-setup.exe
+- **URL**: https://github.com/cocojojo5213/Dev-Janitor/releases/download/v2.2.6/Dev.Janitor_2.2.6_x64-setup.exe
 
 #### cocos-cocosdashboard
 
@@ -14565,7 +14574,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `codexu-notegen.yml`
-- **URL**: https://github.com/codexu/note-gen/releases/download/note-gen-v0.25.2/NoteGen_0.25.2_x64-setup.exe
+- **URL**: https://github.com/codexu/note-gen/releases/download/note-gen-v0.25.3/NoteGen_0.25.3_x64-setup.exe
 
 #### codice-plasticscm-cloudedition
 
@@ -16653,7 +16662,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dedietrich-pro.yml`
-- **URL**: https://pcstwinget.blob.core.windows.net/pc-servicetool-images/De_Dietrich_PRO_2025_09_220.msi
+- **URL**: https://pcstwinget.blob.core.windows.net/pc-servicetool-images/De_Dietrich_Pro_2026_1_160.msi
 
 #### deep-symmetry-beat-link-trigger-preview
 
@@ -17202,7 +17211,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `differentai-openwork.yml`
-- **URL**: https://github.com/different-ai/openwork/releases/download/v0.4.2/openwork-desktop-windows-x64.msi
+- **URL**: https://github.com/different-ai/openwork/releases/download/v0.8.5/openwork-desktop-windows-x64.msi
 
 #### dig-pwautologin
 
@@ -19029,7 +19038,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `eclipsefoundation-mosquitto.yml`
-- **URL**: https://mosquitto.org/files/binary/win64/mosquitto-2.0.9a-install-windows-x64.exe
+- **URL**: https://mosquitto.org/files/binary/win64/mosquitto-2.1.0-install-windows-x64.exe
 
 #### eclipsefoundation-sumo
 
@@ -24924,7 +24933,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `haiying-aionui.yml`
-- **URL**: https://github.com/iOfficeAI/AionUi/releases/download/v1.7.8/AionUi-1.7.8-win-x64.exe
+- **URL**: https://github.com/iOfficeAI/AionUi/releases/download/v1.7.9/AionUi-1.7.9-win-x64.exe
 
 #### hakuneko-hakuneko-nightly
 
@@ -29028,7 +29037,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-pycharm-professional-eap.yml`
-- **URL**: https://download.jetbrains.com/python/pycharm-253.28294.166.exe
+- **URL**: https://download.jetbrains.com/python/pycharm-261.17801.91.exe
 
 #### jetbrains-pycharm-professional
 
@@ -30243,7 +30252,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-dolphin.yml`
-- **URL**: https://cdn.kde.org/ci-builds/system/dolphin/release-25.12/windows/dolphin-release_25.12-7022-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/system/dolphin/release-25.12/windows/dolphin-release_25.12-7031-windows-cl-msvc2022-x86_64.exe
 
 #### kde-elisa
 
@@ -30414,7 +30423,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kbounce.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kbounce/master/windows/kbounce-master-806-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kbounce/master/windows/kbounce-master-807-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kbreakout
 
@@ -30765,7 +30774,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-lokalize.yml`
-- **URL**: https://cdn.kde.org/ci-builds/sdk/lokalize/release-25.12/windows/lokalize-release_25.12-2548-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/sdk/lokalize/release-25.12/windows/lokalize-release_25.12-2558-windows-cl-msvc2022-x86_64.exe
 
 #### kde-lskat
 
@@ -32880,7 +32889,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lobehub-lobehub.yml`
-- **URL**: https://github.com/lobehub/lobehub/releases/download/v2.0.9/LobeHub-2.0.9-setup.exe
+- **URL**: https://github.com/lobehub/lobehub/releases/download/v2.1.3/LobeHub-2.1.3-setup.exe
 
 #### localsend-localsend
 
@@ -37524,7 +37533,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mongodb-mongodbatlascli.yml`
-- **URL**: https://fastdl.mongodb.org/mongocli/mongodb-atlas-cli_1.51.1_windows_x86_64.msi
+- **URL**: https://fastdl.mongodb.org/mongocli/mongodb-atlas-cli_1.51.2_windows_x86_64.msi
 
 #### mongodb-mongodbcli
 
@@ -48657,7 +48666,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `profullstack-pairux.yml`
-- **URL**: https://github.com/profullstack/pairux.com/releases/download/v0.5.1/PairUX.Setup.0.5.1.exe
+- **URL**: https://github.com/profullstack/pairux.com/releases/download/v0.5.2/PairUX.Setup.0.5.2.exe
 
 #### prog-progdvb-free
 
@@ -60339,7 +60348,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `unikeen-sjmcl.yml`
-- **URL**: https://mc.sjtu.cn/sjmcl/releases/SJMCL_0.8.0_windows_x86_64_setup.exe
+- **URL**: https://mc.sjtu.cn/sjmcl/releases/SJMCL_0.8.1_windows_x86_64_setup.exe
 
 #### unipro-ugene
 
@@ -62823,7 +62832,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wjz-p-tft-hextech-helper.yml`
-- **URL**: https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.2.0/tft-hextech-helper-1.2.0-setup.exe
+- **URL**: https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.2.1/tft-hextech-helper-1.2.1-setup.exe
 
 #### wk-wkradar
 
@@ -64947,7 +64956,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ztools-ztools.yml`
-- **URL**: https://github.com/ZToolsCenter/ZTools/releases/download/v1.3.1/ZTools-1.3.1-win-x64-setup.exe
+- **URL**: https://github.com/ZToolsCenter/ZTools/releases/download/v1.3.3/ZTools-1.3.3-win-x64-setup.exe
 
 #### zugferdcommunity-qubaviewer
 
