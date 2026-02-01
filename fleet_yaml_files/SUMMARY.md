@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-02-01 06:16:54 UTC
+Generated on: 2026-02-01 18:06:36 UTC
 
 ## Summary
 
-Total entries processed: 7234
+Total entries processed: 7233
 - macOS files: 383
-- Windows files: 6851
+- Windows files: 6850
 
 ## Generated Files
 
@@ -12243,7 +12243,7 @@ Total entries processed: 7234
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bshuzhang-pplink.yml`
-- **URL**: https://www.ppzhilian.com/download/win/PP直连%20Setup%2016.0.0.exe
+- **URL**: https://www.ppzhilian.com/download/win/PP直连%20Setup%2016.0.1.exe
 
 #### btargac-excel-parser-processor
 
@@ -14574,7 +14574,7 @@ Total entries processed: 7234
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `codexu-notegen.yml`
-- **URL**: https://github.com/codexu/note-gen/releases/download/note-gen-v0.25.3/NoteGen_0.25.3_x64-setup.exe
+- **URL**: https://github.com/codexu/note-gen/releases/download/note-gen-v0.25.4/NoteGen_0.25.4_x64-setup.exe
 
 #### codice-plasticscm-cloudedition
 
@@ -18372,7 +18372,7 @@ Total entries processed: 7234
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `duckstudio-sundry.yml`
-- **URL**: https://github.com/DuckDuckStudio/Sundry/releases/download/1.6.3/Sundry_Setup.exe
+- **URL**: https://github.com/DuckDuckStudio/Sundry/releases/download/1.6.4/Sundry_Setup.exe
 
 #### dukus-digicamcontrol
 
@@ -24933,7 +24933,7 @@ Total entries processed: 7234
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `haiying-aionui.yml`
-- **URL**: https://github.com/iOfficeAI/AionUi/releases/download/v1.7.9/AionUi-1.7.9-win-x64.exe
+- **URL**: https://github.com/iOfficeAI/AionUi/releases/download/v1.8.1/AionUi-1.8.1-win-x64.exe
 
 #### hakuneko-hakuneko-nightly
 
@@ -26922,7 +26922,7 @@ Total entries processed: 7234
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `imputnet-helium.yml`
-- **URL**: https://github.com/imputnet/helium-windows/releases/download/0.8.3.1/helium_0.8.3.1_x64-installer.exe
+- **URL**: https://github.com/imputnet/helium-windows/releases/download/0.8.4.1/helium_0.8.4.1_x64-installer.exe
 
 #### indigobyte-drexplain
 
@@ -30261,7 +30261,7 @@ Total entries processed: 7234
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-elisa.yml`
-- **URL**: https://cdn.kde.org/ci-builds/multimedia/elisa/master/windows/elisa-master-4269-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/multimedia/elisa/master/windows/elisa-master-4278-windows-cl-msvc2022-x86_64.exe
 
 #### kde-falkon
 
@@ -30297,7 +30297,7 @@ Total entries processed: 7234
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-glaxnimate.yml`
-- **URL**: https://cdn.kde.org/ci-builds/graphics/glaxnimate/release-0.6/windows/glaxnimate-release_0.6-2892-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/graphics/glaxnimate/release-0.6/windows/glaxnimate-release_0.6-3048-windows-cl-msvc2022-x86_64.exe
 
 #### kde-granatier
 
@@ -36912,7 +36912,7 @@ Total entries processed: 7234
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mikefarah-yq.yml`
-- **URL**: https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_windows_amd64.exe
+- **URL**: https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_windows_amd64.exe
 
 #### mikf-gallery-dl-nightly
 
@@ -42197,15 +42197,6 @@ Total entries processed: 7234
 - **File**: `mvdan-shfmt.yml`
 - **URL**: https://github.com/mvdan/sh/releases/download/v3.9.0/shfmt_v3.9.0_windows_amd64.exe
 
-#### mycloudgame-airgame
-
-- **Source**: winget
-- **Name**: mycloudgame-airgame
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `mycloudgame-airgame.yml`
-- **URL**: https://us-west.mycloudgame.com/download/AirGame-1.7.7-x64-Setup.exe
-
 #### mydehq-autotitle
 
 - **Source**: winget
@@ -42213,7 +42204,7 @@ Total entries processed: 7234
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mydehq-autotitle.yml`
-- **URL**: https://github.com/mydehq/autotitle/releases/download/v1.2.1/autotitle-windows-amd64.exe
+- **URL**: https://github.com/mydehq/autotitle/releases/download/v1.5.0/autotitle-windows-amd64.exe
 
 #### mypaint-mypaint
 
@@ -42825,7 +42816,7 @@ Total entries processed: 7234
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `netbird-netbird.yml`
-- **URL**: https://github.com/netbirdio/netbird/releases/download/v0.64.3/netbird_installer_0.64.3_windows_amd64.msi
+- **URL**: https://github.com/netbirdio/netbird/releases/download/v0.64.4/netbird_installer_0.64.4_windows_amd64.msi
 
 #### netease-cloudmusic
 
@@ -47298,7 +47289,7 @@ Total entries processed: 7234
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `phoner-phonerlite.yml`
-- **URL**: https://www.phoner.de/PhonerLiteSetup64_336.exe
+- **URL**: https://www.phoner.de/PhonerLiteSetup64_337.exe
 
 #### photonicstul-plask
 
@@ -59340,7 +59331,7 @@ Total entries processed: 7234
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tominlab-wonderpen.yml`
-- **URL**: https://file.tominlab.com/WonderPen/desktop/3.0/WonderPen_win_installer_x64_3.0.6(8242).exe
+- **URL**: https://file.tominlab.com/WonderPen/desktop/3.0/WonderPen_win_installer_x64_3.0.7(8252).exe
 
 #### tomlm-electron-outlook-365
 
