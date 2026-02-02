@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-02-02 06:22:50 UTC
+Generated on: 2026-02-02 18:11:47 UTC
 
 ## Summary
 
-Total entries processed: 7233
+Total entries processed: 7235
 - macOS files: 383
-- Windows files: 6850
+- Windows files: 6852
 
 ## Generated Files
 
@@ -1702,7 +1702,7 @@ Total entries processed: 7233
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `mamp.yml`
-- **URL**: https://downloads.mamp.info/MAMP-PRO/macOS/MAMP-PRO/MAMP-MAMP-PRO-7.3-Apple-chip.pkg
+- **URL**: https://downloads.mamp.info/MAMP-PRO/macOS/MAMP-PRO/MAMP-MAMP-PRO-7.4-Apple-chip.pkg
 
 #### maru-jan
 
@@ -4521,7 +4521,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aelassas-servy.yml`
-- **URL**: https://github.com/aelassas/servy/releases/download/v5.9/servy-5.9-x64-installer.exe
+- **URL**: https://github.com/aelassas/servy/releases/download/v6.0/servy-6.0-x64-installer.exe
 
 #### aerosoft-one
 
@@ -5304,7 +5304,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `alibaba-qianwen.yml`
-- **URL**: https://qianwen-portal-cdn.tongyi.com/native/app/1.2.4/win32/x64/qwenclient_setup_1.2.4.2601061931.exe
+- **URL**: https://qianwen-portal-cdn.tongyi.com/native/app/2.0.0/win32/x64/qwenclient_setup_2.0.0.2601311349.exe
 
 #### alibaba-qoder
 
@@ -7644,7 +7644,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `argoproj-argocd.yml`
-- **URL**: https://github.com/argoproj/argo-cd/releases/download/v3.2.6/argocd-windows-amd64.exe
+- **URL**: https://github.com/argoproj/argo-cd/releases/download/v3.3.0/argocd-windows-amd64.exe
 
 #### argotronic-argusmonitor
 
@@ -11147,6 +11147,15 @@ Total entries processed: 7233
 - **File**: `biomejs-biome.yml`
 - **URL**: https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.3.9/biome-win32-x64.exe
 
+#### biondi53-quickexplorer
+
+- **Source**: winget
+- **Name**: biondi53-quickexplorer
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `biondi53-quickexplorer.yml`
+- **URL**: https://github.com/biondi53/Quick-Explorer/releases/download/v0.1.6/Quick.Explorer_0.1.6_x64_en-US.msi
+
 #### biosilico-essaywriter
 
 - **Source**: winget
@@ -11928,7 +11937,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `br-tje-profitool.yml`
-- **URL**: https://pcstwinget.blob.core.windows.net/pc-servicetool-images/BROTJE_ProfiTool_2025_09_220.msi
+- **URL**: https://pcstwinget.blob.core.windows.net/pc-servicetool-images/BROTJE_ProfiTool_2026_1_160.msi
 
 #### brackets-cont-brackets
 
@@ -12045,7 +12054,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `brightsign-baconnected.yml`
-- **URL**: https://downloads.bsn.cloud/BA%20connected%20Setup%201.72.1.exe
+- **URL**: https://downloads.bsn.cloud/BA%20connected%20Setup%201.76.0.exe
 
 #### brimdata-brim
 
@@ -13314,7 +13323,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `chapp-e-pro.yml`
-- **URL**: https://pcstwinget.blob.core.windows.net/pc-servicetool-images/Chappee_PRO_2025_09_220.msi
+- **URL**: https://pcstwinget.blob.core.windows.net/pc-servicetool-images/Chappee_PRO_2026_1_160.msi
 
 #### chasseurdebots-warsow
 
@@ -15474,7 +15483,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `creality-crealityprint.yml`
-- **URL**: https://github.com/CrealityOfficial/CrealityPrint/releases/download/v7.0.0/CrealityPrint_7.0.0.4127_Release.exe
+- **URL**: https://file-cdn.creality.com/file/29f312503aed0fa78edd18e3d7c5a8b1/CrealityPrint_7.0.1.4212_Release%20(1).exe
 
 #### creality-crealityscan-4
 
@@ -17994,7 +18003,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dongdongbh-mindwtr.yml`
-- **URL**: https://github.com/dongdongbh/Mindwtr/releases/download/v0.6.5/mindwtr_0.6.5_x64-setup.exe
+- **URL**: https://github.com/dongdongbh/Mindwtr/releases/download/v0.6.6/mindwtr_0.6.6_x64-setup.exe
 
 #### donmar-bonsai
 
@@ -19479,7 +19488,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `electerm-electerm.yml`
-- **URL**: https://github.com/electerm/electerm/releases/download/v2.5.6/electerm-2.5.6-win-x64-installer.exe
+- **URL**: https://github.com/electerm/electerm/releases/download/v2.5.9/electerm-2.5.9-win-x64-installer.exe
 
 #### electron-store-electron-app-store
 
@@ -22449,7 +22458,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `funroutine-workflowy.yml`
-- **URL**: https://github.com/workflowy/desktop/releases/download/v4.3.2601291424/WorkFlowy-Installer-4.3.2601291424.exe
+- **URL**: https://github.com/workflowy/desktop/releases/download/v4.3.2602020824/WorkFlowy-Installer-4.3.2602020824.exe
 
 #### fupdec-mediachips
 
@@ -24501,7 +24510,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `granola-granola.yml`
-- **URL**: https://api.granola.ai/v1/check-for-update/Granola-6.529.0-win-x64.exe
+- **URL**: https://api.granola.ai/v1/check-for-update/Granola-7.1.0-win-x64.exe
 
 #### graphcool-graphqlplayground
 
@@ -24915,7 +24924,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `haimacloud-haimacloud.yml`
-- **URL**: https://pc-cos.haimacloud.com/release/haimayun/v2.4.7/windows/海马云电脑-v2.4.7-win32-x64.exe
+- **URL**: https://pc-cos.haimacloud.com/release/y4373/v2.4.8/windows/海马云电脑-v2.4.8-win32-x64.exe
 
 #### hainguyen-mechvibes
 
@@ -28641,7 +28650,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jeffvli-feishin.yml`
-- **URL**: https://github.com/jeffvli/feishin/releases/download/v1.4.0/Feishin-1.4.0-win-x64.exe
+- **URL**: https://github.com/jeffvli/feishin/releases/download/v1.4.2/Feishin-1.4.2-win-x64.exe
 
 #### jeffvli-sonixd
 
@@ -37848,7 +37857,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `movavi-movavivideoeditor.yml`
-- **URL**: https://content.movavi.com/sparkle/ve/win/x86_64/26_7_0/MovaviVideoEditorSetup_26_7_0_x64___19833_release-VEM-26.7_54ac65f_CyprusBuild003_WIN64_setup.exe
+- **URL**: https://content.movavi.com/sparkle/ve/win/x86_64/26_8_0/MovaviVideoEditorSetup_26_8_0_x64___20016_release-VEM-26.8_28ba052_CyprusBuild003_WIN64_setup.exe
 
 #### movavi-movavivideoeditorplus
 
@@ -45921,7 +45930,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `opera-operaair.yml`
-- **URL**: https://get.geo.opera.com/pub/opera_air/126.0.5750.65/win/Opera_Air_126.0.5750.65_Setup_x64.exe
+- **URL**: https://get.geo.opera.com/pub/opera_air/126.0.5750.97/win/Opera_Air_126.0.5750.97_Setup_x64.exe
 
 #### opera-operacrypto
 
@@ -47622,7 +47631,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pixpin-pixpin.yml`
-- **URL**: https://download.pixpinapp.com/PixPin_cn_zh-cn_2.4.9.1.exe
+- **URL**: https://download.pixpinapp.com/PixPin_cn_zh-cn_2.4.9.6.exe
 
 #### pizi-scrcpygui
 
@@ -48927,7 +48936,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `psyche-kelivo.yml`
-- **URL**: https://github.com/Chevey339/kelivo/releases/download/v1.1.6/Kelivo_windows_1.1.6+23_setup.exe
+- **URL**: https://github.com/Chevey339/kelivo/releases/download/v1.1.7/Kelivo_windows_1.1.7+24_setup.exe
 
 #### ptmrio-phrasevault
 
@@ -50682,7 +50691,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `reqable-reqable.yml`
-- **URL**: https://github.com/reqable/reqable-app/releases/download/3.0.37/reqable-app-windows-x86_64.exe
+- **URL**: https://github.com/reqable/reqable-app/releases/download/3.0.38/reqable-app-windows-x86_64.exe
 
 #### reqwey-ollamate
 
@@ -50718,7 +50727,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `resolume-avenue.yml`
-- **URL**: https://dd5sgwxv3xok.cloudfront.net/Resolume_Avenue_7_23_2_rev_51094_Installer.exe
+- **URL**: https://dd5sgwxv3xok.cloudfront.net/Resolume_Avenue_7_24_0_rev_59769_Installer.exe
 
 #### responsively-responsivelyapp
 
@@ -51429,7 +51438,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rockinchaos-shiru.yml`
-- **URL**: https://github.com/RockinChaos/Shiru/releases/download/v6.4.8/win-Shiru-v6.4.8-installer.exe
+- **URL**: https://github.com/RockinChaos/Shiru/releases/download/v6.5.0/win-Shiru-v6.5.0-installer.exe
 
 #### rocksdanister-livelywallpaper
 
@@ -53212,6 +53221,15 @@ Total entries processed: 7233
 - **Version**: 
 - **File**: `seonglae-screencast.yml`
 - **URL**: https://github.com/seonglae/screencast/releases/download/1.0.3/Screencast.exe
+
+#### sergeyfilippov-registryfinder
+
+- **Source**: winget
+- **Name**: sergeyfilippov-registryfinder
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `sergeyfilippov-registryfinder.yml`
+- **URL**: https://registry-finder.com/bin/2.61.1.0/RegistryFinderSetup2.61.1.exe
 
 #### sergeyserkov-tagscanner
 
@@ -55245,7 +55263,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `squidowl-halloy.yml`
-- **URL**: https://github.com/squidowl/halloy/releases/download/2026.1/halloy-installer.msi
+- **URL**: https://github.com/squidowl/halloy/releases/download/2026.2/halloy-installer.msi
 
 #### squirreldisk-squirreldisk
 
@@ -59862,7 +59880,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tritiumlegal-tritium.yml`
-- **URL**: https://tritium.legal/static/releases/tritium.0.2.25.msi
+- **URL**: https://tritium.legal/static/releases/tritium.0.2.26.msi
 
 #### trivia-bot-apps-trivia-desktop
 
@@ -64704,7 +64722,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zevnda-steamgameidler.yml`
-- **URL**: https://github.com/zevnda/steam-game-idler/releases/download/2.5.9/Steam.Game.Idler_2.5.9_x64-setup.exe
+- **URL**: https://github.com/zevnda/steam-game-idler/releases/download/3.0.0/Steam.Game.Idler_3.0.0_x64-setup.exe
 
 #### zhanglun-lettura
 
@@ -64749,7 +64767,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zhipuai-autoglm.yml`
-- **URL**: https://autoglm.aminer.cn/autotyper/updates/AutoGLM_win32_x64_1.6.0.exe
+- **URL**: https://autoglm.aminer.cn/autotyper/updates/AutoGLM_win32_x64_1.6.2.exe
 
 #### zhipuai-chatglm
 
