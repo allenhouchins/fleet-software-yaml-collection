@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-02-01 18:06:36 UTC
+Generated on: 2026-02-02 06:22:50 UTC
 
 ## Summary
 
@@ -7293,7 +7293,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `anysphere-cursor.yml`
-- **URL**: https://downloads.cursor.com/production/618c607a249dd7fd2ffc662c6531143833bebd44/win32/x64/user-setup/CursorUserSetup-x64-2.4.22.exe
+- **URL**: https://downloads.cursor.com/production/4f2b772756b8f609e1354b3063de282ccbe7a69b/win32/x64/user-setup/CursorUserSetup-x64-2.4.27.exe
 
 #### apache-directorystudio
 
@@ -7797,7 +7797,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `artemchepurnyi-keyguard.yml`
-- **URL**: https://github.com/AChep/keyguard-app/releases/download/r20260125.1/Keyguard-2.3.3.msi
+- **URL**: https://github.com/AChep/keyguard-app/releases/download/r20260201/Keyguard-2.3.4.msi
 
 #### artempyanykh-marksman
 
@@ -11343,7 +11343,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bitvise-ssh-client.yml`
-- **URL**: https://dl.bitvise.com/BvSshClient-956.exe
+- **URL**: https://dl.bitvise.com/BvSshClient-957.exe
 
 #### bitvise-ssh-server
 
@@ -11352,7 +11352,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bitvise-ssh-server.yml`
-- **URL**: https://dl.bitvise.com/BvSshServer-956.exe
+- **URL**: https://dl.bitvise.com/BvSshServer-957.exe
 
 #### bitwarden-bitwarden
 
@@ -11658,7 +11658,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bluefish-bluefish.yml`
-- **URL**: https://www.bennewitz.com/bluefish/stable/binaries/windows_x64/Bluefish%202.2.19%20Setup.exe
+- **URL**: https://www.bennewitz.com/bluefish/stable/binaries/windows_x64/Bluefish%202.4.0%20Setup.exe
 
 #### bluejteam-bluej
 
@@ -13431,7 +13431,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `chen08209-flclash.yml`
-- **URL**: https://github.com/chen08209/FlClash/releases/download/v0.8.91/FlClash-0.8.91-windows-amd64-setup.exe
+- **URL**: https://github.com/chen08209/FlClash/releases/download/v0.8.92/FlClash-0.8.92-windows-amd64-setup.exe
 
 #### chenqingyu-bf
 
@@ -19479,7 +19479,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `electerm-electerm.yml`
-- **URL**: https://github.com/electerm/electerm/releases/download/v2.4.38/electerm-2.4.38-win-x64-installer.exe
+- **URL**: https://github.com/electerm/electerm/releases/download/v2.5.6/electerm-2.5.6-win-x64-installer.exe
 
 #### electron-store-electron-app-store
 
@@ -28641,7 +28641,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jeffvli-feishin.yml`
-- **URL**: https://github.com/jeffvli/feishin/releases/download/v1.3.0/Feishin-1.3.0-win-x64.exe
+- **URL**: https://github.com/jeffvli/feishin/releases/download/v1.4.0/Feishin-1.4.0-win-x64.exe
 
 #### jeffvli-sonixd
 
@@ -30297,7 +30297,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-glaxnimate.yml`
-- **URL**: https://cdn.kde.org/ci-builds/graphics/glaxnimate/release-0.6/windows/glaxnimate-release_0.6-3048-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/graphics/glaxnimate/release-0.6/windows/glaxnimate-release_0.6-3052-windows-cl-msvc2022-x86_64.exe
 
 #### kde-granatier
 
@@ -31215,7 +31215,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kindness-kismet-stelliberty.yml`
-- **URL**: https://github.com/Kindness-Kismet/Stelliberty/releases/download/v1.2.222/Stelliberty-v1.2.222-windows-x64-setup.exe
+- **URL**: https://github.com/Kindness-Kismet/Stelliberty/releases/download/v1.2.255/Stelliberty-v1.2.255-windows-x64-setup.exe
 
 #### kingsoft-kmeeting
 
@@ -45003,7 +45003,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `oncue-oncue.yml`
-- **URL**: https://download.oncuetech.com/oncue/setup/OnCue-4.5.1265-win-x64-setup.exe
+- **URL**: https://download.oncuetech.com/oncue/setup/OnCue-4.5.1278-win-x64-setup.exe
 
 #### ondrejsalplachta-advancedlogviewer
 
@@ -49962,7 +49962,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rakudo-rakudo-star.yml`
-- **URL**: https://rakudo.org/dl/star/rakudo-star-2025.12-01-win-x86_64-msvc.msi
+- **URL**: https://rakudo.org/dl/star/rakudo-star-2026.01-01-win-x86_64-msvc.msi
 
 #### rakudo-rakudo
 
@@ -52122,7 +52122,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `s3drive-s3drive.yml`
-- **URL**: https://github.com/s3drive/windows-app/releases/download/1.16.2/s3drive-win-x64.exe
+- **URL**: https://github.com/s3drive/windows-app/releases/download/1.16.4/s3drive-win-x64.exe
 
 #### s8sachin-subtitler
 
@@ -55938,7 +55938,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `stirlingtools-stirlingpdf.yml`
-- **URL**: https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v2.4.2/Stirling-PDF-windows-x86_64.msi
+- **URL**: https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v2.4.3/Stirling-PDF-windows-x86_64.msi
 
 #### stnkl-everythingtoolbar-beta
 
@@ -59394,7 +59394,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tooyi-ishell.yml`
-- **URL**: https://ishell-down.oss-cn-beijing.aliyuncs.com/ishell_pro_windows_3.0.2.exe
+- **URL**: https://ishell-down.oss-cn-beijing.aliyuncs.com/ishellpro_3.0.3_x64-setup.exe
 
 #### topalasoftwaresolutions-siw
 
@@ -64344,7 +64344,7 @@ Total entries processed: 7233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yt-dlp-yt-dlp-nightly.yml`
-- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2026.01.30.233459/yt-dlp.exe
+- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2026.01.31.233334/yt-dlp.exe
 
 #### yt-dlp-yt-dlp
 
