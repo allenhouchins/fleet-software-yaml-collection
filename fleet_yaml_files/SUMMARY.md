@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-02-03 06:17:06 UTC
+Generated on: 2026-02-03 18:18:25 UTC
 
 ## Summary
 
-Total entries processed: 7238
+Total entries processed: 7239
 - macOS files: 383
-- Windows files: 6855
+- Windows files: 6856
 
 ## Generated Files
 
@@ -2980,7 +2980,7 @@ Total entries processed: 7238
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `teleport-suite.yml`
-- **URL**: https://cdn.teleport.dev/teleport-18.6.5.pkg
+- **URL**: https://cdn.teleport.dev/teleport-18.6.6.pkg
 
 #### temurin-11
 
@@ -4521,7 +4521,7 @@ Total entries processed: 7238
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aelassas-servy.yml`
-- **URL**: https://github.com/aelassas/servy/releases/download/v6.0/servy-6.0-x64-installer.exe
+- **URL**: https://github.com/aelassas/servy/releases/download/v6.1/servy-6.1-x64-installer.exe
 
 #### aerosoft-one
 
@@ -4782,7 +4782,7 @@ Total entries processed: 7238
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aiclientproxy-proxycast.yml`
-- **URL**: https://github.com/aiclientproxy/proxycast/releases/download/v0.50.0/ProxyCast_0.50.0_x64-setup.exe
+- **URL**: https://github.com/aiclientproxy/proxycast/releases/download/v0.53.0/ProxyCast_0.53.0_x64-setup.exe
 
 #### aignesberger-websitewatcher
 
@@ -5313,7 +5313,7 @@ Total entries processed: 7238
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `alibaba-qoder.yml`
-- **URL**: https://qoder-ide.oss-accelerate.aliyuncs.com/release/0.3.5/QoderUserSetup-x64.exe
+- **URL**: https://qoder-ide.oss-accelerate.aliyuncs.com/release/0.4.1/QoderUserSetup-x64.exe
 
 #### alibaba-quark
 
@@ -11136,7 +11136,7 @@ Total entries processed: 7238
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `binjr-core-x64.yml`
-- **URL**: https://github.com/binjr/binjr/releases/download/v3.27.1/binjr-3.27.1_windows-x86_64.msi
+- **URL**: https://github.com/binjr/binjr/releases/download/v3.28.0/binjr-3.28.0_windows-x86_64.msi
 
 #### biomejs-biome
 
@@ -11434,6 +11434,15 @@ Total entries processed: 7238
 - **Version**: 
 - **File**: `blaadje-todolist.yml`
 - **URL**: https://github.com/Todolist-io/Todolist-releases/releases/download/v0.43.21/Todolist-Setup-0.43.21.exe
+
+#### blankspruce-gersemi
+
+- **Source**: winget
+- **Name**: blankspruce-gersemi
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `blankspruce-gersemi.yml`
+- **URL**: https://github.com/BlankSpruce/gersemi/releases/download/0.25.1/gersemi-windows.exe
 
 #### blastapps-fluentsearch
 
@@ -11973,7 +11982,7 @@ Total entries processed: 7238
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `brave-brave-beta.yml`
-- **URL**: https://github.com/brave/brave-browser/releases/download/v1.87.178/BraveBrowserStandaloneSilentBetaSetup.exe
+- **URL**: https://github.com/brave/brave-browser/releases/download/v1.87.181/BraveBrowserStandaloneSilentBetaSetup.exe
 
 #### brave-brave-dev
 
@@ -11991,7 +12000,7 @@ Total entries processed: 7238
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `brave-brave-nightly.yml`
-- **URL**: https://github.com/brave/brave-browser/releases/download/v1.88.88/BraveBrowserStandaloneSilentNightlySetup.exe
+- **URL**: https://github.com/brave/brave-browser/releases/download/v1.88.91/BraveBrowserStandaloneSilentNightlySetup.exe
 
 #### brave-brave
 
@@ -17256,7 +17265,7 @@ Total entries processed: 7238
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `digidna-imazingprofileeditor.yml`
-- **URL**: https://downloads.imazing.com/windows/iMazing-Profile-Editor/1.8.2/iMazing_Profile_Editor_1.8.2.exe
+- **URL**: https://downloads.imazing.com/windows/iMazing-Profile-Editor/2.0.0/iMazing_Profile_Editor_2.0.0.exe
 
 #### digiexam-digiexam
 
@@ -20046,7 +20055,7 @@ Total entries processed: 7238
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `erez-c137-netspeedtray.yml`
-- **URL**: https://github.com/erez-c137/NetSpeedTray/releases/download/v1.2.3/NetSpeedTray-1.2.3-x64-Setup.exe
+- **URL**: https://github.com/erez-c137/NetSpeedTray/releases/download/v1.2.4/NetSpeedTray-1.2.4-x64-Setup.exe
 
 #### erikaraojo-fintx
 
@@ -20406,7 +20415,7 @@ Total entries processed: 7238
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `evilmartians-lefthook.yml`
-- **URL**: https://github.com/evilmartians/lefthook/releases/download/v2.0.9/lefthook_2.0.9_Windows_x86_64.exe
+- **URL**: https://github.com/evilmartians/lefthook/releases/download/v2.1.0/lefthook_2.1.0_Windows_x86_64.exe
 
 #### evolus-pencil
 
@@ -24573,7 +24582,7 @@ Total entries processed: 7238
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gravitational-teleportconnect.yml`
-- **URL**: https://cdn.teleport.dev/Teleport%20Connect%20Setup-18.6.5.exe
+- **URL**: https://cdn.teleport.dev/Teleport%20Connect%20Setup-18.6.6.exe
 
 #### grayloginc-graylogsidecar
 
@@ -29973,7 +29982,7 @@ Total entries processed: 7238
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kajitsy-emilia.yml`
-- **URL**: https://github.com/Kajitsy/Emilia/releases/download/3.2.0/EmiliaSetup.exe
+- **URL**: https://github.com/Kajitsy/Emilia/releases/download/3.2.1/EmiliaSetup.exe
 
 #### kakao-kakaotalk
 
@@ -30387,7 +30396,7 @@ Total entries processed: 7238
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kasts.yml`
-- **URL**: https://cdn.kde.org/ci-builds/multimedia/kasts/release-25.12/windows/kasts-release_25.12-4166-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/multimedia/kasts/release-25.12/windows/kasts-release_25.12-4196-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kate
 
@@ -30639,7 +30648,7 @@ Total entries processed: 7238
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-konsole.yml`
-- **URL**: https://cdn.kde.org/ci-builds/utilities/konsole/master/windows/konsole-master-4544-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/utilities/konsole/master/windows/konsole-master-4556-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kontact
 
@@ -33312,7 +33321,7 @@ Total entries processed: 7238
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lucidlink-lucidlink.yml`
-- **URL**: https://releases.lucidlink.com/prod/win/lucidlink-3.3.7766-x64.msi
+- **URL**: https://releases.lucidlink.com/prod/win/lucidlink-3.6.7820-x64.msi
 
 #### luculentsystems-bluetoothbatterymonitor
 
@@ -36948,7 +36957,7 @@ Total entries processed: 7238
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mikf-gallery-dl-nightly.yml`
-- **URL**: https://github.com/gdl-org/builds/releases/download/2026.01.31/gallery-dl_windows.exe
+- **URL**: https://github.com/gdl-org/builds/releases/download/2026.02.02/gallery-dl_windows.exe
 
 #### mikrotik-winbox
 
@@ -45525,7 +45534,7 @@ Total entries processed: 7238
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `openjs-nodejs.yml`
-- **URL**: https://nodejs.org/dist/v25.5.0/node-v25.5.0-x64.msi
+- **URL**: https://nodejs.org/dist/v25.6.0/node-v25.6.0-x64.msi
 
 #### openlistteam-openlistdesktop
 
@@ -52257,7 +52266,7 @@ Total entries processed: 7238
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `saladtechnologies-salad.yml`
-- **URL**: https://github.com/SaladTechnologies/salad-applications/releases/download/1.9.8/Salad-1.9.8.exe
+- **URL**: https://github.com/SaladTechnologies/salad-applications/releases/download/1.9.9/Salad-1.9.9.exe
 
 #### salesforce-sfdx-cli
 
@@ -59871,7 +59880,7 @@ Total entries processed: 7238
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `trimble-trimbleconnect.yml`
-- **URL**: https://download.trimble.com/download_manager/getdownload/76184/7252/1b940dc5190d70f4f0710ecaa66403001fb2d7e2e73e9537a9a75300143134ea/TrimbleConnectSetup-1.26.2.713-x64.exe
+- **URL**: https://download.trimble.com/download_manager/getdownload/84624/7252/9e733d2a9718bbbe12e3cb061301c0433c43f5d8b05d97f4e7d44bf6f0cdea80/TrimbleConnectSetup-1.26.3.716-x64.exe
 
 #### trinsic-okapi
 
@@ -64695,7 +64704,7 @@ Total entries processed: 7238
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zenprivacy-zendesktop.yml`
-- **URL**: https://github.com/ZenPrivacy/zen-desktop/releases/download/v0.16.0/Zen-amd64-installer.exe
+- **URL**: https://github.com/ZenPrivacy/zen-desktop/releases/download/v0.17.0/Zen-amd64-installer.exe
 
 #### zentraedi-zspace
 
@@ -64884,7 +64893,7 @@ Total entries processed: 7238
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zoho-mail.yml`
-- **URL**: https://downloads.zohocdn.com/zmail-desktop/windows/zoho-mail-desktop-lite-installer-x64-v1.7.4.exe
+- **URL**: https://downloads.zohocdn.com/zmail-desktop/windows/zoho-mail-desktop-lite-installer-x64-v1.8.0.exe
 
 #### zoho-notebook
 
