@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-02-02 18:11:47 UTC
+Generated on: 2026-02-03 06:17:06 UTC
 
 ## Summary
 
-Total entries processed: 7235
+Total entries processed: 7238
 - macOS files: 383
-- Windows files: 6852
+- Windows files: 6855
 
 ## Generated Files
 
@@ -3313,7 +3313,7 @@ Total entries processed: 7235
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `wireless-workbench.yml`
-- **URL**: https://content-files.shure.com/Software/wireless-workbench/7-7-0/Wireless-Workbench-macOS-7.7.0.pkg
+- **URL**: https://content-files.shure.com/Software/wireless-workbench/7-8-0/Wireless-Workbench-macOS-7.8.0.pkg
 
 #### workspace-one-intelligent-hub
 
@@ -4782,7 +4782,7 @@ Total entries processed: 7235
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aiclientproxy-proxycast.yml`
-- **URL**: https://github.com/aiclientproxy/proxycast/releases/download/v0.48.4/ProxyCast_0.48.3_x64-setup.exe
+- **URL**: https://github.com/aiclientproxy/proxycast/releases/download/v0.50.0/ProxyCast_0.50.0_x64-setup.exe
 
 #### aignesberger-websitewatcher
 
@@ -11991,7 +11991,7 @@ Total entries processed: 7235
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `brave-brave-nightly.yml`
-- **URL**: https://github.com/brave/brave-browser/releases/download/v1.88.82/BraveBrowserStandaloneSilentNightlySetup.exe
+- **URL**: https://github.com/brave/brave-browser/releases/download/v1.88.88/BraveBrowserStandaloneSilentNightlySetup.exe
 
 #### brave-brave
 
@@ -12045,7 +12045,7 @@ Total entries processed: 7235
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bricklink-studio.yml`
-- **URL**: https://studio.download.bricklink.info/Studio2.0/Archive/2.25.11_3/Studio+2.0.exe
+- **URL**: https://studio.download.bricklink.info/Studio2.0/Archive/2.26.1_1/Studio+2.0.exe
 
 #### brightsign-baconnected
 
@@ -12216,7 +12216,7 @@ Total entries processed: 7235
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `brunoleocam-zpl2pdf.yml`
-- **URL**: https://github.com/brunoleocam/ZPL2PDF/releases/download/v3.0.0/ZPL2PDF-Setup-3.0.0.exe
+- **URL**: https://github.com/brunoleocam/ZPL2PDF/releases/download/v3.0.2/ZPL2PDF-Setup-3.0.2.exe
 
 #### brunurd-companion
 
@@ -21216,7 +21216,7 @@ Total entries processed: 7235
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `firedaemon-openssl.yml`
-- **URL**: https://download.firedaemon.com/FireDaemon-OpenSSL/FireDaemon-OpenSSL-x64-3.6.0.exe
+- **URL**: https://download.firedaemon.com/FireDaemon-OpenSSL/FireDaemon-OpenSSL-x64-3.6.1.exe
 
 #### firefox2000000-moonscrapercharteditor
 
@@ -26211,7 +26211,7 @@ Total entries processed: 7235
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hypixelstudios-hytale.yml`
-- **URL**: https://launcher.hytale.com/builds/release/windows/amd64/hytale-launcher-installer-2026.01.29-a86a538.exe
+- **URL**: https://launcher.hytale.com/builds/release/windows/amd64/hytale-launcher-installer-2026.02.02-abc3fcb.exe
 
 #### ia-iawriter
 
@@ -28776,7 +28776,7 @@ Total entries processed: 7235
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-clion-eap.yml`
-- **URL**: https://download.jetbrains.com/cpp/CLion-261.17801.36.exe
+- **URL**: https://download.jetbrains.com/cpp/CLion-261.19799.16.exe
 
 #### jetbrains-clion
 
@@ -28821,7 +28821,7 @@ Total entries processed: 7235
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-dataspell.yml`
-- **URL**: https://download.jetbrains.com/python/dataspell-2025.3.1.exe
+- **URL**: https://download.jetbrains.com/python/dataspell-2025.3.2.exe
 
 #### jetbrains-dotpeek
 
@@ -28893,7 +28893,7 @@ Total entries processed: 7235
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-goland-eap.yml`
-- **URL**: https://download.jetbrains.com/go/goland-261.17801.73.exe
+- **URL**: https://download.jetbrains.com/go/goland-261.19799.18.exe
 
 #### jetbrains-goland
 
@@ -28947,7 +28947,7 @@ Total entries processed: 7235
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-intellijidea-ultimate-eap.yml`
-- **URL**: https://download.jetbrains.com/idea/idea-261.17801.55.exe
+- **URL**: https://download.jetbrains.com/idea/idea-261.19799.20.exe
 
 #### jetbrains-intellijidea-ultimate
 
@@ -29010,7 +29010,7 @@ Total entries processed: 7235
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-phpstorm-eap.yml`
-- **URL**: https://download.jetbrains.com/webide/PhpStorm-261.17801.67.exe
+- **URL**: https://download.jetbrains.com/webide/PhpStorm-261.19799.22.exe
 
 #### jetbrains-phpstorm
 
@@ -29100,7 +29100,7 @@ Total entries processed: 7235
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-rider.yml`
-- **URL**: https://download.jetbrains.com/rider/JetBrains.Rider-2025.3.1.exe
+- **URL**: https://download.jetbrains.com/rider/JetBrains.Rider-2025.3.2.exe
 
 #### jetbrains-rubymine-eap
 
@@ -29127,7 +29127,7 @@ Total entries processed: 7235
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-rustrover-eap.yml`
-- **URL**: https://download.jetbrains.com/rustrover/RustRover-261.17801.65.exe
+- **URL**: https://download.jetbrains.com/rustrover/RustRover-261.19799.17.exe
 
 #### jetbrains-rustrover
 
@@ -29136,7 +29136,7 @@ Total entries processed: 7235
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-rustrover.yml`
-- **URL**: https://download.jetbrains.com/rustrover/RustRover-2025.3.2.exe
+- **URL**: https://download.jetbrains.com/rustrover/RustRover-2025.3.3.exe
 
 #### jetbrains-space
 
@@ -30747,7 +30747,7 @@ Total entries processed: 7235
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-ktimetracker.yml`
-- **URL**: https://cdn.kde.org/ci-builds/pim/ktimetracker/master/windows/ktimetracker-master-459-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/pim/ktimetracker/master/windows/ktimetracker-master-463-windows-cl-msvc2022-x86_64.exe
 
 #### kde-ktuberling
 
@@ -30846,7 +30846,7 @@ Total entries processed: 7235
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-picmi.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/picmi/master/windows/picmi-master-774-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/picmi/master/windows/picmi-master-778-windows-cl-msvc2022-x86_64.exe
 
 #### kde-rkward
 
@@ -31973,6 +31973,15 @@ Total entries processed: 7235
 - **File**: `lando-lando.yml`
 - **URL**: https://github.com/lando/core/releases/download/v3.24.3/lando-win-x64-v3.24.3.exe
 
+#### lanmark-tekfixsupportagent
+
+- **Source**: winget
+- **Name**: lanmark-tekfixsupportagent
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `lanmark-tekfixsupportagent.yml`
+- **URL**: https://github.com/Tekfixai/tekfix-releases/releases/download/v3.1.2/LanmarkTekFixSetup_v3.1.2_Silent.exe
+
 #### lansweeper-lsagent
 
 - **Source**: winget
@@ -32331,7 +32340,7 @@ Total entries processed: 7235
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `levitsky-fontbase.yml`
-- **URL**: https://releases.fontba.se/win/FontBase-2.25.0.exe
+- **URL**: https://releases.fontba.se/win/FontBase-2.25.1.exe
 
 #### levminer-authme
 
@@ -34140,7 +34149,7 @@ Total entries processed: 7235
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mathiassvensson-multicommander.yml`
-- **URL**: https://multicommander.com/files/updates/MultiCommander_x64_(15.7.0.3133).exe
+- **URL**: https://multicommander.com/files/updates/MultiCommander_x64_(15.8.0.3135).exe
 
 #### mathworks-matlabconnector
 
@@ -34978,6 +34987,15 @@ Total entries processed: 7235
 - **Version**: 
 - **File**: `microsoft-azure-arcsetup.yml`
 - **URL**: https://gbl.his.arc.azure.com/azcmagent/latest/arcsetup.exe
+
+#### microsoft-azure-artifactsigningclienttools
+
+- **Source**: winget
+- **Name**: microsoft-azure-artifactsigningclienttools
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `microsoft-azure-artifactsigningclienttools.yml`
+- **URL**: https://download.microsoft.com/download/a3c24ba9-ff1f-444f-b626-eff710f345c3/ArtifactSigningClientTools.msi
 
 #### microsoft-azure-aztfexport
 
@@ -45840,7 +45858,7 @@ Total entries processed: 7235
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `openstreetmap-josm.yml`
-- **URL**: https://josm.openstreetmap.de/download/windows/josm-setup-19439-java21.msi
+- **URL**: https://josm.openstreetmap.de/download/windows/josm-setup-19481-java21.msi
 
 #### openttd-openttd
 
@@ -48846,7 +48864,7 @@ Total entries processed: 7235
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `proton-protonpass.yml`
-- **URL**: https://proton.me/download/pass/windows/ProtonPass_Setup_1.33.5.exe
+- **URL**: https://proton.me/download/pass/windows/ProtonPass_Setup_1.34.1.exe
 
 #### proton-protonvpn
 
@@ -57209,6 +57227,15 @@ Total entries processed: 7235
 - **File**: `taozuhong-kangarooredis.yml`
 - **URL**: https://github.com/dbkangaroo/kangaroo/releases/download/v9.1.1.201/Kangaroo-Redis-9.1.1.201-x86_64.exe
 
+#### taozuhong-kangaroosqlserver
+
+- **Source**: winget
+- **Name**: taozuhong-kangaroosqlserver
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `taozuhong-kangaroosqlserver.yml`
+- **URL**: https://gitcode.com/dbkangaroo/kangaroo/releases/download/v9.1.1.201/Kangaroo-SQLServer-9.1.1.201-x86_64.exe
+
 #### taraksharma-nighthawk
 
 - **Source**: winget
@@ -60420,7 +60447,7 @@ Total entries processed: 7235
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `unity-unity-6000.yml`
-- **URL**: https://download.unity3d.com/download_unity/a1ec4b2f2d19/Windows64EditorInstaller/UnitySetup64-6000.3.5f1.exe
+- **URL**: https://download.unity3d.com/download_unity/bbb010bdb8a3/Windows64EditorInstaller/UnitySetup64-6000.3.6f1.exe
 
 #### unity-unity-cn-2020
 
