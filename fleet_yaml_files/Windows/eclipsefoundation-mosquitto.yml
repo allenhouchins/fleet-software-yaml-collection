@@ -1,4 +1,4 @@
-url: https://mosquitto.org/files/binary/win64/mosquitto-2.1.0-install-windows-x64.exe
+url: https://mosquitto.org/files/binary/win64/mosquitto-2.1.1-install-windows-x64.exe
 automatic_install: false
 self_service: false
 categories: []

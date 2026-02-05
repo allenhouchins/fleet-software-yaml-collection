@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-02-05 06:19:55 UTC
+Generated on: 2026-02-05 18:17:29 UTC
 
 ## Summary
 
@@ -1558,7 +1558,7 @@ Total entries processed: 7245
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `krisp.yml`
-- **URL**: https://cdn.krisp.ai/mp/mn/3.9/mac/Krisp_3.9.4_arm64.pkg
+- **URL**: https://cdn.krisp.ai/mp/mn/3.10/mac/Krisp_3.10.5_arm64.pkg
 
 #### libndi
 
@@ -2953,7 +2953,7 @@ Total entries processed: 7245
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `teamviewer.yml`
-- **URL**: https://dl.teamviewer.com/download/version_15x/update/15.74.3/TeamViewer.pkg
+- **URL**: https://dl.teamviewer.com/download/version_15x/update/15.74.5/TeamViewer.pkg
 
 #### teladocproviderinstaller
 
@@ -3124,7 +3124,7 @@ Total entries processed: 7245
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `unifi-identity-endpoint.yml`
-- **URL**: https://fw-download.ubnt.com/data/uid-identity-standard-desktop-app/c109-macOS-3.5.1-da6a42af-7455-4746-890b-87191309174e.pkg
+- **URL**: https://fw-download.ubnt.com/data/uid-identity-standard-desktop-app/c816-macOS-3.6.0-96918512-1d16-4410-bc24-5d60a514cd52.pkg
 
 #### unifi-identity-enterprise
 
@@ -4521,7 +4521,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aelassas-servy.yml`
-- **URL**: https://github.com/aelassas/servy/releases/download/v6.1/servy-6.1-x64-installer.exe
+- **URL**: https://github.com/aelassas/servy/releases/download/v6.2/servy-6.2-x64-installer.exe
 
 #### aerosoft-one
 
@@ -11982,7 +11982,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `brave-brave-beta.yml`
-- **URL**: https://github.com/brave/brave-browser/releases/download/v1.87.181/BraveBrowserStandaloneSilentBetaSetup.exe
+- **URL**: https://github.com/brave/brave-browser/releases/download/v1.88.101/BraveBrowserStandaloneSilentBetaSetup.exe
 
 #### brave-brave-dev
 
@@ -12504,7 +12504,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bytedance-doubao.yml`
-- **URL**: https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao_pc/1.88.3/Doubao_installer_1.88.3.exe
+- **URL**: https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao_pc/2.0.28/Doubao_installer_2.0.28.exe
 
 #### bytedance-douyin
 
@@ -14322,7 +14322,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cocojojo5213-devjanitor.yml`
-- **URL**: https://github.com/cocojojo5213/Dev-Janitor/releases/download/v2.2.6/Dev.Janitor_2.2.6_x64-setup.exe
+- **URL**: https://github.com/cocojojo5213/Dev-Janitor/releases/download/v2.2.7.2/Dev.Janitor_2.2.9_x64-setup.exe
 
 #### cocos-cocosdashboard
 
@@ -14439,7 +14439,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `codeium-windsurf.yml`
-- **URL**: https://windsurf-stable.codeiumdata.com/win32-x64-user/stable/aed57f62babcea0f44b99113b75e26ff2e8e2f47/WindsurfUserSetup-x64-1.9544.28.exe
+- **URL**: https://windsurf-stable.codeiumdata.com/win32-x64-user/stable/cb270b70c3a55fd43530de48988912a8d9cccb20/WindsurfUserSetup-x64-1.9544.35.exe
 
 #### codelite-codelite
 
@@ -15978,7 +15978,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cyberintelsystems-cicb.yml`
-- **URL**: https://github.com/cyberintelsystems/cicb/releases/download/v2.7.7/CICBv2-Win-v2.7.7.msi
+- **URL**: https://github.com/cyberintelsystems/cicb/releases/download/v2.8.41/CICBv2-Win-v2.8.41.msi
 
 #### cyberscarecrow-cyberscarecrow
 
@@ -18012,7 +18012,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dongdongbh-mindwtr.yml`
-- **URL**: https://github.com/dongdongbh/Mindwtr/releases/download/v0.6.6/mindwtr_0.6.6_x64-setup.exe
+- **URL**: https://github.com/dongdongbh/Mindwtr/releases/download/v0.6.7/mindwtr_0.6.7_x64-setup.exe
 
 #### donmar-bonsai
 
@@ -19056,7 +19056,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `eclipsefoundation-mosquitto.yml`
-- **URL**: https://mosquitto.org/files/binary/win64/mosquitto-2.1.0-install-windows-x64.exe
+- **URL**: https://mosquitto.org/files/binary/win64/mosquitto-2.1.1-install-windows-x64.exe
 
 #### eclipsefoundation-sumo
 
@@ -19173,7 +19173,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `edrawsoft-edrawmax.yml`
-- **URL**: https://download.wondershare.com/cbs_down/edraw-max_64bit_15.0.6_full5371.exe
+- **URL**: https://download.wondershare.com/cbs_down/edraw-max_64bit_15.1.3_full5371.exe
 
 #### edrawsoft-edrawmind-cn
 
@@ -19515,7 +19515,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `electroncommunity-electronfiddle.yml`
-- **URL**: https://github.com/electron/fiddle/releases/download/v0.37.3/electron-fiddle-0.37.3-win32-x64-setup.exe
+- **URL**: https://github.com/electron/fiddle/releases/download/v0.38.0/electron-fiddle-0.38.0-win32-x64-setup.exe
 
 #### electroncommunity-rcedit
 
@@ -19812,7 +19812,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `emurasoft-emeditor.yml`
-- **URL**: https://download.emeditor.info/emed64_25.4.5.msi
+- **URL**: https://download.emeditor.info/emed64_26.0.1.msi
 
 #### enarxproject-enarx
 
@@ -21846,7 +21846,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `flyhunterl-flymd.yml`
-- **URL**: https://github.com/flyhunterl/flymd/releases/download/v1.2.9/flymd_1.2.9_x64-setup.exe
+- **URL**: https://github.com/flyhunterl/flymd/releases/download/v1.3.0/flymd_1.3.0_x64-setup.exe
 
 #### fnmt-configuradorfnmt
 
@@ -22467,7 +22467,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `funroutine-workflowy.yml`
-- **URL**: https://github.com/workflowy/desktop/releases/download/v4.3.2602020824/WorkFlowy-Installer-4.3.2602020824.exe
+- **URL**: https://github.com/workflowy/desktop/releases/download/v4.3.2602051132/WorkFlowy-Installer-4.3.2602051132.exe
 
 #### fupdec-mediachips
 
@@ -24276,7 +24276,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gpac-gpac.yml`
-- **URL**: https://download.tsi.telecom-paristech.fr/gpac/release/2.4/gpac-2.4-rev0-g5d70253a-master-x64.exe
+- **URL**: https://download.tsi.telecom-paristech.fr/gpac/release/26.02/gpac-26.02-rev0-g118e60a9-master-x64.exe
 
 #### gpbeta-saoutils-2
 
@@ -24519,7 +24519,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `granola-granola.yml`
-- **URL**: https://api.granola.ai/v1/check-for-update/Granola-7.6.0-win-x64.exe
+- **URL**: https://api.granola.ai/v1/check-for-update/Granola-7.6.1-win-x64.exe
 
 #### graphcool-graphqlplayground
 
@@ -25779,7 +25779,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hoppscotch-hoppscotch.yml`
-- **URL**: https://github.com/hoppscotch/releases/releases/download/v26.1.0-0/Hoppscotch_win_x64.msi
+- **URL**: https://github.com/hoppscotch/releases/releases/download/v26.1.1-0/Hoppscotch_win_x64.msi
 
 #### horizoneda-horizon-eda
 
@@ -28272,7 +28272,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `janprochazka-dbgate.yml`
-- **URL**: https://github.com/dbgate/dbgate/releases/download/v7.0.1/dbgate-7.0.1-win_x64.exe
+- **URL**: https://github.com/dbgate/dbgate/releases/download/v7.0.3/dbgate-7.0.3-win_x64.exe
 
 #### japplis-antcommander-personal
 
@@ -29631,7 +29631,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jousse-pomodorolm.yml`
-- **URL**: https://github.com/vjousse/pomodorolm/releases/download/app-v0.7.0/pomodorolm_0.7.0_x64_en-US.msi
+- **URL**: https://github.com/vjousse/pomodorolm/releases/download/app-v0.8.0/pomodorolm_0.8.0_x64-setup.exe
 
 #### jpersson77-lgtvcompanion
 
@@ -29784,7 +29784,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `juanjofuchs-ccburn.yml`
-- **URL**: https://github.com/JuanjoFuchs/ccburn/releases/download/v0.3.2/ccburn-0.3.2-windows-x64.exe
+- **URL**: https://github.com/JuanjoFuchs/ccburn/releases/download/v0.4.2/ccburn-0.4.2-windows-x64.exe
 
 #### juanjofuchs-hwinfo-tui
 
@@ -29865,7 +29865,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `junkundi-crossdesk.yml`
-- **URL**: https://github.com/kunkundi/crossdesk/releases/download/v1.2.0-20251230-78c82f7/crossdesk-win-x64-v1.2.0-20251230-78c82f7.exe
+- **URL**: https://github.com/kunkundi/crossdesk/releases/download/v1.2.1-20260205-2e8ce6a/crossdesk-win-x64-v1.2.1-20260205-2e8ce6a.exe
 
 #### jurplel-qview
 
@@ -32115,7 +32115,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lbjlaq-antigravitytools.yml`
-- **URL**: https://github.com/lbjlaq/Antigravity-Manager/releases/download/v4.1.1/Antigravity.Tools_4.1.1_x64-setup.exe
+- **URL**: https://github.com/lbjlaq/Antigravity-Manager/releases/download/v4.1.3/Antigravity.Tools_4.1.3_x64-setup.exe
 
 #### lbry-lbry
 
@@ -32358,7 +32358,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `levitsky-fontbase.yml`
-- **URL**: https://releases.fontba.se/win/FontBase-2.25.1.exe
+- **URL**: https://releases.fontba.se/win/FontBase-2.25.6.exe
 
 #### levminer-authme
 
@@ -34167,7 +34167,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `masterpackager-masterpackagerdev.yml`
-- **URL**: https://www.masterpackager.com/installer/dev/2.0.0/mpdev_self_contained_x64_2.0.0.msi
+- **URL**: https://www.masterpackager.com/installer/dev/2.1.0/mpdev_self_contained_x64_2.1.0.msi
 
 #### mathiassvensson-multicommander
 
@@ -35076,7 +35076,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-azure-cosmosemulator.yml`
-- **URL**: https://cdbemulator-dmhwaeevbhd3e9f8.b02.azurefd.net/msi/pipeline/azure-cosmosdb-emulator-2.14.25-ec34375b.msi
+- **URL**: https://cdbemulator-dmhwaeevbhd3e9f8.b02.azurefd.net/msi/pipeline/azure-cosmosdb-emulator-2.14.26-feca0f8f.msi
 
 #### microsoft-azure-datacli
 
@@ -35157,7 +35157,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-azurecli.yml`
-- **URL**: https://azcliprod.blob.core.windows.net/msi/azure-cli-2.80.0-x64.msi
+- **URL**: https://azcliprod.blob.core.windows.net/msi/azure-cli-2.83.0-x64.msi
 
 #### microsoft-azuredevopsofficeintegration-2019
 
@@ -42537,7 +42537,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nativesoft-nativerest.yml`
-- **URL**: https://nativesoft.com/download/nativerest.3.1.1.installer.exe
+- **URL**: https://nativesoft.com/download/nativerest.3.2.0.installer.exe
 
 #### natthasath-examtimer
 
@@ -43167,7 +43167,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `newrelic-infrastructureagent.yml`
-- **URL**: https://download.newrelic.com/infrastructure_agent/windows/newrelic-infra.1.72.0.msi
+- **URL**: https://download.newrelic.com/infrastructure_agent/windows/newrelic-infra.1.72.2.msi
 
 #### newzenmc-newzenlauncher
 
@@ -45957,7 +45957,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `opera-opera-dev.yml`
-- **URL**: https://get.geo.opera.com/pub/opera-developer/128.0.5790.0/win/Opera_Developer_128.0.5790.0_Setup_x64.exe
+- **URL**: https://get.geo.opera.com/pub/opera-developer/128.0.5799.0/win/Opera_Developer_128.0.5799.0_Setup_x64.exe
 
 #### opera-opera
 
@@ -46110,7 +46110,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `oracle-mysql.yml`
-- **URL**: https://cdn.mysql.com/Downloads/MySQL-8.4/mysql-8.4.6-winx64.msi
+- **URL**: https://cdn.mysql.com/Downloads/MySQL-8.4/mysql-8.4.8-winx64.msi
 
 #### oracle-mysqlshell
 
@@ -50763,7 +50763,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `resolume-arena.yml`
-- **URL**: https://dd5sgwxv3xok.cloudfront.net/Resolume_Arena_7_23_2_rev_51094_Installer.exe
+- **URL**: https://dd5sgwxv3xok.cloudfront.net/Resolume_Arena_7_24_0_rev_59769_Installer.exe
 
 #### resolume-avenue
 
@@ -51825,7 +51825,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ruben2776-picview.yml`
-- **URL**: https://github.com/Ruben2776/PicView/releases/download/4.1.1/Setup-PicView-v4.1.1-win-x64.exe
+- **URL**: https://github.com/Ruben2776/PicView/releases/download/4.1.2/Setup-PicView-v4.1.2-win-x64.exe
 
 #### rubick-rubick
 
@@ -57918,7 +57918,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-coscli.yml`
-- **URL**: https://github.com/tencentyun/coscli/releases/download/v1.0.7/coscli-v1.0.7-windows-386.exe
+- **URL**: https://github.com/tencentyun/coscli/releases/download/v1.0.8/coscli-v1.0.8-windows-386.exe
 
 #### tencent-deskgo
 
@@ -58584,7 +58584,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `thedocumentfoundation-libreoffice-sdk.yml`
-- **URL**: https://downloadarchive.documentfoundation.org/libreoffice/old/25.8.4.2/win/x86_64/LibreOffice_25.8.4.2_Win_x86-64_sdk.msi
+- **URL**: https://downloadarchive.documentfoundation.org/libreoffice/old/26.2.0.3/win/x86_64/LibreOffice_26.2.0.3_Win_x86-64_sdk.msi
 
 #### thedocumentfoundation-libreoffice
 
@@ -61221,7 +61221,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-x264.yml`
-- **URL**: https://artifacts.videolan.org/x264/release-win64/x264-r3204-373697b.exe
+- **URL**: https://artifacts.videolan.org/x264/release-win64/x264-r3222-b35605a.exe
 
 #### viewsonic-airsyncsender
 
@@ -61401,7 +61401,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vivaldi-vivaldi-snapshot.yml`
-- **URL**: https://downloads.vivaldi.com/snapshot/Vivaldi.7.9.3936.3.x64.exe
+- **URL**: https://downloads.vivaldi.com/snapshot/Vivaldi.7.9.3942.3.x64.exe
 
 #### vivaldi-vivaldi
 
@@ -63570,7 +63570,7 @@ Total entries processed: 7245
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wxriw-lyricify-lite.yml`
-- **URL**: https://github.com/WXRIW/Lyricify-App/releases/download/lite-v1.1.6/Lyricify.Lite.Setup.Ver.1.1.6.260128-release.x64.exe
+- **URL**: https://github.com/WXRIW/Lyricify-App/releases/download/lite-v1.1.7/Lyricify.Lite.Setup.Ver.1.1.7.260205-release.x64.exe
 
 #### wxriw-lyricify
 
