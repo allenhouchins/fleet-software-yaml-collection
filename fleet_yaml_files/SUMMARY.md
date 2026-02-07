@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-02-06 18:14:24 UTC
+Generated on: 2026-02-07 06:12:37 UTC
 
 ## Summary
 
-Total entries processed: 7254
+Total entries processed: 7261
 - macOS files: 383
-- Windows files: 6871
+- Windows files: 6878
 
 ## Generated Files
 
@@ -3070,7 +3070,7 @@ Total entries processed: 7254
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `topaz-photo.yml`
-- **URL**: https://downloads.topazlabs.com/deploy/TopazPhoto/1.2.0/TopazPhoto-1.2.0.pkg
+- **URL**: https://downloads.topazlabs.com/deploy/TopazPhoto/1.2.1/TopazPhoto-1.2.1.pkg
 
 #### topaz-video
 
@@ -4791,7 +4791,7 @@ Total entries processed: 7254
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aiclientproxy-proxycast.yml`
-- **URL**: https://github.com/aiclientproxy/proxycast/releases/download/v0.57.0/ProxyCast_0.57.0_x64-setup.exe
+- **URL**: https://github.com/aiclientproxy/proxycast/releases/download/v0.58.0/ProxyCast_0.58.0_x64-setup.exe
 
 #### aignesberger-websitewatcher
 
@@ -5448,7 +5448,7 @@ Total entries processed: 7254
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `alperhan-crossmacro.yml`
-- **URL**: https://github.com/alper-han/CrossMacro/releases/download/v0.9.1/CrossMacro-0.9.1-win-x64.exe
+- **URL**: https://github.com/alper-han/CrossMacro/releases/download/v0.9.5/CrossMacro-0.9.5-win-x64.exe
 
 #### alroviaps-rogoldultimateapp
 
@@ -6717,7 +6717,7 @@ Total entries processed: 7254
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `amir1376-abdownloadmanager.yml`
-- **URL**: https://github.com/amir1376/ab-download-manager/releases/download/v1.8.4/ABDownloadManager_1.8.4_windows_x64.exe
+- **URL**: https://github.com/amir1376/ab-download-manager/releases/download/v1.8.5/ABDownloadManager_1.8.5_windows_x64.exe
 
 #### amn-iconextractor
 
@@ -6744,7 +6744,7 @@ Total entries processed: 7254
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `amn-yasb.yml`
-- **URL**: https://github.com/amnweb/yasb/releases/download/v1.8.7/yasb-1.8.7-x64.msi
+- **URL**: https://github.com/amnweb/yasb/releases/download/v1.8.8/yasb-1.8.8-x64.msi
 
 #### amneziavpn-amneziavpn
 
@@ -12000,7 +12000,7 @@ Total entries processed: 7254
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `brave-brave-nightly.yml`
-- **URL**: https://github.com/brave/brave-browser/releases/download/v1.89.2/BraveBrowserStandaloneSilentNightlySetup.exe
+- **URL**: https://github.com/brave/brave-browser/releases/download/v1.89.6/BraveBrowserStandaloneSilentNightlySetup.exe
 
 #### brave-brave
 
@@ -12504,7 +12504,7 @@ Total entries processed: 7254
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bytedance-doubao.yml`
-- **URL**: https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao_pc/2.0.28/Doubao_installer_2.0.28.exe
+- **URL**: https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao_pc/2.0.29/Doubao_installer_2.0.29.exe
 
 #### bytedance-douyin
 
@@ -17526,7 +17526,7 @@ Total entries processed: 7254
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `discord-discord-canary.yml`
-- **URL**: https://canary.dl2.discordapp.net/distro/app/canary/win/x64/1.0.817/DiscordCanarySetup.exe
+- **URL**: https://canary.dl2.discordapp.net/distro/app/canary/win/x64/1.0.819/DiscordCanarySetup.exe
 
 #### discord-discord-development
 
@@ -19245,7 +19245,7 @@ Total entries processed: 7254
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `eeo-classin.yml`
-- **URL**: https://download.eeo.cn/client/classin_win_install_6.0.5.3871_x64.exe
+- **URL**: https://download.eeo.cn/client/classin_win_install_6.0.5.3911_x64.exe
 
 #### eeo-classinx
 
@@ -24006,7 +24006,7 @@ Total entries processed: 7254
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/ie6lyhu3ks4flmie34nfpc6liq_146.0.7669.0/146.0.7669.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/ac7olbnkqrthjsdi26m6qzm7hi_146.0.7673.0/146.0.7673.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -24528,7 +24528,7 @@ Total entries processed: 7254
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `granola-granola.yml`
-- **URL**: https://api.granola.ai/v1/check-for-update/Granola-7.6.1-win-x64.exe
+- **URL**: https://api.granola.ai/v1/check-for-update/Granola-7.6.2-win-x64.exe
 
 #### graphcool-graphqlplayground
 
@@ -26229,7 +26229,7 @@ Total entries processed: 7254
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hypixelstudios-hytale.yml`
-- **URL**: https://launcher.hytale.com/builds/release/windows/amd64/hytale-launcher-installer-2026.02.03-6e80ea9.exe
+- **URL**: https://launcher.hytale.com/builds/release/windows/amd64/hytale-launcher-installer-2026.02.06-b95ae53.exe
 
 #### ia-iawriter
 
@@ -29010,7 +29010,7 @@ Total entries processed: 7254
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-phpstorm-eap.yml`
-- **URL**: https://download.jetbrains.com/webide/PhpStorm-261.19799.22.exe
+- **URL**: https://download.jetbrains.com/webide/PhpStorm-261.20362.17.exe
 
 #### jetbrains-phpstorm
 
@@ -29091,7 +29091,7 @@ Total entries processed: 7254
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-rider-eap.yml`
-- **URL**: https://download.jetbrains.com/rider/JetBrains.Rider-2026.1-EAP2-261.19799.27.Checked.exe
+- **URL**: https://download.jetbrains.com/rider/JetBrains.Rider-2026.1-EAP3-261.20362.35.Checked.exe
 
 #### jetbrains-rider
 
@@ -29109,7 +29109,7 @@ Total entries processed: 7254
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-rubymine-eap.yml`
-- **URL**: https://download.jetbrains.com/ruby/RubyMine-261.19799.25.exe
+- **URL**: https://download.jetbrains.com/ruby/RubyMine-261.20362.2.exe
 
 #### jetbrains-rubymine
 
@@ -29127,7 +29127,7 @@ Total entries processed: 7254
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-rustrover-eap.yml`
-- **URL**: https://download.jetbrains.com/rustrover/RustRover-261.19799.17.exe
+- **URL**: https://download.jetbrains.com/rustrover/RustRover-261.20362.28.exe
 
 #### jetbrains-rustrover
 
@@ -29172,7 +29172,7 @@ Total entries processed: 7254
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-webstorm-eap.yml`
-- **URL**: https://download.jetbrains.com/webstorm/WebStorm-261.19799.23.exe
+- **URL**: https://download.jetbrains.com/webstorm/WebStorm-261.20362.32.exe
 
 #### jetbrains-webstorm
 
@@ -31298,6 +31298,15 @@ Total entries processed: 7254
 - **File**: `kinooksoftware-inc-visualbuildprofessional.yml`
 - **URL**: https://www.kinook.com/Download/VisBuildProX64Eval.exe
 
+#### kischang-zenssh
+
+- **Source**: winget
+- **Name**: kischang-zenssh
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `kischang-zenssh.yml`
+- **URL**: https://github.com/kisChang/ZenSSH/releases/download/v0.1.0/ZenSSH_0.1.0_windows_x64_setup.exe
+
 #### kitemaker-kitemaker
 
 - **Source**: winget
@@ -31863,7 +31872,7 @@ Total entries processed: 7254
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kwaroran-risuai.yml`
-- **URL**: https://github.com/kwaroran/Risuai/releases/download/v2026.2.60/RisuAI_2026.2.60_x64-setup.exe
+- **URL**: https://github.com/kwaroran/Risuai/releases/download/v2026.2.63/RisuAI_2026.2.63_x64-setup.exe
 
 #### kydronepilot-spaceeye
 
@@ -33159,7 +33168,7 @@ Total entries processed: 7254
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `loom-loom.yml`
-- **URL**: https://cdn.loom.com/desktop-packages/Loom%20Setup%200.330.1.exe
+- **URL**: https://cdn.loom.com/desktop-packages/Loom%20Setup%200.332.0.exe
 
 #### loonghao-msvc-kit
 
@@ -33618,7 +33627,7 @@ Total entries processed: 7254
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `macabacus-macabacus.yml`
-- **URL**: https://downloads.macabacus.com/software/Macabacus-9.8.6.msi
+- **URL**: https://downloads.macabacus.com/software/Macabacus-9.8.7.msi
 
 #### macmillanlearning-iclickercloud
 
@@ -37813,6 +37822,15 @@ Total entries processed: 7254
 - **Version**: 
 - **File**: `mortenn-browserpicker.yml`
 - **URL**: https://github.com/mortenn/BrowserPicker/releases/download/v2.2.4/BrowserPicker.msi
+
+#### mos9527-evbunpack
+
+- **Source**: winget
+- **Name**: mos9527-evbunpack
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `mos9527-evbunpack.yml`
+- **URL**: https://github.com/mos9527/evbunpack/releases/download/0.2.6/evbunpack.exe
 
 #### moshfeu-y2mp3
 
@@ -43401,7 +43419,7 @@ Total entries processed: 7254
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ni-ni-daqmx.yml`
-- **URL**: https://download.ni.com/support/nipkg/products/ni-d/ni-daqmx/25.8/online/ni-daqmx_25.8_online.exe
+- **URL**: https://download.ni.com/support/nipkg/products/ni-d/ni-daqmx/26.0/online/ni-daqmx_26.0_online.exe
 
 #### ni-ni-packagemanager
 
@@ -46551,7 +46569,7 @@ Total entries processed: 7254
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `p-stsoftware-winsshterm.yml`
-- **URL**: https://github.com/WinSSHTerm/WinSSHTerm/releases/download/2.41.6/WinSSHTerm-2.41.6-x64.msi
+- **URL**: https://github.com/WinSSHTerm/WinSSHTerm/releases/download/2.41.7/WinSSHTerm-2.41.7-x64.msi
 
 #### p1nk0-gotype
 
@@ -48046,6 +48064,15 @@ Total entries processed: 7254
 - **Version**: 
 - **File**: `poly-polylens.yml`
 - **URL**: https://swupdate.lens.poly.com/lens-desktop-windows/2.3.1/2.3.1/PolyLens-2.3.1.msi
+
+#### poly-polystudio
+
+- **Source**: winget
+- **Name**: poly-polystudio
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `poly-polystudio.yml`
+- **URL**: https://swupdate.lens.poly.com/lens-desktop-windows/5.0.0.160/0/PolyStudio-5.0.0.160-x64.msi
 
 #### polymc-polymc
 
@@ -53769,7 +53796,7 @@ Total entries processed: 7254
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sidero-omnictl.yml`
-- **URL**: https://github.com/siderolabs/omni/releases/download/v1.4.9/omnictl-windows-amd64.exe
+- **URL**: https://github.com/siderolabs/omni/releases/download/v1.5.0/omnictl-windows-amd64.exe
 
 #### sidero-talosctl
 
@@ -57155,6 +57182,15 @@ Total entries processed: 7254
 - **File**: `tachosys-digicentralauthenticate.yml`
 - **URL**: https://www.prosysdev.com/downloads/Authenticate_1_33.exe
 
+#### tachosys-digiconnect
+
+- **Source**: winget
+- **Name**: tachosys-digiconnect
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `tachosys-digiconnect.yml`
+- **URL**: https://www.prosysdev.com/downloads/setup_digiConnect_5_51.exe
+
 #### tagspaces-tagspaces
 
 - **Source**: winget
@@ -57171,7 +57207,7 @@ Total entries processed: 7254
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `taiizor-sucrosewallpaperengine.yml`
-- **URL**: https://github.com/Taiizor/Sucrose/releases/download/v26.1.4.0/Sucrose_Bundle_.NET_Framework_4.8_x64_26.1.4.0.exe
+- **URL**: https://github.com/Taiizor/Sucrose/releases/download/v26.2.5.0/Sucrose_Bundle_.NET_Framework_4.8_x64_26.2.5.0.exe
 
 #### taiko2k-tauonmusicbox
 
@@ -60600,7 +60636,7 @@ Total entries processed: 7254
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `unity-unity-6000.yml`
-- **URL**: https://download.unity3d.com/download_unity/bbb010bdb8a3/Windows64EditorInstaller/UnitySetup64-6000.3.6f1.exe
+- **URL**: https://download.unity3d.com/download_unity/696ec25a53d1/Windows64EditorInstaller/UnitySetup64-6000.3.7f1.exe
 
 #### unity-unity-cn-2020
 
@@ -60816,7 +60852,7 @@ Total entries processed: 7254
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `urbackup-urbackup-client.yml`
-- **URL**: https://hndl.urbackup.org/Client/2.5.28/UrBackup%20Client%202.5.28.exe
+- **URL**: https://hndl.urbackup.org/Client/2.5.29/UrBackup%20Client%202.5.29.exe
 
 #### urbackup-urbackup-server
 
@@ -61347,7 +61383,7 @@ Total entries processed: 7254
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.2132/gvim_9.1.2132_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.2135/gvim_9.1.2135_x64.exe
 
 #### vim-vim
 
@@ -61392,7 +61428,7 @@ Total entries processed: 7254
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `virtualgl-turbovnc.yml`
-- **URL**: https://github.com/TurboVNC/turbovnc/releases/download/3.2.1/TurboVNC-3.2.1.exe
+- **URL**: https://github.com/TurboVNC/turbovnc/releases/download/3.3/TurboVNC-3.3.exe
 
 #### virtualhere-usbclient
 
@@ -62005,6 +62041,24 @@ Total entries processed: 7254
 - **Version**: 
 - **File**: `vvvv-gamma.yml`
 - **URL**: https://teamcity.vvvv.org/guestAuth/app/rest/builds/id:38413/artifacts/content/vvvv_gamma_6.5_setup.exe
+
+#### vwspython-vuforia-cloud-reco
+
+- **Source**: winget
+- **Name**: vwspython-vuforia-cloud-reco
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `vwspython-vuforia-cloud-reco.yml`
+- **URL**: https://github.com/VWS-Python/vws-cli/releases/download/2026.01.25.1/vuforia-cloud-reco-windows.exe
+
+#### vwspython-vws-cli
+
+- **Source**: winget
+- **Name**: vwspython-vws-cli
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `vwspython-vws-cli.yml`
+- **URL**: https://github.com/VWS-Python/vws-cli/releases/download/2026.01.25.1/vws-windows.exe
 
 #### vysor-vysor
 
@@ -64615,6 +64669,15 @@ Total entries processed: 7254
 - **Version**: 
 - **File**: `yubico-yubikeysmartcardminidriver.yml`
 - **URL**: https://downloads.yubico.com/support/YubiKey-Minidriver-5.0.4.273-x64.msi
+
+#### yubsoft-hashcalculator
+
+- **Source**: winget
+- **Name**: yubsoft-hashcalculator
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `yubsoft-hashcalculator.yml`
+- **URL**: https://download.yubsoft.com/x64/hash.exe
 
 #### yuejing-kocard
 
