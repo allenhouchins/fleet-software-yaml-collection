@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-02-08 06:17:32 UTC
+Generated on: 2026-02-08 18:07:05 UTC
 
 ## Summary
 
@@ -2026,7 +2026,7 @@ Total entries processed: 7261
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `netbeans.yml`
-- **URL**: https://github.com/Friends-of-Apache-NetBeans/netbeans-installers/releases/download/v27-build1/Apache-NetBeans-27-arm64.pkg
+- **URL**: https://github.com/Friends-of-Apache-NetBeans/netbeans-installers/releases/download/v28-build2/Apache-NetBeans-28-arm64.pkg
 
 #### netdownloadhelpercoapp
 
@@ -2764,7 +2764,7 @@ Total entries processed: 7261
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `shutter-encoder.yml`
-- **URL**: https://www.shutterencoder.com/Shutter%20Encoder%2019.8%20Apple%20Silicon.pkg
+- **URL**: https://www.shutterencoder.com/Shutter%20Encoder%2019.9%20Apple%20Silicon.pkg
 
 #### sleep-aid
 
@@ -12288,7 +12288,7 @@ Total entries processed: 7261
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `buchen-portfolio.yml`
-- **URL**: https://github.com/portfolio-performance/portfolio/releases/download/0.81.3/PortfolioPerformance-0.81.3-setup.exe
+- **URL**: https://github.com/portfolio-performance/portfolio/releases/download/0.81.5/PortfolioPerformance-0.81.5-setup.exe
 
 #### buct0r-fullfetch
 
@@ -12504,7 +12504,7 @@ Total entries processed: 7261
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bytedance-doubao.yml`
-- **URL**: https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao_pc/2.0.29/Doubao_installer_2.0.29.exe
+- **URL**: https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao_pc/2.0.30/Doubao_installer_2.0.30.exe
 
 #### bytedance-douyin
 
@@ -13035,7 +13035,7 @@ Total entries processed: 7261
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `catonetworks-catoclient.yml`
-- **URL**: https://clients.catonetworks.com/windows/5.20.4.8411/setup.msi
+- **URL**: https://clients.catonetworks.com/windows/5.21.5.8548/setup.msi
 
 #### catsxp-catsxp
 
@@ -16311,7 +16311,7 @@ Total entries processed: 7261
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dataflare-dataflare.yml`
-- **URL**: https://assets.dataflare.app/release/windows/x86_64/Dataflare-Setup-2.8.5.exe
+- **URL**: https://assets.dataflare.app/release/windows/x86_64/Dataflare-Setup-2.8.6.exe
 
 #### datahammer-hammerpdf
 
@@ -19812,7 +19812,7 @@ Total entries processed: 7261
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `emurasoft-emeditor.yml`
-- **URL**: https://download.emeditor.info/emed64_26.0.1.msi
+- **URL**: https://download.emeditor.info/emed64_26.0.2.msi
 
 #### enarxproject-enarx
 
@@ -46983,7 +46983,7 @@ Total entries processed: 7261
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `paulpacifico-shutterencoder.yml`
-- **URL**: https://www.shutterencoder.com/Shutter%20Encoder%2019.8%20Windows%2064bits.exe
+- **URL**: https://www.shutterencoder.com/old%20versions/Windows/Shutter%20Encoder%2019.8%20Windows%2064bits.exe
 
 #### paulsori-mstreamserver
 
@@ -54300,7 +54300,7 @@ Total entries processed: 7261
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `smartsoft-smartftp.yml`
-- **URL**: https://static.smartftp.com/static/Products/Client/10.0.3308.0/x64/SmartFTP.msi
+- **URL**: https://static.smartftp.com/static/Products/Client/10.0.3309.0/x64/SmartFTP.msi
 
 #### smath-smathstudio-enterprise
 
@@ -63084,7 +63084,7 @@ Total entries processed: 7261
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wjz-p-tft-hextech-helper.yml`
-- **URL**: https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.2.1/tft-hextech-helper-1.2.1-setup.exe
+- **URL**: https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.3.0/tft-hextech-helper-1.3.0-setup.exe
 
 #### wk-wkradar
 
@@ -64002,7 +64002,7 @@ Total entries processed: 7261
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ximilalaxiang-delive.yml`
-- **URL**: https://github.com/XimilalaXiang/DeLive/releases/download/v1.0.11/DeLive-1.0.11-x64.exe
+- **URL**: https://github.com/XimilalaXiang/DeLive/releases/download/v1.1.4/DeLive-1.1.4-x64.exe
 
 #### xinginc-akasakiminato
 
