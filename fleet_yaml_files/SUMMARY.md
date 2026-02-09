@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-02-08 18:07:05 UTC
+Generated on: 2026-02-09 06:23:56 UTC
 
 ## Summary
 
@@ -38361,7 +38361,7 @@ Total entries processed: 7261
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-eo.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b7/win64/eo/Firefox%20Setup%20147.0b7.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b12/win64/eo/Firefox%20Setup%20148.0b12.exe
 
 #### mozilla-firefox-developeredition-es-ar
 
@@ -38370,7 +38370,7 @@ Total entries processed: 7261
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-es-ar.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b7/win64/es-AR/Firefox%20Setup%20147.0b7.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b12/win64/es-AR/Firefox%20Setup%20148.0b12.exe
 
 #### mozilla-firefox-developeredition-es-cl
 
