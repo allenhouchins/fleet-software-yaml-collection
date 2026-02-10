@@ -1,11 +1,11 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-02-10 06:24:51 UTC
+Generated on: 2026-02-10 18:22:01 UTC
 
 ## Summary
 
-Total entries processed: 7266
-- macOS files: 383
+Total entries processed: 7267
+- macOS files: 384
 - Windows files: 6883
 
 ## Generated Files
@@ -1145,6 +1145,15 @@ Total entries processed: 7266
 - **Version**: 
 - **File**: `evercast.yml`
 - **URL**: https://s3.amazonaws.com/files.evercast.us/Evercast.pkg
+
+#### filebot
+
+- **Source**: homebrew/installomator
+- **Name**: filebot
+- **Description**: Generated from Homebrew cask or Installomator script
+- **Version**: 
+- **File**: `filebot.yml`
+- **URL**: https://get.filebot.net/filebot/FileBot_5.2.1/FileBot_5.2.1_arm64.pkg
 
 #### finalshell
 
@@ -3421,7 +3430,7 @@ Total entries processed: 7266
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `zoom-for-it-admins.yml`
-- **URL**: https://cdn.zoom.us/prod/6.7.2.72191/ZoomInstallerIT.pkg
+- **URL**: https://cdn.zoom.us/prod/6.7.5.75246/ZoomInstallerIT.pkg
 
 #### zoom
 
@@ -4791,7 +4800,7 @@ Total entries processed: 7266
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aiclientproxy-proxycast.yml`
-- **URL**: https://github.com/aiclientproxy/proxycast/releases/download/v0.60.0/ProxyCast_0.60.0_x64-setup.exe
+- **URL**: https://github.com/aiclientproxy/proxycast/releases/download/v0.62.0/ProxyCast_0.62.0_x64-setup.exe
 
 #### aignesberger-websitewatcher
 
@@ -6753,7 +6762,7 @@ Total entries processed: 7266
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `amneziavpn-amneziavpn.yml`
-- **URL**: https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.10.0/AmneziaVPN_4.8.10.0_windows_x64.exe
+- **URL**: https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.12.9/AmneziaVPN_4.8.12.9_x64.exe
 
 #### amrdeveloper-fileql
 
@@ -11982,7 +11991,7 @@ Total entries processed: 7266
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `brave-brave-beta.yml`
-- **URL**: https://github.com/brave/brave-browser/releases/download/v1.88.101/BraveBrowserStandaloneSilentBetaSetup.exe
+- **URL**: https://github.com/brave/brave-browser/releases/download/v1.88.104/BraveBrowserStandaloneSilentBetaSetup.exe
 
 #### brave-brave-dev
 
@@ -12747,7 +12756,7 @@ Total entries processed: 7266
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cameronrye-clarissa.yml`
-- **URL**: https://github.com/cameronrye/clarissa/releases/download/v1.4.2/clarissa-windows-x64.exe
+- **URL**: https://github.com/cameronrye/clarissa/releases/download/v1.5.0/clarissa-windows-x64.exe
 
 #### cameronsutter-plottr
 
@@ -14763,7 +14772,7 @@ Total entries processed: 7266
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `columnar-dbc.yml`
-- **URL**: https://github.com/columnar-tech/dbc/releases/download/v0.1.0/dbc-0.1.0-x64.msi
+- **URL**: https://github.com/columnar-tech/dbc/releases/download/v0.2.0/dbc-0.2.0-x64.msi
 
 #### combostrap-doc-exec
 
@@ -17076,7 +17085,7 @@ Total entries processed: 7266
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `devolutions-gateway.yml`
-- **URL**: https://cdn.devolutions.net/download/DevolutionsGateway-x86_64-2025.3.3.0.msi
+- **URL**: https://cdn.devolutions.net/download/DevolutionsGateway-x86_64-2025.3.4.0.msi
 
 #### devolutions-launcher
 
@@ -19173,7 +19182,7 @@ Total entries processed: 7266
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `edrawsoft-edrawmax.yml`
-- **URL**: https://download.wondershare.com/cbs_down/edraw-max_64bit_15.1.3_full5371.exe
+- **URL**: https://download.wondershare.com/cbs_down/edraw-max_64bit_15.1.4_full5371.exe
 
 #### edrawsoft-edrawmind-cn
 
@@ -24492,7 +24501,7 @@ Total entries processed: 7266
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `grafanalabs-k6.yml`
-- **URL**: https://github.com/grafana/k6/releases/download/v1.5.0/k6-v1.5.0-windows-amd64.msi
+- **URL**: https://github.com/grafana/k6/releases/download/v1.6.0/k6-v1.6.0-windows-amd64.msi
 
 #### grain-grain
 
@@ -28920,7 +28929,7 @@ Total entries processed: 7266
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-goland.yml`
-- **URL**: https://download.jetbrains.com/go/goland-2025.3.1.1.exe
+- **URL**: https://download.jetbrains.com/go/goland-2025.3.2.exe
 
 #### jetbrains-hub
 
@@ -30675,7 +30684,7 @@ Total entries processed: 7266
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-konsole.yml`
-- **URL**: https://cdn.kde.org/ci-builds/utilities/konsole/master/windows/konsole-master-4559-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/utilities/konsole/master/windows/konsole-master-4578-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kontact
 
@@ -30855,7 +30864,7 @@ Total entries processed: 7266
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-neochat.yml`
-- **URL**: https://cdn.kde.org/ci-builds/network/neochat/release-25.12/windows/neochat-release_25.12-14324-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/network/neochat/release-25.12/windows/neochat-release_25.12-14393-windows-cl-msvc2022-x86_64.exe
 
 #### kde-okular
 
@@ -37065,7 +37074,7 @@ Total entries processed: 7266
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mikf-gallery-dl-nightly.yml`
-- **URL**: https://github.com/gdl-org/builds/releases/download/2026.02.08/gallery-dl_windows.exe
+- **URL**: https://github.com/gdl-org/builds/releases/download/2026.02.09/gallery-dl_windows.exe
 
 #### mikrotik-winbox
 
@@ -38451,7 +38460,7 @@ Total entries processed: 7266
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-eu.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b12/win64/eu/Firefox%20Setup%20148.0b12.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b13/win64/eu/Firefox%20Setup%20148.0b13.exe
 
 #### mozilla-firefox-developeredition-fa
 
@@ -38469,7 +38478,7 @@ Total entries processed: 7266
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-ff.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b12/win64/ff/Firefox%20Setup%20148.0b12.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b13/win64/ff/Firefox%20Setup%20148.0b13.exe
 
 #### mozilla-firefox-developeredition-fi
 
@@ -38487,7 +38496,7 @@ Total entries processed: 7266
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-fr.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b12/win64/fr/Firefox%20Setup%20148.0b12.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b13/win64/fr/Firefox%20Setup%20148.0b13.exe
 
 #### mozilla-firefox-developeredition-fur
 
@@ -38496,7 +38505,7 @@ Total entries processed: 7266
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-fur.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b12/win64/fur/Firefox%20Setup%20148.0b12.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b13/win64/fur/Firefox%20Setup%20148.0b13.exe
 
 #### mozilla-firefox-developeredition-fy-nl
 
@@ -38505,7 +38514,7 @@ Total entries processed: 7266
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-fy-nl.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b12/win64/fy-NL/Firefox%20Setup%20148.0b12.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b13/win64/fy-NL/Firefox%20Setup%20148.0b13.exe
 
 #### mozilla-firefox-developeredition-ga-ie
 
@@ -38523,7 +38532,7 @@ Total entries processed: 7266
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-gd.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b12/win64/gd/Firefox%20Setup%20148.0b12.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b13/win64/gd/Firefox%20Setup%20148.0b13.exe
 
 #### mozilla-firefox-developeredition-gl
 
@@ -38532,7 +38541,7 @@ Total entries processed: 7266
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-gl.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b12/win64/gl/Firefox%20Setup%20148.0b12.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b13/win64/gl/Firefox%20Setup%20148.0b13.exe
 
 #### mozilla-firefox-developeredition-gn
 
@@ -38559,7 +38568,7 @@ Total entries processed: 7266
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-he.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b12/win64/he/Firefox%20Setup%20148.0b12.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b13/win64/he/Firefox%20Setup%20148.0b13.exe
 
 #### mozilla-firefox-developeredition-hi-in
 
@@ -38568,7 +38577,7 @@ Total entries processed: 7266
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-hi-in.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b12/win64/hi-IN/Firefox%20Setup%20148.0b12.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b13/win64/hi-IN/Firefox%20Setup%20148.0b13.exe
 
 #### mozilla-firefox-developeredition-hr
 
@@ -38586,7 +38595,7 @@ Total entries processed: 7266
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-hsb.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b12/win64/hsb/Firefox%20Setup%20148.0b12.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b13/win64/hsb/Firefox%20Setup%20148.0b13.exe
 
 #### mozilla-firefox-developeredition-hu
 
@@ -38757,7 +38766,7 @@ Total entries processed: 7266
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-ms.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b12/win64/ms/Firefox%20Setup%20148.0b12.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b13/win64/ms/Firefox%20Setup%20148.0b13.exe
 
 #### mozilla-firefox-developeredition-my
 
@@ -45642,7 +45651,7 @@ Total entries processed: 7266
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `openjs-nodejs-lts.yml`
-- **URL**: https://nodejs.org/dist/v24.13.0/node-v24.13.0-x64.msi
+- **URL**: https://nodejs.org/dist/v24.13.1/node-v24.13.1-x64.msi
 
 #### openjs-nodejs
 
@@ -46083,7 +46092,7 @@ Total entries processed: 7266
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `opera-operaair.yml`
-- **URL**: https://get.geo.opera.com/pub/opera_air/126.0.5750.97/win/Opera_Air_126.0.5750.97_Setup_x64.exe
+- **URL**: https://get.geo.opera.com/pub/opera_air/127.0.5778.38/win/Opera_Air_127.0.5778.38_Setup_x64.exe
 
 #### opera-operacrypto
 
@@ -55173,7 +55182,7 @@ Total entries processed: 7266
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sparrowwallet-sparrow.yml`
-- **URL**: https://github.com/sparrowwallet/sparrow/releases/download/2.3.1/Sparrow-2.3.1.msi
+- **URL**: https://github.com/sparrowwallet/sparrow/releases/download/2.4.0/Sparrow-2.4.0.msi
 
 #### spatie-ray
 
@@ -55353,7 +55362,7 @@ Total entries processed: 7266
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `spotify-spotify.yml`
-- **URL**: https://upgrade.scdn.co/upgrade/client/win32-x86_64/spotify_installer-1.2.83.453.g1fae877b-483.exe
+- **URL**: https://upgrade.scdn.co/upgrade/client/win32-x86_64/spotify_installer-1.2.83.456.g111afea6-521.exe
 
 #### springlobby-springlobby
 
@@ -56253,7 +56262,7 @@ Total entries processed: 7266
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `streamlink-streamlink.yml`
-- **URL**: https://github.com/streamlink/windows-builds/releases/download/8.1.2-1/streamlink-8.1.2-1-py314-x86_64.exe
+- **URL**: https://github.com/streamlink/windows-builds/releases/download/8.2.0-1/streamlink-8.2.0-1-py314-x86_64.exe
 
 #### streamway-obsplugin
 
@@ -57234,7 +57243,7 @@ Total entries processed: 7266
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tagspaces-tagspaces.yml`
-- **URL**: https://github.com/tagspaces/tagspaces/releases/download/v6.9.0/tagspaces-win-x64-6.9.0.exe
+- **URL**: https://github.com/tagspaces/tagspaces/releases/download/v6.9.1/tagspaces-win-x64-6.9.1.exe
 
 #### taiizor-sucrosewallpaperengine
 
@@ -61275,7 +61284,7 @@ Total entries processed: 7266
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `version-fox-vfox.yml`
-- **URL**: https://github.com/version-fox/vfox/releases/download/v1.0.5/vfox_1.0.5_windows_setup_x86_64.exe
+- **URL**: https://github.com/version-fox/vfox/releases/download/v1.0.6/vfox_1.0.6_windows_setup_x86_64.exe
 
 #### veyonsolutions-veyon
 
@@ -63354,7 +63363,7 @@ Total entries processed: 7266
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wondershare-filmora.yml`
-- **URL**: https://download.wondershare.com/cbs_down/filmora_64bit_15.2.8_full846.exe
+- **URL**: https://download.wondershare.com/cbs_down/filmora_64bit_15.2.9_full846.exe
 
 #### wondershare-inclowdz
 
