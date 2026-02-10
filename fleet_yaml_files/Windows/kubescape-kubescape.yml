@@ -1,4 +1,4 @@
-url: https://github.com/kubescape/kubescape/releases/download/v3.0.6/kubescape-windows-latest.exe
+url: https://github.com/kubescape/kubescape/releases/download/v4.0.0/kubescape_4.0.0_windows_amd64.exe
 automatic_install: false
 self_service: false
 categories: []
