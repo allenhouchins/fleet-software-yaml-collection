@@ -1,4 +1,4 @@
-url: https://ota-downloads.nvidia.com/ota/GeForceNOW-release_8449C6.exe
+url: https://github.com/adaptive-ml/adpt/releases/download/v0.4.0/adpt-windows-x86_64.exe
 automatic_install: false
 self_service: false
 categories: []
