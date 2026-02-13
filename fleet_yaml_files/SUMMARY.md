@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-02-13 06:21:06 UTC
+Generated on: 2026-02-13 18:12:12 UTC
 
 ## Summary
 
@@ -1882,7 +1882,7 @@ Total entries processed: 7293
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `middledrag.yml`
-- **URL**: https://github.com/NullPointerDepressiveDisorder/MiddleDrag/releases/download/v1.4.1.4/MiddleDrag-1.4.1.4.pkg
+- **URL**: https://github.com/NullPointerDepressiveDisorder/MiddleDrag/releases/download/v1.4.2/MiddleDrag-1.4.2.pkg
 
 #### miniconda
 
@@ -2368,7 +2368,7 @@ Total entries processed: 7293
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `perimeter81.yml`
-- **URL**: https://static.perimeter81.com/agents/mac/Harmony_SASE_12.3.0.7524.pkg
+- **URL**: https://static.perimeter81.com/agents/mac/Harmony_SASE_12.5.1.8141.pkg
 
 #### philips-hue-sync
 
@@ -3430,7 +3430,7 @@ Total entries processed: 7293
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `zoom-for-it-admins.yml`
-- **URL**: https://cdn.zoom.us/prod/6.7.5.75246/ZoomInstallerIT.pkg
+- **URL**: https://cdn.zoom.us/prod/6.7.6.75444/ZoomInstallerIT.pkg
 
 #### zoom
 
@@ -4548,7 +4548,7 @@ Total entries processed: 7293
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aelassas-servy.yml`
-- **URL**: https://github.com/aelassas/servy/releases/download/v6.4/servy-6.4-x64-installer.exe
+- **URL**: https://github.com/aelassas/servy/releases/download/v6.5/servy-6.5-x64-installer.exe
 
 #### aerosoft-one
 
@@ -4818,7 +4818,7 @@ Total entries processed: 7293
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aiclientproxy-proxycast.yml`
-- **URL**: https://github.com/aiclientproxy/proxycast/releases/download/v0.64.0/ProxyCast_0.64.0_x64-setup.exe
+- **URL**: https://github.com/aiclientproxy/proxycast/releases/download/v0.65.0/ProxyCast_0.64.0_x64-setup.exe
 
 #### aignesberger-websitewatcher
 
@@ -5358,7 +5358,7 @@ Total entries processed: 7293
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `alibaba-qoder.yml`
-- **URL**: https://qoder-ide.oss-accelerate.aliyuncs.com/release/0.4.5/QoderUserSetup-x64.exe
+- **URL**: https://qoder-ide.oss-accelerate.aliyuncs.com/release/0.4.7/QoderUserSetup-x64.exe
 
 #### alibaba-quark
 
@@ -9174,7 +9174,7 @@ Total entries processed: 7293
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `b3log-siyuan.yml`
-- **URL**: https://github.com/siyuan-note/siyuan/releases/download/v3.5.5/siyuan-3.5.5-win.exe
+- **URL**: https://github.com/siyuan-note/siyuan/releases/download/v3.5.6/siyuan-3.5.6-win.exe
 
 #### b4ck-b4ck
 
@@ -9399,7 +9399,7 @@ Total entries processed: 7293
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bandicamcompany-bandicut.yml`
-- **URL**: https://dl.bandicam.com/bandicut/old/bandicut-setup-4.2.5.2562.exe
+- **URL**: https://dl.bandicam.com/bandicut/bandicut-setup.exe
 
 #### bandisoft-bandiview
 
@@ -14763,7 +14763,7 @@ Total entries processed: 7293
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `coldlake-stellarplayer.yml`
-- **URL**: https://player-download.coldlake1.com/player/20260121175719/Stellar_20260121175719_official_stable_full_x64.exe
+- **URL**: https://player-download.coldlake1.com/player/20260209181023/Stellar_20260209181023_official_stable_full_x64.exe
 
 #### coldturkeysoftware-coldturkeyblocker
 
@@ -15609,7 +15609,7 @@ Total entries processed: 7293
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `creativeforce-hue.yml`
-- **URL**: https://download.creativeforce.io/released-files.042024/prod/hue-uxp/win/Hue-5.30.0-win.exe
+- **URL**: https://download.creativeforce.io/released-files.042024/prod/hue-uxp/win/Hue-5.30.1-win.exe
 
 #### creativeforce-kelvin
 
@@ -16842,7 +16842,7 @@ Total entries processed: 7293
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `delinea-thycoticagent.yml`
-- **URL**: https://tmsnuget.thycotic.com/software/Agents/ThycoticAgent_x64_12_0_5289.msi
+- **URL**: https://tmsnuget.thycotic.com/software/Agents/ThycoticAgent_x64_12_0_5290.msi
 
 #### delinea-thycoticapplicationcontrolagent
 
@@ -24096,7 +24096,7 @@ Total entries processed: 7293
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/mzzytpoe537bz4hexck6oee5sm_146.0.7678.0/146.0.7678.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/acpjwue256b4wbzw37oyicvy6leq_147.0.7684.2/147.0.7684.2_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -26274,7 +26274,7 @@ Total entries processed: 7293
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hydrusnetwork-hydrusnetwork.yml`
-- **URL**: https://github.com/hydrusnetwork/hydrus/releases/download/v658/Hydrus.Network.658.-.Windows.-.Installer.exe
+- **URL**: https://github.com/hydrusnetwork/hydrus/releases/download/v659/Hydrus.Network.659.-.Windows.-.Installer.exe
 
 #### hyperion-hyperion
 
@@ -28281,7 +28281,7 @@ Total entries processed: 7293
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jamsoftware-treesize.yml`
-- **URL**: https://downloads.jam-software.de/treesize/archive/v9.6.2.2158/TreeSize-Setup.exe
+- **URL**: https://downloads.jam-software.de/treesize/archive/v9.7.0.2200/TreeSize-Setup.exe
 
 #### jamsoftware-ultrasearch
 
@@ -30540,7 +30540,7 @@ Total entries processed: 7293
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kate.yml`
-- **URL**: https://cdn.kde.org/ci-builds/utilities/kate/release-25.12/windows/kate-release_25.12-11148-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/utilities/kate/release-25.12/windows/kate-release_25.12-11168-windows-cl-msvc2022-x86_64.exe
 
 #### kde-katomic
 
@@ -32340,7 +32340,7 @@ Total entries processed: 7293
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `legeling-prompthub.yml`
-- **URL**: https://github.com/legeling/PromptHub/releases/download/v0.3.9/PromptHub-Setup-0.3.9-x64.exe
+- **URL**: https://github.com/legeling/PromptHub/releases/download/v0.4.0/PromptHub-Setup-0.4.0-x64.exe
 
 #### legithubdetai-animeback
 
@@ -42951,7 +42951,7 @@ Total entries processed: 7293
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `neemb-distill.yml`
-- **URL**: https://dev-distill-releases.s3.us-east-2.amazonaws.com/web-monitor/beta/3.13.6/installer/Distill%20Web%20Monitor-win32-x64-3.13.6-beta.exe
+- **URL**: https://dev-distill-releases.s3.us-east-2.amazonaws.com/web-monitor/beta/4.0.1/installer/Distill%20Web%20Monitor-win32-x64-4.0.1-beta.exe
 
 #### nefarius-hidhide
 
@@ -43392,7 +43392,7 @@ Total entries processed: 7293
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `newrelic-infrastructureagent.yml`
-- **URL**: https://download.newrelic.com/infrastructure_agent/windows/newrelic-infra.1.72.3.msi
+- **URL**: https://download.newrelic.com/infrastructure_agent/windows/newrelic-infra.1.72.4.msi
 
 #### newzenmc-newzenlauncher
 
@@ -43734,7 +43734,7 @@ Total entries processed: 7293
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nickvision-parabolic.yml`
-- **URL**: https://github.com/NickvisionApps/Parabolic/releases/download/2026.2.1/NickvisionParabolicSetup-arm64.exe
+- **URL**: https://github.com/NickvisionApps/Parabolic/releases/download/2026.2.2/NickvisionParabolicSetup.exe
 
 #### nicojeskeit-mastervolumesync
 
@@ -52788,7 +52788,7 @@ Total entries processed: 7293
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sap-btptf.yml`
-- **URL**: https://github.com/SAP/terraform-exporter-btp/releases/download/v1.4.0/btptf_1.4.0_windows_amd64.exe
+- **URL**: https://github.com/SAP/terraform-exporter-btp/releases/download/v1.5.0/btptf_1.5.0_windows_amd64.exe
 
 #### sap-sapmachine-11-jdk
 
@@ -58242,7 +58242,7 @@ Total entries processed: 7293
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tenable-nessusagent.yml`
-- **URL**: https://www.tenable.com/downloads/api/v2/pages/nessus-agents/files/NessusAgent-11.1.1-x64.msi
+- **URL**: https://www.tenable.com/downloads/api/v2/pages/nessus-agents/files/NessusAgent-11.1.2-x64.msi
 
 #### tenacityteam-tenacity
 
@@ -65190,7 +65190,7 @@ Total entries processed: 7293
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zenprivacy-zendesktop.yml`
-- **URL**: https://github.com/ZenPrivacy/zen-desktop/releases/download/v0.17.0/Zen-amd64-installer.exe
+- **URL**: https://github.com/ZenPrivacy/zen-desktop/releases/download/v0.18.0/Zen-amd64-installer.exe
 
 #### zentraedi-zspace
 
