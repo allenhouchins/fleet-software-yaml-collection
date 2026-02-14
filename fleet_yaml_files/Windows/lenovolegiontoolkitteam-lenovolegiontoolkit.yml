@@ -1,4 +1,4 @@
-url: https://s3-eu-west-1.amazonaws.com/hackolade/previous/v8.9.3/Hackolade-win64-setup-signed.exe
+url: https://github.com/LenovoLegionToolkit-Team/LenovoLegionToolkit/releases/download/v2.27.2.0/LenovoLegionToolkitSetup.exe
 automatic_install: false
 self_service: false
 categories: []
