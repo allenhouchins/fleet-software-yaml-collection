@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-02-14 06:13:22 UTC
+Generated on: 2026-02-14 18:06:13 UTC
 
 ## Summary
 
@@ -4818,7 +4818,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aiclientproxy-proxycast.yml`
-- **URL**: https://github.com/aiclientproxy/proxycast/releases/download/v0.65.0/ProxyCast_0.64.0_x64-setup.exe
+- **URL**: https://github.com/aiclientproxy/proxycast/releases/download/v0.66.0/ProxyCast_0.66.0_x64-setup.exe
 
 #### aignesberger-websitewatcher
 
@@ -8346,7 +8346,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `autodesk-autodeskaccess.yml`
-- **URL**: https://emsfs.autodesk.com/utility/access/1/installer/2_21_0_546/AdAccess-installer.exe
+- **URL**: https://emsfs.autodesk.com/utility/access/1/installer/2_21_0_559/AdAccess-installer.exe
 
 #### autodesk-desktopapp
 
@@ -12081,7 +12081,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `brave-brave.yml`
-- **URL**: https://github.com/brave/brave-browser/releases/download/v1.86.148/BraveBrowserStandaloneSilentSetup.exe
+- **URL**: https://github.com/brave/brave-browser/releases/download/v1.87.188/BraveBrowserStandaloneSilentSetup.exe
 
 #### breeze2-dsumanager
 
@@ -14916,7 +14916,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `communicationplatform-max.yml`
-- **URL**: https://download.max.ru/win/release/26.2.0/MAX.msi
+- **URL**: https://download.max.ru/win/release/26.2.2/MAX.msi
 
 #### comodo-comododragon
 
@@ -18480,7 +18480,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `duckstudio-sundry.yml`
-- **URL**: https://github.com/DuckDuckStudio/Sundry/releases/download/1.6.4/Sundry_Setup.exe
+- **URL**: https://github.com/DuckDuckStudio/Sundry/releases/download/1.6.5/Sundry_Setup.exe
 
 #### dukus-digicamcontrol
 
@@ -19299,7 +19299,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `educator-engine.yml`
-- **URL**: https://jlsms-downloads.s3.ap-northeast-1.amazonaws.com/Educator.Engine.Production-1.0.8.20-x64.msi
+- **URL**: https://jlsms-downloads.s3.ap-northeast-1.amazonaws.com/Educator.Engine.Production-1.0.8.21-x64.msi
 
 #### edumips64-edumips64
 
@@ -19434,7 +19434,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `eigent-eigent.yml`
-- **URL**: https://github.com/eigent-ai/eigent/releases/download/v0.0.82/Eigent.Setup.0.0.82.exe
+- **URL**: https://github.com/eigent-ai/eigent/releases/download/v0.0.83/Eigent.Setup.0.0.83.exe
 
 #### ej-technologies-exe4j-9
 
@@ -24114,7 +24114,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/acpjwue256b4wbzw37oyicvy6leq_147.0.7684.2/147.0.7684.2_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/c7enzv7xyethtjr3xzg3phqyoy_147.0.7686.0/147.0.7686.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -28794,7 +28794,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jeffvli-feishin.yml`
-- **URL**: https://github.com/jeffvli/feishin/releases/download/v1.5.0/Feishin-1.5.0-win-x64.exe
+- **URL**: https://github.com/jeffvli/feishin/releases/download/v1.6.0/Feishin-1.6.0-win-x64.exe
 
 #### jeffvli-sonixd
 
@@ -28920,7 +28920,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-clion-eap.yml`
-- **URL**: https://download.jetbrains.com/cpp/CLion-261.20362.8.exe
+- **URL**: https://download.jetbrains.com/cpp/CLion-261.20869.37.exe
 
 #### jetbrains-clion
 
@@ -28938,7 +28938,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-datagrip-eap.yml`
-- **URL**: https://download.jetbrains.com/datagrip/datagrip-253.28294.90.exe
+- **URL**: https://download.jetbrains.com/datagrip/datagrip-261.20869.40.exe
 
 #### jetbrains-datagrip
 
@@ -29037,7 +29037,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-goland-eap.yml`
-- **URL**: https://download.jetbrains.com/go/goland-261.20362.30.exe
+- **URL**: https://download.jetbrains.com/go/goland-261.20869.48.exe
 
 #### jetbrains-goland
 
@@ -29091,7 +29091,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-intellijidea-ultimate-eap.yml`
-- **URL**: https://download.jetbrains.com/idea/idea-261.20362.25.exe
+- **URL**: https://download.jetbrains.com/idea/idea-261.20869.38.exe
 
 #### jetbrains-intellijidea-ultimate
 
@@ -29190,7 +29190,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-pycharm-professional-eap.yml`
-- **URL**: https://download.jetbrains.com/python/pycharm-261.19799.40.exe
+- **URL**: https://download.jetbrains.com/python/pycharm-261.20869.49.exe
 
 #### jetbrains-pycharm-professional
 
@@ -29253,7 +29253,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-rubymine-eap.yml`
-- **URL**: https://download.jetbrains.com/ruby/RubyMine-261.20362.2.exe
+- **URL**: https://download.jetbrains.com/ruby/RubyMine-261.20869.43.exe
 
 #### jetbrains-rubymine
 
@@ -29271,7 +29271,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-rustrover-eap.yml`
-- **URL**: https://download.jetbrains.com/rustrover/RustRover-261.20362.28.exe
+- **URL**: https://download.jetbrains.com/rustrover/RustRover-261.20869.45.exe
 
 #### jetbrains-rustrover
 
@@ -29316,7 +29316,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-webstorm-eap.yml`
-- **URL**: https://download.jetbrains.com/webstorm/WebStorm-261.20362.32.exe
+- **URL**: https://download.jetbrains.com/webstorm/WebStorm-261.20869.44.exe
 
 #### jetbrains-webstorm
 
@@ -29541,7 +29541,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jlc-lceda-pro.yml`
-- **URL**: https://image.lceda.cn/files/lceda-pro-windows-x64-3.2.87.exe
+- **URL**: https://image.lceda.cn/files/lceda-pro-windows-x64-3.2.91.exe
 
 #### jlc-lceda
 
@@ -32502,7 +32502,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lenovolegiontoolkitteam-lenovolegiontoolkit.yml`
-- **URL**: https://github.com/LenovoLegionToolkit-Team/LenovoLegionToolkit/releases/download/v2.27.2.0/LenovoLegionToolkitSetup.exe
+- **URL**: https://github.com/LenovoLegionToolkit-Team/LenovoLegionToolkit/releases/download/v2.27.2.1/LenovoLegionToolkitSetup.exe
 
 #### leonflix-leonflix
 
@@ -33879,7 +33879,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mailbird-mailbird.yml`
-- **URL**: https://download.getmailbird.com/installers/versions/3_0_47/MailbirdSetup.exe
+- **URL**: https://download.getmailbird.com/installers/versions/3_0_49/MailbirdSetup.exe
 
 #### majsoulplus-majsoulplus
 
@@ -35922,7 +35922,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-edge.yml`
-- **URL**: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/2e48a591-04a7-4dd6-8db5-23c6190e5058/MicrosoftEdgeEnterpriseX64.msi
+- **URL**: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e0e65c50-aefd-4612-8e6d-803e4c365065/MicrosoftEdgeEnterpriseX64.msi
 
 #### microsoft-edgewebview2runtime
 
@@ -35931,7 +35931,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-edgewebview2runtime.yml`
-- **URL**: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ba1bb4b1-79ea-47b5-a0e0-967253cd7900/MicrosoftEdgeWebView2RuntimeInstallerX64.exe
+- **URL**: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c09738bf-65db-4625-94c5-74ddd043edb9/MicrosoftEdgeWebView2RuntimeInstallerX64.exe
 
 #### microsoft-etl2pcapng
 
@@ -45345,7 +45345,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `onekey-onekey.yml`
-- **URL**: https://github.com/OneKeyHQ/app-monorepo/releases/download/v5.9.2/OneKey-Wallet-5.9.2-win-x64.exe
+- **URL**: https://github.com/OneKeyHQ/app-monorepo/releases/download/v6.0.0/OneKey-Wallet-6.0.0-win-x64.exe
 
 #### onescript-onescript
 
@@ -47685,7 +47685,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `picguard-picguard-pro.yml`
-- **URL**: https://github.com/picguard/picguard/releases/download/v5.2.1/picguard-pro-5.2.1-windows-x64-en-US.msi
+- **URL**: https://github.com/picguard/picguard/releases/download/v5.3.0/picguard-pro-5.3.0-windows-x64-en-US.msi
 
 #### picguard-picguard
 
@@ -55767,7 +55767,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sst-opencodedesktop.yml`
-- **URL**: https://github.com/anomalyco/opencode/releases/download/v1.1.8/opencode-desktop-windows-x64.exe
+- **URL**: https://github.com/anomalyco/opencode/releases/download/v1.2.1/opencode-desktop-windows-x64.exe
 
 #### stacher-youtube-dl
 
@@ -57909,7 +57909,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `teamsophia-sophiascript.yml`
-- **URL**: https://github.com/farag2/Sophia-Script-for-Windows/releases/download/7.1.0/Sophia.Script.for.Windows.11.v7.1.0_WinGet.exe
+- **URL**: https://github.com/farag2/Sophia-Script-for-Windows/releases/download/7.1.1/Sophia.Script.for.Windows.11.v7.1.1_WinGet.exe
 
 #### teamspeaksystems-teamspeakclient-beta-5
 
@@ -64209,7 +64209,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xiaocang-easydictforwindows.yml`
-- **URL**: https://github.com/xiaocang/easydict_win32/releases/download/v0.4.0/Easydict-v0.4.0-x64-setup.unsigned.exe
+- **URL**: https://github.com/xiaocang/easydict_win32/releases/download/v0.5.0/Easydict-v0.5.0-x64-setup.unsigned.exe
 
 #### xiaomi-miui-
 
@@ -64893,7 +64893,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yt-dlp-yt-dlp-nightly.yml`
-- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2026.02.09.233747/yt-dlp.exe
+- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2026.02.12.233641/yt-dlp.exe
 
 #### yt-dlp-yt-dlp
 
@@ -65505,7 +65505,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ztools-ztools.yml`
-- **URL**: https://github.com/ZToolsCenter/ZTools/releases/download/v2.0.1/ZTools-2.0.1-win-x64-setup.exe
+- **URL**: https://github.com/ZToolsCenter/ZTools/releases/download/v2.0.2/ZTools-2.0.2-win-x64-setup.exe
 
 #### zugferdcommunity-qubaviewer
 
