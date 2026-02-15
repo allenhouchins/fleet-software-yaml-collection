@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-02-15 06:18:01 UTC
+Generated on: 2026-02-15 18:06:40 UTC
 
 ## Summary
 
-Total entries processed: 7295
+Total entries processed: 7296
 - macOS files: 384
-- Windows files: 6911
+- Windows files: 6912
 
 ## Generated Files
 
@@ -4251,7 +4251,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `adamtheturtle-doccmd.yml`
-- **URL**: https://github.com/adamtheturtle/doccmd/releases/download/2026.01.31.3/doccmd-windows.exe
+- **URL**: https://github.com/adamtheturtle/doccmd/releases/download/2026.02.15/doccmd-windows.exe
 
 #### adaptiveml-adpt
 
@@ -4548,7 +4548,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aelassas-servy.yml`
-- **URL**: https://github.com/aelassas/servy/releases/download/v6.6/servy-6.6-x64-installer.exe
+- **URL**: https://github.com/aelassas/servy/releases/download/v6.7/servy-6.7-x64-installer.exe
 
 #### aerosoft-one
 
@@ -7338,7 +7338,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `anysphere-cursor.yml`
-- **URL**: https://downloads.cursor.com/production/f9919bf991f247689f9ead605b5c5a3239a2a794/win32/x64/user-setup/CursorUserSetup-x64-2.4.36.exe
+- **URL**: https://downloads.cursor.com/production/7b9c34466f5c119e93c3e654bb80fe9306b6cc79/win32/x64/user-setup/CursorUserSetup-x64-2.4.37.exe
 
 #### apache-directorystudio
 
@@ -11334,7 +11334,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bitfocus-companion.yml`
-- **URL**: https://s4.bitfocus.io/builds/companion/companion-win64-4.2.3+8775-stable-9badd326db.exe
+- **URL**: https://s4.bitfocus.io/builds/companion/companion-win64-4.2.4+8798-stable-f844bbb4fc.exe
 
 #### bitguardian-bitdriverupdater
 
@@ -12054,7 +12054,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `brave-brave-beta.yml`
-- **URL**: https://github.com/brave/brave-browser/releases/download/v1.88.106/BraveBrowserStandaloneSilentBetaSetup.exe
+- **URL**: https://github.com/brave/brave-browser/releases/download/v1.88.108/BraveBrowserStandaloneSilentBetaSetup.exe
 
 #### brave-brave-dev
 
@@ -12909,7 +12909,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `canva-canva-cn.yml`
-- **URL**: https://desktop-release.canva.cn/Canva%20Setup%201.120.0-cn.exe
+- **URL**: https://desktop-release.canva.cn/Canva%20Setup%201.121.0-cn.exe
 
 #### canva-canva
 
@@ -13125,7 +13125,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `catsxp-catsxp.yml`
-- **URL**: https://catsxp.oss-cn-hongkong.aliyuncs.com/win_x64/catsxp_installer_144_6_2_1.exe
+- **URL**: https://catsxp.oss-cn-hongkong.aliyuncs.com/win_x64/catsxp_installer_145_6_2_2.exe
 
 #### cawa-93-anime-library
 
@@ -17247,7 +17247,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dexperix-ebooktalker.yml`
-- **URL**: https://github.com/DeXP/EbookTalker/releases/download/2.0.1/EbookTalker-2.0.1-Win64-Installer.exe
+- **URL**: https://github.com/DeXP/EbookTalker/releases/download/2.2.0/EbookTalker-2.2.0-Win64-Installer.exe
 
 #### dfrobot-mind-
 
@@ -18930,7 +18930,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `eclipseadoptium-temurin-11-jdk.yml`
-- **URL**: https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.29+7/OpenJDK11U-jdk_x64_windows_hotspot_11.0.29_7.msi
+- **URL**: https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.30+7/OpenJDK11U-jdk_x64_windows_hotspot_11.0.30_7.msi
 
 #### eclipseadoptium-temurin-11-jre
 
@@ -18939,7 +18939,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `eclipseadoptium-temurin-11-jre.yml`
-- **URL**: https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.29+7/OpenJDK11U-jre_x64_windows_hotspot_11.0.29_7.msi
+- **URL**: https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.30+7/OpenJDK11U-jre_x64_windows_hotspot_11.0.30_7.msi
 
 #### eclipseadoptium-temurin-16-jdk
 
@@ -20685,7 +20685,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `f4exb-sdrangel.yml`
-- **URL**: https://github.com/f4exb/sdrangel/releases/download/v7.23.0/sdrangel-7.23.0-win64.exe
+- **URL**: https://github.com/f4exb/sdrangel/releases/download/v7.23.2/sdrangel-7.23.2-win64.exe
 
 #### fabio286-antares
 
@@ -24114,7 +24114,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/c7enzv7xyethtjr3xzg3phqyoy_147.0.7686.0/147.0.7686.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/evkl43lomtmnilbyysesllovmm_147.0.7687.0/147.0.7687.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -24141,7 +24141,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-exe.yml`
-- **URL**: https://dl.google.com/release2/chrome/acqjif3p26wxp6x6biz5fy2dbtsa_145.0.7632.68/145.0.7632.68_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/nrd4up5p2c3leiznhjwhtcjg54_145.0.7632.76/145.0.7632.76_chrome_installer_uncompressed.exe
 
 #### google-chrome
 
@@ -32502,7 +32502,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lenovolegiontoolkitteam-lenovolegiontoolkit.yml`
-- **URL**: https://github.com/LenovoLegionToolkit-Team/LenovoLegionToolkit/releases/download/v2.27.2.1/LenovoLegionToolkitSetup.exe
+- **URL**: https://github.com/LenovoLegionToolkit-Team/LenovoLegionToolkit/releases/download/v2.28.0.0/LenovoLegionToolkitSetup.exe
 
 #### leonflix-leonflix
 
@@ -33025,6 +33025,15 @@ Total entries processed: 7295
 - **Version**: 
 - **File**: `littletijn-spookyview.yml`
 - **URL**: https://github.com/littletijn/spooky-view/releases/download/v1.0.7/SpookyView_1.0.7_x64_Signed_Portable.exe
+
+#### live2d-cubism
+
+- **Source**: winget
+- **Name**: live2d-cubism
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `live2d-cubism.yml`
+- **URL**: https://cubism.live2d.com/editor/bin/Live2D_Cubism_Setup_5.3.00.exe
 
 #### livebook-livebook
 
@@ -36228,7 +36237,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-onedrive.yml`
-- **URL**: https://oneclient.sfx.ms/Win/Installers/26.007.0112.0002/amd64/OneDriveSetup.exe
+- **URL**: https://oneclient.sfx.ms/Win/Installers/26.012.0119.0002/amd64/OneDriveSetup.exe
 
 #### microsoft-openapi-hidi
 
@@ -37200,7 +37209,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mikf-gallery-dl-nightly.yml`
-- **URL**: https://github.com/gdl-org/builds/releases/download/2026.02.12/gallery-dl_windows.exe
+- **URL**: https://github.com/gdl-org/builds/releases/download/2026.02.14/gallery-dl_windows.exe
 
 #### mikrotik-winbox
 
@@ -45354,7 +45363,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `onescript-onescript.yml`
-- **URL**: https://oscript.io/downloads/1_9_3/x64/OneScript-1.9.3-x64.exe
+- **URL**: https://oscript.io/downloads/1_9_4/x64/OneScript-1.9.4-x64.exe
 
 #### onetagger-onetagger
 
@@ -49080,7 +49089,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `projectenv-projectenvcli.yml`
-- **URL**: https://github.com/Project-Env/project-env-cli/releases/download/v3.26.0/cli-3.26.0-windows-amd64-setup.exe
+- **URL**: https://github.com/Project-Env/project-env-cli/releases/download/v3.27.0/cli-3.27.0-windows-amd64-setup.exe
 
 #### projectenv-projectenvshell
 
@@ -51402,7 +51411,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rioarisk-codexmanager.yml`
-- **URL**: https://github.com/RioArisk/codex-auth-manager/releases/download/v0.1.2/Codex.Manager_0.1.2_x64-setup.exe
+- **URL**: https://github.com/RioArisk/codex-auth-manager/releases/download/v0.1.3/Codex.Manager_0.1.3_x64_en-US.msi
 
 #### riok-kreya
 
@@ -51987,7 +51996,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `roxybrowser-roxybrowser.yml`
-- **URL**: https://lumibrowser-hk.oss-cn-hongkong.aliyuncs.com/public/package/app/Windows/64/3.7.1/RoxyBrowser_x64_3.7.1.exe
+- **URL**: https://sgp1.vultrobjects.com/roxybrowseross/public/package/app/Windows/64/3.7.2/RoxyBrowser_x64_3.7.2.exe
 
 #### royalapps-royalserver
 
@@ -52410,7 +52419,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ryanisgood-seconddesk.yml`
-- **URL**: https://github.com/Ryanisgood/SecondDesk/releases/download/v1.2.0/Second.Desk_1.2.0_x64-setup.exe
+- **URL**: https://github.com/Ryanisgood/SecondDesk/releases/download/v1.3.0/SecondDesk-v1.3.0-Windows-Setup.exe
 
 #### ryanvolz-radioconda
 
@@ -60816,7 +60825,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `unibo-alchemist.yml`
-- **URL**: https://github.com/AlchemistSimulator/Alchemist/releases/download/42.4.0/alchemist-42.4.0.msi
+- **URL**: https://github.com/AlchemistSimulator/Alchemist/releases/download/42.4.2/alchemist-42.4.2.msi
 
 #### uniconta-uniconta
 
@@ -62346,7 +62355,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vwspython-vuforia-cloud-reco.yml`
-- **URL**: https://github.com/VWS-Python/vws-cli/releases/download/2026.02.07.2/vuforia-cloud-reco-windows.exe
+- **URL**: https://github.com/VWS-Python/vws-cli/releases/download/2026.02.15.2/vuforia-cloud-reco-windows.exe
 
 #### vwspython-vws-cli
 
@@ -62355,7 +62364,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vwspython-vws-cli.yml`
-- **URL**: https://github.com/VWS-Python/vws-cli/releases/download/2026.02.07.2/vws-windows.exe
+- **URL**: https://github.com/VWS-Python/vws-cli/releases/download/2026.02.15.2/vws-windows.exe
 
 #### vysor-vysor
 
@@ -65262,7 +65271,7 @@ Total entries processed: 7295
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zevnda-steamgameidler.yml`
-- **URL**: https://github.com/zevnda/steam-game-idler/releases/download/4.0.4/Steam.Game.Idler_4.0.4_x64-setup.exe
+- **URL**: https://github.com/zevnda/steam-game-idler/releases/download/4.0.5/Steam.Game.Idler_4.0.5_x64-setup.exe
 
 #### zhanglun-lettura
 
