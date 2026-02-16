@@ -1,4 +1,4 @@
-url: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-1113-windows-cl-msvc2022-x86_64.exe
+url: https://github.com/PowerPlatformToolBox/desktop-app/releases/download/v1.1.2/Power-Platform-ToolBox-1.1.2-x64-win.exe
 automatic_install: false
 self_service: false
 categories: []

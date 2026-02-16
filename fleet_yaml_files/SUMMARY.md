@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-02-15 18:06:40 UTC
+Generated on: 2026-02-16 06:23:00 UTC
 
 ## Summary
 
-Total entries processed: 7296
+Total entries processed: 7297
 - macOS files: 384
-- Windows files: 6912
+- Windows files: 6913
 
 ## Generated Files
 
@@ -4818,7 +4818,7 @@ Total entries processed: 7296
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aiclientproxy-proxycast.yml`
-- **URL**: https://github.com/aiclientproxy/proxycast/releases/download/v0.66.0/ProxyCast_0.66.0_x64-setup.exe
+- **URL**: https://github.com/aiclientproxy/proxycast/releases/download/v0.67.0/ProxyCast_0.67.0_x64-setup.exe
 
 #### aignesberger-websitewatcher
 
@@ -11217,7 +11217,7 @@ Total entries processed: 7296
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `biomejs-biome.yml`
-- **URL**: https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.3.9/biome-win32-x64.exe
+- **URL**: https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.4.0/biome-win32-x64.exe
 
 #### biondi53-quickexplorer
 
@@ -16068,7 +16068,7 @@ Total entries processed: 7296
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cyberintelsystems-cicb.yml`
-- **URL**: https://github.com/cyberintelsystems/cicb/releases/download/v2.9.11.64/CICBv2-Win-v2.9.11.64.msi
+- **URL**: https://github.com/cyberintelsystems/cicb/releases/download/v2.9.11.68/CICBv2-Win-v2.9.11.68.msi
 
 #### cyberscarecrow-cyberscarecrow
 
@@ -19362,7 +19362,7 @@ Total entries processed: 7296
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `efibooteditor-efibooteditor.yml`
-- **URL**: https://github.com/Neverous/efibooteditor/releases/download/v1.5.5/EFIBootEditor-v1.5.5-windows-2025-qt-6.10.1-MSVC.msi
+- **URL**: https://github.com/Neverous/efibooteditor/releases/download/v1.5.6/EFIBootEditor-v1.5.6-windows-2025-qt-6.10.2-MSVC.msi
 
 #### efmer-boinctasks
 
@@ -26310,7 +26310,7 @@ Total entries processed: 7296
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hyperionics-hypersnap9.yml`
-- **URL**: https://www.hyperionics.com/downloads/HS9Setup.exe
+- **URL**: https://hyperionics.com/downloads/HS9Setup.exe
 
 #### hypermodules-hyperamp
 
@@ -29658,7 +29658,7 @@ Total entries processed: 7296
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `johnmacfarlane-pandoc.yml`
-- **URL**: https://github.com/jgm/pandoc/releases/download/3.8.3/pandoc-3.8.3-windows-x86_64.msi
+- **URL**: https://github.com/jgm/pandoc/releases/download/3.9/pandoc-3.9-windows-x86_64.msi
 
 #### johnmulcahy-rew
 
@@ -30432,7 +30432,7 @@ Total entries processed: 7296
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-elisa.yml`
-- **URL**: https://cdn.kde.org/ci-builds/multimedia/elisa/master/windows/elisa-master-4288-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/multimedia/elisa/master/windows/elisa-master-4304-windows-cl-msvc2022-x86_64.exe
 
 #### kde-falkon
 
@@ -30972,7 +30972,7 @@ Total entries processed: 7296
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-marknote.yml`
-- **URL**: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-1103-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-1113-windows-cl-msvc2022-x86_64.exe
 
 #### kde-neochat
 
@@ -36084,7 +36084,7 @@ Total entries processed: 7296
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-malicioussoftwareremovaltool.yml`
-- **URL**: https://download.microsoft.com/download/2/c/5/2c563b99-54d9-4d85-a82b-45d3cd2f53ce/Windows-KB890830-x64-V2/c/5/2c563b99-54d9-4d85-a82b-45d3cd2f53ce/Windows-KB890830-x64-V5.137.exe.exe
+- **URL**: https://download.microsoft.com/download/2/c/5/2c563b99-54d9-4d85-a82b-45d3cd2f53ce/Windows-KB890830-x64-V2/c/5/2c563b99-54d9-4d85-a82b-45d3cd2f53ce/Windows-KB890830-x64-V5.139.exe
 
 #### microsoft-mixedrealityfeaturetool
 
@@ -48560,6 +48560,15 @@ Total entries processed: 7296
 - **File**: `power-user-power-user.yml`
 - **URL**: https://powerusersoftware.com/download/Power-user.msi
 
+#### powerplatformtoolbox-powerplatformtoolbox
+
+- **Source**: winget
+- **Name**: powerplatformtoolbox-powerplatformtoolbox
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `powerplatformtoolbox-powerplatformtoolbox.yml`
+- **URL**: https://github.com/PowerPlatformToolBox/desktop-app/releases/download/v1.1.2/Power-Platform-ToolBox-1.1.2-x64-win.exe
+
 #### powersoftware-anyburn-pro
 
 - **Source**: winget
@@ -51078,7 +51087,7 @@ Total entries processed: 7296
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `resolume-arena.yml`
-- **URL**: https://dd5sgwxv3xok.cloudfront.net/Resolume_Arena_7_24_0_rev_59769_Installer.exe
+- **URL**: https://dd5sgwxv3xok.cloudfront.net/Resolume_Arena_7_24_1_rev_61371_Installer.exe
 
 #### resolume-avenue
 
@@ -55776,7 +55785,7 @@ Total entries processed: 7296
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sst-opencodedesktop.yml`
-- **URL**: https://github.com/anomalyco/opencode/releases/download/v1.2.4/opencode-desktop-windows-x64.exe
+- **URL**: https://github.com/anomalyco/opencode/releases/download/v1.2.5/opencode-desktop-windows-x64.exe
 
 #### stacher-youtube-dl
 
@@ -57810,7 +57819,7 @@ Total entries processed: 7296
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tautulli-tautulli.yml`
-- **URL**: https://github.com/Tautulli/Tautulli/releases/download/v2.16.0/Tautulli-windows-v2.16.0-x64.exe
+- **URL**: https://github.com/Tautulli/Tautulli/releases/download/v2.16.1/Tautulli-windows-v2.16.1-x64.exe
 
 #### taxdomellc-taxdome
 
@@ -60825,7 +60834,7 @@ Total entries processed: 7296
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `unibo-alchemist.yml`
-- **URL**: https://github.com/AlchemistSimulator/Alchemist/releases/download/42.4.2/alchemist-42.4.2.msi
+- **URL**: https://github.com/AlchemistSimulator/Alchemist/releases/download/43.0.0/alchemist-43.0.0.msi
 
 #### uniconta-uniconta
 
@@ -61689,7 +61698,7 @@ Total entries processed: 7296
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0/gvim_9.2.0_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0010/gvim_9.2.0010_x64.exe
 
 #### vim-vim
 
@@ -61698,7 +61707,7 @@ Total entries processed: 7296
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.1.2098/gvim_9.1.2098_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0010/gvim_9.2.0010_x64.exe
 
 #### vinaysajip-pythonlauncher
 
