@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-02-17 18:18:37 UTC
+Generated on: 2026-02-18 06:23:00 UTC
 
 ## Summary
 
-Total entries processed: 7315
+Total entries processed: 7322
 - macOS files: 384
-- Windows files: 6931
+- Windows files: 6938
 
 ## Generated Files
 
@@ -1756,7 +1756,7 @@ Total entries processed: 7315
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `microsoft-auto-update.yml`
-- **URL**: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.81.25121042_Updater.pkg
+- **URL**: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.82.26020434_Updater.pkg
 
 #### microsoft-excel
 
@@ -1765,7 +1765,7 @@ Total entries processed: 7315
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `microsoft-excel.yml`
-- **URL**: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.106.26020821_Installer.pkg
+- **URL**: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.106.26021521_Installer.pkg
 
 #### microsoft-office-businesspro
 
@@ -1837,7 +1837,7 @@ Total entries processed: 7315
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `microsoft-outlook.yml`
-- **URL**: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.106.26020821_Installer.pkg
+- **URL**: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.106.26021521_Installer.pkg
 
 #### microsoft-powerpoint
 
@@ -1846,7 +1846,7 @@ Total entries processed: 7315
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `microsoft-powerpoint.yml`
-- **URL**: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.106.26020821_Installer.pkg
+- **URL**: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.106.26021521_Installer.pkg
 
 #### microsoft-teams
 
@@ -1864,7 +1864,7 @@ Total entries processed: 7315
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `microsoft-word.yml`
-- **URL**: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.106.26020821_Installer.pkg
+- **URL**: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.106.26021521_Installer.pkg
 
 #### microsoftteams-rollingout
 
@@ -2989,7 +2989,7 @@ Total entries processed: 7315
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `teleport-suite.yml`
-- **URL**: https://cdn.teleport.dev/teleport-18.6.8.pkg
+- **URL**: https://cdn.teleport.dev/teleport-18.7.0.pkg
 
 #### temurin-11
 
@@ -6735,7 +6735,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `amd-lemonadeserver.yml`
-- **URL**: https://github.com/lemonade-sdk/lemonade/releases/download/v9.3.2/lemonade-server-minimal.msi
+- **URL**: https://github.com/lemonade-sdk/lemonade/releases/download/v9.3.3/lemonade-server-minimal.msi
 
 #### amd-ocat
 
@@ -7437,7 +7437,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `appbytroye-koodoreader.yml`
-- **URL**: https://dl.koodoreader.com/v2.2.6/Koodo-Reader-2.2.6-x64.exe
+- **URL**: https://dl.koodoreader.com/v2.2.8/Koodo-Reader-2.2.8-x64.exe
 
 #### appcontrol-appcontrol
 
@@ -7591,6 +7591,15 @@ Total entries processed: 7315
 - **Version**: 
 - **File**: `apryse-xodopdfreader.yml`
 - **URL**: https://getpdfstudio.xodo.com/xodopdfreader/XodoPDFReader_win64.exe
+
+#### aptivi-nitrocid-0-1-0-x
+
+- **Source**: winget
+- **Name**: aptivi-nitrocid-0-1-0-x
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `aptivi-nitrocid-0-1-0-x.yml`
+- **URL**: https://github.com/Aptivi/Nitrocid/releases/download/v0.1.0.66/nitrocid-win-x64-installer.exe
 
 #### arashivisioninc-insta360studio
 
@@ -9732,7 +9741,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `belledonnecommunications-linphone.yml`
-- **URL**: https://download.linphone.org/releases/windows/app/Linphone-6.0.0-CallEdition-win64.exe
+- **URL**: https://download.linphone.org/releases/windows/app/Linphone-6.1.0-win64.exe
 
 #### bellsoft-libericajdk-11-full
 
@@ -11451,7 +11460,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bitvise-ssh-client.yml`
-- **URL**: https://dl.bitvise.com/BvSshClient-957.exe
+- **URL**: https://dl.bitvise.com/BvSshClient-959.exe
 
 #### bitvise-ssh-server
 
@@ -11460,7 +11469,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bitvise-ssh-server.yml`
-- **URL**: https://dl.bitvise.com/BvSshServer-958.exe
+- **URL**: https://dl.bitvise.com/BvSshServer-959.exe
 
 #### bitwarden-bitwarden
 
@@ -13233,7 +13242,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cebby2420-viadesktop.yml`
-- **URL**: https://github.com/cebby2420/via-desktop/releases/download/v2026.2.16/via-desktop-2026.2.16.Setup.exe
+- **URL**: https://github.com/cebby2420/via-desktop/releases/download/v2026.2.9/via-desktop-2026.2.9.Setup.exe
 
 #### cedric-fa2tv
 
@@ -15195,7 +15204,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `copytrans-studio.yml`
-- **URL**: https://studio-binaries.s3.us-west-2.amazonaws.com/CopyTransStudiov1.061.exe
+- **URL**: https://studio-binaries.s3.us-west-2.amazonaws.com/CopyTransStudiov1.062.exe
 
 #### copytranslator-copytranslator
 
@@ -15726,7 +15735,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `crossplane-crossplanecli.yml`
-- **URL**: https://releases.crossplane.io/stable/v2.1.4/bin/windows_amd64/crossplane.exe
+- **URL**: https://releases.crossplane.io/stable/v2.2.0/bin/windows_amd64/crossplane.exe
 
 #### crosswire-xiphos
 
@@ -17661,7 +17670,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `discord-discord-canary.yml`
-- **URL**: https://canary.dl2.discordapp.net/distro/app/canary/win/x64/1.0.826/DiscordCanarySetup.exe
+- **URL**: https://canary.dl2.discordapp.net/distro/app/canary/win/x64/1.0.827/DiscordCanarySetup.exe
 
 #### discord-discord-development
 
@@ -17688,7 +17697,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `discord-discord.yml`
-- **URL**: https://stable.dl2.discordapp.net/distro/app/stable/win/x64/1.0.9224/DiscordSetup.exe
+- **URL**: https://stable.dl2.discordapp.net/distro/app/stable/win/x64/1.0.9225/DiscordSetup.exe
 
 #### diskuv-dk
 
@@ -18840,7 +18849,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `easterngraphics-pcon-planner-plugin-vr-viewer.yml`
-- **URL**: https://downloads.pcon-solutions.com/pCon/plannerPlugins/VR-Viewer/current_version/VR-Viewer_Plugin_setup.exe
+- **URL**: https://downloads.pcon-solutions.com/pCon/plannerPlugins/VR-Viewer/current_version/VR-Viewer_Plugin_Installer.exe
 
 #### easterngraphics-pcon-planner-pro
 
@@ -20154,7 +20163,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `epicgames-epicgameslauncher.yml`
-- **URL**: https://epicgames-download1.akamaized.net/Builds/UnrealEngineLauncher/Installers/Windows/EpicInstaller-19.1.5.msi?launcherfilename=EpicInstaller-19.1.5.msi
+- **URL**: https://download.epicgames.com/Builds/UnrealEngineLauncher/Installers/Windows/EpicInstaller-19.2.0.msi?launcherfilename=EpicInstaller-19.2.0.msi
 
 #### epilogue-epilogueoperator
 
@@ -20759,6 +20768,15 @@ Total entries processed: 7315
 - **File**: `fabiocolor-advanceddirtremoval.yml`
 - **URL**: https://github.com/fabiocolor/Advanced-Dirt-Removal/releases/download/v1.1.2/AdvancedDirtRemoval-Setup-1.1.2.exe
 
+#### fabiocolor-fadedbalancerdctl
+
+- **Source**: winget
+- **Name**: fabiocolor-fadedbalancerdctl
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `fabiocolor-fadedbalancerdctl.yml`
+- **URL**: https://github.com/fabiocolor/Faded-Balancer-DCTL/releases/download/v1.6.3/FadedBalancerDCTL-Setup-1.6.3.exe
+
 #### fabricmc-fabricinstaller
 
 - **Source**: winget
@@ -20793,7 +20811,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `factset-factsetworkstation.yml`
-- **URL**: https://download.factset.com/software/workstation/FactSet_Workstation_2016_68D_x64.msi
+- **URL**: https://download.factset.com/software/workstation/FactSet_Workstation_2016_69C_x64.msi
 
 #### fafarunner-fafarunner
 
@@ -21982,6 +22000,15 @@ Total entries processed: 7315
 - **Version**: 
 - **File**: `flowyai-flowy.yml`
 - **URL**: https://download.flowygpt.cn/2.1.1/Flowy%20AIPC-2.1.1-setup.exe
+
+#### floyd68-ficture2
+
+- **Source**: winget
+- **Name**: floyd68-ficture2
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `floyd68-ficture2.yml`
+- **URL**: https://github.com/floyd68/FICture2/releases/download/v1.1.103.0/FICture2-Setup-1.1.exe
 
 #### flxzt-rnote
 
@@ -23736,7 +23763,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `giuliosorrentino-ilfortunedinumerone.yml`
-- **URL**: https://github.com/GiulianoSpaghetti/ilfortunedinumeronematerial/releases/download/2.0/ilfortunedinumerone-2.0.0.1-material-amd64.msi
+- **URL**: https://github.com/GiulianoSpaghetti/ilfortunedinumeronematerial/releases/download/2.1/ilfortunedinumerone-2.1-material-amd64.msi
 
 #### giuliosorrentino-latorredibabele
 
@@ -26427,7 +26454,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hypixelstudios-hytale.yml`
-- **URL**: https://launcher.hytale.com/builds/release/windows/amd64/hytale-launcher-installer-2026.02.16-4af6ef9.exe
+- **URL**: https://launcher.hytale.com/builds/release/windows/amd64/hytale-launcher-installer-2026.02.17-48a5aed.exe
 
 #### ia-iawriter
 
@@ -26832,7 +26859,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `idescriptor-idescriptor.yml`
-- **URL**: https://github.com/iDescriptor/iDescriptor/releases/download/v0.2.0/iDescriptor-v0.2.0-Windows_x86_64.msi
+- **URL**: https://github.com/iDescriptor/iDescriptor/releases/download/v0.3.0/iDescriptor-v0.3.0-Windows_x86_64.msi
 
 #### idmcomputersolutions-inc-uestudio
 
@@ -27140,6 +27167,24 @@ Total entries processed: 7315
 - **File**: `imlinguin-comet.yml`
 - **URL**: https://github.com/imLinguin/comet/releases/download/v0.3.2/comet-x86_64-pc-windows-msvc.exe
 
+#### imonoonoko-bitllama
+
+- **Source**: winget
+- **Name**: imonoonoko-bitllama
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `imonoonoko-bitllama.yml`
+- **URL**: https://github.com/imonoonoko/Bit-TTT-Engine/releases/download/v0.15.0/bit_llama-windows-x64.exe
+
+#### imonoonoko-bitllamadesktop
+
+- **Source**: winget
+- **Name**: imonoonoko-bitllamadesktop
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `imonoonoko-bitllamadesktop.yml`
+- **URL**: https://github.com/imonoonoko/Bit-TTT-Engine/releases/download/v0.15.0/BitLlama-Desktop-Setup.exe
+
 #### imputnet-helium
 
 - **Source**: winget
@@ -27427,6 +27472,15 @@ Total entries processed: 7315
 - **Version**: 
 - **File**: `intel-processordiagnostictool.yml`
 - **URL**: https://downloadmirror.intel.com/19792/IPDT_Installer_4.1.9.41_64bit.msi
+
+#### intel-systemsupportutility
+
+- **Source**: winget
+- **Name**: intel-systemsupportutility
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `intel-systemsupportutility.yml`
+- **URL**: https://downloadmirror.intel.com/844851/SSU64_4.3.2.exe
 
 #### interceptsuite-interceptsuite-pro
 
@@ -28111,6 +28165,15 @@ Total entries processed: 7315
 - **Version**: 
 - **File**: `izotope-productportal.yml`
 - **URL**: https://s3.amazonaws.com/izotopedownloads/product_download/iZotope_Product_Portal_v1_4_3.exe
+
+#### j-schell-heicautoconverter
+
+- **Source**: winget
+- **Name**: j-schell-heicautoconverter
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `j-schell-heicautoconverter.yml`
+- **URL**: https://github.com/jschell/HEIC-convert/releases/download/v0.1.7/HEICAutoConverter.exe
 
 #### j2s3-merciapp
 
@@ -29334,7 +29397,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-rider-eap.yml`
-- **URL**: https://download.jetbrains.com/rider/JetBrains.Rider-2026.1-EAP3-261.20362.35.Checked.exe
+- **URL**: https://download.jetbrains.com/rider/JetBrains.Rider-2026.1-EAP4-261.20869.54.Checked.exe
 
 #### jetbrains-rider
 
@@ -35202,7 +35265,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `michaltrojnara-stunnel.yml`
-- **URL**: https://www.stunnel.org/downloads/stunnel-5.76-win64-installer.exe
+- **URL**: https://www.stunnel.org/downloads/stunnel-5.77-win64-installer.exe
 
 #### michaltrojnara-torget
 
@@ -36048,7 +36111,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-edge.yml`
-- **URL**: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e0e65c50-aefd-4612-8e6d-803e4c365065/MicrosoftEdgeEnterpriseX64.msi
+- **URL**: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/20afa02d-8004-431c-8489-cce6c4985212/MicrosoftEdgeEnterpriseX64.msi
 
 #### microsoft-edgewebview2runtime
 
@@ -36057,7 +36120,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-edgewebview2runtime.yml`
-- **URL**: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c09738bf-65db-4625-94c5-74ddd043edb9/MicrosoftEdgeWebView2RuntimeInstallerX64.exe
+- **URL**: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e60f2ba9-1f3b-4e64-bb2f-537d61eb2466/MicrosoftEdgeWebView2RuntimeInstallerX64.exe
 
 #### microsoft-etl2pcapng
 
@@ -37650,7 +37713,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mlocati-gettext.yml`
-- **URL**: https://github.com/mlocati/gettext-iconv-windows/releases/download/v1.0-v1.18-r2/gettext1.0-iconv1.18-shared-64.exe
+- **URL**: https://github.com/mlocati/gettext-iconv-windows/releases/download/v1.0-v1.18-r3/gettext1.0-iconv1.18-shared-64.exe
 
 #### mmanela-markdownoutlook
 
@@ -39117,7 +39180,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-pl.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b12/win64/pl/Firefox%20Setup%20148.0b12.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b13/win64/pl/Firefox%20Setup%20148.0b13.exe
 
 #### mozilla-firefox-developeredition-pt-br
 
@@ -39288,7 +39351,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-th.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b7/win64/th/Firefox%20Setup%20147.0b7.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b13/win64/th/Firefox%20Setup%20148.0b13.exe
 
 #### mozilla-firefox-developeredition-tl
 
@@ -40170,7 +40233,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-esr-sc.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.7.0esr/win64/sc/Firefox%20Setup%20140.7.0esr.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.7.1esr/win64/sc/Firefox%20Setup%20140.7.1esr.exe
 
 #### mozilla-firefox-esr-sco
 
@@ -40197,7 +40260,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-esr-sk.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.7.0esr/win64/sk/Firefox%20Setup%20140.7.0esr.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.7.1esr/win64/sk/Firefox%20Setup%20140.7.1esr.exe
 
 #### mozilla-firefox-esr-sl
 
@@ -40206,7 +40269,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-esr-sl.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.7.0esr/win64/sl/Firefox%20Setup%20140.7.0esr.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.7.1esr/win64/sl/Firefox%20Setup%20140.7.1esr.exe
 
 #### mozilla-firefox-esr-son
 
@@ -40215,7 +40278,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-esr-son.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.7.0esr/win64/son/Firefox%20Setup%20140.7.0esr.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.7.1esr/win64/son/Firefox%20Setup%20140.7.1esr.exe
 
 #### mozilla-firefox-esr-sq
 
@@ -41250,7 +41313,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-esr-af.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/140.7.1esr/win64/af/Thunderbird%20Setup%20140.7.1esr.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/140.7.2esr/win64/af/Thunderbird%20Setup%20140.7.2esr.exe
 
 #### mozilla-thunderbird-esr-ar
 
@@ -41259,7 +41322,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-esr-ar.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/140.7.1esr/win64/ar/Thunderbird%20Setup%20140.7.1esr.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/140.7.2esr/win64/ar/Thunderbird%20Setup%20140.7.2esr.exe
 
 #### mozilla-thunderbird-esr-ast
 
@@ -41277,7 +41340,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-esr-be.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/140.7.1esr/win64/be/Thunderbird%20Setup%20140.7.1esr.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/140.7.2esr/win64/be/Thunderbird%20Setup%20140.7.2esr.exe
 
 #### mozilla-thunderbird-esr-bg
 
@@ -41295,7 +41358,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-esr-br.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/140.7.1esr/win64/br/Thunderbird%20Setup%20140.7.1esr.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/140.7.2esr/win64/br/Thunderbird%20Setup%20140.7.2esr.exe
 
 #### mozilla-thunderbird-esr-ca
 
@@ -41304,7 +41367,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-esr-ca.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/140.7.1esr/win64/ca/Thunderbird%20Setup%20140.7.1esr.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/140.7.2esr/win64/ca/Thunderbird%20Setup%20140.7.2esr.exe
 
 #### mozilla-thunderbird-esr-cak
 
@@ -41313,7 +41376,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-esr-cak.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/140.7.1esr/win64/cak/Thunderbird%20Setup%20140.7.1esr.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/140.7.2esr/win64/cak/Thunderbird%20Setup%20140.7.2esr.exe
 
 #### mozilla-thunderbird-esr-cs
 
@@ -41358,7 +41421,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-esr-dsb.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/140.7.1esr/win64/dsb/Thunderbird%20Setup%20140.7.1esr.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/140.7.2esr/win64/dsb/Thunderbird%20Setup%20140.7.2esr.exe
 
 #### mozilla-thunderbird-esr-el
 
@@ -41367,7 +41430,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-esr-el.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/140.7.1esr/win64/el/Thunderbird%20Setup%20140.7.1esr.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/140.7.2esr/win64/el/Thunderbird%20Setup%20140.7.2esr.exe
 
 #### mozilla-thunderbird-esr-en-ca
 
@@ -41835,7 +41898,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-esr.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/140.7.1esr/win64/en-US/Thunderbird%20Setup%20140.7.1esr.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/140.7.2esr/win64/en-US/Thunderbird%20Setup%20140.7.2esr.exe
 
 #### mozilla-thunderbird-et
 
@@ -42249,7 +42312,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-zh-tw.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/147.0.1/win64/zh-TW/Thunderbird%20Setup%20147.0.1.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/147.0.2/win64/zh-TW/Thunderbird%20Setup%20147.0.2.exe
 
 #### mozilla-thunderbird
 
@@ -42475,6 +42538,15 @@ Total entries processed: 7315
 - **Version**: 
 - **File**: `muhammedkalkan-openlens.yml`
 - **URL**: https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-366/OpenLens.Setup.6.5.2-366.exe
+
+#### mukunthp-r-simplecalcwithpython
+
+- **Source**: winget
+- **Name**: mukunthp-r-simplecalcwithpython
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `mukunthp-r-simplecalcwithpython.yml`
+- **URL**: https://github.com/all-topics/GUI-calculator/releases/download/v1.0.0/SimpleCalcSetup.exe
 
 #### mularahul-keyviz
 
@@ -43266,7 +43338,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `netbird-netbird.yml`
-- **URL**: https://github.com/netbirdio/netbird/releases/download/v0.65.1/netbird_installer_0.65.1_windows_amd64.msi
+- **URL**: https://github.com/netbirdio/netbird/releases/download/v0.65.2/netbird_installer_0.65.2_windows_amd64.msi
 
 #### netease-cloudmusic
 
@@ -44409,7 +44481,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nordsecurity-nordvpn.yml`
-- **URL**: https://downloads.nordcdn.com/apps/windows/NordVPN/7.56.2.0/NordVPNInstall.exe
+- **URL**: https://downloads.nordcdn.com/apps/windows/NordVPN/7.57.3.0/NordVPNInstall.exe
 
 #### noriskclient-launcher
 
@@ -44472,7 +44544,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `notion-notion.yml`
-- **URL**: https://desktop-release.notion-static.com/Notion%20Setup%207.4.0.exe
+- **URL**: https://desktop-release.notion-static.com/Notion%20Setup%207.5.0.exe
 
 #### notion-notioncalendar
 
@@ -46371,7 +46443,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `opera-opera-dev.yml`
-- **URL**: https://get.geo.opera.com/pub/opera-developer/128.0.5806.0/win/Opera_Developer_128.0.5806.0_Setup_x64.exe
+- **URL**: https://get.geo.opera.com/pub/opera-developer/129.0.5812.0/win/Opera_Developer_129.0.5812.0_Setup_x64.exe
 
 #### opera-opera
 
@@ -47388,7 +47460,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pbh-btn-peerbanhelper.yml`
-- **URL**: https://github.com/PBH-BTN/PeerBanHelper/releases/download/v9.3.3/PeerBanHelper_windows-x64_9.3.3.exe
+- **URL**: https://github.com/PBH-BTN/PeerBanHelper/releases/download/v9.3.5/PeerBanHelper_windows-x64_9.3.5.exe
 
 #### pclcommunity-pcl2-ce-beta
 
@@ -49935,7 +50007,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `qgis-qfield.yml`
-- **URL**: https://github.com/opengisch/QField/releases/download/v4.0.5/qfield-v4.0.5-windows-x64.exe
+- **URL**: https://github.com/opengisch/QField/releases/download/v4.0.6/qfield-v4.0.6-windows-x64.exe
 
 #### qiagen-clcgenomicsworkbench
 
@@ -54156,7 +54228,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `siarheikuchuk-butil.yml`
-- **URL**: https://github.com/drweb86/butil/releases/download/2026.01.23/BUtil_v2026.01.23.exe
+- **URL**: https://github.com/drweb86/butil/releases/download/2026.02.17/BUtil_v2026.02.17.exe
 
 #### sibber-micmuter
 
@@ -54192,7 +54264,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sidero-omnictl.yml`
-- **URL**: https://github.com/siderolabs/omni/releases/download/v1.5.2/omnictl-windows-amd64.exe
+- **URL**: https://github.com/siderolabs/omni/releases/download/v1.5.3/omnictl-windows-amd64.exe
 
 #### sidero-talosctl
 
@@ -56487,7 +56559,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `stirlingtools-stirlingpdf.yml`
-- **URL**: https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v2.4.6/Stirling-PDF-windows-x86_64.msi
+- **URL**: https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v2.5.0/Stirling-PDF-windows-x86_64.msi
 
 #### stnkl-everythingtoolbar-beta
 
@@ -61509,7 +61581,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `varicad-varicadviewer.yml`
-- **URL**: https://upgrade.varicad.com/files/VariCADViewer2026-1.01.exe
+- **URL**: https://upgrade.varicad.com/files/VariCADViewer2026-2.00.exe
 
 #### vassalengine-vassal
 
@@ -61842,7 +61914,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0014/gvim_9.2.0014_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0015/gvim_9.2.0015_x64.exe
 
 #### vim-vim
 
@@ -62040,7 +62112,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vladimiryakovlev-electronmail.yml`
-- **URL**: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.5/electron-mail-5.3.5-windows-x64-nsis-installer.exe
+- **URL**: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.6/electron-mail-5.3.6-windows-x64-nsis-installer.exe
 
 #### vleer-vleer
 
@@ -64580,15 +64652,6 @@ Total entries processed: 7315
 - **File**: `xk72-charles.yml`
 - **URL**: https://www.charlesproxy.com/assets/release/4.6.7/charles-proxy-4.6.7-win64.msi
 
-#### xkaguya-lenovolegiontoolkit
-
-- **Source**: winget
-- **Name**: xkaguya-lenovolegiontoolkit
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `xkaguya-lenovolegiontoolkit.yml`
-- **URL**: https://github.com/XKaguya/LenovoLegionToolkit/releases/download/v2.27.2.1/LenovoLegionToolkitSetup.exe
-
 #### xlightftp-xlightftp
 
 - **Source**: winget
@@ -65073,7 +65136,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yt-dlp-yt-dlp-nightly.yml`
-- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2026.02.12.233641/yt-dlp.exe
+- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2026.02.16.233630/yt-dlp.exe
 
 #### yt-dlp-yt-dlp
 
@@ -65334,7 +65397,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zedindustries-zed-preview.yml`
-- **URL**: https://github.com/zed-industries/zed/releases/download/v0.224.3-pre/Zed-x86_64.exe
+- **URL**: https://github.com/zed-industries/zed/releases/download/v0.224.4-pre/Zed-x86_64.exe
 
 #### zedindustries-zed
 
@@ -65343,7 +65406,7 @@ Total entries processed: 7315
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zedindustries-zed.yml`
-- **URL**: https://github.com/zed-industries/zed/releases/download/v0.223.4/Zed-x86_64.exe
+- **URL**: https://github.com/zed-industries/zed/releases/download/v0.223.5/Zed-x86_64.exe
 
 #### zen-team-zen-browser-twilight
 
