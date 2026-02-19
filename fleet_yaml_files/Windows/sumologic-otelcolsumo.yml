@@ -1,10 +1,7 @@
-url: https://github.com/ZenPrivacy/zen-desktop/releases/download/v0.18.1/Zen-amd64-installer.exe
+url: https://download-otel.sumologic.com/0.144.0-2622/otelcol-sumo_0.144.0.2622_en-US.x64.msi
 automatic_install: false
 self_service: false
 categories: []
-install_script: '# TODO: Add install script for this EXE'
-uninstall_script: '# TODO: Add uninstall script for this EXE'
 
 # Categories are currently limited to Browsers, Communication, Developer tools, and Productivity.
 # This is a minimum version of this file. All configurable parameters can be seen at https://fleetdm.com/docs/rest-api/rest-api#parameters139
-# Note: Any exe requires an install script and uninstall script to be defined
