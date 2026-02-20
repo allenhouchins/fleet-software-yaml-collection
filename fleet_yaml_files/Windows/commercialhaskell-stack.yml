@@ -1,4 +1,4 @@
-url: https://github.com/commercialhaskell/stack/releases/download/v3.9.1/stack-3.9.1-windows-x86_64-installer.exe
+url: https://github.com/commercialhaskell/stack/releases/download/v3.9.3/stack-3.9.3-windows-x86_64-installer.exe
 automatic_install: false
 self_service: false
 categories: []
