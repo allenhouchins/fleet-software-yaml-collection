@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-02-22 06:15:24 UTC
+Generated on: 2026-02-22 18:07:06 UTC
 
 ## Summary
 
@@ -22161,7 +22161,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `floyd68-ficture2.yml`
-- **URL**: https://github.com/floyd68/FICture2/releases/download/v1.1.103.0/FICture2-Setup-1.1.exe
+- **URL**: https://github.com/floyd68/FICture2/releases/download/v1.4.115.0/FICture2-Setup-1.4.exe
 
 #### flxzt-rnote
 
@@ -29712,7 +29712,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jgraph-draw.yml`
-- **URL**: https://github.com/jgraph/drawio-desktop/releases/download/v29.5.1/draw.io-29.5.1-windows-installer.exe
+- **URL**: https://github.com/jgraph/drawio-desktop/releases/download/v29.5.2/draw.io-29.5.2-windows-installer.exe
 
 #### jhen0409-reactnativedebugger
 
@@ -31314,7 +31314,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-marknote.yml`
-- **URL**: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-1175-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-1178-windows-cl-msvc2022-x86_64.exe
 
 #### kde-neochat
 
@@ -31989,7 +31989,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kosainabro-flintcapture.yml`
-- **URL**: https://github.com/Kos256/FlintCapture2/releases/download/FlintCapture-v2.0.2/FlintCapture-2.0.2.exe
+- **URL**: https://github.com/Kos256/FlintCapture2/releases/download/FlintCapture-v2.0.3/FlintCapture-2.0.3.exe
 
 #### kosay-kubetui
 
@@ -33024,7 +33024,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `librepcb-librepcb.yml`
-- **URL**: https://download.librepcb.org/releases/2.0.0/librepcb-installer-2.0.0-windows-x86_64.exe
+- **URL**: https://download.librepcb.org/releases/2.0.1/librepcb-installer-2.0.1-windows-x86_64.exe
 
 #### libretro-retroarch
 
@@ -34671,7 +34671,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `marticliment-unigetui.yml`
-- **URL**: https://github.com/marticliment/UniGetUI/releases/download/3.1.5/WingetUI.Installer.exe
+- **URL**: https://github.com/marticliment/UniGetUI/releases/download/3.3.7/UniGetUI.Installer.exe
 
 #### martinfinnerup-youtubemusicfordesktop
 
@@ -44193,7 +44193,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nickgasson-nvc.yml`
-- **URL**: https://github.com/nickg/nvc/releases/download/r1.19.1/nvc-1.19.1.msi
+- **URL**: https://github.com/nickg/nvc/releases/download/r1.19.2/nvc-1.19.2.msi
 
 #### nickgottschlich-socialamnesia
 
@@ -62922,7 +62922,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vwspython-vuforia-cloud-reco.yml`
-- **URL**: https://github.com/VWS-Python/vws-cli/releases/download/2026.02.15.2/vuforia-cloud-reco-windows.exe
+- **URL**: https://github.com/VWS-Python/vws-cli/releases/download/2026.02.22/vuforia-cloud-reco-windows.exe
 
 #### vwspython-vws-cli
 
@@ -62931,7 +62931,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vwspython-vws-cli.yml`
-- **URL**: https://github.com/VWS-Python/vws-cli/releases/download/2026.02.15.2/vws-windows.exe
+- **URL**: https://github.com/VWS-Python/vws-cli/releases/download/2026.02.22/vws-windows.exe
 
 #### vysor-vysor
 
@@ -63003,7 +63003,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `walkme-walkmeeditor.yml`
-- **URL**: https://cdn.walkme.com/walkme-editor/Container/Distributables/GA/x64/Windows/PerUserInstallers/WalkMe%20Editor-5.3.1-0-commercial.exe
+- **URL**: https://cdn.walkme.com/walkme-editor/Container/Distributables/GA/x64/Windows/PerUserInstallers/WalkMe%20Editor-5.4.0-7-commercial.exe
 
 #### walkovertechnologies-giddh
 
@@ -63534,7 +63534,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `widelandsdevelopmentteam-widelands.yml`
-- **URL**: https://github.com/widelands/widelands/releases/download/v1.3/Widelands-1.3-x64.exe
+- **URL**: https://github.com/widelands/widelands/releases/download/v1.3.1/Widelands-1.3.1-x64.exe
 
 #### wiilink24-patchergui
 
@@ -66108,7 +66108,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ztools-ztools.yml`
-- **URL**: https://github.com/ZToolsCenter/ZTools/releases/download/v2.0.2/ZTools-2.0.2-win-x64-setup.exe
+- **URL**: https://github.com/ZToolsCenter/ZTools/releases/download/v2.1.0/ZTools-2.1.0-win-x64-setup.exe
 
 #### zugferdcommunity-qubaviewer
 
