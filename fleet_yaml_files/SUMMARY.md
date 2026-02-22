@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-02-21 18:06:18 UTC
+Generated on: 2026-02-22 06:15:24 UTC
 
 ## Summary
 
@@ -5511,7 +5511,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `alperhan-crossmacro.yml`
-- **URL**: https://github.com/alper-han/CrossMacro/releases/download/v0.9.6/CrossMacro-0.9.6-win-x64.exe
+- **URL**: https://github.com/alper-han/CrossMacro/releases/download/v0.9.7/CrossMacro-0.9.7-win-x64.exe
 
 #### alroviaps-rogoldultimateapp
 
@@ -7050,7 +7050,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `angeloconvento-overkeys.yml`
-- **URL**: https://github.com/conventoangelo/OverKeys/releases/download/v0.3.3/overkeys_0.3.3_x64_setup.exe
+- **URL**: https://github.com/conventoangelo/OverKeys/releases/download/v0.3.4/overkeys_0.3.4_x64_setup.exe
 
 #### angrymiao-ammaster
 
@@ -15483,7 +15483,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cosmicpredator-chibi.yml`
-- **URL**: https://github.com/CosmicPredator/chibi-cli/releases/download/1.1.0/chibi_1.1.0_installer.exe
+- **URL**: https://github.com/CosmicPredator/chibi-cli/releases/download/1.2.0/chibi_1.2.0_installer.exe
 
 #### cosmox-lepton
 
@@ -16626,7 +16626,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `datronicsoft-spacedeskdriver-server.yml`
-- **URL**: https://downloads.spacedesk.net/downloads/spacedesk_driver_Win_10_64_v2215.msi
+- **URL**: https://downloads.spacedesk.net/downloads/spacedesk_driver_Win_10_64_v2217.msi
 
 #### datto-cloudcontinuityagent
 
@@ -18498,7 +18498,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `drrakendu78-startradfr.yml`
-- **URL**: https://github.com/drrakendu78/TradSC/releases/download/v3.2.1/StarTrad.FR_3.2.1_x64-setup.exe
+- **URL**: https://github.com/drrakendu78/TradSC/releases/download/v3.3.0/StarTrad.FR_3.3.0_x64-setup.exe
 
 #### drrakendu78-unicreate
 
@@ -20379,7 +20379,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `erez-c137-netspeedtray.yml`
-- **URL**: https://github.com/erez-c137/NetSpeedTray/releases/download/v1.2.5/NetSpeedTray-1.2.5-x64-Setup.exe
+- **URL**: https://github.com/erez-c137/NetSpeedTray/releases/download/v1.2.6/NetSpeedTray-1.2.6-x64-Setup.exe
 
 #### erikaraojo-fintx
 
@@ -22206,7 +22206,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `flyhunterl-flymd.yml`
-- **URL**: https://github.com/flyhunterl/flymd/releases/download/v1.3.0/flymd_1.3.0_x64-setup.exe
+- **URL**: https://github.com/flyhunterl/flymd/releases/download/v1.3.1/flymd_1.3.1_x64-setup.exe
 
 #### fnmt-configuradorfnmt
 
@@ -23916,7 +23916,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `giuliosorrentino-ilfortunedinumerone.yml`
-- **URL**: https://github.com/GiulianoSpaghetti/ilfortunedinumeronematerial/releases/download/2.1/ilfortunedinumerone-2.1-material-amd64.msi
+- **URL**: https://github.com/GiulianoSpaghetti/ilfortunedinumeronematerial/releases/download/2.2/ilfortunedinumerone-2.2-material-amd64.msi
 
 #### giuliosorrentino-latorredibabele
 
@@ -23934,7 +23934,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `giuliosorrentino-numeronesfortuneinavalonia.yml`
-- **URL**: https://github.com/GiulianoSpaghetti/numfortune.material/releases/download/3.0/numfortune.Avalonia-3.0.0.8-material-amd64.msi
+- **URL**: https://github.com/GiulianoSpaghetti/numfortune.material/releases/download/3.2/numfortune.Avalonia-3.2-material-amd64.msi
 
 #### giuliosorrentino-numeronesoeminformations
 
@@ -31314,7 +31314,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-marknote.yml`
-- **URL**: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-1165-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-1175-windows-cl-msvc2022-x86_64.exe
 
 #### kde-neochat
 
@@ -32214,7 +32214,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kubescape-kubescape.yml`
-- **URL**: https://github.com/kubescape/kubescape/releases/download/v4.0.1/kubescape_4.0.1_windows_amd64.exe
+- **URL**: https://github.com/kubescape/kubescape/releases/download/v4.0.2/kubescape_4.0.2_windows_amd64.exe
 
 #### kubus-bcfmanager-autocad-2025
 
@@ -32853,7 +32853,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lenovolegiontoolkitteam-lenovolegiontoolkit.yml`
-- **URL**: https://github.com/LenovoLegionToolkit-Team/LenovoLegionToolkit/releases/download/v2.29.0.1/LenovoLegionToolkitSetup-v2.29.0.1.exe
+- **URL**: https://github.com/LenovoLegionToolkit-Team/LenovoLegionToolkit/releases/download/v2.30.0.0/LenovoLegionToolkitSetup-v2.30.0.0.exe
 
 #### leonflix-leonflix
 
@@ -37605,7 +37605,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mikf-gallery-dl-nightly.yml`
-- **URL**: https://github.com/gdl-org/builds/releases/download/2026.02.19/gallery-dl_windows.exe
+- **URL**: https://github.com/gdl-org/builds/releases/download/2026.02.21/gallery-dl_windows.exe
 
 #### mikrotik-winbox
 
@@ -38424,7 +38424,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mortenn-browserpicker.yml`
-- **URL**: https://github.com/mortenn/BrowserPicker/releases/download/v2.2.4/BrowserPicker.msi
+- **URL**: https://github.com/mortenn/BrowserPicker/releases/download/v2.2.7/BrowserPicker.msi
 
 #### mos9527-evbunpack
 
@@ -44229,7 +44229,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nicolasbonamy-witsy.yml`
-- **URL**: https://github.com/nbonamy/witsy/releases/download/v3.5.0/Witsy-3.5.0-win32-x64.Setup.exe
+- **URL**: https://github.com/nbonamy/witsy/releases/download/v3.5.1/Witsy-3.5.1-win32-x64.Setup.exe
 
 #### nicolasconstant-sengi
 
@@ -51276,7 +51276,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `reckel-cantara.yml`
-- **URL**: https://github.com/reckel-jm/cantara/releases/download/v2.6.0/cantara-2.6.0_setup_win64.exe
+- **URL**: https://github.com/reckel-jm/cantara/releases/download/v2.7.0/cantara2.7.0_setup_win64.exe
 
 #### recoupler-audiobookconverter
 
@@ -55020,7 +55020,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `smartfrigde-legcord.yml`
-- **URL**: https://github.com/Legcord/Legcord/releases/download/v1.2.1/Legcord-1.2.1-win-x64.exe
+- **URL**: https://github.com/Legcord/Legcord/releases/download/v1.2.2/Legcord-1.2.2-win-x64.exe
 
 #### smartholdemdapps-heads-tails
 
@@ -58431,7 +58431,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `teamsophia-sophiascript.yml`
-- **URL**: https://github.com/farag2/Sophia-Script-for-Windows/releases/download/7.1.2/Sophia.Script.for.Windows.11.v7.1.2_WinGet.exe
+- **URL**: https://github.com/farag2/Sophia-Script-for-Windows/releases/download/7.1.3/Sophia.Script.for.Windows.11.v7.1.3_WinGet.exe
 
 #### teamspeaksystems-teamspeakclient-beta-5
 
@@ -62247,7 +62247,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0033/gvim_9.2.0033_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0043/gvim_9.2.0043_x64.exe
 
 #### vim-vim
 
@@ -65496,7 +65496,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yt-dlp-yt-dlp-nightly.yml`
-- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2026.02.18.235726/yt-dlp.exe
+- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2026.02.20.235452/yt-dlp.exe
 
 #### yt-dlp-yt-dlp
 
@@ -65775,7 +65775,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zen-team-zen-browser-twilight.yml`
-- **URL**: https://github.com/zen-browser/desktop/releases/download/twilight/zen.installer.exe
+- **URL**: https://github.com/zen-browser/desktop/releases/download/twilight-1/zen.installer.exe
 
 #### zen-team-zen-browser
 
