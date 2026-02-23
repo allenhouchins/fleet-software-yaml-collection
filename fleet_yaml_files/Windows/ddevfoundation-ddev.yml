@@ -1,4 +1,4 @@
-url: https://github.com/ddev/ddev/releases/download/v1.25.0/ddev_windows_amd64_installer.v1.25.0.exe
+url: https://github.com/ddev/ddev/releases/download/v1.25.1/ddev_windows_amd64_installer.v1.25.1.exe
 automatic_install: false
 self_service: false
 categories: []
