@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-02-22 18:07:06 UTC
+Generated on: 2026-02-23 06:23:21 UTC
 
 ## Summary
 
@@ -3828,7 +3828,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `9001-copyparty.yml`
-- **URL**: https://github.com/9001/copyparty/releases/download/v1.20.7/copyparty.exe
+- **URL**: https://github.com/9001/copyparty/releases/download/v1.20.8/copyparty.exe
 
 #### aakash-swiss
 
@@ -4215,7 +4215,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `actualbudget-actualbudget.yml`
-- **URL**: https://github.com/actualbudget/actual/releases/download/v26.2.0/Actual-windows-x64.exe
+- **URL**: https://github.com/actualbudget/actual/releases/download/v26.2.1/Actual-windows-x64.exe
 
 #### adalang-alire
 
@@ -7509,7 +7509,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `appiumdevelopers-appiuminspector.yml`
-- **URL**: https://github.com/appium/appium-inspector/releases/download/v2026.1.3/Appium-Inspector-2026.1.3-win-x64.exe
+- **URL**: https://github.com/appium/appium-inspector/releases/download/v2026.2.1/Appium-Inspector-2026.2.1-win-x64.exe
 
 #### apple-appleapplicationsupport-x64
 
@@ -15330,7 +15330,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `coralcreek-sqliteexpert-professional.yml`
-- **URL**: https://www.sqliteexpert.com/v5/SQLiteExpertProSetup64.exe
+- **URL**: https://www.sqliteexpert.com/v5/SQLiteExpertPersSetup64.exe
 
 #### corda-node-explorer
 
@@ -23961,7 +23961,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `giuliosorrentino-windatefrom.yml`
-- **URL**: https://github.com/GiulianoSpaghetti/WinDateFrom.avalonia/releases/download/6.0/WinDateFrom.Avalonia-6.0.0.2-amd64.msi
+- **URL**: https://github.com/GiulianoSpaghetti/WinDateFrom.avalonia/releases/download/6.0/WinDateFrom.Avalonia-6.0.0.3-amd64.msi
 
 #### giuliosorrentino-wxbriscola
 
@@ -24330,7 +24330,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-antigravity.yml`
-- **URL**: https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/1.18.3-4739469533380608/windows-x64/Antigravity.exe
+- **URL**: https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/1.18.4-5780041996042240/windows-x64/Antigravity.exe
 
 #### google-chrome-beta-exe
 
@@ -30774,7 +30774,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-elisa.yml`
-- **URL**: https://cdn.kde.org/ci-builds/multimedia/elisa/master/windows/elisa-master-4318-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/multimedia/elisa/master/windows/elisa-master-4330-windows-cl-msvc2022-x86_64.exe
 
 #### kde-falkon
 
@@ -31062,7 +31062,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kjumpingcube.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kjumpingcube/master/windows/kjumpingcube-master-825-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kjumpingcube/master/windows/kjumpingcube-master-836-windows-cl-msvc2022-x86_64.exe
 
 #### kde-klickety
 
@@ -32853,7 +32853,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lenovolegiontoolkitteam-lenovolegiontoolkit.yml`
-- **URL**: https://github.com/LenovoLegionToolkit-Team/LenovoLegionToolkit/releases/download/v2.30.0.0/LenovoLegionToolkitSetup-v2.30.0.0.exe
+- **URL**: https://github.com/LenovoLegionToolkit-Team/LenovoLegionToolkit/releases/download/v2.31.0.0/LenovoLegionToolkitSetup-v2.31.0.0.exe
 
 #### leonflix-leonflix
 
@@ -33852,7 +33852,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lucasdeeiroz-robotrunner.yml`
-- **URL**: https://github.com/lucasdeeiroz/robot_runner/releases/download/v2.0.924/Robot.Runner_2.0.924_windows_x64-setup.exe
+- **URL**: https://github.com/lucasdeeiroz/robot_runner/releases/download/v2.1.10/Robot.Runner_2.1.10_windows_x64-setup.exe
 
 #### lucasreade-ohhaibrowser
 
@@ -49620,7 +49620,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `projecttick-projtlauncher.yml`
-- **URL**: https://github.com/Project-Tick/ProjT-Launcher/releases/download/0.0.3-4/ProjTLauncher-Windows-MSVC-Setup-0.0.3-4.exe
+- **URL**: https://github.com/Project-Tick/ProjT-Launcher/releases/download/0.0.4-2/ProjTLauncher-Windows-MSVC-Setup-0.0.4-2.exe
 
 #### prometheus-windowsexporter
 
@@ -61428,7 +61428,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `unikeen-sjmcl.yml`
-- **URL**: https://mc.sjtu.cn/sjmcl/releases/SJMCL_0.8.2_windows_x86_64_setup.exe
+- **URL**: https://mc.sjtu.cn/sjmcl/releases/SJMCL_0.8.3_windows_x86_64_setup.exe
 
 #### unipro-ugene
 
@@ -62247,7 +62247,7 @@ Total entries processed: 7362
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0043/gvim_9.2.0043_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0045/gvim_9.2.0045_x64.exe
 
 #### vim-vim
 
