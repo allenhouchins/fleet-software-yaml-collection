@@ -1,0 +1,7 @@
+url: https://github.com/icsharpcode/ILSpy/releases/download/v10.0-preview2/ILSpy_Installer_10.0.0.8282-preview2-x64.msi
+automatic_install: false
+self_service: false
+categories: []
+
+# Categories are currently limited to Browsers, Communication, Developer tools, and Productivity.
+# This is a minimum version of this file. All configurable parameters can be seen at https://fleetdm.com/docs/rest-api/rest-api#parameters139

@@ -1,4 +1,4 @@
-url: https://github.com/kubernetes-sigs/krew/releases/download/v0.4.5/krew.exe
+url: https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew.exe
 automatic_install: false
 self_service: false
 categories: []
