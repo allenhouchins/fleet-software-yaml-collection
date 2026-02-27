@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-02-27 06:17:18 UTC
+Generated on: 2026-02-27 18:11:20 UTC
 
 ## Summary
 
-Total entries processed: 7397
+Total entries processed: 7398
 - macOS files: 385
-- Windows files: 7012
+- Windows files: 7013
 
 ## Generated Files
 
@@ -4278,7 +4278,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `adamtheturtle-doccmd.yml`
-- **URL**: https://github.com/adamtheturtle/doccmd/releases/download/2026.02.26/doccmd-windows.exe
+- **URL**: https://github.com/adamtheturtle/doccmd/releases/download/2026.02.27.1/doccmd-windows.exe
 
 #### adaptiveml-adpt
 
@@ -4863,7 +4863,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aiclientproxy-proxycast.yml`
-- **URL**: https://github.com/aiclientproxy/proxycast/releases/download/v0.71.0/ProxyCast_0.71.0_x64-setup.exe
+- **URL**: https://github.com/aiclientproxy/proxycast/releases/download/v0.73.0/ProxyCast_0.73.0_x64-setup.exe
 
 #### aignesberger-websitewatcher
 
@@ -12729,7 +12729,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bytedance-doubao.yml`
-- **URL**: https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao_pc/2.0.31/Doubao_installer_2.0.31.exe
+- **URL**: https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao_pc/2.0.32/Doubao_installer_2.0.32.exe
 
 #### bytedance-douyin
 
@@ -12783,7 +12783,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bytedance-lark.yml`
-- **URL**: https://lf16-larkversion.larksuitecdn.com/obj/lark-version-sg/2c89270b/Lark-win32_x64-7.61.9-signed.exe
+- **URL**: https://lf16-larkversion.larksuitecdn.com/obj/lark-version-sg/53861138/Lark-win32_x64-7.62.7-signed.exe
 
 #### bytedance-sodamusic
 
@@ -17463,7 +17463,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `devproxy-devproxy-beta.yml`
-- **URL**: https://github.com/dotnet/dev-proxy/releases/download/v2.1.0-beta.4/dev-proxy-installer-win-x64-v2.1.0-beta.4.exe
+- **URL**: https://github.com/dotnet/dev-proxy/releases/download/v2.2.0-beta.1/dev-proxy-installer-win-x64-v2.2.0-beta.1.exe
 
 #### devproxy-devproxy
 
@@ -18264,7 +18264,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `docker-secretsengine.yml`
-- **URL**: https://github.com/docker/secrets-engine/releases/download/v0.3.1/DockerSecretsEngine.msi
+- **URL**: https://github.com/docker/secrets-engine/releases/download/v0.3.3/DockerSecretsEngine.msi
 
 #### docmirror-dev-sidecar
 
@@ -23385,7 +23385,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gdevelop-gdevelop.yml`
-- **URL**: https://github.com/4ian/GDevelop/releases/download/v5.6.258/GDevelop-5-Setup-5.6.258.exe
+- **URL**: https://github.com/4ian/GDevelop/releases/download/v5.6.259/GDevelop-5-Setup-5.6.259.exe
 
 #### gdgsoftware-paquetbuilder
 
@@ -24465,7 +24465,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/ptyxp2nolptcvknc3tmnp6m6ku_147.0.7706.0/147.0.7706.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/bafpktgu274oazzy3upesnuayy_147.0.7707.0/147.0.7707.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -26985,7 +26985,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ibm-semeru-8-jdk.yml`
-- **URL**: https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk8u482-b08_openj9-0.57.0/ibm-semeru-open-jdk_x64_windows_8u482b08_openj9-0.57.0.msi
+- **URL**: https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk8u482-b08.1_openj9-0.57.0/ibm-semeru-open-jdk_x64_windows_8.0.482.1.msi
 
 #### ibm-semeru-8-jre
 
@@ -26994,7 +26994,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ibm-semeru-8-jre.yml`
-- **URL**: https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk8u482-b08_openj9-0.57.0/ibm-semeru-open-jre_x64_windows_8u482b08_openj9-0.57.0.msi
+- **URL**: https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk8u482-b08.1_openj9-0.57.0/ibm-semeru-open-jre_x64_windows_8.0.482.1.msi
 
 #### ibttf-interviewcoder
 
@@ -32160,7 +32160,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `koyubi-skk.yml`
-- **URL**: https://github.com/m-takeuchi/koyubi/releases/download/v0.1.0/koyubi-0.1.0-setup.exe
+- **URL**: https://github.com/m-takeuchi/koyubi/releases/download/v0.1.1/koyubi-0.1.1-setup.exe
 
 #### kpn-hipin
 
@@ -32565,7 +32565,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lablicate-openchrom.yml`
-- **URL**: https://products.lablicate.com/openchrom/1.6.5/OpenChrom_1.6.5_setup_x64.exe
+- **URL**: https://products.lablicate.com/openchrom/1.6.7/OpenChrom_1.6.7_setup_x64.exe
 
 #### labymediagmbh-labymodlauncher
 
@@ -33924,7 +33924,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lparksi-winlux.yml`
-- **URL**: https://github.com/Lparksi/WinLux/releases/download/v0.3.0/WinLux_0.3.0_x64-setup.exe
+- **URL**: https://github.com/Lparksi/WinLux/releases/download/v0.3.2/WinLux_0.3.2_x64-setup.exe
 
 #### lrclib-lrcget
 
@@ -35094,7 +35094,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `maxrave-dev-simpmusic.yml`
-- **URL**: https://github.com/maxrave-dev/SimpMusic/releases/download/v1.0.3/SimpMusic-1.0.3.msi
+- **URL**: https://github.com/maxrave-dev/SimpMusic/releases/download/v1.0.4/SimpMusic-1.0.4.msi
 
 #### maxthon-maxthon
 
@@ -39621,7 +39621,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-pt-pt.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b13/win64/pt-PT/Firefox%20Setup%20148.0b13.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b1/win64/pt-PT/Firefox%20Setup%20149.0b1.exe
 
 #### mozilla-firefox-developeredition-rm
 
@@ -39630,7 +39630,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-rm.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b13/win64/rm/Firefox%20Setup%20148.0b13.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b1/win64/rm/Firefox%20Setup%20149.0b1.exe
 
 #### mozilla-firefox-developeredition-ro
 
@@ -39639,7 +39639,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-ro.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b13/win64/ro/Firefox%20Setup%20148.0b13.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b1/win64/ro/Firefox%20Setup%20149.0b1.exe
 
 #### mozilla-firefox-developeredition-ru
 
@@ -39675,7 +39675,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-si.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b13/win64/si/Firefox%20Setup%20148.0b13.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b1/win64/si/Firefox%20Setup%20149.0b1.exe
 
 #### mozilla-firefox-developeredition-sk
 
@@ -39684,7 +39684,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-sk.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b13/win64/sk/Firefox%20Setup%20148.0b13.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b1/win64/sk/Firefox%20Setup%20149.0b1.exe
 
 #### mozilla-firefox-developeredition-sl
 
@@ -39702,7 +39702,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-son.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b13/win64/son/Firefox%20Setup%20148.0b13.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b1/win64/son/Firefox%20Setup%20149.0b1.exe
 
 #### mozilla-firefox-developeredition-sq
 
@@ -39738,7 +39738,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-szl.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b13/win64/szl/Firefox%20Setup%20148.0b13.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b1/win64/szl/Firefox%20Setup%20149.0b1.exe
 
 #### mozilla-firefox-developeredition-ta
 
@@ -39747,7 +39747,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-ta.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b13/win64/ta/Firefox%20Setup%20148.0b13.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b1/win64/ta/Firefox%20Setup%20149.0b1.exe
 
 #### mozilla-firefox-developeredition-te
 
@@ -39783,7 +39783,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-tl.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b13/win64/tl/Firefox%20Setup%20148.0b13.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b1/win64/tl/Firefox%20Setup%20149.0b1.exe
 
 #### mozilla-firefox-developeredition-tr
 
@@ -39810,7 +39810,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-uk.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b13/win64/uk/Firefox%20Setup%20148.0b13.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b1/win64/uk/Firefox%20Setup%20149.0b1.exe
 
 #### mozilla-firefox-developeredition-ur
 
@@ -39819,7 +39819,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-ur.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b12/win64/ur/Firefox%20Setup%20148.0b12.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b1/win64/ur/Firefox%20Setup%20149.0b1.exe
 
 #### mozilla-firefox-developeredition-uz
 
@@ -39837,7 +39837,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-vi.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b12/win64/vi/Firefox%20Setup%20148.0b12.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b1/win64/vi/Firefox%20Setup%20149.0b1.exe
 
 #### mozilla-firefox-developeredition-xh
 
@@ -39855,7 +39855,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-zh-cn.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/148.0b12/win64/zh-CN/Firefox%20Setup%20148.0b12.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b1/win64/zh-CN/Firefox%20Setup%20149.0b1.exe
 
 #### mozilla-firefox-developeredition-zh-tw
 
@@ -46101,7 +46101,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `onlyoffice-desktopeditors.yml`
-- **URL**: https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.2.1/DesktopEditors_x64.exe
+- **URL**: https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.3.0/DesktopEditors_x64.exe
 
 #### onoff-onlook
 
@@ -48396,7 +48396,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `picguard-picguard-pro.yml`
-- **URL**: https://github.com/picguard/picguard/releases/download/v5.3.0/picguard-pro-5.3.0-windows-x64-en-US.msi
+- **URL**: https://github.com/picguard/picguard/releases/download/v5.3.1/picguard-pro-5.3.1-windows-x64-en-US.msi
 
 #### picguard-picguard
 
@@ -48405,7 +48405,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `picguard-picguard.yml`
-- **URL**: https://github.com/picguard/picguard/releases/download/v5.3.0/picguard-5.3.0-windows-x64-en-US.msi
+- **URL**: https://github.com/picguard/picguard/releases/download/v5.3.1/picguard-5.3.1-windows-x64-en-US.msi
 
 #### pichit-pickit
 
@@ -48954,7 +48954,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pokerth-pokerth.yml`
-- **URL**: https://github.com/pokerth/pokerth/releases/download/v2.0.4/PokerTH-2.0.4-Setup.exe
+- **URL**: https://github.com/pokerth/pokerth/releases/download/v2.0.5/PokerTH-2.0.5-Setup.exe
 
 #### polleverywhere-polleverywhere
 
@@ -50178,7 +50178,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `purple-purpleplus.yml`
-- **URL**: https://github.com/LetsGoPurple/PurplePlusProd/releases/download/v3.4.1/PurplePlus-3.4.1-x64-Setup.exe
+- **URL**: https://github.com/LetsGoPurple/PurplePlusProd/releases/download/v4.0.0/PurplePlus-4.0.0-x64-Setup.exe
 
 #### purplei2p-i2pd
 
@@ -51492,7 +51492,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `reckel-cantara.yml`
-- **URL**: https://github.com/reckel-jm/cantara/releases/download/v2.7.0/cantara2.7.0_setup_win64.exe
+- **URL**: https://github.com/reckel-jm/cantara/releases/download/v2.7.1/cantara-2.7.1_setup_win64.exe
 
 #### recoupler-audiobookconverter
 
@@ -54453,7 +54453,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-02-26/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-02-27/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -56722,6 +56722,15 @@ Total entries processed: 7397
 - **Version**: 
 - **File**: `steammemory-fellou.yml`
 - **URL**: https://fellou.s3.us-west-1.amazonaws.com/FellouPC/windows/Fellou-CE-2.5.15.exe
+
+#### steampunklabs-awsloggy
+
+- **Source**: winget
+- **Name**: steampunklabs-awsloggy
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `steampunklabs-awsloggy.yml`
+- **URL**: https://github.com/aegixx/aws-loggy/releases/download/v3.9.0/Loggy-3.9.0-windows-x86_64.msi
 
 #### steccas-protonclient
 
@@ -63957,7 +63966,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `windirstat-windirstat-beta.yml`
-- **URL**: https://github.com/windirstat/windirstat/releases/download/beta/v2.5.4/2026-02-16/WinDirStat-x64.msi
+- **URL**: https://github.com/windirstat/windirstat/releases/download/beta/v2.5.5/2026-02-27/WinDirStat-x64.msi
 
 #### windirstat-windirstat
 
@@ -65019,7 +65028,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xdpxi-sponge.yml`
-- **URL**: http://cdn.xdpxi.net:8716/sponge/1.1.1/sponge-1.1.1-windows-installer.exe
+- **URL**: http://cdn.xdpxi.net:8716/sponge/1.1.3/sponge-1.1.3-windows-installer.exe
 
 #### xdpxi-xds-code
 
@@ -65568,7 +65577,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `y-aslant-elegantclipboard.yml`
-- **URL**: https://github.com/Y-ASLant/ElegantClipboard/releases/download/v0.7.22/ElegantClipboard_0.7.22_x64-setup.exe
+- **URL**: https://github.com/Y-ASLant/ElegantClipboard/releases/download/v0.7.36/ElegantClipboard_0.7.36_x64-setup.exe
 
 #### y2z-monolith
 
@@ -66072,7 +66081,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zedindustries-zed-preview.yml`
-- **URL**: https://github.com/zed-industries/zed/releases/download/v0.226.0-pre/Zed-x86_64.exe
+- **URL**: https://github.com/zed-industries/zed/releases/download/v0.226.1-pre/Zed-x86_64.exe
 
 #### zedindustries-zed
 
@@ -66378,7 +66387,7 @@ Total entries processed: 7397
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zoom-zoom-vdi.yml`
-- **URL**: https://zoom.us/download/vdi/6.6.11.26890/ZoomInstallerVDI.msi?archType=x64
+- **URL**: https://zoom.us/download/vdi/6.6.12.26920/ZoomInstallerVDI.msi?archType=x64
 
 #### zoom-zoom
 
