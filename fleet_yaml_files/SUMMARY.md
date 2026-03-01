@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-03-01 06:14:25 UTC
+Generated on: 2026-03-01 18:05:34 UTC
 
 ## Summary
 
-Total entries processed: 7403
+Total entries processed: 7404
 - macOS files: 386
-- Windows files: 7017
+- Windows files: 7018
 
 ## Generated Files
 
@@ -10659,7 +10659,7 @@ Total entries processed: 7403
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `benji377-tooka.yml`
-- **URL**: https://github.com/tooka-org/tooka/releases/download/v1.0.6/tooka_1.0.6_x64_en-US.msi
+- **URL**: https://github.com/Benji377/tooka/releases/download/v1.0.7/tooka_1.0.7_x64_en-US.msi
 
 #### benthicsoftware-golden-6
 
@@ -14871,7 +14871,7 @@ Total entries processed: 7403
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `codexu-notegen.yml`
-- **URL**: https://github.com/codexu/note-gen/releases/download/note-gen-v0.26.0/NoteGen_0.26.0_x64-setup.exe
+- **URL**: https://github.com/codexu/note-gen/releases/download/note-gen-v0.26.1/NoteGen_0.26.1_x64-setup.exe
 
 #### codice-plasticscm-cloudedition
 
@@ -18597,7 +18597,7 @@ Total entries processed: 7403
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `drrakendu78-startradfr.yml`
-- **URL**: https://github.com/drrakendu78/TradSC/releases/download/v3.3.1/StarTrad.FR_3.3.1_x64-setup.exe
+- **URL**: https://github.com/drrakendu78/TradSC/releases/download/v3.3.3/StarTrad.FR_3.3.3_x64-setup.exe
 
 #### drrakendu78-unicreate
 
@@ -25448,6 +25448,15 @@ Total entries processed: 7403
 - **File**: `haiying-aionui.yml`
 - **URL**: https://github.com/iOfficeAI/AionUi/releases/download/v1.8.9/AionUi-1.8.9-win-x64.exe
 
+#### haiying-officeai
+
+- **Source**: winget
+- **Name**: haiying-officeai
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `haiying-officeai.yml`
+- **URL**: https://downloadcdn.office-ai.cn/bin/OfficeAI.exe
+
 #### hakuneko-hakuneko-nightly
 
 - **Source**: winget
@@ -26310,7 +26319,7 @@ Total entries processed: 7403
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `houmain-keymapper.yml`
-- **URL**: https://github.com/houmain/keymapper/releases/download/5.3.2/keymapper-5.3.2-Windows-x86_64.msi
+- **URL**: https://github.com/houmain/keymapper/releases/download/5.4.0/keymapper-5.4.0-Windows-x86_64.msi
 
 #### housatonic-projectplan365
 
@@ -26454,7 +26463,7 @@ Total entries processed: 7403
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hrzlgnm-mdns-browser.yml`
-- **URL**: https://github.com/hrzlgnm/mdns-browser/releases/download/mdns-browser-v1.5.7/mdns-browser_1.5.7_x64-setup.exe
+- **URL**: https://github.com/hrzlgnm/mdns-browser/releases/download/mdns-browser-v1.5.8/mdns-browser_1.5.8_x64-setup.exe
 
 #### htacg-tidy
 
@@ -30864,7 +30873,7 @@ Total entries processed: 7403
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-ark.yml`
-- **URL**: https://cdn.kde.org/ci-builds/utilities/ark/release-25.12/windows/ark-release_25.12-2481-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/utilities/ark/release-25.12/windows/ark-release_25.12-2488-windows-cl-msvc2022-x86_64.exe
 
 #### kde-blinken
 
@@ -31467,7 +31476,7 @@ Total entries processed: 7403
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-marknote.yml`
-- **URL**: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-1253-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-1261-windows-cl-msvc2022-x86_64.exe
 
 #### kde-neochat
 
@@ -37983,7 +37992,7 @@ Total entries processed: 7403
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `miorin-bloomingblockery.yml`
-- **URL**: https://github.com/photonfoxlime/bb/releases/download/v0.0.5/blooming-blockery-x86_64-pc-windows-msvc.msi
+- **URL**: https://github.com/photonfoxlime/bb/releases/download/v0.0.6/blooming-blockery-x86_64-pc-windows-msvc.msi
 
 #### mirantis-lens
 
@@ -38208,7 +38217,7 @@ Total entries processed: 7403
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mnardit-beetroot.yml`
-- **URL**: https://github.com/mnardit/beetroot-releases/releases/download/v1.0.4/Beetroot_1.0.4_x64-setup.exe
+- **URL**: https://github.com/mnardit/beetroot-releases/releases/download/v1.0.6/Beetroot_1.0.6_x64-setup.exe
 
 #### mndptray-core
 
@@ -43176,7 +43185,7 @@ Total entries processed: 7403
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mydehq-autotitle.yml`
-- **URL**: https://github.com/mydehq/autotitle/releases/download/v1.8.0/autotitle-windows-amd64.exe
+- **URL**: https://github.com/mydehq/autotitle/releases/download/v1.2.1/autotitle-windows-amd64.exe
 
 #### mypaint-mypaint
 
@@ -51681,7 +51690,7 @@ Total entries processed: 7403
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rem0o-fancontrol.yml`
-- **URL**: https://github.com/Rem0o/FanControl.Releases/releases/download/V260/FanControl_260_net_10_0_Installer.exe
+- **URL**: https://github.com/Rem0o/FanControl.Releases/releases/download/V261/FanControl_261_net_10_0_Installer.exe
 
 #### remarkable-remarkablecompanionapp
 
@@ -65622,7 +65631,7 @@ Total entries processed: 7403
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `y-aslant-elegantclipboard.yml`
-- **URL**: https://github.com/Y-ASLant/ElegantClipboard/releases/download/v0.7.36/ElegantClipboard_0.7.36_x64-setup.exe
+- **URL**: https://github.com/Y-ASLant/ElegantClipboard/releases/download/v0.7.39/ElegantClipboard_0.7.39_x64-setup.exe
 
 #### y2z-monolith
 
@@ -65865,7 +65874,7 @@ Total entries processed: 7403
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yt-dlp-yt-dlp-nightly.yml`
-- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2026.02.22.233517/yt-dlp.exe
+- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2026.02.26.233640/yt-dlp.exe
 
 #### yt-dlp-yt-dlp
 
