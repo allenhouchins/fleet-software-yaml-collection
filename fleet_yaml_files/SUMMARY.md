@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-03-02 06:18:09 UTC
+Generated on: 2026-03-02 18:13:01 UTC
 
 ## Summary
 
-Total entries processed: 7402
+Total entries processed: 7406
 - macOS files: 386
-- Windows files: 7016
+- Windows files: 7020
 
 ## Generated Files
 
@@ -2485,7 +2485,7 @@ Total entries processed: 7402
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `privileges.yml`
-- **URL**: https://github.com/SAP/macOS-enterprise-privileges/releases/download/2.5.0/Privileges_2.5.0.pkg
+- **URL**: https://github.com/SAP/macOS-enterprise-privileges/releases/download/2.5.1/Privileges_2.5.1.pkg
 
 #### ptpwebcam
 
@@ -3522,7 +3522,7 @@ Total entries processed: 7402
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `123-123pan.yml`
-- **URL**: https://app.123957.com/pc-pro/windows/303/123pan_3.0.3.exe
+- **URL**: https://app.123957.com/pc-pro/windows/310/123pan_3.1.0.exe
 
 #### 1357310795-jboxtransfer
 
@@ -4287,7 +4287,7 @@ Total entries processed: 7402
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `adamtheturtle-doccmd.yml`
-- **URL**: https://github.com/adamtheturtle/doccmd/releases/download/2026.03.01/doccmd-windows.exe
+- **URL**: https://github.com/adamtheturtle/doccmd/releases/download/2026.03.02/doccmd-windows.exe
 
 #### adaptiveml-adpt
 
@@ -4872,7 +4872,7 @@ Total entries processed: 7402
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aiclientproxy-proxycast.yml`
-- **URL**: https://github.com/aiclientproxy/proxycast/releases/download/v0.75.0/ProxyCast_0.75.0_x64-setup.exe
+- **URL**: https://github.com/aiclientproxy/proxycast/releases/download/v0.76.0/ProxyCast_0.76.0_x64-setup.exe
 
 #### aignesberger-websitewatcher
 
@@ -5052,7 +5052,7 @@ Total entries processed: 7402
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `akiflow-akiflow.yml`
-- **URL**: https://download.akiflow.com/builds/Akiflow-2.67.9-2af43954-x64.exe
+- **URL**: https://download.akiflow.com/builds/Akiflow-2.68.3-cce5bd9b-x64.exe
 
 #### akko-clouddriver
 
@@ -8445,7 +8445,7 @@ Total entries processed: 7402
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `auto-plugin-milkup.yml`
-- **URL**: https://github.com/Auto-Plugin/milkup/releases/download/v1.0.3/milkup.Setup.1.0.3.exe
+- **URL**: https://github.com/Auto-Plugin/milkup/releases/download/v1.0.4/milkup.Setup.1.0.4.exe
 
 #### autodesk-autodeskaccess
 
@@ -9435,7 +9435,7 @@ Total entries processed: 7402
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `baidu-comate.yml`
-- **URL**: https://comate-ide.cdn.bcebos.com/download/stable/fd2063aa4971d9e337cfe705ba335840bafb67e5-233283389/Comate-win32-x64-user-setup.exe
+- **URL**: https://comate-ide.cdn.bcebos.com/download/stable/9c53ee7c10c1b1de42be91ec3f56eb3ea1c2c42d-242830984/Comate-win32-x64-user-setup.exe
 
 #### baidu-swanide
 
@@ -11334,7 +11334,7 @@ Total entries processed: 7402
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `biomejs-biome.yml`
-- **URL**: https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.4.4/biome-win32-x64.exe
+- **URL**: https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.4.5/biome-win32-x64.exe
 
 #### biondi53-quickexplorer
 
@@ -13359,7 +13359,7 @@ Total entries processed: 7402
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cebby2420-viadesktop.yml`
-- **URL**: https://github.com/cebby2420/via-desktop/releases/download/v2026.2.9/via-desktop-2026.2.9.Setup.exe
+- **URL**: https://github.com/cebby2420/via-desktop/releases/download/v2026.3.2/via-desktop-2026.3.2.Setup.exe
 
 #### cedric-fa2tv
 
@@ -16952,6 +16952,15 @@ Total entries processed: 7402
 - **File**: `debaucheeopensourcegroup-barrier.yml`
 - **URL**: https://github.com/debauchee/barrier/releases/download/v2.4.0/BarrierSetup-2.4.0-release.exe
 
+#### debba-tabularis
+
+- **Source**: winget
+- **Name**: debba-tabularis
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `debba-tabularis.yml`
+- **URL**: https://github.com/debba/tabularis/releases/download/v0.9.2/tabularis_0.9.2_x64-setup.exe
+
 #### dechamps-flexasio
 
 - **Source**: winget
@@ -17598,7 +17607,7 @@ Total entries processed: 7402
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `digidna-imazingprofileeditor.yml`
-- **URL**: https://downloads.imazing.com/windows/iMazing-Profile-Editor/2.0.1/iMazing_Profile_Editor_2.0.1.exe
+- **URL**: https://downloads.imazing.com/windows/iMazing-Profile-Editor/2.0.2/iMazing_Profile_Editor_2.0.2.exe
 
 #### digiexam-digiexam
 
@@ -19947,7 +19956,7 @@ Total entries processed: 7402
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `electrum-electrum.yml`
-- **URL**: https://download.electrum.org/4.7.0/electrum-4.7.0-setup.exe
+- **URL**: https://download.electrum.org/4.7.1/electrum-4.7.1-setup.exe
 
 #### element-element
 
@@ -20109,7 +20118,7 @@ Total entries processed: 7402
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `elsevier-mendeleyreferencemanager.yml`
-- **URL**: https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.142.0.exe
+- **URL**: https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.143.0.exe
 
 #### elstensoftware-astiga
 
@@ -22305,7 +22314,7 @@ Total entries processed: 7402
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `flyhunterl-flymd.yml`
-- **URL**: https://github.com/flyhunterl/flymd/releases/download/v1.3.1/flymd_1.3.1_x64-setup.exe
+- **URL**: https://github.com/flyhunterl/flymd/releases/download/v1.3.2/flymd_1.3.2_x64-setup.exe
 
 #### fnmt-configuradorfnmt
 
@@ -26796,7 +26805,7 @@ Total entries processed: 7402
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ibm-semeru-11-jdk.yml`
-- **URL**: https://github.com/ibmruntimes/semeru11-binaries/releases/download/jdk-11.0.30+7_openj9-0.57.0/ibm-semeru-open-jdk_x64_windows_11.0.30_7_openj9-0.57.0.msi
+- **URL**: https://github.com/ibmruntimes/semeru11-binaries/releases/download/jdk-11.0.30+7.1_openj9-0.57.0/ibm-semeru-open-jdk_x64_windows_11.0.30.1.msi
 
 #### ibm-semeru-11-jre
 
@@ -26976,7 +26985,7 @@ Total entries processed: 7402
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ibm-semeru-25-jdk.yml`
-- **URL**: https://github.com/ibmruntimes/semeru25-binaries/releases/download/jdk-25.0.2+10_openj9-0.57.0/ibm-semeru-open-jdk_x64_windows_25.0.2_10_openj9-0.57.0.msi
+- **URL**: https://github.com/ibmruntimes/semeru25-binaries/releases/download/jdk-25.0.2+10.1_openj9-0.57.0/ibm-semeru-open-jdk_x64_windows_25.0.2.1.msi
 
 #### ibm-semeru-25-jre
 
@@ -26985,7 +26994,7 @@ Total entries processed: 7402
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ibm-semeru-25-jre.yml`
-- **URL**: https://github.com/ibmruntimes/semeru25-binaries/releases/download/jdk-25.0.2+10_openj9-0.57.0/ibm-semeru-open-jre_x64_windows_25.0.2_10_openj9-0.57.0.msi
+- **URL**: https://github.com/ibmruntimes/semeru25-binaries/releases/download/jdk-25.0.2+10.1_openj9-0.57.0/ibm-semeru-open-jre_x64_windows_25.0.2.1.msi
 
 #### ibm-semeru-8-jdk
 
@@ -27660,7 +27669,7 @@ Total entries processed: 7402
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `inspoaibox-mshell.yml`
-- **URL**: https://github.com/inspoaibox/Mshell/releases/download/v0.2.1/MShell-Setup-0.2.1.exe
+- **URL**: https://github.com/inspoaibox/Mshell/releases/download/v0.2.2/MShell-Setup-0.2.2.exe
 
 #### insta360-link-controller
 
@@ -31458,7 +31467,7 @@ Total entries processed: 7402
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-marknote.yml`
-- **URL**: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-1265-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-1269-windows-cl-msvc2022-x86_64.exe
 
 #### kde-neochat
 
@@ -33062,6 +33071,15 @@ Total entries processed: 7402
 - **File**: `lexoyo-silex-desktop.yml`
 - **URL**: https://github.com/silexlabs/silex-desktop/releases/download/v2.7.30/silex-desktop-Setup-2.7.30.exe
 
+#### lgdd-lfr-cli
+
+- **Source**: winget
+- **Name**: lgdd-lfr-cli
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `lgdd-lfr-cli.yml`
+- **URL**: https://github.com/lgdd/lfr-cli/releases/download/v3.3.1/lfr-cli_3.3.1_windows_amd64.exe
+
 #### lgug2z-komokana
 
 - **Source**: winget
@@ -34023,7 +34041,7 @@ Total entries processed: 7402
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lucasdeeiroz-robotrunner.yml`
-- **URL**: https://github.com/lucasdeeiroz/robot_runner/releases/download/v2.1.21/Robot.Runner_2.1.21_windows_x64-setup.exe
+- **URL**: https://github.com/lucasdeeiroz/robot_runner/releases/download/v2.1.22/Robot.Runner_2.1.22_windows_x64-setup.exe
 
 #### lucasreade-ohhaibrowser
 
@@ -37794,7 +37812,7 @@ Total entries processed: 7402
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mihomo-party-mihomo-party.yml`
-- **URL**: https://github.com/mihomo-party-org/clash-party/releases/download/v1.9.0/clash-party-windows-1.9.0-x64-setup.exe
+- **URL**: https://github.com/mihomo-party-org/clash-party/releases/download/v1.9.2/clash-party-windows-1.9.2-x64-setup.exe
 
 #### mikefarah-yq
 
@@ -37974,7 +37992,7 @@ Total entries processed: 7402
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `miorin-bloomingblockery.yml`
-- **URL**: https://github.com/photonfoxlime/bb/releases/download/v0.0.6/blooming-blockery-x86_64-pc-windows-msvc.msi
+- **URL**: https://github.com/photonfoxlime/bb/releases/download/v0.0.8/blooming-blockery-x86_64-pc-windows-msvc.msi
 
 #### mirantis-lens
 
@@ -38199,7 +38217,7 @@ Total entries processed: 7402
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mnardit-beetroot.yml`
-- **URL**: https://github.com/mnardit/beetroot-releases/releases/download/v1.0.6/Beetroot_1.0.6_x64-setup.exe
+- **URL**: https://github.com/mnardit/beetroot-releases/releases/download/v1.0.7/Beetroot_1.0.7_x64-setup.exe
 
 #### mndptray-core
 
@@ -45372,7 +45390,7 @@ Total entries processed: 7402
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nvidia-geforcenow.yml`
-- **URL**: https://ota-downloads.nvidia.com/ota/GeForceNOW-release_8449C6.exe
+- **URL**: https://ota-downloads.nvidia.com/ota/GeForceNOW-release_9BEA70.exe
 
 #### nvidia-icat
 
@@ -45633,7 +45651,7 @@ Total entries processed: 7402
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `octopusdata-octoparse.yml`
-- **URL**: https://download.octoparse.bazhuayu.com/client/en-US/win/Octoparse%20Setup%208.8.0.exe
+- **URL**: https://download.octoparse.bazhuayu.com/client/en-US/win/Octoparse%20Setup%208.9.0.exe
 
 #### octopusdeploy-cli
 
@@ -49701,7 +49719,7 @@ Total entries processed: 7402
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pritunl-pritunlclient.yml`
-- **URL**: https://github.com/pritunl/pritunl-client/releases/download/1.3.4466.51/Pritunl.exe
+- **URL**: https://github.com/pritunl/pritunl-client/releases/download/1.3.4554.60/Pritunl.exe
 
 #### privateinternetaccess-privateinternetaccess
 
@@ -50594,6 +50612,15 @@ Total entries processed: 7402
 - **File**: `qishibo-anotherredisdesktopmanager.yml`
 - **URL**: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.1/Another-Redis-Desktop-Manager-win-1.7.1-x64.exe
 
+#### qiyuey-bingwallpapernow
+
+- **Source**: winget
+- **Name**: qiyuey-bingwallpapernow
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `qiyuey-bingwallpapernow.yml`
+- **URL**: https://github.com/qiyuey/bing-wallpaper-now/releases/download/1.4.3/Bing.Wallpaper.Now_1.4.3_x64_zh-CN.msi
+
 #### ql-win-quicklook
 
 - **Source**: winget
@@ -51069,7 +51096,7 @@ Total entries processed: 7402
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rakudo-rakudo.yml`
-- **URL**: https://rakudo.org/dl/rakudo/rakudo-moar-2026.01-01-win-x86_64-msvc.msi
+- **URL**: https://rakudo.org/dl/rakudo/rakudo-moar-2026.02-01-win-x86_64-msvc.msi
 
 #### rakuten-viber
 
@@ -51646,6 +51673,15 @@ Total entries processed: 7402
 - **Version**: 
 - **File**: `rela-relagit.yml`
 - **URL**: https://github.com/relagit/relagit/releases/download/v0.16.9/RelaGit-win.exe
+
+#### relmer-matrixrain
+
+- **Source**: winget
+- **Name**: relmer-matrixrain
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `relmer-matrixrain.yml`
+- **URL**: https://github.com/relmer/MatrixRain/releases/download/v1.0.1001/MatrixRain.exe
 
 #### relmer-tcdir
 
@@ -54336,7 +54372,7 @@ Total entries processed: 7402
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sentry-sentry-cli.yml`
-- **URL**: https://github.com/getsentry/sentry-cli/releases/download/3.2.2/sentry-cli-Windows-x86_64.exe
+- **URL**: https://github.com/getsentry/sentry-cli/releases/download/3.2.3/sentry-cli-Windows-x86_64.exe
 
 #### seonglae-intuiter
 
@@ -59016,7 +59052,7 @@ Total entries processed: 7402
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `telegram-telegramdesktop.yml`
-- **URL**: https://td.telegram.org/tx64/tsetup-x64.6.6.0.exe
+- **URL**: https://td.telegram.org/tx64/tsetup-x64.6.6.1.exe
 
 #### telerik-fiddler-classic
 
@@ -61680,7 +61716,7 @@ Total entries processed: 7402
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `unibo-alchemist.yml`
-- **URL**: https://github.com/AlchemistSimulator/Alchemist/releases/download/43.0.8/alchemist-43.0.8.msi
+- **URL**: https://github.com/AlchemistSimulator/Alchemist/releases/download/43.0.9/alchemist-43.0.9.msi
 
 #### uniconta-uniconta
 
@@ -62553,7 +62589,7 @@ Total entries processed: 7402
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0078/gvim_9.2.0078_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0089/gvim_9.2.0089_x64.exe
 
 #### vim-vim
 
@@ -63957,7 +63993,7 @@ Total entries processed: 7402
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `willibrandon-pgtail.yml`
-- **URL**: https://github.com/willibrandon/pgtail/releases/download/v0.5.0/pgtail-windows-x86_64.msi
+- **URL**: https://github.com/willibrandon/pgtail/releases/download/v0.5.1/pgtail-windows-x86_64.msi
 
 #### willnewii-qiniuclient
 
@@ -65244,7 +65280,7 @@ Total entries processed: 7402
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ximilalaxiang-delive.yml`
-- **URL**: https://github.com/XimilalaXiang/DeLive/releases/download/v1.1.5/DeLive-1.1.5-x64.exe
+- **URL**: https://github.com/XimilalaXiang/DeLive/releases/download/v1.3.1/DeLive-1.3.0-x64.exe
 
 #### xinginc-akasakiminato
 
@@ -65613,7 +65649,7 @@ Total entries processed: 7402
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `y-aslant-elegantclipboard.yml`
-- **URL**: https://github.com/Y-ASLant/ElegantClipboard/releases/download/v0.7.39/ElegantClipboard_0.7.39_x64-setup.exe
+- **URL**: https://github.com/Y-ASLant/ElegantClipboard/releases/download/v0.7.65/ElegantClipboard_0.7.65_x64-setup.exe
 
 #### y2z-monolith
 
