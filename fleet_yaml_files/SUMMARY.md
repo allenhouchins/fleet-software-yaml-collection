@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-03-01 18:05:34 UTC
+Generated on: 2026-03-02 06:18:09 UTC
 
 ## Summary
 
-Total entries processed: 7404
+Total entries processed: 7402
 - macOS files: 386
-- Windows files: 7018
+- Windows files: 7016
 
 ## Generated Files
 
@@ -784,7 +784,7 @@ Total entries processed: 7404
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `clash-party.yml`
-- **URL**: https://github.com/mihomo-party-org/clash-party/releases/download/v1.9.1/clash-party-macos-1.9.1-arm64.pkg
+- **URL**: https://github.com/mihomo-party-org/clash-party/releases/download/v1.9.2/clash-party-macos-1.9.2-arm64.pkg
 
 #### clip-studio-paint
 
@@ -4287,7 +4287,7 @@ Total entries processed: 7404
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `adamtheturtle-doccmd.yml`
-- **URL**: https://github.com/adamtheturtle/doccmd/releases/download/2026.02.27.1/doccmd-windows.exe
+- **URL**: https://github.com/adamtheturtle/doccmd/releases/download/2026.03.01/doccmd-windows.exe
 
 #### adaptiveml-adpt
 
@@ -7680,7 +7680,7 @@ Total entries processed: 7404
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `arashivisioninc-insta360studio.yml`
-- **URL**: https://file.insta360.com/static/f76e37c662d8c627153ab8cdb301b8d9/Insta360_Studio_5.8.6_release_insta360(RC_build67)_20251226_170408_1766740076009.exe
+- **URL**: https://wassets.insta360.com/common/3df37bda2ef14e3fbad137f042c4add7/Insta360_Studio_5.9.0_release_insta360(RC_build54)_20260203_145356_1770101860793.exe
 
 #### arashshalchian-searchmate
 
@@ -7725,7 +7725,7 @@ Total entries processed: 7404
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `archisman-panigrahi-quickbib.yml`
-- **URL**: https://github.com/archisman-panigrahi/QuickBib/releases/download/v0.6.1/QuickBib-Installer-v0.6.1-x64.exe
+- **URL**: https://github.com/archisman-panigrahi/QuickBib/releases/download/v0.7.1/QuickBib-Installer-v0.7.1-x64.exe
 
 #### arctype-arctype
 
@@ -8851,24 +8851,6 @@ Total entries processed: 7404
 - **Version**: 
 - **File**: `azaharemu-azahar.yml`
 - **URL**: https://github.com/azahar-emu/azahar/releases/download/2124.3/azahar-2124.3-windows-msvc-installer.exe
-
-#### azaharemulator-azahar-msvc
-
-- **Source**: winget
-- **Name**: azaharemulator-azahar-msvc
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `azaharemulator-azahar-msvc.yml`
-- **URL**: https://github.com/azahar-emu/azahar/releases/download/2123.3/azahar-2123.3-windows-msvc-installer.exe
-
-#### azaharemulator-azahar-msys2
-
-- **Source**: winget
-- **Name**: azaharemulator-azahar-msys2
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `azaharemulator-azahar-msys2.yml`
-- **URL**: https://github.com/azahar-emu/azahar/releases/download/2124.3/azahar-2124.3-windows-msys2-installer.exe
 
 #### azeus-convene
 
@@ -12540,7 +12522,7 @@ Total entries processed: 7404
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bullzip-pdfprinter.yml`
-- **URL**: https://www.bullzip.com/download/pdf/Setup_BullzipPDFPrinter_2025_2_0_2990.exe
+- **URL**: https://cdn.bullzip.com/download/pdf/Setup_BullzipPDFPrinter_2026_0_0_2993.exe
 
 #### burnaware-burnawarepremium
 
@@ -18606,7 +18588,7 @@ Total entries processed: 7404
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `drrakendu78-unicreate.yml`
-- **URL**: https://github.com/drrakendu78/UniCreate/releases/download/v1.0.4/UniCreate_1.0.4_x64-setup.exe
+- **URL**: https://github.com/drrakendu78/UniCreate/releases/download/v1.0.6/UniCreate_1.0.6_x64-setup.exe
 
 #### drscaon-oneleft
 
@@ -20856,7 +20838,7 @@ Total entries processed: 7404
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `evilmartians-lefthook.yml`
-- **URL**: https://github.com/evilmartians/lefthook/releases/download/v2.1.1/lefthook_2.1.1_Windows_x86_64.exe
+- **URL**: https://github.com/evilmartians/lefthook/releases/download/v2.1.2/lefthook_2.1.2_Windows_x86_64.exe
 
 #### evolus-pencil
 
@@ -24006,7 +23988,7 @@ Total entries processed: 7404
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `giuliosorrentino-cbriscola-avalonia.yml`
-- **URL**: https://github.com/GiulianoSpaghetti/CBriscola.Material/releases/download/1.1.1.4/CBriscola.Avalonia-1.1.1.4-material-amd64.msi
+- **URL**: https://github.com/GiulianoSpaghetti/CBriscola.Material/releases/download/2.0.0.2/CBriscola.Avalonia-2.0.0.3-material-amd64.msi
 
 #### giuliosorrentino-cbriscola-wpf
 
@@ -26760,7 +26742,7 @@ Total entries processed: 7404
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hypixelstudios-hytale.yml`
-- **URL**: https://launcher.hytale.com/builds/release/windows/amd64/hytale-launcher-installer-2026.02.23-17f7b59.exe
+- **URL**: https://launcher.hytale.com/builds/release/windows/amd64/hytale-launcher-installer-2026.02.26-8739a13.exe
 
 #### ia-iawriter
 
@@ -30972,7 +30954,7 @@ Total entries processed: 7404
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-glaxnimate.yml`
-- **URL**: https://cdn.kde.org/ci-builds/graphics/glaxnimate/release-0.6/windows/glaxnimate-release_0.6-3149-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/graphics/glaxnimate/release-0.6/windows/glaxnimate-release_0.6-3184-windows-cl-msvc2022-x86_64.exe
 
 #### kde-granatier
 
@@ -31476,7 +31458,7 @@ Total entries processed: 7404
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-marknote.yml`
-- **URL**: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-1261-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-1265-windows-cl-msvc2022-x86_64.exe
 
 #### kde-neochat
 
@@ -34041,7 +34023,7 @@ Total entries processed: 7404
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lucasdeeiroz-robotrunner.yml`
-- **URL**: https://github.com/lucasdeeiroz/robot_runner/releases/download/v2.1.20/Robot.Runner_2.1.20_windows_x64-setup.exe
+- **URL**: https://github.com/lucasdeeiroz/robot_runner/releases/download/v2.1.21/Robot.Runner_2.1.21_windows_x64-setup.exe
 
 #### lucasreade-ohhaibrowser
 
@@ -39459,7 +39441,7 @@ Total entries processed: 7404
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-ka.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b1/win64/ka/Firefox%20Setup%20149.0b1.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b2/win64/ka/Firefox%20Setup%20149.0b2.exe
 
 #### mozilla-firefox-developeredition-kab
 
@@ -39612,7 +39594,7 @@ Total entries processed: 7404
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-oc.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b1/win64/oc/Firefox%20Setup%20149.0b1.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b2/win64/oc/Firefox%20Setup%20149.0b2.exe
 
 #### mozilla-firefox-developeredition-pa-in
 
@@ -39648,7 +39630,7 @@ Total entries processed: 7404
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-pt-pt.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b1/win64/pt-PT/Firefox%20Setup%20149.0b1.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b2/win64/pt-PT/Firefox%20Setup%20149.0b2.exe
 
 #### mozilla-firefox-developeredition-rm
 
@@ -39657,7 +39639,7 @@ Total entries processed: 7404
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-rm.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b1/win64/rm/Firefox%20Setup%20149.0b1.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b2/win64/rm/Firefox%20Setup%20149.0b2.exe
 
 #### mozilla-firefox-developeredition-ro
 
@@ -39666,7 +39648,7 @@ Total entries processed: 7404
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-ro.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b1/win64/ro/Firefox%20Setup%20149.0b1.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b2/win64/ro/Firefox%20Setup%20149.0b2.exe
 
 #### mozilla-firefox-developeredition-ru
 
@@ -39675,7 +39657,7 @@ Total entries processed: 7404
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-ru.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b1/win64/ru/Firefox%20Setup%20149.0b1.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b2/win64/ru/Firefox%20Setup%20149.0b2.exe
 
 #### mozilla-firefox-developeredition-sc
 
@@ -39693,7 +39675,7 @@ Total entries processed: 7404
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-sco.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b1/win64/sco/Firefox%20Setup%20149.0b1.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b2/win64/sco/Firefox%20Setup%20149.0b2.exe
 
 #### mozilla-firefox-developeredition-si
 
@@ -39774,7 +39756,7 @@ Total entries processed: 7404
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-ta.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b1/win64/ta/Firefox%20Setup%20149.0b1.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b2/win64/ta/Firefox%20Setup%20149.0b2.exe
 
 #### mozilla-firefox-developeredition-te
 
@@ -39819,7 +39801,7 @@ Total entries processed: 7404
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-tr.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b1/win64/tr/Firefox%20Setup%20149.0b1.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b2/win64/tr/Firefox%20Setup%20149.0b2.exe
 
 #### mozilla-firefox-developeredition-trs
 
@@ -59034,7 +59016,7 @@ Total entries processed: 7404
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `telegram-telegramdesktop.yml`
-- **URL**: https://td.telegram.org/tx64/tsetup-x64.6.5.1.exe
+- **URL**: https://td.telegram.org/tx64/tsetup-x64.6.6.0.exe
 
 #### telerik-fiddler-classic
 
@@ -60033,7 +60015,7 @@ Total entries processed: 7404
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `thomasgossler-outlookcalendarsync.yml`
-- **URL**: https://thomasgossler.blob.core.windows.net/outlookcalendarsync/OutlookCalendarSync-Setup-v1.1.7.exe
+- **URL**: https://thomasgossler.blob.core.windows.net/outlookcalendarsync/OutlookCalendarSync-Setup-v1.2.0.exe
 
 #### thomasnordquist-mqtt-explorer-beta
 
@@ -62247,7 +62229,7 @@ Total entries processed: 7404
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vcmi-vcmi.yml`
-- **URL**: https://github.com/vcmi/vcmi/releases/download/1.7.2/VCMI-Windows-x64.exe
+- **URL**: https://github.com/vcmi/vcmi/releases/download/1.7.3/VCMI-Windows-x64.exe
 
 #### vcsjones-azuresigntool
 
@@ -62508,7 +62490,7 @@ Total entries processed: 7404
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc-nightly.yml`
-- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20260226-0425/vlc-4.0.0-dev-win64-f110a204.msi
+- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20260301-0448/vlc-4.0.0-dev-win64-1499dace.msi
 
 #### videolan-vlc
 
@@ -65370,7 +65352,7 @@ Total entries processed: 7404
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xlightssequencer-xlights.yml`
-- **URL**: https://github.com/xLightsSequencer/xLights/releases/download/nightly/xLights64_2025_10_nightly-022897a.exe
+- **URL**: https://github.com/xLightsSequencer/xLights/releases/download/2026.03/xLights64_2026_3.exe
 
 #### xm4ddy-ofgb
 
