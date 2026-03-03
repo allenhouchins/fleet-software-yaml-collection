@@ -1,4 +1,4 @@
-url: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b3/win64/sco/Firefox%20Setup%20149.0b3.exe
+url: https://github.com/edde746/plezy/releases/download/1.23.0/plezy-windows-installer.exe
 automatic_install: false
 self_service: false
 categories: []
