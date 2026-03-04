@@ -1,4 +1,4 @@
-url: https://github.com/Yubico/yubioath-flutter/releases/download/7.3.1/yubico-authenticator-7.3.1-win64.msi
+url: https://github.com/Yubico/yubioath-flutter/releases/download/7.3.2/yubico-authenticator-7.3.2-win64.msi
 automatic_install: false
 self_service: false
 categories: []
