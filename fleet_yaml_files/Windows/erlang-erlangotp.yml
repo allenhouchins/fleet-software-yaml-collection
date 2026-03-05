@@ -1,4 +1,4 @@
-url: https://github.com/erlang/otp/releases/download/OTP-28.3.3/otp_win64_28.3.3.exe
+url: https://github.com/erlang/otp/releases/download/OTP-28.4/otp_win64_28.4.exe
 automatic_install: false
 self_service: false
 categories: []
