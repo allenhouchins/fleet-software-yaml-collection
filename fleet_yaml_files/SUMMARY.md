@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-03-05 18:36:07 UTC
+Generated on: 2026-03-06 06:14:11 UTC
 
 ## Summary
 
-Total entries processed: 7442
+Total entries processed: 7446
 - macOS files: 386
-- Windows files: 7056
+- Windows files: 7060
 
 ## Generated Files
 
@@ -109,7 +109,7 @@ Total entries processed: 7442
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `anka-virtualization.yml`
-- **URL**: https://downloads.veertu.com/anka/Anka-3.8.4.210.pkg
+- **URL**: https://downloads.veertu.com/anka/Anka-3.8.5.211.pkg
 
 #### appsanywhere
 
@@ -1693,7 +1693,7 @@ Total entries processed: 7442
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `malwarebytes.yml`
-- **URL**: https://data-cdn.mbamupdates.com/web/mb5_mac/Malwarebytes-Mac-5.20.1.3626.pkg
+- **URL**: https://data-cdn.mbamupdates.com/web/mb5_mac/Malwarebytes-Mac-5.21.1.3705.pkg
 
 #### mamp
 
@@ -1873,7 +1873,7 @@ Total entries processed: 7442
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `middledrag.yml`
-- **URL**: https://github.com/NullPointerDepressiveDisorder/MiddleDrag/releases/download/v1.4.2.4/MiddleDrag-1.4.2.4.pkg
+- **URL**: https://github.com/NullPointerDepressiveDisorder/MiddleDrag/releases/download/v1.4.2.5/MiddleDrag-1.4.2.5.pkg
 
 #### miniconda
 
@@ -2692,7 +2692,7 @@ Total entries processed: 7442
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `segger-jlink.yml`
-- **URL**: https://www.segger.com/downloads/jlink/JLink_MacOSX_V924_universal.pkg
+- **URL**: https://www.segger.com/downloads/jlink/JLink_MacOSX_V924a_universal.pkg
 
 #### segger-ozone
 
@@ -2773,7 +2773,7 @@ Total entries processed: 7442
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `sfm.yml`
-- **URL**: https://github.com/SagerNet/sing-box/releases/download/v1.13.0/SFM-1.13.0-Universal.pkg
+- **URL**: https://github.com/SagerNet/sing-box/releases/download/v1.13.1/SFM-1.13.1-Universal.pkg
 
 #### shutter-encoder
 
@@ -7212,7 +7212,7 @@ Total entries processed: 7442
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `antibodysoftware-wiztree.yml`
-- **URL**: https://diskanalyzer.com/files/wiztree_4_29_setup.exe
+- **URL**: https://diskanalyzer.com/files/wiztree_4_30_setup.exe
 
 #### antimicro-antimicro
 
@@ -8869,6 +8869,15 @@ Total entries processed: 7442
 - **Version**: 
 - **File**: `ayibatariibaba-stopawu.yml`
 - **URL**: https://github.com/tariibaba/stopawu/releases/download/v1.0.0/Stopawu-1.0.0-x64.exe
+
+#### azaharemu-azahar-msys2
+
+- **Source**: winget
+- **Name**: azaharemu-azahar-msys2
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `azaharemu-azahar-msys2.yml`
+- **URL**: https://github.com/azahar-emu/azahar/releases/download/2124.3/azahar-2124.3-windows-msys2-installer.exe
 
 #### azaharemu-azahar
 
@@ -12225,7 +12234,7 @@ Total entries processed: 7442
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `brave-brave.yml`
-- **URL**: https://github.com/brave/brave-browser/releases/download/v1.87.191/BraveBrowserStandaloneSilentSetup.exe
+- **URL**: https://github.com/brave/brave-browser/releases/download/v1.87.192/BraveBrowserStandaloneSilentSetup.exe
 
 #### breeze2-dsumanager
 
@@ -12846,7 +12855,7 @@ Total entries processed: 7442
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bytedance-trae-cn.yml`
-- **URL**: https://lf-cdn.trae.ai/obj/trae-ai-us/pkg/app/releases/stable/2.3.9372/win32/Trae%20CN-Setup-x64.exe
+- **URL**: https://lf-cdn.trae.ai/obj/trae-ai-us/pkg/app/releases/stable/2.3.11008/win32/Trae%20CN-Setup-x64.exe
 
 #### bytedance-trae
 
@@ -14574,7 +14583,7 @@ Total entries processed: 7442
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cockos-reaper.yml`
-- **URL**: https://www.reaper.fm/files/7.x/reaper762_x64-install.exe
+- **URL**: https://www.reaper.fm/files/7.x/reaper763_x64-install.exe
 
 #### cocojojo5213-devjanitor
 
@@ -16743,7 +16752,7 @@ Total entries processed: 7442
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `davidemaggi-konciergeui.yml`
-- **URL**: https://github.com/davidemaggi/koncierge-ui/releases/download/v1.2.4/KonciergeUI-setup-1.2.4.exe
+- **URL**: https://github.com/davidemaggi/koncierge-ui/releases/download/v1.3.0/KonciergeUI-setup-1.3.0.exe
 
 #### davidmeeker-femm
 
@@ -17904,7 +17913,7 @@ Total entries processed: 7442
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `discord-discord-canary.yml`
-- **URL**: https://canary.dl2.discordapp.net/distro/app/canary/win/x64/1.0.841/DiscordCanarySetup.exe
+- **URL**: https://canary.dl2.discordapp.net/distro/app/canary/win/x64/1.0.842/DiscordCanarySetup.exe
 
 #### discord-discord-development
 
@@ -17922,7 +17931,7 @@ Total entries processed: 7442
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `discord-discord-ptb.yml`
-- **URL**: https://ptb.dl2.discordapp.net/distro/app/ptb/win/x64/1.0.1181/DiscordPTBSetup.exe
+- **URL**: https://ptb.dl2.discordapp.net/distro/app/ptb/win/x64/1.0.1183/DiscordPTBSetup.exe
 
 #### discord-discord
 
@@ -20370,7 +20379,7 @@ Total entries processed: 7442
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ente-io-photos-desktop.yml`
-- **URL**: https://github.com/ente-io/photos-desktop/releases/download/v1.7.18/ente-1.7.18-x64.exe
+- **URL**: https://github.com/ente-io/photos-desktop/releases/download/v1.7.21/ente-1.7.21-x64.exe
 
 #### enter-tainer-typstyle
 
@@ -24186,7 +24195,7 @@ Total entries processed: 7442
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `glab-glab.yml`
-- **URL**: https://gitlab.com/gitlab-org/cli/-/releases/v1.88.0/downloads/glab_1.88.0_Windows_x86_64_installer.exe
+- **URL**: https://gitlab.com/gitlab-org/cli/-/releases/v1.89.0/downloads/glab_1.89.0_Windows_x86_64_installer.exe
 
 #### glassdevtools-void
 
@@ -26715,7 +26724,7 @@ Total entries processed: 7442
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hydralauncher-hydra.yml`
-- **URL**: https://github.com/hydralauncher/hydra/releases/download/v3.9.0/hydralauncher-3.9.0-setup.exe
+- **URL**: https://github.com/hydralauncher/hydra/releases/download/v3.9.1/hydralauncher-3.9.1-setup.exe
 
 #### hydrogen-music-hydrogen
 
@@ -26841,7 +26850,7 @@ Total entries processed: 7442
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hypixelstudios-hytale.yml`
-- **URL**: https://launcher.hytale.com/builds/release/windows/amd64/hytale-launcher-installer-2026.03.03-a4f6003.exe
+- **URL**: https://launcher.hytale.com/builds/release/windows/amd64/hytale-launcher-installer-2026.03.05-dea483c.exe
 
 #### ia-iawriter
 
@@ -30531,7 +30540,7 @@ Total entries processed: 7442
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `juanjofuchs-ccburn.yml`
-- **URL**: https://github.com/JuanjoFuchs/ccburn/releases/download/v0.5.0/ccburn-0.5.0-windows-x64.exe
+- **URL**: https://github.com/JuanjoFuchs/ccburn/releases/download/v0.5.1/ccburn-0.5.1-windows-x64.exe
 
 #### juanjofuchs-hwinfo-tui
 
@@ -31053,7 +31062,7 @@ Total entries processed: 7442
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-elisa.yml`
-- **URL**: https://cdn.kde.org/ci-builds/multimedia/elisa/master/windows/elisa-master-4344-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/multimedia/elisa/master/windows/elisa-master-4350-windows-cl-msvc2022-x86_64.exe
 
 #### kde-falkon
 
@@ -31593,7 +31602,7 @@ Total entries processed: 7442
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-marknote.yml`
-- **URL**: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-1324-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-1326-windows-cl-msvc2022-x86_64.exe
 
 #### kde-neochat
 
@@ -38649,7 +38658,7 @@ Total entries processed: 7442
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mongodb-mongodbatlascli.yml`
-- **URL**: https://fastdl.mongodb.org/mongocli/mongodb-atlas-cli_1.53.0_windows_x86_64.msi
+- **URL**: https://fastdl.mongodb.org/mongocli/mongodb-atlas-cli_1.53.1_windows_x86_64.msi
 
 #### mongodb-mongodbcli
 
@@ -40035,7 +40044,7 @@ Total entries processed: 7442
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-uz.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b1/win64/uz/Firefox%20Setup%20149.0b1.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b4/win64/uz/Firefox%20Setup%20149.0b4.exe
 
 #### mozilla-firefox-developeredition-vi
 
@@ -54023,6 +54032,15 @@ Total entries processed: 7442
 - **File**: `sap-sapmachine-25-jre.yml`
 - **URL**: https://github.com/SAP/SapMachine/releases/download/sapmachine-25.0.2/sapmachine-jre-25.0.2_windows-x64_bin.msi
 
+#### saraansx-lune
+
+- **Source**: winget
+- **Name**: saraansx-lune
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `saraansx-lune.yml`
+- **URL**: https://github.com/saraansx/Lune/releases/download/v1.0.0/Lune-Setup-1.0.0.exe
+
 #### sartoxonlygnu-audacium
 
 - **Source**: winget
@@ -57090,7 +57108,7 @@ Total entries processed: 7442
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `steampunklabs-awsloggy.yml`
-- **URL**: https://github.com/aegixx/aws-loggy/releases/download/v3.9.1/Loggy-3.9.1-windows-x86_64.msi
+- **URL**: https://github.com/aegixx/aws-loggy/releases/download/v3.9.2/Loggy-3.9.2-windows-x86_64.msi
 
 #### steccas-protonclient
 
@@ -58170,7 +58188,7 @@ Total entries processed: 7442
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sylvainrougeaux-metatogger.yml`
-- **URL**: https://api.luminescence-software.org/download.php?software=metatogger&installer=msi&version=7700
+- **URL**: https://api.luminescence-software.org/download.php?software=metatogger&installer=msi&version=7712
 
 #### sylviiu-ezytdl
 
@@ -61583,6 +61601,24 @@ Total entries processed: 7442
 - **File**: `trivia-bot-apps-trivia-desktop.yml`
 - **URL**: https://github.com/Trivia-Bot-Apps/trivia-desktop/releases/download/v1.5.1/Trivia-Setup-1.5.1.exe
 
+#### tromosm-cryptivisx
+
+- **Source**: winget
+- **Name**: tromosm-cryptivisx
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `tromosm-cryptivisx.yml`
+- **URL**: https://github.com/tromoSM/CryptivisX/releases/download/v1.1/CryptivisX-windows-installer.exe
+
+#### tromosm-xcreendesk
+
+- **Source**: winget
+- **Name**: tromosm-xcreendesk
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `tromosm-xcreendesk.yml`
+- **URL**: https://github.com/tromoSM/xcreenDesk/releases/download/v1.0/XcreenDesk-windows-installer.exe
+
 #### truckersmp-launcher
 
 - **Source**: winget
@@ -62364,7 +62400,7 @@ Total entries processed: 7442
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `urbackup-urbackup-server.yml`
-- **URL**: https://hndl.urbackup.org/Server/2.5.35/UrBackup%20Server%202.5.35.exe
+- **URL**: https://hndl.urbackup.org/Server/2.5.36/UrBackup%20Server%202.5.36.exe
 
 #### usbtree-usbtree
 
@@ -62913,7 +62949,7 @@ Total entries processed: 7442
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0010/gvim_9.2.0010_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0112/gvim_9.2.0112_x64.exe
 
 #### vinaysajip-pythonlauncher
 
@@ -66468,7 +66504,7 @@ Total entries processed: 7442
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zedindustries-zed-preview.yml`
-- **URL**: https://github.com/zed-industries/zed/releases/download/v0.226.4-pre/Zed-x86_64.exe
+- **URL**: https://github.com/zed-industries/zed/releases/download/v0.227.0-pre/Zed-x86_64.exe
 
 #### zedindustries-zed
 
