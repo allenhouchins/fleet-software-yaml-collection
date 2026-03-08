@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-03-07 18:05:34 UTC
+Generated on: 2026-03-08 06:12:56 UTC
 
 ## Summary
 
@@ -3097,7 +3097,7 @@ Total entries processed: 7447
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `topaz-photo.yml`
-- **URL**: https://downloads.topazlabs.com/deploy/TopazPhoto/1.2.1/TopazPhoto-1.2.1.pkg
+- **URL**: https://downloads.topazlabs.com/deploy/TopazPhoto/1.3.1/TopazPhoto-1.3.1-arm64.pkg
 
 #### topaz-video
 
@@ -3340,7 +3340,7 @@ Total entries processed: 7447
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `wireless-workbench.yml`
-- **URL**: https://content-files.shure.com/Software/wireless-workbench/7-8-0/Wireless-Workbench-macOS-7.8.0.pkg
+- **URL**: https://content-files.shure.com/Software/wireless-workbench/7-8-1/Wireless-Workbench-macOS-7.8.1.56.pkg
 
 #### workspace-one-intelligent-hub
 
@@ -11595,7 +11595,7 @@ Total entries processed: 7447
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bitwarden-bitwarden.yml`
-- **URL**: https://github.com/bitwarden/clients/releases/download/desktop-v2025.3.1/Bitwarden-Installer-2025.3.1.exe
+- **URL**: https://github.com/bitwarden/clients/releases/download/desktop-v2026.2.1/Bitwarden-Installer-2026.2.1.exe
 
 #### bitwig-bitwig
 
@@ -12909,7 +12909,7 @@ Total entries processed: 7447
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `c3er-mdview.yml`
-- **URL**: https://github.com/c3er/mdview/releases/download/v4.0.0/mdview-4.0.0-x64.exe
+- **URL**: https://github.com/c3er/mdview/releases/download/v4.0.1/mdview-4.0.1-x64.exe
 
 #### cabininteractive-hamrspro
 
@@ -27390,7 +27390,7 @@ Total entries processed: 7447
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `igoogolx-lux.yml`
-- **URL**: https://github.com/igoogolx/lux/releases/download/v1.40.0/lux-1.40.0-x64-windows.exe
+- **URL**: https://github.com/igoogolx/lux/releases/download/v1.40.1/lux-1.40.1-x64-windows.exe
 
 #### igoravl-tfscmdlets
 
@@ -31602,7 +31602,7 @@ Total entries processed: 7447
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-marknote.yml`
-- **URL**: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-1329-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-1349-windows-cl-msvc2022-x86_64.exe
 
 #### kde-neochat
 
@@ -47361,7 +47361,7 @@ Total entries processed: 7447
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `oradbdumpviewer-oradbdumpviewer.yml`
-- **URL**: https://github.com/OraDB-DUMP-Viewer/OraDB-DUMP-Viewer/releases/download/v1.2.3/OraDBDumpViewer_v1.2.3_installer_x64.msi
+- **URL**: https://github.com/OraDB-DUMP-Viewer/OraDB-DUMP-Viewer/releases/download/v1.2.5/OraDBDumpViewer_v1.2.5_installer_x64.msi
 
 #### orange-opensource-hurl
 
@@ -60123,7 +60123,7 @@ Total entries processed: 7447
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `thechandanbhagat-alter.yml`
-- **URL**: https://github.com/thechandanbhagat/alter-pm/releases/download/v0.4.0/alter-0.4.0-windows-x64-setup.exe
+- **URL**: https://github.com/thechandanbhagat/alter-pm/releases/download/v0.5.0/alter-0.5.0-windows-x64-setup.exe
 
 #### thecryptteam-crypt
 
@@ -62949,7 +62949,7 @@ Total entries processed: 7447
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0112/gvim_9.2.0112_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0119/gvim_9.2.0119_x64.exe
 
 #### vim-vim
 
@@ -66009,7 +66009,7 @@ Total entries processed: 7447
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `y-aslant-elegantclipboard.yml`
-- **URL**: https://github.com/Y-ASLant/ElegantClipboard/releases/download/v0.7.77/ElegantClipboard_0.7.77_x64-setup.exe
+- **URL**: https://github.com/Y-ASLant/ElegantClipboard/releases/download/v0.9.3/ElegantClipboard_0.9.3_x64-setup.exe
 
 #### y2z-monolith
 
