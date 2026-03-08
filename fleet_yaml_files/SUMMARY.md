@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-03-08 06:12:56 UTC
+Generated on: 2026-03-08 18:05:43 UTC
 
 ## Summary
 
@@ -4188,7 +4188,7 @@ Total entries processed: 7447
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `acqusys-taskeract.yml`
-- **URL**: https://f001.backblazeb2.com/file/taskeract-pub/releases/v1.4.0/Taskeract_1.4.0_x64-setup.exe
+- **URL**: https://f001.backblazeb2.com/file/taskeract-pub/releases/v1.5.0/Taskeract_1.5.0_x64-setup.exe
 
 #### acronis-cyberprotecthomeoffice
 
@@ -4881,7 +4881,7 @@ Total entries processed: 7447
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aiclientproxy-proxycast.yml`
-- **URL**: https://github.com/aiclientproxy/proxycast/releases/download/v0.80.0/ProxyCast_0.80.0_x64-setup.exe
+- **URL**: https://github.com/aiclientproxy/proxycast/releases/download/v0.81.0/ProxyCast_0.81.0_x64-setup.exe
 
 #### aignesberger-websitewatcher
 
@@ -7293,7 +7293,7 @@ Total entries processed: 7447
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `antonreshetov-masscode.yml`
-- **URL**: https://github.com/massCodeIO/massCode/releases/download/v4.5.0/massCode-4.5.0-x64.exe
+- **URL**: https://github.com/massCodeIO/massCode/releases/download/v4.6.0/massCode-4.6.0-x64.exe
 
 #### antonycourtney-tad
 
@@ -21801,7 +21801,7 @@ Total entries processed: 7447
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `fjrevoredo-minidiarium.yml`
-- **URL**: https://github.com/fjrevoredo/mini-diarium/releases/download/v0.4.4/Mini-Diarium-0.4.4-windows.exe
+- **URL**: https://github.com/fjrevoredo/mini-diarium/releases/download/v0.4.6/Mini-Diarium-0.4.6-windows.exe
 
 #### flameshot-flameshot
 
@@ -32187,7 +32187,7 @@ Total entries processed: 7447
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `klayout-klayout.yml`
-- **URL**: https://www.klayout.org/downloads/Windows/klayout-0.30.6-win64-install.exe
+- **URL**: https://www.klayout.org/downloads/Windows/klayout-0.30.7-win64-install.exe
 
 #### klinker24-google-calendar-desktop
 
@@ -46893,7 +46893,7 @@ Total entries processed: 7447
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `openra-openra-playtest.yml`
-- **URL**: https://github.com/OpenRA/OpenRA/releases/download/playtest-20241116/OpenRA-playtest-20241116-x64.exe
+- **URL**: https://github.com/OpenRA/OpenRA/releases/download/playtest-20260222/OpenRA-playtest-20260222-x64.exe
 
 #### openra-openra-release
 
@@ -47361,7 +47361,7 @@ Total entries processed: 7447
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `oradbdumpviewer-oradbdumpviewer.yml`
-- **URL**: https://github.com/OraDB-DUMP-Viewer/OraDB-DUMP-Viewer/releases/download/v1.2.5/OraDBDumpViewer_v1.2.5_installer_x64.msi
+- **URL**: https://github.com/OraDB-DUMP-Viewer/OraDB-DUMP-Viewer/releases/download/v1.2.8/OraDBDumpViewer_v1.2.8_installer_x64.msi
 
 #### orange-opensource-hurl
 
@@ -60537,7 +60537,7 @@ Total entries processed: 7447
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `throneproj-throne.yml`
-- **URL**: https://github.com/throneproj/Throne/releases/download/1.0.9/Throne-1.0.9-windows64-installer.exe
+- **URL**: https://github.com/throneproj/Throne/releases/download/1.1.0/Throne-1.1.0-windows64-installer.exe
 
 #### ths-futures
 
@@ -65640,7 +65640,7 @@ Total entries processed: 7447
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ximilalaxiang-delive.yml`
-- **URL**: https://github.com/XimilalaXiang/DeLive/releases/download/v1.3.5/DeLive-1.3.5-x64.exe
+- **URL**: https://github.com/XimilalaXiang/DeLive/releases/download/v1.4.0/DeLive-1.4.0-x64.exe
 
 #### xinginc-akasakiminato
 
