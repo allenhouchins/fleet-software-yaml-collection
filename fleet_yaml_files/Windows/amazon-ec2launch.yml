@@ -1,4 +1,4 @@
-url: https://s3.amazonaws.com/amazon-ec2launch-v2/windows/amd64/2.3.56/AmazonEC2Launch.msi
+url: https://s3.amazonaws.com/amazon-ec2launch-v2/windows/amd64/2.4.0/AmazonEC2Launch.msi
 automatic_install: false
 self_service: false
 categories: []
