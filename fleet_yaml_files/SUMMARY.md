@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-03-08 18:05:43 UTC
+Generated on: 2026-03-09 06:21:16 UTC
 
 ## Summary
 
@@ -39513,7 +39513,7 @@ Total entries processed: 7447
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-gd.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b4/win64/gd/Firefox%20Setup%20149.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b5/win64/gd/Firefox%20Setup%20149.0b5.exe
 
 #### mozilla-firefox-developeredition-gl
 
@@ -39612,7 +39612,7 @@ Total entries processed: 7447
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-id.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b4/win64/id/Firefox%20Setup%20149.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b5/win64/id/Firefox%20Setup%20149.0b5.exe
 
 #### mozilla-firefox-developeredition-is
 
@@ -39675,7 +39675,7 @@ Total entries processed: 7447
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-km.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b4/win64/km/Firefox%20Setup%20149.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b5/win64/km/Firefox%20Setup%20149.0b5.exe
 
 #### mozilla-firefox-developeredition-kn
 
@@ -39702,7 +39702,7 @@ Total entries processed: 7447
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-lij.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b4/win64/lij/Firefox%20Setup%20149.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b5/win64/lij/Firefox%20Setup%20149.0b5.exe
 
 #### mozilla-firefox-developeredition-lt
 
@@ -39819,7 +39819,7 @@ Total entries processed: 7447
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-pl.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b4/win64/pl/Firefox%20Setup%20149.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b5/win64/pl/Firefox%20Setup%20149.0b5.exe
 
 #### mozilla-firefox-developeredition-pt-br
 
@@ -39846,7 +39846,7 @@ Total entries processed: 7447
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-rm.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b4/win64/rm/Firefox%20Setup%20149.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b5/win64/rm/Firefox%20Setup%20149.0b5.exe
 
 #### mozilla-firefox-developeredition-ro
 
@@ -39900,7 +39900,7 @@ Total entries processed: 7447
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-sk.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b4/win64/sk/Firefox%20Setup%20149.0b4.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b5/win64/sk/Firefox%20Setup%20149.0b5.exe
 
 #### mozilla-firefox-developeredition-sl
 
@@ -40737,7 +40737,7 @@ Total entries processed: 7447
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-esr-ms.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.7.1esr/win64/ms/Firefox%20Setup%20140.7.1esr.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.8.0esr/win64/ms/Firefox%20Setup%20140.8.0esr.exe
 
 #### mozilla-firefox-esr-my
 
@@ -62949,7 +62949,7 @@ Total entries processed: 7447
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0119/gvim_9.2.0119_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0125/gvim_9.2.0125_x64.exe
 
 #### vim-vim
 
