@@ -1,0 +1,7 @@
+url: https://builds.dotnet.microsoft.com/dotnet/Runtime/11.0.0-preview.2.26159.112/dotnet-runtime-11.0.0-preview.2.26159.112-osx-arm64.pkg
+automatic_install: false
+self_service: false
+categories: []
+
+# Categories are currently limited to Browsers, Communication, Developer tools, and Productivity.
+# This is a minimum version of this file. All configurable parameters can be seen at https://fleetdm.com/docs/rest-api/rest-api#parameters139

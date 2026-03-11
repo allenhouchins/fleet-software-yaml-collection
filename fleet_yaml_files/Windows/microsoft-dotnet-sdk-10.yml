@@ -1,4 +1,4 @@
-url: https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.103/dotnet-sdk-10.0.103-win-x64.exe
+url: https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.200/dotnet-sdk-10.0.200-win-x64.exe
 automatic_install: false
 self_service: false
 categories: []
