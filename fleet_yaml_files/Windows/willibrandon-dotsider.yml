@@ -1,4 +1,4 @@
-url: https://epicgames-download1.akamaized.net/Builds/UnrealEngineLauncher/Installers/Windows/EpicInstaller-19.2.2.msi?launcherfilename=EpicInstaller-19.2.2.msi
+url: https://github.com/willibrandon/dotsider/releases/download/v0.4.0/dotsider-win-x64.msi
 automatic_install: false
 self_service: false
 categories: []

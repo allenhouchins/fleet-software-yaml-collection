@@ -1,7 +1,10 @@
-url: https://epicgames-download1.akamaized.net/Builds/UnrealEngineLauncher/Installers/Windows/EpicInstaller-19.2.2.msi?launcherfilename=EpicInstaller-19.2.2.msi
+url: https://filepilot.nyc3.cdn.digitaloceanspaces.com/2026-02-10-v0.7.0/FPilot-v0.7.0.exe
 automatic_install: false
 self_service: false
 categories: []
+install_script: '# TODO: Add install script for this EXE'
+uninstall_script: '# TODO: Add uninstall script for this EXE'
 
 # Categories are currently limited to Browsers, Communication, Developer tools, and Productivity.
 # This is a minimum version of this file. All configurable parameters can be seen at https://fleetdm.com/docs/rest-api/rest-api#parameters139
+# Note: Any exe requires an install script and uninstall script to be defined
