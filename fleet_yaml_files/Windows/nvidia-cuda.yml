@@ -1,4 +1,4 @@
-url: https://developer.download.nvidia.com/compute/cuda/13.1.1/local_installers/cuda_13.1.1_windows.exe
+url: https://developer.download.nvidia.com/compute/cuda/13.2.0/local_installers/cuda_13.2.0_windows.exe
 automatic_install: false
 self_service: false
 categories: []
