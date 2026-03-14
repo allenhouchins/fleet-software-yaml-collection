@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-03-14 06:14:30 UTC
+Generated on: 2026-03-14 18:07:48 UTC
 
 ## Summary
 
@@ -2728,7 +2728,7 @@ Total entries processed: 7501
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `semeru-jdk-open-11.yml`
-- **URL**: https://github.com/ibmruntimes/semeru11-binaries/releases/download/jdk-11.0.30+7_openj9-0.57.0/ibm-semeru-open-jdk_aarch64_mac_11.0.30_7_openj9-0.57.0.pkg
+- **URL**: https://github.com/ibmruntimes/semeru11-binaries/releases/download/jdk-11.0.30%2B7.1_openj9-0.57.0/ibm-semeru-open-jdk_aarch64_mac_11.0.30.1.pkg
 
 #### semeru-jdk-open-17
 
@@ -2737,7 +2737,7 @@ Total entries processed: 7501
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `semeru-jdk-open-17.yml`
-- **URL**: https://github.com/ibmruntimes/semeru17-binaries/releases/download/jdk-17.0.18+8_openj9-0.57.0/ibm-semeru-open-jdk_aarch64_mac_17.0.18_8_openj9-0.57.0.pkg
+- **URL**: https://github.com/ibmruntimes/semeru17-binaries/releases/download/jdk-17.0.18%2B8.1_openj9-0.57.0/ibm-semeru-open-jdk_aarch64_mac_17.0.18.1.pkg
 
 #### semeru-jdk-open-21
 
@@ -2755,7 +2755,7 @@ Total entries processed: 7501
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `semeru-jdk-open-8.yml`
-- **URL**: https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk8u482-b08_openj9-0.57.0/ibm-semeru-open-jdk_x64_mac_8u482b08_openj9-0.57.0.pkg
+- **URL**: https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk8u482-b08.1_openj9-0.57.0/ibm-semeru-open-jdk_x64_mac_8.0.482.1.pkg
 
 #### semeru-jdk-open
 
@@ -2764,7 +2764,7 @@ Total entries processed: 7501
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `semeru-jdk-open.yml`
-- **URL**: https://github.com/ibmruntimes/semeru25-binaries/releases/download/jdk-25.0.2%2B10_openj9-0.57.0/ibm-semeru-open-jdk_aarch64_mac_25.0.2_10_openj9-0.57.0.pkg
+- **URL**: https://github.com/ibmruntimes/semeru25-binaries/releases/download/jdk-25.0.2%2B10.1_openj9-0.57.0/ibm-semeru-open-jdk_aarch64_mac_25.0.2.1.pkg
 
 #### senadevicemanager
 
@@ -3612,7 +3612,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `360-360chrome-x.yml`
-- **URL**: https://sedl.360tpcdn.com/cse/360csex_23.1.1187.64.exe
+- **URL**: https://sedl.360tpcdn.com/cse/360csex_23.1.1200.64.exe
 
 #### 360-360desktoplite
 
@@ -7698,7 +7698,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aptivi-nitrocid-0-2-0-x.yml`
-- **URL**: https://github.com/Aptivi/Nitrocid/releases/download/v0.2.0.4/nitrocid-win-x64-installer.exe
+- **URL**: https://github.com/Aptivi/Nitrocid/releases/download/v0.2.0.5/nitrocid-win-x64-installer.exe
 
 #### arashivisioninc-insta360studio
 
@@ -7977,7 +7977,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `art-art.yml`
-- **URL**: https://github.com/artpixls/ART/releases/download/1.26.2/ART_1.26.2_Win64.exe
+- **URL**: https://github.com/artpixls/ART/releases/download/1.26.3/ART_1.26.3_Win64.exe
 
 #### artemchepurnyi-keyguard
 
@@ -15771,7 +15771,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cpuid-cpu-z.yml`
-- **URL**: https://download.cpuid.com/cpu-z/cpu-z_2.18-en.exe
+- **URL**: https://download.cpuid.com/cpu-z/cpu-z_2.19-en.exe
 
 #### cpuid-hwmonitor
 
@@ -18309,7 +18309,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `docker-agent.yml`
-- **URL**: https://github.com/docker/docker-agent/releases/download/v1.32.2/docker-agent-windows-amd64.exe
+- **URL**: https://github.com/docker/docker-agent/releases/download/v1.32.3/docker-agent-windows-amd64.exe
 
 #### docker-buildx
 
@@ -23421,7 +23421,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gaoyangzhang-easyclaw.yml`
-- **URL**: https://github.com/gaoyangz77/easyclaw/releases/download/v1.6.2/EasyClaw.Setup.1.6.2.exe
+- **URL**: https://github.com/gaoyangz77/easyclaw/releases/download/v1.6.6/EasyClaw.Setup.1.6.6.exe
 
 #### gaoyoubo-hexoclient
 
@@ -28731,7 +28731,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ivyscience-ivysci.yml`
-- **URL**: https://package.cdn.ivysci.com/ivysci-release-updater/ivySCI-6.9.0.exe
+- **URL**: https://package.cdn.ivysci.com/ivysci-release-updater/ivySCI-6.9.1.exe
 
 #### iwalton3-plex-mpv-shim
 
@@ -31755,7 +31755,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-marknote.yml`
-- **URL**: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-1419-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-1432-windows-cl-msvc2022-x86_64.exe
 
 #### kde-minuet
 
@@ -37254,7 +37254,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-onedrive.yml`
-- **URL**: https://oneclient.sfx.ms/Win/Installers/26.026.0209.0004/amd64/OneDriveSetup.exe
+- **URL**: https://oneclient.sfx.ms/Win/Installers/26.032.0217.0003/amd64/OneDriveSetup.exe
 
 #### microsoft-openapi-hidi
 
@@ -38037,7 +38037,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-webdeploy.yml`
-- **URL**: https://download.microsoft.com/download/0/1/D/01DC28EA-638C-4A22-A57B-4CEF97755C6C/WebDeploy_amd64_en-US.msi
+- **URL**: https://download.microsoft.com/download/webdeploy_amd64_zh-TW.msi
 
 #### microsoft-webpicmd
 
@@ -45075,7 +45075,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nitrokeygmbh-nitrokey-app.yml`
-- **URL**: https://github.com/Nitrokey/nitrokey-app2/releases/download/v2.5.2/nitrokey-app-v2.5.2-x64-windows-installer.msi
+- **URL**: https://github.com/Nitrokey/nitrokey-app2/releases/download/v2.6.0/nitrokey-app-v2.6.0-x64-windows-installer.msi
 
 #### nitrokeygmbh-nitropy
 
@@ -53139,7 +53139,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `robedpixel-sdl3.yml`
-- **URL**: https://github.com/robedpixel/SDL3Installer/releases/download/3.4.0/SDL3Installer.msi
+- **URL**: https://github.com/robedpixel/SDL3Installer/releases/download/3.4.2/SDL3Installer.msi
 
 #### robertffrasca-pdfkeeper
 
@@ -54876,7 +54876,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `secondloop-secondloop.yml`
-- **URL**: https://github.com/dale0525/SecondLoop/releases/download/v1.24.0/SecondLoop-win.msi
+- **URL**: https://github.com/dale0525/SecondLoop/releases/download/v1.25.0/SecondLoop-win.msi
 
 #### secretsoperations-sops
 
@@ -57288,7 +57288,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `srwi-everythingtoolbar-deskband.yml`
-- **URL**: https://github.com/srwi/EverythingToolbar/releases/download/2.2.0/EverythingToolbar-2.2.0-x64.exe
+- **URL**: https://github.com/srwi/EverythingToolbar/releases/download/2.3.0/EverythingToolbar-2.3.0-x64.exe
 
 #### srwi-everythingtoolbar-launcher
 
@@ -57864,7 +57864,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `stirlingtools-stirlingpdf.yml`
-- **URL**: https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v2.7.1/Stirling-PDF-windows-x86_64.msi
+- **URL**: https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v2.7.2/Stirling-PDF-windows-x86_64.msi
 
 #### stnkl-everythingtoolbar-beta
 
@@ -58431,7 +58431,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `surrealdb-surrealdb.yml`
-- **URL**: https://github.com/surrealdb/surrealdb/releases/download/v3.0.3/surreal-v3.0.3.windows-amd64.exe
+- **URL**: https://github.com/surrealdb/surrealdb/releases/download/v3.0.4/surreal-v3.0.4.windows-amd64.exe
 
 #### suse-rancherdesktop
 
@@ -63516,7 +63516,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vivaldi-vivaldi-snapshot.yml`
-- **URL**: https://downloads.vivaldi.com/snapshot/Vivaldi.7.9.3970.24.x64.exe
+- **URL**: https://downloads.vivaldi.com/snapshot/Vivaldi.7.9.3970.28.x64.exe
 
 #### vivaldi-vivaldi
 
@@ -63525,7 +63525,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vivaldi-vivaldi.yml`
-- **URL**: https://downloads.vivaldi.com/stable/Vivaldi.7.8.3925.79.x64.exe
+- **URL**: https://downloads.vivaldi.com/stable/Vivaldi.7.8.3925.81.x64.exe
 
 #### vivi-vivi
 
@@ -66738,7 +66738,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yt-dlp-yt-dlp.yml`
-- **URL**: https://github.com/yt-dlp/yt-dlp/releases/download/2026.03.03/yt-dlp.exe
+- **URL**: https://github.com/yt-dlp/yt-dlp/releases/download/2026.03.13/yt-dlp.exe
 
 #### ytmdesktop-ytmdesktop
 

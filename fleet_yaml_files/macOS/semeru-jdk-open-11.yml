@@ -1,4 +1,4 @@
-url: https://github.com/ibmruntimes/semeru11-binaries/releases/download/jdk-11.0.30+7_openj9-0.57.0/ibm-semeru-open-jdk_aarch64_mac_11.0.30_7_openj9-0.57.0.pkg
+url: https://github.com/ibmruntimes/semeru11-binaries/releases/download/jdk-11.0.30%2B7.1_openj9-0.57.0/ibm-semeru-open-jdk_aarch64_mac_11.0.30.1.pkg
 automatic_install: false
 self_service: false
 categories: []
