@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-03-14 18:07:48 UTC
+Generated on: 2026-03-15 06:20:41 UTC
 
 ## Summary
 
@@ -4188,7 +4188,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `acqusys-taskeract.yml`
-- **URL**: https://f001.backblazeb2.com/file/taskeract-pub/releases/v1.8.1/Taskeract_1.8.1_x64-setup.exe
+- **URL**: https://f001.backblazeb2.com/file/taskeract-pub/releases/v1.9.0/Taskeract_1.9.0_x64-setup.exe
 
 #### acronis-cyberprotecthomeoffice
 
@@ -14898,7 +14898,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `codexu-notegen.yml`
-- **URL**: https://github.com/codexu/note-gen/releases/download/note-gen-v0.26.5/NoteGen_0.26.5_x64-setup.exe
+- **URL**: https://github.com/codexu/note-gen/releases/download/note-gen-v0.27.0/NoteGen_0.27.0_x64-setup.exe
 
 #### codice-plasticscm-cloudedition
 
@@ -17040,7 +17040,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `debba-tabularis.yml`
-- **URL**: https://github.com/debba/tabularis/releases/download/v0.9.8/tabularis_0.9.8_x64-setup.exe
+- **URL**: https://github.com/debba/tabularis/releases/download/v0.9.9/tabularis_0.9.9_x64-setup.exe
 
 #### dechamps-flexasio
 
@@ -17940,7 +17940,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dirkjansen-mailcheck2.yml`
-- **URL**: https://www.d-jan.de/MailCheck2Setup145Build592-64bit.exe
+- **URL**: https://www.d-jan.de/MailCheck2Setup146Build594-64bit.exe
 
 #### diroots-prosheets
 
@@ -18372,7 +18372,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `docker-ds.yml`
-- **URL**: https://github.com/docker/dash-releases/releases/download/v0.17.0/Dash.msi
+- **URL**: https://github.com/docker/dash-releases/releases/download/v0.18.3/Dash.msi
 
 #### docker-sandbox
 
@@ -18606,7 +18606,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `drakkan-sftpgo.yml`
-- **URL**: https://github.com/drakkan/sftpgo/releases/download/v2.7.0/sftpgo_v2.7.0_windows_x86_64.exe
+- **URL**: https://github.com/drakkan/sftpgo/releases/download/v2.7.1/sftpgo_v2.7.1_windows_x86_64.exe
 
 #### drakkan-sftpgoenterprise
 
@@ -19668,7 +19668,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `edde746-plezy.yml`
-- **URL**: https://github.com/edde746/plezy/releases/download/1.26.1/plezy-windows-installer.exe
+- **URL**: https://github.com/edde746/plezy/releases/download/1.27.2/plezy-windows-installer.exe
 
 #### edenian-prince-rust-secrets
 
@@ -20559,7 +20559,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `epilogue-epilogueoperator.yml`
-- **URL**: https://epilogue.nyc3.cdn.digitaloceanspaces.com/releases/software/Playback/version/1.8.0/release/windows/playback-setup.exe
+- **URL**: https://releases.epilogue.co/desktop/playback/1.9.0/release/windows/playback-setup.exe
 
 #### epsitec-colobot
 
@@ -33213,7 +33213,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `legeling-prompthub.yml`
-- **URL**: https://github.com/legeling/PromptHub/releases/download/v0.4.4/PromptHub-Setup-0.4.4-x64.exe
+- **URL**: https://github.com/legeling/PromptHub/releases/download/v0.4.5/PromptHub-Setup-0.4.5-x64.exe
 
 #### legithubdetai-animeback
 
@@ -35184,7 +35184,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `markuskellermann-convo.yml`
-- **URL**: https://github.com/markolo10/convo-releases/releases/download/v1.4.3/convo-setup.exe
+- **URL**: https://github.com/markolo10/convo-releases/releases/download/v1.4.5/convo-setup.exe
 
 #### markwesker-pypad
 
@@ -35256,7 +35256,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `martinrotter-rssguard.yml`
-- **URL**: https://github.com/martinrotter/rssguard/releases/download/5.0.3/rssguard-5.0.3-qt6-win10.exe
+- **URL**: https://github.com/martinrotter/rssguard/releases/download/5.0.4/rssguard-5.0.4-qt6-win10.exe
 
 #### masaodev-quick-dash-launcher
 
@@ -36003,7 +36003,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `michaelnoergaard-usbgroove.yml`
-- **URL**: https://github.com/michaelnoergaard/USB-Groove/releases/download/v1.49/USBGroove.exe
+- **URL**: https://github.com/michaelnoergaard/USB-Groove/releases/download/v1.53/USBGroove_Setup_v1.53.exe
 
 #### michaeltippach-asio4all
 
@@ -38253,7 +38253,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mikf-gallery-dl-nightly.yml`
-- **URL**: https://github.com/gdl-org/builds/releases/download/2026.03.12/gallery-dl_windows.exe
+- **URL**: https://github.com/gdl-org/builds/releases/download/2026.03.13/gallery-dl_windows.exe
 
 #### mikrotik-winbox
 
@@ -39585,7 +39585,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-de.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b7/win64/de/Firefox%20Setup%20149.0b7.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b8/win64/de/Firefox%20Setup%20149.0b8.exe
 
 #### mozilla-firefox-developeredition-dsb
 
@@ -39639,7 +39639,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-es-ar.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b7/win64/es-AR/Firefox%20Setup%20149.0b7.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b8/win64/es-AR/Firefox%20Setup%20149.0b8.exe
 
 #### mozilla-firefox-developeredition-es-cl
 
@@ -39711,7 +39711,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-fi.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b7/win64/fi/Firefox%20Setup%20149.0b7.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b8/win64/fi/Firefox%20Setup%20149.0b8.exe
 
 #### mozilla-firefox-developeredition-fr
 
@@ -39855,7 +39855,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-id.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b7/win64/id/Firefox%20Setup%20149.0b7.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b8/win64/id/Firefox%20Setup%20149.0b8.exe
 
 #### mozilla-firefox-developeredition-is
 
@@ -39891,7 +39891,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-ka.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b7/win64/ka/Firefox%20Setup%20149.0b7.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b8/win64/ka/Firefox%20Setup%20149.0b8.exe
 
 #### mozilla-firefox-developeredition-kab
 
@@ -40107,7 +40107,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-ru.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b7/win64/ru/Firefox%20Setup%20149.0b7.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b8/win64/ru/Firefox%20Setup%20149.0b8.exe
 
 #### mozilla-firefox-developeredition-sc
 
@@ -47406,7 +47406,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `openwhispersystems-signal.yml`
-- **URL**: https://updates.signal.org/desktop/signal-desktop-win-8.2.0.exe
+- **URL**: https://updates.signal.org/desktop/signal-desktop-win-8.2.1.exe
 
 #### openzfs-openzfs
 
@@ -53688,7 +53688,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rubyinstallerteam-rubywithdevkit-3-4.yml`
-- **URL**: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.8-1/rubyinstaller-devkit-3.4.8-1-x64.exe
+- **URL**: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.9-1/rubyinstaller-devkit-3.4.9-1-x64.exe
 
 #### rubyinstallerteam-rubywithdevkit-4-0
 
@@ -55758,7 +55758,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `simonschubert-kai.yml`
-- **URL**: https://github.com/SimonSchubert/Kai/releases/download/v1.9.4/Kai-1.9.4-windows.msi
+- **URL**: https://github.com/SimonSchubert/Kai/releases/download/v1.9.7/Kai-1.9.7-windows.msi
 
 #### simontatham-puzzles
 
@@ -66729,7 +66729,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yt-dlp-yt-dlp-nightly.yml`
-- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2026.03.11.233532/yt-dlp.exe
+- **URL**: https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/download/2026.03.13.083652/yt-dlp.exe
 
 #### yt-dlp-yt-dlp
 
@@ -67350,7 +67350,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zsyg-moonviewer.yml`
-- **URL**: https://github.com/zs-yg/moonviewer/releases/download/1.0/setup.exe
+- **URL**: https://github.com/zs-yg/moonviewer/releases/download/1.1/setup.exe
 
 #### ztools-ztools
 
