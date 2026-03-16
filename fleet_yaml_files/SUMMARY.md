@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-03-15 18:08:12 UTC
+Generated on: 2026-03-16 06:31:12 UTC
 
 ## Summary
 
-Total entries processed: 7501
+Total entries processed: 7500
 - macOS files: 388
-- Windows files: 7113
+- Windows files: 7112
 
 ## Generated Files
 
@@ -1164,6 +1164,15 @@ Total entries processed: 7501
 - **File**: `evercast.yml`
 - **URL**: https://s3.amazonaws.com/files.evercast.us/Evercast.pkg
 
+#### fidelity-trader-
+
+- **Source**: homebrew/installomator
+- **Name**: fidelity-trader-
+- **Description**: Generated from Homebrew cask or Installomator script
+- **Version**: 
+- **File**: `fidelity-trader-.yml`
+- **URL**: https://digital.fidelity.com/stgw/digital/atp-mac/FidelityTraderPlus.pkg
+
 #### filebot
 
 - **Source**: homebrew/installomator
@@ -1496,15 +1505,6 @@ Total entries processed: 7501
 - **Version**: 
 - **File**: `iriunwebcam.yml`
 - **URL**: https://iriun.com/IriunWebcam-2.9.1.pkg
-
-#### isyncr
-
-- **Source**: homebrew/installomator
-- **Name**: isyncr
-- **Description**: Generated from Homebrew cask or Installomator script
-- **Version**: 
-- **File**: `isyncr.yml`
-- **URL**: https://www.jrtstudio.com/files/iSyncr%20Desktop%206.1.0.pkg
 
 #### jedit-omega
 
@@ -4917,7 +4917,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aiko-chan-ai-discordbotclient.yml`
-- **URL**: https://github.com/aiko-chan-ai/DiscordBotClient/releases/download/v3.9.0/DiscordBotClient-win-x64.exe
+- **URL**: https://github.com/aiko-chan-ai/DiscordBotClient/releases/download/v3.9.1/DiscordBotClient-win-x64.exe
 
 #### aimp-aimp
 
@@ -12252,7 +12252,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `brave-brave.yml`
-- **URL**: https://github.com/brave/brave-browser/releases/download/v1.87.192/BraveBrowserStandaloneSilentSetup.exe
+- **URL**: https://github.com/brave/brave-browser/releases/download/v1.88.127/BraveBrowserStandaloneSilentSetup.exe
 
 #### breeze2-dsumanager
 
@@ -17913,7 +17913,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dinamonetworks-hsmdinamo.yml`
-- **URL**: https://downloads.dinamonetworks.io/bin/client/windows/x64/4.24.0/dinamo-4.24.0-x64-setup.msi
+- **URL**: https://downloads.dinamonetworks.io/bin/client/windows/x64/4.24.0/dinamo-4.24.0-x64-setup-en_us.msi
 
 #### dio-purecodec
 
@@ -17967,7 +17967,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `discord-discord-canary.yml`
-- **URL**: https://canary.dl2.discordapp.net/distro/app/canary/win/x64/1.0.844/DiscordCanarySetup.exe
+- **URL**: https://canary.dl2.discordapp.net/distro/app/canary/win/x64/1.0.847/DiscordCanarySetup.exe
 
 #### discord-discord-development
 
@@ -17976,7 +17976,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `discord-discord-development.yml`
-- **URL**: https://development.dl2.discordapp.net/distro/app/development/win/x64/1.0.960/DiscordDevelopmentSetup.exe
+- **URL**: https://development.dl2.discordapp.net/distro/app/development/win/x64/1.0.963/DiscordDevelopmentSetup.exe
 
 #### discord-discord-ptb
 
@@ -18373,15 +18373,6 @@ Total entries processed: 7501
 - **Version**: 
 - **File**: `docker-ds.yml`
 - **URL**: https://github.com/docker/dash-releases/releases/download/v0.18.4/Dash.msi
-
-#### docker-sandbox
-
-- **Source**: winget
-- **Name**: docker-sandbox
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `docker-sandbox.yml`
-- **URL**: https://github.com/docker/sandboxes-releases/releases/download/v0.12.0/docker-sandbox-windows-amd64.msi
 
 #### docker-secretsengine
 
@@ -21882,7 +21873,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `fishstrap-fishstrap.yml`
-- **URL**: https://github.com/fishstrap/fishstrap/releases/download/v3.0.2/Fishstrap.exe
+- **URL**: https://github.com/fishstrap/fishstrap/releases/download/v3.0.3/Fishstrap.exe
 
 #### fission-fission-cli
 
@@ -31773,7 +31764,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-neochat.yml`
-- **URL**: https://cdn.kde.org/ci-builds/network/neochat/release-26.04/windows/neochat-release_26.04-15095-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/network/neochat/release-26.04/windows/neochat-release_26.04-15133-windows-cl-msvc2022-x86_64.exe
 
 #### kde-okular
 
@@ -35256,7 +35247,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `martinrotter-rssguard.yml`
-- **URL**: https://github.com/martinrotter/rssguard/releases/download/5.0.4/rssguard-5.0.4-qt6-win10.exe
+- **URL**: https://github.com/martinrotter/rssguard/releases/download/4.8.6/rssguard-4.8.6-ff032516b-win10.exe
 
 #### masaodev-quick-dash-launcher
 
@@ -37713,7 +37704,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-sqlservermanagementstudio-22.yml`
-- **URL**: https://download.visualstudio.microsoft.com/download/pr/c7f9c40d-5956-4fa0-bd04-b866c2461198/58efa2590bf79fcea84f35cb6d0c5f6b852f7aa21a8e40939d1fdfe9cba80650/vs_SSMS.exe
+- **URL**: https://download.visualstudio.microsoft.com/download/pr/2b23517b-e100-42e1-a560-063af6edc4ec/e4418cafa3c1ab535f0f26ac97184749d5ccaa71349d6d174b203e591c21ee0b/vs_SSMS.exe
 
 #### microsoft-sqlservermanagementstudio
 
@@ -39432,7 +39423,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-ach.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b7/win64/ach/Firefox%20Setup%20149.0b7.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b8/win64/ach/Firefox%20Setup%20149.0b8.exe
 
 #### mozilla-firefox-developeredition-af
 
@@ -39522,7 +39513,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-bs.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b7/win64/bs/Firefox%20Setup%20149.0b7.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b8/win64/bs/Firefox%20Setup%20149.0b8.exe
 
 #### mozilla-firefox-developeredition-ca-valencia
 
@@ -39666,7 +39657,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-es-mx.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b7/win64/es-MX/Firefox%20Setup%20149.0b7.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b8/win64/es-MX/Firefox%20Setup%20149.0b8.exe
 
 #### mozilla-firefox-developeredition-et
 
@@ -39747,7 +39738,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-ga-ie.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b7/win64/ga-IE/Firefox%20Setup%20149.0b7.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b8/win64/ga-IE/Firefox%20Setup%20149.0b8.exe
 
 #### mozilla-firefox-developeredition-gd
 
@@ -39918,7 +39909,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-km.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b7/win64/km/Firefox%20Setup%20149.0b7.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/149.0b8/win64/km/Firefox%20Setup%20149.0b8.exe
 
 #### mozilla-firefox-developeredition-kn
 
@@ -47640,7 +47631,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `oradbdumpviewer-oradbdumpviewer-beta.yml`
-- **URL**: https://github.com/OraDB-DUMP-Viewer/OraDB-DUMP-Viewer/releases/download/v1.3.1-beta/OraDBDumpViewer_v1.3.1-beta_installer_x64.msi
+- **URL**: https://github.com/OraDB-DUMP-Viewer/OraDB-DUMP-Viewer/releases/download/v1.3.2-beta/OraDBDumpViewer_v1.3.2-beta_installer_x64.msi
 
 #### oradbdumpviewer-oradbdumpviewer
 
@@ -50115,7 +50106,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `prestonn-freetube.yml`
-- **URL**: https://github.com/FreeTubeApp/FreeTube/releases/download/v0.23.14-beta/freetube-0.23.14-beta-setup-x64.exe
+- **URL**: https://github.com/FreeTubeApp/FreeTube/releases/download/v0.14.0-beta/freetube-0.14.0-setup-x64.exe
 
 #### prestosoft-examdiff-pro
 
@@ -51150,7 +51141,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `qingfeng-heyboxaccelerator.yml`
-- **URL**: https://macc.max-c.com/proxy/acc_installer_1.1.86.124_xiaoheihe.exe
+- **URL**: https://macc.max-c.com/proxy/acc_installer_1.1.84.120_xiaoheihe.exe
 
 #### qingfeng-heyboxchat
 
@@ -63372,7 +63363,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0167/gvim_9.2.0167_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0173/gvim_9.2.0173_x64.exe
 
 #### vim-vim
 
@@ -64173,7 +64164,7 @@ Total entries processed: 7501
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `walkme-walkmeeditor.yml`
-- **URL**: https://cdn.walkme.com/walkme-editor/Container/Distributables/GA/x64/Windows/PerUserInstallers/WalkMe%20Editor-5.4.1-3-commercial.exe
+- **URL**: https://cdn.walkme.com/walkme-editor/Container/Distributables/GA/x64/Windows/PerUserInstallers/WalkMe%20Editor-5.4.2-1-commercial.exe
 
 #### walkovertechnologies-giddh
 
