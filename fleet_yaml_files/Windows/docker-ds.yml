@@ -1,4 +1,4 @@
-url: https://github.com/docker/dash-releases/releases/download/v0.18.5/Dash.msi
+url: https://github.com/docker/dash-releases/releases/download/v0.18.6/Dash.msi
 automatic_install: false
 self_service: false
 categories: []
