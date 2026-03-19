@@ -1,4 +1,4 @@
-url: https://static.rust-lang.org/rustup/archive/1.28.2/x86_64-pc-windows-msvc/rustup-init.exe
+url: https://static.rust-lang.org/rustup/archive/1.29.0/x86_64-pc-windows-msvc/rustup-init.exe
 automatic_install: false
 self_service: false
 categories: []
