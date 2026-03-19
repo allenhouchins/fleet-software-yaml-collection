@@ -1,4 +1,4 @@
-url: https://static.adguard-vpn.com/windows/installer.exe
+url: https://github.com/AdguardTeam/AdGuardVPNForWindows/releases/download/v2.9.0/AdGuardVpn-2.9.0-.2004.exe
 automatic_install: false
 self_service: false
 categories: []

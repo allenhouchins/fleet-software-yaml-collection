@@ -1,4 +1,4 @@
-url: https://github.com/postgresql-interfaces/psqlodbc/releases/download/REL-17_00_0009/psqlodbc-setup.exe
+url: https://github.com/postgresql-interfaces/psqlodbc/releases/download/REL-18_00_0000/psqlodbc-setup.exe
 automatic_install: false
 self_service: false
 categories: []
