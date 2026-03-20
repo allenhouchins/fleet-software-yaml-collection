@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-03-20 06:17:38 UTC
+Generated on: 2026-03-20 18:11:18 UTC
 
 ## Summary
 
@@ -2521,7 +2521,7 @@ Total entries processed: 7558
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `quarto.yml`
-- **URL**: https://github.com/quarto-dev/quarto-cli/releases/download/v1.8.27/quarto-1.8.27-macos.pkg
+- **URL**: https://github.com/quarto-dev/quarto-cli/releases/download/v1.9.36/quarto-1.9.36-macos.pkg
 
 #### r-app
 
@@ -5250,7 +5250,7 @@ Total entries processed: 7558
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `alexanderbrandt-aiconsumptiontracker.yml`
-- **URL**: https://github.com/rygel/AIUsageTracker/releases/download/v2.3.0/AIUsageTracker_Setup_v2.3.0_win-x64.exe
+- **URL**: https://github.com/rygel/AIUsageTracker/releases/download/v2.3.1/AIUsageTracker_Setup_v2.3.1_win-x64.exe
 
 #### alexanderkojevnikov-spek
 
@@ -7158,7 +7158,7 @@ Total entries processed: 7558
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aninsomniacy-motrixnext.yml`
-- **URL**: https://github.com/AnInsomniacy/motrix-next/releases/download/v3.4.5/MotrixNext_3.4.5_x64-setup.exe
+- **URL**: https://github.com/AnInsomniacy/motrix-next/releases/download/v3.4.6/MotrixNext_3.4.6_x64-setup.exe
 
 #### anjok07-ultimatevocalremover
 
@@ -8805,7 +8805,7 @@ Total entries processed: 7558
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `axcore-tartube.yml`
-- **URL**: https://github.com/axcore/tartube/releases/download/v2.5.100/install-tartube-2.5.100-64bit.exe
+- **URL**: https://github.com/axcore/tartube/releases/download/v2.5.197/install-tartube-2.5.197-64bit.exe
 
 #### axelrietschin-fastpictureviewer-professional
 
@@ -12873,7 +12873,7 @@ Total entries processed: 7558
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bytedance-doubao.yml`
-- **URL**: https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao_pc/2.2.3/Doubao_installer_2.2.3.exe
+- **URL**: https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao_pc/2.3.9/Doubao_installer_2.3.9.exe
 
 #### bytedance-douyin
 
@@ -18120,7 +18120,7 @@ Total entries processed: 7558
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `discord-discord-canary.yml`
-- **URL**: https://canary.dl2.discordapp.net/distro/app/canary/win/x64/1.0.870/DiscordCanarySetup.exe
+- **URL**: https://canary.dl2.discordapp.net/distro/app/canary/win/x64/1.0.871/DiscordCanarySetup.exe
 
 #### discord-discord-development
 
@@ -18498,7 +18498,7 @@ Total entries processed: 7558
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `docker-dockercompose.yml`
-- **URL**: https://github.com/docker/compose/releases/download/v5.1.0/docker-compose-windows-x86_64.exe
+- **URL**: https://github.com/docker/compose/releases/download/v5.1.1/docker-compose-windows-x86_64.exe
 
 #### docker-dockerdesktop
 
@@ -19875,7 +19875,7 @@ Total entries processed: 7558
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `edrawsoft-edrawmax.yml`
-- **URL**: https://download.wondershare.com/cbs_down/edraw-max_64bit_15.1.4_full5371.exe
+- **URL**: https://download.wondershare.com/cbs_down/edraw-max_64bit_15.1.6_full5371.exe
 
 #### edrawsoft-edrawmind-cn
 
@@ -24267,7 +24267,7 @@ Total entries processed: 7558
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `github-copilot-modernization-agent.yml`
-- **URL**: https://github.com/microsoft/modernize-cli/releases/download/v0.0.246/modernize_0.0.246_windows_x64.msi
+- **URL**: https://github.com/microsoft/modernize-cli/releases/download/v0.0.252/modernize_0.0.252_windows_x64.msi
 
 #### github-githubdesktop-beta
 
@@ -26715,7 +26715,7 @@ Total entries processed: 7558
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hitalin-notedeck.yml`
-- **URL**: https://github.com/hitalin/notedeck/releases/download/v0.4.2/NoteDeck-0.4.2-windows-x64-setup.exe
+- **URL**: https://github.com/hitalin/notedeck/releases/download/v0.5.1/NoteDeck-0.5.1-windows-x64-setup.exe
 
 #### hitevision-hitepai6
 
@@ -31017,7 +31017,7 @@ Total entries processed: 7558
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `junkundi-crossdesk.yml`
-- **URL**: https://github.com/kunkundi/crossdesk/releases/download/v1.3.0-20260310-b230b85/crossdesk-win-x64-v1.3.0-20260310-b230b85.exe
+- **URL**: https://github.com/kunkundi/crossdesk/releases/download/v1.3.1-20260320-f7f62c5/crossdesk-win-x64-v1.3.1-20260320-f7f62c5.exe
 
 #### jurplel-qview
 
@@ -33285,7 +33285,7 @@ Total entries processed: 7558
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lansweeper-lsagent.yml`
-- **URL**: https://cdn.lansweeper.com/build/lsagent/LsAgent-windows_12.2.0.1.exe
+- **URL**: https://cdn.lansweeper.com/build/lsagent/LsAgent-windows_12.6.3.3.exe
 
 #### lapce-lapce
 
@@ -35769,7 +35769,7 @@ Total entries processed: 7558
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `maxrave-dev-simpmusic.yml`
-- **URL**: https://github.com/maxrave-dev/SimpMusic/releases/download/v1.1.0/SimpMusic-1.1.0.msi
+- **URL**: https://github.com/maxrave-dev/SimpMusic/releases/download/v1.1.1/SimpMusic-1.1.1.msi
 
 #### maxthon-maxthon
 
@@ -47973,7 +47973,7 @@ Total entries processed: 7558
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `oradbdumpviewer-oradbdumpviewer-beta.yml`
-- **URL**: https://github.com/OraDB-DUMP-Viewer/OraDB-DUMP-Viewer/releases/download/v2.3.1-beta/OraDBDumpViewer_v2.3.1-beta_installer_x64.exe
+- **URL**: https://github.com/OraDB-DUMP-Viewer/OraDB-DUMP-Viewer/releases/download/v3.0.0-beta/OraDBDumpViewer_v3.0.0-beta_installer_x64.exe
 
 #### oradbdumpviewer-oradbdumpviewer
 
@@ -47982,7 +47982,7 @@ Total entries processed: 7558
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `oradbdumpviewer-oradbdumpviewer.yml`
-- **URL**: https://github.com/OraDB-DUMP-Viewer/OraDB-DUMP-Viewer/releases/download/v2.3.1/OraDBDumpViewer_v2.3.1_installer_x64.exe
+- **URL**: https://github.com/OraDB-DUMP-Viewer/OraDB-DUMP-Viewer/releases/download/v3.0.0/OraDBDumpViewer_v3.0.0_installer_x64.exe
 
 #### orange-opensource-hurl
 
@@ -52050,7 +52050,7 @@ Total entries processed: 7558
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rakuten-viber.yml`
-- **URL**: https://download.cdn.viber.com/desktop/windows/27.4.0/ViberSetup.msi
+- **URL**: https://download.cdn.viber.com/desktop/windows/27.5.0/ViberSetup.msi
 
 #### rambax-simpletransfer
 
@@ -58782,7 +58782,7 @@ Total entries processed: 7558
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `surfshark-surfshark.yml`
-- **URL**: https://downloads2.surfshark.com/windows/stable64/6.6.0.999/SurfsharkSetup.exe
+- **URL**: https://downloads2.surfshark.com/windows/stable64/6.6.1.999/SurfsharkSetup.exe
 
 #### surgesynth-surge
 
@@ -61077,7 +61077,7 @@ Total entries processed: 7558
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `thepandemoniuminstitute-bloodontheclocktoweronline.yml`
-- **URL**: https://github.com/ThePandemoniumInstitute/botc-release/releases/download/v3.52.0/Blood.on.the.Clocktower.Online_3.52.0_x64-setup.exe
+- **URL**: https://github.com/ThePandemoniumInstitute/botc-release/releases/download/v3.53.1/Blood.on.the.Clocktower.Online_3.53.1_x64-setup.exe
 
 #### thepyzoteam-pyzo
 
