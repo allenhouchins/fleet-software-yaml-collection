@@ -1,0 +1,7 @@
+url: https://github.com/wendylabsinc/wendy-agent/releases/download/2026.03.20-015852/wendy-cli-windows-amd64-2026.03.20-015852.msi
+automatic_install: false
+self_service: false
+categories: []
+
+# Categories are currently limited to Browsers, Communication, Developer tools, and Productivity.
+# This is a minimum version of this file. All configurable parameters can be seen at https://fleetdm.com/docs/rest-api/rest-api#parameters139
