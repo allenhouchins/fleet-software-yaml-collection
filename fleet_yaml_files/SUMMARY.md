@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-03-21 06:12:10 UTC
+Generated on: 2026-03-21 18:06:29 UTC
 
 ## Summary
 
-Total entries processed: 7557
-- macOS files: 385
-- Windows files: 7172
+Total entries processed: 7553
+- macOS files: 382
+- Windows files: 7171
 
 ## Generated Files
 
@@ -1164,15 +1164,6 @@ Total entries processed: 7557
 - **File**: `filebot.yml`
 - **URL**: https://get.filebot.net/filebot/FileBot_5.2.1/FileBot_5.2.1_arm64.pkg
 
-#### finalshell
-
-- **Source**: homebrew/installomator
-- **Name**: finalshell
-- **Description**: Generated from Homebrew cask or Installomator script
-- **Version**: 
-- **File**: `finalshell.yml`
-- **URL**: https://dl.hostbuf.com/finalshell3/finalshell_macos_arm64.pkg
-
 #### finch
 
 - **Source**: homebrew/installomator
@@ -1263,15 +1254,6 @@ Total entries processed: 7557
 - **File**: `fuse.yml`
 - **URL**: https://github.com/fuse-open/fuse-studio/releases/download/1.9.0/fuse_osx_1_9_0.pkg
 
-#### fx-cast-bridge
-
-- **Source**: homebrew/installomator
-- **Name**: fx-cast-bridge
-- **Description**: Generated from Homebrew cask or Installomator script
-- **Version**: 
-- **File**: `fx-cast-bridge.yml`
-- **URL**: https://github.com/hensm/fx_cast/releases/download/v0.3.0/fx_cast_bridge-0.3.0-arm64.pkg
-
 #### gamemaker
 
 - **Source**: homebrew/installomator
@@ -1307,15 +1289,6 @@ Total entries processed: 7557
 - **Version**: 
 - **File**: `gcc-arm-embedded.yml`
 - **URL**: https://developer.arm.com/-/media/Files/downloads/gnu/15.2.rel1/binrel/arm-gnu-toolchain-15.2.rel1-darwin-arm64-arm-none-eabi.pkg
-
-#### gdisk
-
-- **Source**: homebrew/installomator
-- **Name**: gdisk
-- **Description**: Generated from Homebrew cask or Installomator script
-- **Version**: 
-- **File**: `gdisk.yml`
-- **URL**: https://downloads.sourceforge.net/gptfdisk/gdisk-1.0.10.pkg
 
 #### git-credential-manager
 
@@ -3765,7 +3738,7 @@ Total entries processed: 7557
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `5c0-metropolis.yml`
-- **URL**: https://github.com/5c0/metropolis/releases/download/v0.1.0/metropolis.exe
+- **URL**: https://github.com/5c0/metropolis/releases/download/v0.1.1/metropolis.exe
 
 #### 5e-5eclient
 
@@ -7761,7 +7734,7 @@ Total entries processed: 7557
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `archi-archi.yml`
-- **URL**: https://github.com/archimatetool/archi.io/releases/download/5.8.0/Archi-Win64-Setup-5.8.0.exe
+- **URL**: https://www.archimatetool.com/downloads/archi/5.8.0/Archi-Win64-Setup-5.8.0.exe
 
 #### archisman-panigrahi-quickbib
 
@@ -12666,7 +12639,7 @@ Total entries processed: 7557
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `burnaware-burnawarepremium.yml`
-- **URL**: https://www.burnaware.com/downloads/burnaware_premium_18.9_x64.exe
+- **URL**: https://www.burnaware.com/downloads/burnaware_premium_19.0_x64.exe
 
 #### burnaware-burnawarepro
 
@@ -12675,7 +12648,7 @@ Total entries processed: 7557
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `burnaware-burnawarepro.yml`
-- **URL**: https://www.burnaware.com/downloads/burnaware_pro_18.9_x64.exe
+- **URL**: https://www.burnaware.com/downloads/burnaware_pro_19.0_x64.exe
 
 #### burnaware-pdfshaper-premium
 
@@ -13431,7 +13404,7 @@ Total entries processed: 7557
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `catsxp-catsxp.yml`
-- **URL**: https://b2.catsxp.com/catsxp_update/win_x64/catsxp_installer_146_6_3_4.exe
+- **URL**: https://b2.catsxp.com/catsxp_update/win_x64/catsxp_installer_146_6_3_5.exe
 
 #### cawa-93-anime-library
 
@@ -14358,7 +14331,7 @@ Total entries processed: 7557
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `clashvergerev-clashvergerev.yml`
-- **URL**: https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_x64-setup.exe
+- **URL**: https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_x64-setup.exe
 
 #### classicdiy-modbustool
 
@@ -21972,7 +21945,7 @@ Total entries processed: 7557
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `firedaemon-firedaemonpro.yml`
-- **URL**: https://download.firedaemon.com/FireDaemon-Pro/6.3.5/FireDaemon-Pro-x64-6.3.5.exe
+- **URL**: https://download.firedaemon.com/FireDaemon-Pro/6.4.1/FireDaemon-Pro-x64-6.4.1.exe
 
 #### firedaemon-firedaemonzero
 
@@ -26697,7 +26670,7 @@ Total entries processed: 7557
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hitalin-notedeck.yml`
-- **URL**: https://github.com/hitalin/notedeck/releases/download/v0.5.5/NoteDeck-0.5.5-windows-x64-setup.exe
+- **URL**: https://github.com/hitalin/notedeck/releases/download/v0.6.0/NoteDeck-0.6.0-windows-x64-setup.exe
 
 #### hitevision-hitepai6
 
@@ -30803,15 +30776,6 @@ Total entries processed: 7557
 - **File**: `jriver-mediacenter.yml`
 - **URL**: https://files.jriver-cdn.com/mediacenter/channels/v31/stable/MediaCenter310087-x64.exe
 
-#### jrsoftware-innosetup
-
-- **Source**: winget
-- **Name**: jrsoftware-innosetup
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `jrsoftware-innosetup.yml`
-- **URL**: https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe
-
 #### js8call-improved-js8call-improved
 
 - **Source**: winget
@@ -31206,7 +31170,7 @@ Total entries processed: 7557
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kangfenmao-cherrystudio.yml`
-- **URL**: https://github.com/CherryHQ/cherry-studio/releases/download/v1.8.1/Cherry-Studio-1.8.1-x64-setup.exe
+- **URL**: https://github.com/CherryHQ/cherry-studio/releases/download/v1.8.2/Cherry-Studio-1.8.2-x64-setup.exe
 
 #### kanglin-serialportassistant
 
@@ -31989,7 +31953,7 @@ Total entries processed: 7557
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-marknote.yml`
-- **URL**: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-1543-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-1550-windows-cl-msvc2022-x86_64.exe
 
 #### kde-minuet
 
@@ -34662,7 +34626,7 @@ Total entries processed: 7557
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lucidlink-lucidlink.yml`
-- **URL**: https://releases.lucidlink.com/prod/win/lucidlink-3.7.7931-x64.msi
+- **URL**: https://releases.lucidlink.com/prod/win/lucidlink-3.7.7970-x64.msi
 
 #### luckjiawei-frp-desktop
 
@@ -38937,7 +38901,7 @@ Total entries processed: 7557
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mnardit-beetroot.yml`
-- **URL**: https://github.com/mnardit/beetroot-releases/releases/download/v1.5.1/Beetroot_1.5.1_x64-setup.exe
+- **URL**: https://github.com/mnardit/beetroot-releases/releases/download/v1.6.0/Beetroot_1.6.0_x64-setup.exe
 
 #### mndptray-core
 
@@ -44400,7 +44364,7 @@ Total entries processed: 7557
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `neelabo-neeview.yml`
-- **URL**: https://github.com/neelabo/NeeView/releases/download/44.1/NeeView44.1.msi
+- **URL**: https://github.com/neelabo/NeeView/releases/download/45.3/NeeView45.3.msi
 
 #### neemb-distill
 
@@ -44958,7 +44922,7 @@ Total entries processed: 7557
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nexttrace-nexttrace-core.yml`
-- **URL**: https://github.com/nxtrace/NTrace-core/releases/download/v1.5.0/nexttrace_windows_amd64.exe
+- **URL**: https://github.com/nxtrace/NTrace-core/releases/download/v1.6.1/nexttrace_windows_amd64.exe
 
 #### nexusmods-vortex
 
@@ -55812,7 +55776,7 @@ Total entries processed: 7557
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `shm11c3-hardwarevisualizer.yml`
-- **URL**: https://github.com/shm11C3/HardwareVisualizer/releases/download/v1.6.0/HardwareVisualizer_1.6.0_x64_en-US.msi
+- **URL**: https://github.com/shm11C3/HardwareVisualizer/releases/download/v1.7.0/HardwareVisualizer_1.7.0_x64_en-US.msi
 
 #### shreyrajsingh-tuidit
 
@@ -57477,7 +57441,7 @@ Total entries processed: 7557
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `spotify-spotify.yml`
-- **URL**: https://upgrade.scdn.co/upgrade/client/win32-x86_64/spotify_installer-1.2.85.513.g45f09625-3679.exe
+- **URL**: https://download.scdn.co/SpotifyFullSetupX64.exe
 
 #### springlobby-springlobby
 
@@ -62625,7 +62589,7 @@ Total entries processed: 7557
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tunein-tunein.yml`
-- **URL**: https://cdn-desktop.tunein.com/release/TuneIn-Setup-1.31.0.exe
+- **URL**: https://cdn-desktop.tunein.com/release/TuneIn-Setup-1.32.0.exe
 
 #### tunepack-tunepack
 
@@ -64155,7 +64119,7 @@ Total entries processed: 7557
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `voltkraft-immichfolderwatch.yml`
-- **URL**: https://github.com/VoltKraft/immich-folder-watch/releases/download/v1.5.0/immich-folder-watch-1.5.0-win-x64.msi
+- **URL**: https://github.com/VoltKraft/immich-folder-watch/releases/download/v1.6.3/immich-folder-watch-1.6.3-win-x64.msi
 
 #### volumegraphics-myvgl
 
@@ -65001,7 +64965,7 @@ Total entries processed: 7557
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wendylabs-wendy.yml`
-- **URL**: https://github.com/wendylabsinc/wendy-agent/releases/download/2026.03.20-015852/wendy-cli-windows-amd64-2026.03.20-015852.msi
+- **URL**: https://github.com/wendylabsinc/wendy-agent/releases/download/2026.03.21-124319/wendy-cli-windows-amd64-2026.03.21-124319.msi
 
 #### wenming-thirdspace
 
@@ -66963,7 +66927,7 @@ Total entries processed: 7557
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `y-aslant-elegantclipboard.yml`
-- **URL**: https://github.com/Y-ASLant/ElegantClipboard/releases/download/v0.9.3/ElegantClipboard_0.9.3_x64-setup.exe
+- **URL**: https://github.com/Y-ASLant/ElegantClipboard/releases/download/v0.9.30/ElegantClipboard_0.9.30_x64-setup.exe
 
 #### y2z-monolith
 
@@ -67593,7 +67557,7 @@ Total entries processed: 7557
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zettlr-zettlr.yml`
-- **URL**: https://github.com/Zettlr/Zettlr/releases/download/v4.2.1/Zettlr-4.2.1-x64.exe
+- **URL**: https://github.com/Zettlr/Zettlr/releases/download/v4.3.0/Zettlr-4.3.0-x64.exe
 
 #### zevnda-steamgameidler
 
@@ -67863,7 +67827,7 @@ Total entries processed: 7557
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ztools-ztools.yml`
-- **URL**: https://github.com/ZToolsCenter/ZTools/releases/download/v2.2.1/ZTools-2.2.1-win-x64-setup.exe
+- **URL**: https://github.com/ZToolsCenter/ZTools/releases/download/v2.3.0/ZTools-2.3.0-win-x64-setup.exe
 
 #### zugferdcommunity-qubaviewer
 
