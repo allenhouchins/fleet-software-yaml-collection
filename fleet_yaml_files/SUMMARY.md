@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-03-21 18:06:29 UTC
+Generated on: 2026-03-22 06:17:04 UTC
 
 ## Summary
 
@@ -190,7 +190,7 @@ Total entries processed: 7553
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `autogram.yml`
-- **URL**: https://github.com/slovensko-digital/autogram/releases/download/v2.7.2/Autogram-2.7.2-MacOs.pkg
+- **URL**: https://github.com/slovensko-digital/autogram/releases/download/v2.7.3/Autogram-2.7.3-MacOs.pkg
 
 #### aviatrix-vpn-client
 
@@ -4251,7 +4251,7 @@ Total entries processed: 7553
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `adamgell-cmtraceopen.yml`
-- **URL**: https://github.com/adamgell/cmtraceopen/releases/download/v0.4.0/CMTrace-Open_0.4.0_x64.msi
+- **URL**: https://github.com/adamgell/cmtraceopen/releases/download/v0.5.0/CMTrace-Open_0.5.0_x64.exe
 
 #### adammiskiewicz-graphiql
 
@@ -4872,7 +4872,7 @@ Total entries processed: 7553
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aiclientproxy-proxycast.yml`
-- **URL**: https://github.com/aiclientproxy/proxycast/releases/download/v0.82.0/ProxyCast_0.82.0_x64-setup.exe
+- **URL**: https://github.com/limecloud/lime/releases/download/v0.93.0/Lime_0.93.0_x64-offline-setup.exe
 
 #### aignesberger-websitewatcher
 
@@ -6852,7 +6852,7 @@ Total entries processed: 7553
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `amn-yasb.yml`
-- **URL**: https://github.com/amnweb/yasb/releases/download/v1.9.0/yasb-1.9.0-x64.msi
+- **URL**: https://github.com/amnweb/yasb/releases/download/v1.9.1/yasb-1.9.1-x64.msi
 
 #### amneziavpn-amneziavpn
 
@@ -8751,7 +8751,7 @@ Total entries processed: 7553
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `awesomedog-maxlaunchpad.yml`
-- **URL**: https://github.com/AwesomeDog/maxlaunchpad/releases/download/v1.0.4/MaxLaunchpad-1.0.4.Setup.exe
+- **URL**: https://github.com/AwesomeDog/maxlaunchpad/releases/download/v1.0.5/MaxLaunchpad-1.0.5.Setup.exe
 
 #### axcore-tartube
 
@@ -9507,7 +9507,7 @@ Total entries processed: 7553
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `baileybrown-cppcryptfs.yml`
-- **URL**: https://github.com/bailey27/cppcryptfs/releases/download/v1.4.4.6/cppcryptfs.exe
+- **URL**: https://github.com/bailey27/cppcryptfs/releases/download/v1.4.4.7/cppcryptfs.exe
 
 #### baldurkarlsson-renderdoc
 
@@ -13233,7 +13233,7 @@ Total entries processed: 7553
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `caprinelogic-carepackage.yml`
-- **URL**: https://github.com/depthbomb/CarePackage/releases/download/4.3.1/carepackage_installer.exe
+- **URL**: https://github.com/depthbomb/CarePackage/releases/download/4.3.8/carepackage_installer.exe
 
 #### captura-captura
 
@@ -13890,7 +13890,7 @@ Total entries processed: 7553
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `chill-astro-tmm.yml`
-- **URL**: https://github.com/Chill-Astro/Trust-My-Msix/releases/download/v1.1/MsixCertImportTool-Setup.exe
+- **URL**: https://github.com/Chill-Astro/Trust-My-Msix/releases/download/v3.14.1.2/TMM.exe
 
 #### chillibits-ccom
 
@@ -24285,7 +24285,7 @@ Total entries processed: 7553
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gitmastery-gitmastery.yml`
-- **URL**: https://github.com/git-mastery/app/releases/download/v7.7.0/gitmastery.exe
+- **URL**: https://github.com/git-mastery/app/releases/download/v7.8.2/gitmastery.exe
 
 #### gitthermal-thermal
 
@@ -24861,7 +24861,7 @@ Total entries processed: 7553
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/exkco2zyjg6jjsy5sobulihp3y_148.0.7741.0/148.0.7741.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/imjxg4mzcpt2viy4uispmowwl4_148.0.7746.0/148.0.7746.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -25383,7 +25383,7 @@ Total entries processed: 7553
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `granola-granola.yml`
-- **URL**: https://api.granola.ai/v1/check-for-update/Granola-7.80.1-win-x64.exe
+- **URL**: https://api.granola.ai/v1/check-for-update/Granola-7.80.2-win-x64.exe
 
 #### graphcool-graphqlplayground
 
@@ -26670,7 +26670,7 @@ Total entries processed: 7553
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hitalin-notedeck.yml`
-- **URL**: https://github.com/hitalin/notedeck/releases/download/v0.6.0/NoteDeck-0.6.0-windows-x64-setup.exe
+- **URL**: https://github.com/hitalin/notedeck/releases/download/v0.6.4/NoteDeck-0.6.4-windows-x64-setup.exe
 
 #### hitevision-hitepai6
 
@@ -38505,7 +38505,7 @@ Total entries processed: 7553
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mikf-gallery-dl-nightly.yml`
-- **URL**: https://github.com/gdl-org/builds/releases/download/2026.03.20/gallery-dl_windows.exe
+- **URL**: https://github.com/gdl-org/builds/releases/download/2026.03.21/gallery-dl_windows.exe
 
 #### mikrotik-winbox
 
@@ -44886,7 +44886,7 @@ Total entries processed: 7553
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nextcloud-nextclouddesktop.yml`
-- **URL**: https://github.com/nextcloud-releases/desktop/releases/download/v4.0.7/Nextcloud-4.0.7-x64.msi
+- **URL**: https://github.com/nextcloud-releases/desktop/releases/download/v4.0.8/Nextcloud-4.0.8-x64.msi
 
 #### nextcloud-talk-beta
 
@@ -45147,7 +45147,7 @@ Total entries processed: 7553
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nickemanarin-screentogif.yml`
-- **URL**: https://github.com/NickeManarin/ScreenToGif/releases/download/2.43/ScreenToGif.2.43.Light.Setup.x64.msi
+- **URL**: https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.1/ScreenToGif.2.43.1.Light.Setup.x64.msi
 
 #### nickgasson-nvc
 
@@ -50943,7 +50943,7 @@ Total entries processed: 7553
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ptrtech-uvtools.yml`
-- **URL**: https://github.com/sn4k3/UVtools/releases/download/v6.0.0/UVtools_win-x64_v6.0.0.msi
+- **URL**: https://github.com/sn4k3/UVtools/releases/download/v6.0.1/UVtools_win-x64_v6.0.1.msi
 
 #### publiqvzw-uitpasbeheerdersapplicatie
 
@@ -52599,7 +52599,7 @@ Total entries processed: 7553
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `relmer-matrixrain.yml`
-- **URL**: https://github.com/relmer/MatrixRain/releases/download/v1.0.1001/MatrixRain.exe
+- **URL**: https://github.com/relmer/MatrixRain/releases/download/v1.1.1826/MatrixRain.exe
 
 #### relmer-rcdir
 
@@ -55335,7 +55335,7 @@ Total entries processed: 7553
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `selur-hybrid.yml`
-- **URL**: https://www.selur.de/files/hybrid_downloads/Hybrid_2025.11.09.1_SETUP.exe
+- **URL**: https://www.selur.de/files/hybrid_downloads/Hybrid_2026.03.21.1_SETUP.exe
 
 #### sentinel-sentinelcli
 
@@ -55497,7 +55497,7 @@ Total entries processed: 7553
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-03-20/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-03-21/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -65064,7 +65064,7 @@ Total entries processed: 7553
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wharflab-tally.yml`
-- **URL**: https://github.com/wharflab/tally/releases/download/v0.27.2/tally_0.27.2_Windows_x86_64.exe
+- **URL**: https://github.com/wharflab/tally/releases/download/v0.28.1/tally_0.28.1_Windows_x86_64.exe
 
 #### wherewhere-apkinstaller-classic
 
@@ -66459,7 +66459,7 @@ Total entries processed: 7553
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xiaocang-easydictforwindows.yml`
-- **URL**: https://github.com/xiaocang/easydict_win32/releases/download/v0.6.0/Easydict-v0.6.0-x64-setup.unsigned.exe
+- **URL**: https://github.com/xiaocang/easydict_win32/releases/download/v0.6.1/Easydict-v0.6.1-x64-setup.unsigned.exe
 
 #### xiaomi-miui-
 
