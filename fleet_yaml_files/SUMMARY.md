@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-03-22 06:17:04 UTC
+Generated on: 2026-03-22 18:07:11 UTC
 
 ## Summary
 
 Total entries processed: 7553
-- macOS files: 382
-- Windows files: 7171
+- macOS files: 381
+- Windows files: 7172
 
 ## Generated Files
 
@@ -1919,15 +1919,6 @@ Total entries processed: 7553
 - **Version**: 
 - **File**: `mosaic.yml`
 - **URL**: https://lightpillar.com/appdata/mosaic/archive/Mosaic_1_5_1.pkg
-
-#### moscow-ml
-
-- **Source**: homebrew/installomator
-- **Name**: moscow-ml
-- **Description**: Generated from Homebrew cask or Installomator script
-- **Version**: 
-- **File**: `moscow-ml.yml`
-- **URL**: https://github.com/kfl/mosml/releases/download/ver-2.10.1/mosml-2.10.1.pkg
 
 #### motu-m-series
 
@@ -8193,7 +8184,7 @@ Total entries processed: 7553
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `astrbot-astrbotlauncher.yml`
-- **URL**: https://github.com/AstrBotDevs/astrbot-launcher/releases/download/v0.2.9/AstrBot.Launcher_0.2.9_x64-setup.exe
+- **URL**: https://github.com/AstrBotDevs/astrbot-launcher/releases/download/v0.3.0/AstrBot.Launcher_0.3.0_x64-setup.exe
 
 #### astrocomma-astrogrep
 
@@ -14952,7 +14943,7 @@ Total entries processed: 7553
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `codexu-notegen.yml`
-- **URL**: https://github.com/codexu/note-gen/releases/download/note-gen-v0.27.1/NoteGen_0.27.1_x64-setup.exe
+- **URL**: https://github.com/codexu/note-gen/releases/download/note-gen-v0.27.2/NoteGen_0.27.2_x64-setup.exe
 
 #### codice-plasticscm-cloudedition
 
@@ -24861,7 +24852,7 @@ Total entries processed: 7553
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/imjxg4mzcpt2viy4uispmowwl4_148.0.7746.0/148.0.7746.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/aceabylozdqh3ousx6bbrzwjak2a_148.0.7747.0/148.0.7747.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -26670,7 +26661,7 @@ Total entries processed: 7553
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hitalin-notedeck.yml`
-- **URL**: https://github.com/hitalin/notedeck/releases/download/v0.6.4/NoteDeck-0.6.4-windows-x64-setup.exe
+- **URL**: https://github.com/hitalin/notedeck/releases/download/v0.7.5/NoteDeck-0.7.5-windows-x64-setup.exe
 
 #### hitevision-hitepai6
 
@@ -31593,7 +31584,7 @@ Total entries processed: 7553
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kbruch.yml`
-- **URL**: https://cdn.kde.org/ci-builds/education/kbruch/master/windows/kbruch-master-816-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/education/kbruch/master/windows/kbruch-master-820-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kdeconnect
 
@@ -31692,7 +31683,7 @@ Total entries processed: 7553
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kiten.yml`
-- **URL**: https://cdn.kde.org/ci-builds/education/kiten/master/windows/kiten-master-957-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/education/kiten/master/windows/kiten-master-960-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kjumpingcube
 
@@ -47415,7 +47406,7 @@ Total entries processed: 7553
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `openmpt-openmpt.yml`
-- **URL**: https://download.openmpt.org/archive/openmpt/1.32/OpenMPT-1.32.06.00-Setup.exe
+- **URL**: https://download.openmpt.org/archive/openmpt/1.32/OpenMPT-1.32.07.00-Setup.exe
 
 #### openmw-openmw
 
@@ -57522,7 +57513,7 @@ Total entries processed: 7553
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `squidowl-halloy.yml`
-- **URL**: https://github.com/squidowl/halloy/releases/download/2026.4/halloy-installer.msi
+- **URL**: https://github.com/squidowl/halloy/releases/download/2026.5/halloy-installer.msi
 
 #### squirreldisk-squirreldisk
 
@@ -64830,7 +64821,7 @@ Total entries processed: 7553
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `waytech-clouddrive2.yml`
-- **URL**: https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.0.1/CloudDrive2Setup-X64-1.0.1.exe
+- **URL**: https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.0.2/CloudDrive2Setup-X64-1.0.2.exe
 
 #### weakauras-weakaurascompanion
 
@@ -67288,6 +67279,15 @@ Total entries processed: 7553
 - **Version**: 
 - **File**: `yugecin-osukps.yml`
 - **URL**: https://github.com/yugecin/osukps/releases/download/180218/osukps.exe
+
+#### yukimemi-shun
+
+- **Source**: winget
+- **Name**: yukimemi-shun
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `yukimemi-shun.yml`
+- **URL**: https://github.com/yukimemi/shun/releases/download/v2.8.0/shun_2.8.0_x64_en-US.msi
 
 #### yuma14-shutdowncountdown
 
