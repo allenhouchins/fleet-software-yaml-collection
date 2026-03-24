@@ -1,4 +1,4 @@
-url: https://officecdn.microsoft.com/pr/wsus/setup.exe
+url: https://pub-7e43a56b93cd4288b6ac1300fa1cc5b0.r2.dev/releases/v1.0.0/eazyPetition-Setup.exe
 automatic_install: false
 self_service: false
 categories: []
