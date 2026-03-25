@@ -1,4 +1,4 @@
-url: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/149.0/win64/cy/Thunderbird%20Setup%20149.0.exe
+url: https://github.com/peterju/chkLink/releases/download/v1.4.1/chklink-1.4.1-win-x64-setup.exe
 automatic_install: false
 self_service: false
 categories: []
