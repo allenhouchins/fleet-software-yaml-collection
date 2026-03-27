@@ -1,4 +1,4 @@
-url: https://github.com/FreeCAD/FreeCAD/releases/download/1.0.2/FreeCAD_1.0.2-conda-Windows-x86_64-installer-1.exe
+url: https://github.com/FreeCAD/FreeCAD/releases/download/1.1.0/FreeCAD_1.1.0-Windows-x86_64-py311-installer.exe
 automatic_install: false
 self_service: false
 categories: []
