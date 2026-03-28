@@ -1,4 +1,4 @@
-url: https://download.unity3d.com/download_unity/0e25a174756c/MacEditorTargetInstaller/UnitySetup-Android-Support-for-Editor-2023.2.20f1.pkg
+url: https://github.com/opendsc/opendsc/releases/download/v0.5.1/OpenDSC.Lcm-0.5.1.msi
 automatic_install: false
 self_service: false
 categories: []
