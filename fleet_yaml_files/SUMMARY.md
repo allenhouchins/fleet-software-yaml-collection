@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-03-28 06:20:23 UTC
+Generated on: 2026-03-28 18:08:11 UTC
 
 ## Summary
 
-Total entries processed: 7609
+Total entries processed: 7610
 - macOS files: 371
-- Windows files: 7238
+- Windows files: 7239
 
 ## Generated Files
 
@@ -2998,7 +2998,7 @@ Total entries processed: 7609
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `topaz-photo.yml`
-- **URL**: https://downloads.topazlabs.com/deploy/TopazPhoto/1.3.3/TopazPhoto-1.3.3-arm64.pkg
+- **URL**: https://downloads.topazlabs.com/deploy/TopazPhoto/1.4.0/TopazPhoto-1.4.0-arm64.pkg
 
 #### topaz-video
 
@@ -3079,7 +3079,7 @@ Total entries processed: 7609
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `uuremote.yml`
-- **URL**: https://a56.gdl.netease.com/uuyc_4.18.0.pkg
+- **URL**: https://a56.gdl.netease.com/uuyc_4.19.0.pkg
 
 #### vcam
 
@@ -7311,7 +7311,7 @@ Total entries processed: 7609
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `anyassociation-anytype.yml`
-- **URL**: https://anytype-release.fra1.cdn.digitaloceanspaces.com/Anytype%20Setup%200.54.5.exe
+- **URL**: https://anytype-release.fra1.cdn.digitaloceanspaces.com/Anytype%20Setup%200.54.9.exe
 
 #### anycam-io-anycam
 
@@ -7374,7 +7374,7 @@ Total entries processed: 7609
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `anysphere-cursor.yml`
-- **URL**: https://downloads.cursor.com/production/fea2f546c979a0a4ad1deab23552a43568807592/win32/x64/user-setup/CursorUserSetup-x64-2.6.21.exe
+- **URL**: https://downloads.cursor.com/production/c6285feaba0ad62603f7c22e72f0a170dc8415a5/win32/x64/user-setup/CursorUserSetup-x64-2.6.22.exe
 
 #### apache-directorystudio
 
@@ -7635,7 +7635,7 @@ Total entries processed: 7609
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aptivi-nitrocid-0-2-0-x.yml`
-- **URL**: https://github.com/Aptivi/Nitrocid/releases/download/v0.2.0.5/nitrocid-win-x64-installer.exe
+- **URL**: https://github.com/Aptivi/Nitrocid/releases/download/v0.2.0.6/nitrocid-win-x64-installer.exe
 
 #### arashivisioninc-insta360studio
 
@@ -16673,6 +16673,15 @@ Total entries processed: 7609
 - **File**: `dantheman827-classiccontext.yml`
 - **URL**: https://github.com/DanTheMan827/ClassicContext/releases/download/1.0.1/ClassicContext.exe
 
+#### danwbr-dwsim
+
+- **Source**: winget
+- **Name**: danwbr-dwsim
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `danwbr-dwsim.yml`
+- **URL**: https://github.com/DanWBR/dwsim/releases/download/v9.0.5/DWSIM_v905_win64_setup.exe
+
 #### daoutech-daoumessenger
 
 - **Source**: winget
@@ -18498,7 +18507,7 @@ Total entries processed: 7609
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `docker-agent.yml`
-- **URL**: https://github.com/docker/docker-agent/releases/download/v1.38.0/docker-agent-windows-amd64.exe
+- **URL**: https://github.com/docker/docker-agent/releases/download/v1.39.0/docker-agent-windows-amd64.exe
 
 #### docker-buildx
 
@@ -26895,7 +26904,7 @@ Total entries processed: 7609
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hitalin-notedeck.yml`
-- **URL**: https://github.com/hitalin/notedeck/releases/download/v0.8.8/NoteDeck-0.8.8-windows-x64-setup.exe
+- **URL**: https://github.com/hitalin/notedeck/releases/download/v0.9.1/NoteDeck-0.9.1-windows-x64-setup.exe
 
 #### hitevision-hitepai6
 
@@ -30135,7 +30144,7 @@ Total entries processed: 7609
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-datagrip.yml`
-- **URL**: https://download.jetbrains.com/datagrip/datagrip-2025.3.5.exe
+- **URL**: https://download.jetbrains.com/datagrip/datagrip-2026.1.exe
 
 #### jetbrains-dataspell-eap
 
@@ -31296,7 +31305,7 @@ Total entries processed: 7609
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `k0sproject-k0sctl.yml`
-- **URL**: https://github.com/k0sproject/k0sctl/releases/download/v0.28.0/k0sctl-win-amd64.exe
+- **URL**: https://github.com/k0sproject/k0sctl/releases/download/v0.29.0/k0sctl-win-amd64.exe
 
 #### k3d-k3d
 
@@ -34905,7 +34914,7 @@ Total entries processed: 7609
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lucidlink-lucidlink.yml`
-- **URL**: https://releases.lucidlink.com/prod/win/lucidlink-3.7.7970-x64.msi
+- **URL**: https://releases.lucidlink.com/prod/win/lucidlink-3.7.8012-x64.msi
 
 #### luckjiawei-frp-desktop
 
@@ -35319,7 +35328,7 @@ Total entries processed: 7609
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mailbird-mailbird.yml`
-- **URL**: https://download.getmailbird.com/installers/versions/3_0_51/MailbirdSetup.exe
+- **URL**: https://download.getmailbird.com/installers/versions/3_0_53/MailbirdSetup.exe
 
 #### majsoulplus-majsoulplus
 
@@ -37479,7 +37488,7 @@ Total entries processed: 7609
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-edgewebview2runtime.yml`
-- **URL**: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/1b4b89db-981d-4b16-8801-bedc4094c84f/MicrosoftEdgeWebView2RuntimeInstallerX64.exe
+- **URL**: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/df99292c-0587-41b3-b8f7-36870824bee6/MicrosoftEdgeWebView2RuntimeInstallerX64.exe
 
 #### microsoft-enterprisestateclassify
 
@@ -39207,7 +39216,7 @@ Total entries processed: 7609
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mnardit-beetroot.yml`
-- **URL**: https://github.com/mnardit/beetroot-releases/releases/download/v1.6.3/Beetroot_1.6.3_x64-setup.exe
+- **URL**: https://github.com/mnardit/beetroot-releases/releases/download/v1.6.4/Beetroot_1.6.4_x64-setup.exe
 
 #### mndptray-core
 
@@ -46794,7 +46803,7 @@ Total entries processed: 7609
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `oire-sic.yml`
-- **URL**: https://github.com/Oire/sic/releases/download/v1.0.0.23/sic-v1.0.0.23-setup.exe
+- **URL**: https://github.com/Oire/sic/releases/download/v1.0.1.6/sic-v1.0.1.6-setup.exe
 
 #### oisf-suricata
 
@@ -47181,7 +47190,7 @@ Total entries processed: 7609
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `onfstudios-orenofusen.yml`
-- **URL**: https://github.com/ore-no-fusen/ore-no-fusen/releases/download/v2.1.0/ore-no-fusen_2.1.0_x64-setup.exe
+- **URL**: https://github.com/ore-no-fusen/ore-no-fusen/releases/download/v2.1.1/ore-no-fusen_2.1.1_x64-setup.exe
 
 #### onionshare-onionshare-dev
 
@@ -48621,7 +48630,7 @@ Total entries processed: 7609
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ozas-speech2text.yml`
-- **URL**: https://github.com/ozashub/speech2text/releases/download/v1.1.2/speech2text_1.1.2_x64-setup.exe
+- **URL**: https://github.com/ozashub/speech2text/releases/download/v1.1.3/speech2text_1.1.3_x64-setup.exe
 
 #### ozmartian-vidcutter
 
@@ -54570,7 +54579,7 @@ Total entries processed: 7609
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rustlang-rust-msvc.yml`
-- **URL**: https://static.rust-lang.org/dist/rust-1.94.0-x86_64-pc-windows-msvc.msi
+- **URL**: https://static.rust-lang.org/dist/rust-1.94.1-x86_64-pc-windows-msvc.msi
 
 #### rustlang-rustup
 
@@ -67782,7 +67791,7 @@ Total entries processed: 7609
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yukimemi-shun.yml`
-- **URL**: https://github.com/yukimemi/shun/releases/download/v4.0.1/shun_4.0.1_x64-setup.exe
+- **URL**: https://github.com/yukimemi/shun/releases/download/v4.3.0/shun_4.3.0_x64-setup.exe
 
 #### yuma14-shutdowncountdown
 
