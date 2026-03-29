@@ -1,4 +1,4 @@
-url: https://github.com/fission/fission/releases/download/v1.21.0/fission-v1.21.0-windows-amd64.exe
+url: https://github.com/fission/fission/releases/download/v1.22.0/fission-v1.22.0-windows-amd64.exe
 automatic_install: false
 self_service: false
 categories: []
