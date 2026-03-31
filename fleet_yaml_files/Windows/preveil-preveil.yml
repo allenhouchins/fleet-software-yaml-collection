@@ -1,4 +1,4 @@
-url: https://github.com/SagerNet/sing-box/releases/download/v1.13.5/SFM-1.13.5-Universal.pkg
+url: https://s3.amazonaws.com/pv-bin-storage/ci/desktop/win/20e5263acfbfcf1271c10e6c594b8482b050ce86/PreVeilInstaller.msi
 automatic_install: false
 self_service: false
 categories: []
