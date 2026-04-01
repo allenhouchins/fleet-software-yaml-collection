@@ -1,4 +1,4 @@
-url: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-1618-windows-cl-msvc2022-x86_64.exe
+url: https://github.com/discloud/cli-dart/releases/download/0.6.1/discloud-cli-x64-setup.exe
 automatic_install: false
 self_service: false
 categories: []

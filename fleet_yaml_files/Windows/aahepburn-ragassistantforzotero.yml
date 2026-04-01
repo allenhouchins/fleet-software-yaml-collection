@@ -1,4 +1,4 @@
-url: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-1618-windows-cl-msvc2022-x86_64.exe
+url: https://github.com/aahepburn/RAG-Assistant-for-Zotero/releases/download/v0.4.5/RAG.Assistant-0.4.5-win-x64.exe
 automatic_install: false
 self_service: false
 categories: []
