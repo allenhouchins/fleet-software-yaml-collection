@@ -1,4 +1,4 @@
-url: https://github.com/pwsafe/pwsafe/releases/download/3.71.0/pwsafe64-3.71.0.msi
+url: https://github.com/qt-creator/qt-creator/releases/download/v19.0.0/qtcreator-windows-x64-msvc-19.0.0.msi
 automatic_install: false
 self_service: false
 categories: []
