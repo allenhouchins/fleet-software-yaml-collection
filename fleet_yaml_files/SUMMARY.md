@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-04-03 06:25:44 UTC
+Generated on: 2026-04-03 18:12:29 UTC
 
 ## Summary
 
@@ -3684,7 +3684,7 @@ Total entries processed: 7660
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `64gram-64gram.yml`
-- **URL**: https://github.com/TDesktop-x64/tdesktop/releases/download/v1.1.95/64Gram-setup-x64.1.1.95.exe
+- **URL**: https://github.com/TDesktop-x64/tdesktop/releases/download/v1.1.96/64Gram-setup-x64.1.1.96.exe
 
 #### 66hex-frame
 
@@ -4530,7 +4530,7 @@ Total entries processed: 7660
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aelassas-servy.yml`
-- **URL**: https://github.com/aelassas/servy/releases/download/v7.6/servy-7.6-x64-installer.exe
+- **URL**: https://github.com/aelassas/servy/releases/download/v7.7/servy-7.7-x64-installer.exe
 
 #### aerosoft-one
 
@@ -7392,7 +7392,7 @@ Total entries processed: 7660
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `anysphere-cursor.yml`
-- **URL**: https://downloads.cursor.com/production/c6285feaba0ad62603f7c22e72f0a170dc8415a5/win32/x64/user-setup/CursorUserSetup-x64-2.6.22.exe
+- **URL**: https://downloads.cursor.com/production/93e276db8a03af947eafb2d10241e2de17806c29/win32/x64/user-setup/CursorUserSetup-x64-3.0.9.exe
 
 #### apache-directorystudio
 
@@ -11892,7 +11892,7 @@ Total entries processed: 7660
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `blueberrycongee-termcanvas.yml`
-- **URL**: https://github.com/blueberrycongee/termcanvas/releases/download/v0.24.2/TermCanvas.Setup.0.24.2.exe
+- **URL**: https://github.com/blueberrycongee/termcanvas/releases/download/v0.25.0/TermCanvas.Setup.0.25.0.exe
 
 #### bluebubbles-bluebubbles
 
@@ -12288,7 +12288,7 @@ Total entries processed: 7660
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `brave-brave-nightly.yml`
-- **URL**: https://github.com/brave/brave-browser/releases/download/v1.90.91/BraveBrowserStandaloneSilentNightlySetup.exe
+- **URL**: https://github.com/brave/brave-browser/releases/download/v1.91.8/BraveBrowserStandaloneSilentNightlySetup.exe
 
 #### brave-brave
 
@@ -22233,7 +22233,7 @@ Total entries processed: 7660
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `firedaemon-firedaemonpro.yml`
-- **URL**: https://download.firedaemon.com/FireDaemon-Pro/6.4.1/FireDaemon-Pro-x64-6.4.1.exe
+- **URL**: https://download.firedaemon.com/FireDaemon-Pro/6.4.2/FireDaemon-Pro-x64-6.4.2.exe
 
 #### firedaemon-firedaemonzero
 
@@ -25176,7 +25176,7 @@ Total entries processed: 7660
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/fkntreiyy3q2knaaby3xckolpm_148.0.7768.0/148.0.7768.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/pvrousy5mwycmtclb7n24btcqu_148.0.7770.0/148.0.7770.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -32268,7 +32268,7 @@ Total entries processed: 7660
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-ksnakeduel.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/ksnakeduel/master/windows/ksnakeduel-master-796-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/ksnakeduel/master/windows/ksnakeduel-master-800-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kspaceduel
 
@@ -32277,7 +32277,7 @@ Total entries processed: 7660
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kspaceduel.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kspaceduel/master/windows/kspaceduel-master-752-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kspaceduel/master/windows/kspaceduel-master-756-windows-cl-msvc2022-x86_64.exe
 
 #### kde-ksquares
 
@@ -32286,7 +32286,7 @@ Total entries processed: 7660
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-ksquares.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/ksquares/master/windows/ksquares-master-822-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/ksquares/master/windows/ksquares-master-826-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kstars
 
@@ -32304,7 +32304,7 @@ Total entries processed: 7660
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-ksudoku.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/ksudoku/master/windows/ksudoku-master-999-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/ksudoku/master/windows/ksudoku-master-1003-windows-cl-msvc2022-x86_64.exe
 
 #### kde-ktimetracker
 
@@ -32421,7 +32421,7 @@ Total entries processed: 7660
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-picmi.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/picmi/master/windows/picmi-master-797-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/picmi/master/windows/picmi-master-801-windows-cl-msvc2022-x86_64.exe
 
 #### kde-pumoku
 
@@ -32448,7 +32448,7 @@ Total entries processed: 7660
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-ruqola.yml`
-- **URL**: https://cdn.kde.org/ci-builds/network/ruqola/2.7/windows/ruqola-2.7-12389-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/network/ruqola/2.7/windows/ruqola-2.7-12399-windows-cl-msvc2022-x86_64.exe
 
 #### kde-skrooge
 
@@ -45129,7 +45129,7 @@ Total entries processed: 7660
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `netease-lobsterai.yml`
-- **URL**: https://github.com/netease-youdao/LobsterAI/releases/download/2026.3.29/LobsterAI--win-x64.exe
+- **URL**: https://github.com/netease-youdao/LobsterAI/releases/download/2026.4.1/LobsterAI--win-x64.exe
 
 #### netease-qiyu
 
@@ -47442,7 +47442,7 @@ Total entries processed: 7660
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `onfstudios-orenofusen.yml`
-- **URL**: https://github.com/ore-no-fusen/ore-no-fusen/releases/download/v2.2.1/ore-no-fusen_2.2.1_x64-setup.exe
+- **URL**: https://github.com/ore-no-fusen/ore-no-fusen/releases/download/v2.3.0/ore-no-fusen_2.3.0_x64-setup.exe
 
 #### onionshare-onionshare-dev
 
@@ -48531,7 +48531,7 @@ Total entries processed: 7660
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `oradbdumpviewer-oradbdumpviewer-beta.yml`
-- **URL**: https://github.com/OraDB-DUMP-Viewer/OraDB-DUMP-Viewer/releases/download/v3.1.0-beta/OraDBDumpViewer_v3.1.0-beta_installer_x64.exe
+- **URL**: https://github.com/OraDB-DUMP-Viewer/OraDB-DUMP-Viewer/releases/download/v3.1.1-beta/OraDBDumpViewer_v3.1.1-beta_installer_x64.exe
 
 #### oradbdumpviewer-oradbdumpviewer
 
@@ -48540,7 +48540,7 @@ Total entries processed: 7660
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `oradbdumpviewer-oradbdumpviewer.yml`
-- **URL**: https://github.com/OraDB-DUMP-Viewer/OraDB-DUMP-Viewer/releases/download/v3.1.0/OraDBDumpViewer_v3.1.0_installer_x64.exe
+- **URL**: https://github.com/OraDB-DUMP-Viewer/OraDB-DUMP-Viewer/releases/download/v3.1.1/OraDBDumpViewer_v3.1.1_installer_x64.exe
 
 #### orange-opensource-hurl
 
@@ -58152,7 +58152,7 @@ Total entries processed: 7660
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `specialk-specialk.yml`
-- **URL**: https://sk-data.special-k.info/repository/SpecialK_26.4.2.exe
+- **URL**: https://sk-data.special-k.info/repository/SpecialK_26.4.3.1.exe
 
 #### spectrumqt-xxmilauncher
 
@@ -59079,7 +59079,7 @@ Total entries processed: 7660
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `stirlingtools-stirlingpdf.yml`
-- **URL**: https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v2.8.0/Stirling-PDF-windows-x86_64.msi
+- **URL**: https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v2.9.0/Stirling-PDF-windows-x86_64.msi
 
 #### stnkl-everythingtoolbar-beta
 
@@ -61788,7 +61788,7 @@ Total entries processed: 7660
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `thebrain-thebrain.yml`
-- **URL**: https://updater.thebrain.com/files/TheBrain%2014.0.113.0%20Installer.exe
+- **URL**: https://updater.thebrain.com/files/TheBrain%2014.0.114.0%20Installer.exe
 
 #### thechandanbhagat-alter
 
@@ -64551,7 +64551,7 @@ Total entries processed: 7660
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `version-fox-vfox.yml`
-- **URL**: https://github.com/version-fox/vfox/releases/download/v1.0.7/vfox_1.0.7_windows_setup_x86_64.exe
+- **URL**: https://github.com/version-fox/vfox/releases/download/v1.0.8/vfox_1.0.8_windows_setup_x86_64.exe
 
 #### veyonsolutions-veyon
 
@@ -68727,7 +68727,7 @@ Total entries processed: 7660
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zoom-zoom-exe.yml`
-- **URL**: https://zoom.us/client/7.0.1.34140/ZoomInstallerFull.exe?archType=x64
+- **URL**: https://zoom.us/client/7.0.2.34412/ZoomInstallerFull.exe?archType=x64
 
 #### zoom-zoom-vdi
 
@@ -68745,7 +68745,7 @@ Total entries processed: 7660
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zoom-zoom.yml`
-- **URL**: https://zoom.us/client/7.0.1.34140/ZoomInstallerFull.msi?archType=x64
+- **URL**: https://zoom.us/client/7.0.2.34412/ZoomInstallerFull.msi?archType=x64
 
 #### zoom-zoomoutlookplugin
 
