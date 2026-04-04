@@ -1,4 +1,4 @@
-url: https://github.com/docker/secrets-engine/releases/download/v0.4.0/DockerSecretsEngine.msi
+url: https://github.com/SnapXL/SnapX/releases/download/v0.4.0/SnapX-Release-Windows-0.4.0-alpha.0+g7eafb0f-X64.msi
 automatic_install: false
 self_service: false
 categories: []
