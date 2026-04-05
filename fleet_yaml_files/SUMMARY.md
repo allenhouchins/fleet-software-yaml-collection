@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-04-04 18:08:53 UTC
+Generated on: 2026-04-05 06:26:27 UTC
 
 ## Summary
 
@@ -127,7 +127,7 @@ Total entries processed: 7669
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `appvolume.yml`
-- **URL**: https://releases.appvolume.app/AppVolume-0.1.36-arm64.pkg
+- **URL**: https://releases.appvolume.app/AppVolume-0.1.37-arm64.pkg
 
 #### aquaskk-prerelease
 
@@ -7077,7 +7077,7 @@ Total entries processed: 7669
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aninsomniacy-motrixnext.yml`
-- **URL**: https://github.com/AnInsomniacy/motrix-next/releases/download/v3.6.0/MotrixNext_3.6.0_x64-setup.exe
+- **URL**: https://github.com/AnInsomniacy/motrix-next/releases/download/v3.6.1/MotrixNext_3.6.1_x64-setup.exe
 
 #### anjok07-ultimatevocalremover
 
@@ -8832,7 +8832,7 @@ Total entries processed: 7669
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `axpnet-aeroftp.yml`
-- **URL**: https://github.com/axpdev-lab/aeroftp/releases/download/v3.3.6/AeroFTP_3.3.6_x64-setup.exe
+- **URL**: https://github.com/axpdev-lab/aeroftp/releases/download/v3.4.0/AeroFTP_3.4.0_x64-setup.exe
 
 #### axure-axurerp-10
 
@@ -11883,7 +11883,7 @@ Total entries processed: 7669
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `blueberrycongee-termcanvas.yml`
-- **URL**: https://github.com/blueberrycongee/termcanvas/releases/download/v0.25.0/TermCanvas.Setup.0.25.0.exe
+- **URL**: https://github.com/blueberrycongee/termcanvas/releases/download/v0.25.8/TermCanvas-Setup-0.25.8.exe
 
 #### bluebubbles-bluebubbles
 
@@ -14682,7 +14682,7 @@ Total entries processed: 7669
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `clsid2-mpc-hc.yml`
-- **URL**: https://github.com/clsid2/mpc-hc/releases/download/2.6.4/MPC-HC.2.6.4.x64.exe
+- **URL**: https://github.com/clsid2/mpc-hc/releases/download/2.7.0/MPC-HC.2.7.0.x64.exe
 
 #### cmdutil-whatthefile
 
@@ -14826,7 +14826,7 @@ Total entries processed: 7669
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `codecguide-k-litecodecpack-basic.yml`
-- **URL**: https://files2.codecguide.com/K-Lite_Codec_Pack_1960_Basic.exe
+- **URL**: https://files2.codecguide.com/K-Lite_Codec_Pack_1966_Basic.exe
 
 #### codecguide-k-litecodecpack-full
 
@@ -14844,7 +14844,7 @@ Total entries processed: 7669
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `codecguide-k-litecodecpack-mega.yml`
-- **URL**: https://files2.codecguide.com/K-Lite_Codec_Pack_1960_Mega.exe
+- **URL**: https://files2.codecguide.com/K-Lite_Codec_Pack_1966_Mega.exe
 
 #### codecguide-k-litecodecpack-standard
 
@@ -14853,7 +14853,7 @@ Total entries processed: 7669
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `codecguide-k-litecodecpack-standard.yml`
-- **URL**: https://files2.codecguide.com/K-Lite_Codec_Pack_1960_Standard.exe
+- **URL**: https://files2.codecguide.com/K-Lite_Codec_Pack_1966_Standard.exe
 
 #### codef0x-ffzap
 
@@ -18237,7 +18237,7 @@ Total entries processed: 7669
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `discloud-cli.yml`
-- **URL**: https://github.com/discloud/cli-dart/releases/download/0.6.1/discloud-cli-x64-setup.exe
+- **URL**: https://github.com/discloud/cli-dart/releases/download/0.8.2/discloud-cli-x64-setup.exe
 
 #### discord-discord-canary
 
@@ -27111,7 +27111,7 @@ Total entries processed: 7669
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `houmain-keymapper.yml`
-- **URL**: https://github.com/houmain/keymapper/releases/download/5.4.1/keymapper-5.4.1-Windows-x86_64.msi
+- **URL**: https://github.com/houmain/keymapper/releases/download/5.4.2/keymapper-5.4.2-Windows-x86_64.msi
 
 #### housatonic-projectplan365
 
@@ -27264,7 +27264,7 @@ Total entries processed: 7669
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hrzlgnm-mdns-browser.yml`
-- **URL**: https://github.com/hrzlgnm/mdns-browser/releases/download/mdns-browser-v1.6.0/mdns-browser_1.6.0_x64-setup.exe
+- **URL**: https://github.com/hrzlgnm/mdns-browser/releases/download/mdns-browser-v1.7.0/mdns-browser_1.7.0_x64-setup.exe
 
 #### htacg-tidy
 
@@ -28902,7 +28902,7 @@ Total entries processed: 7669
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ipep-scantailor-experimental.yml`
-- **URL**: https://github.com/ImageProcessing-ElectronicPublications/scantailor-experimental/releases/download/1.2026.03.08/scantailor-experimental-1.2026.03.08-X86-64-install.exe
+- **URL**: https://github.com/ImageProcessing-ElectronicPublications/scantailor-experimental/releases/download/1.2026.04.04/scantailor-experimental-1.2026.04.04-X86-64-install.exe
 
 #### ipevo-camcontrol
 
@@ -30909,7 +30909,7 @@ Total entries processed: 7669
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jm2-tributary.yml`
-- **URL**: https://github.com/jm2/tributary/releases/download/v0.1.0/tributary-windows-x86_64-setup.exe
+- **URL**: https://github.com/jm2/tributary/releases/download/v0.2.0/tributary-windows-x86_64-setup.exe
 
 #### jmmg-ocwin
 
@@ -32466,7 +32466,7 @@ Total entries processed: 7669
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-ruqola.yml`
-- **URL**: https://cdn.kde.org/ci-builds/network/ruqola/2.7/windows/ruqola-2.7-12399-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/network/ruqola/2.7/windows/ruqola-2.7-12406-windows-cl-msvc2022-x86_64.exe
 
 #### kde-skrooge
 
@@ -47199,7 +47199,7 @@ Total entries processed: 7669
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `olegshparber-zeal.yml`
-- **URL**: https://github.com/zealdocs/zeal/releases/download/v0.8.0/zeal-0.8.0-windows-x64.msi
+- **URL**: https://github.com/zealdocs/zeal/releases/download/v0.8.1/zeal-0.8.1-windows-x64.msi
 
 #### oleguerllopart-opencomic
 
@@ -56361,7 +56361,7 @@ Total entries processed: 7669
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-04-02/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-04-04/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -62859,7 +62859,7 @@ Total entries processed: 7669
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tonhowtf-omniget.yml`
-- **URL**: https://github.com/tonhowtf/omniget/releases/download/v0.3.7/omniget_0.3.7_x64-setup.exe
+- **URL**: https://github.com/tonhowtf/omniget/releases/download/v0.4.0/omniget_0.4.0_x64-setup.exe
 
 #### tonresistor-tonbrowser
 
@@ -63660,7 +63660,7 @@ Total entries processed: 7669
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `twintailteam-ttl.yml`
-- **URL**: https://github.com/TwintailTeam/TwintailLauncher/releases/download/ttl-v1.1.2/twintaillauncher_1.1.2_x64-setup.exe
+- **URL**: https://github.com/TwintailTeam/TwintailLauncher/releases/download/ttl-v2.0.0/twintaillauncher_2.0.0_x64-setup.exe
 
 #### twistedst-scale-serial-reader
 
@@ -64758,7 +64758,7 @@ Total entries processed: 7669
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0291/gvim_9.2.0291_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0298/gvim_9.2.0298_x64.exe
 
 #### vim-vim
 
@@ -65964,7 +65964,7 @@ Total entries processed: 7669
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wendylabs-wendy.yml`
-- **URL**: https://github.com/wendylabsinc/wendy-agent/releases/download/2026.04.03-044617/wendy-cli-windows-amd64-2026.04.03-044617.msi
+- **URL**: https://github.com/wendylabsinc/wendy-agent/releases/download/2026.04.04-171216/wendy-cli-windows-amd64-2026.04.04-171216.msi
 
 #### wenming-thirdspace
 
@@ -66252,7 +66252,7 @@ Total entries processed: 7669
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `willibrandon-dotsider-mcp.yml`
-- **URL**: https://github.com/willibrandon/dotsider/releases/download/v0.7.2/dotsider-mcp-win-x64.msi
+- **URL**: https://github.com/willibrandon/dotsider/releases/download/v0.8.0/dotsider-mcp-win-x64.msi
 
 #### willibrandon-dotsider
 
@@ -66297,7 +66297,7 @@ Total entries processed: 7669
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `win32ss-supermium.yml`
-- **URL**: https://github.com/win32ss/supermium/releases/download/v144-r1/supermium_144_64_setup_win10_11.exe
+- **URL**: https://github.com/win32ss/supermium/releases/download/v144-r2/supermium_144_64_setup_win10_11.exe
 
 #### winbee-cashcash
 
@@ -68322,7 +68322,7 @@ Total entries processed: 7669
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yukimemi-shun.yml`
-- **URL**: https://github.com/yukimemi/shun/releases/download/v5.0.1/shun_5.0.1_x64-setup.exe
+- **URL**: https://github.com/yukimemi/shun/releases/download/v5.0.2/shun_5.0.2_x64-setup.exe
 
 #### yuma14-shutdowncountdown
 
