@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-04-06 06:36:18 UTC
+Generated on: 2026-04-06 18:18:27 UTC
 
 ## Summary
 
-Total entries processed: 7670
+Total entries processed: 7673
 - macOS files: 369
-- Windows files: 7301
+- Windows files: 7304
 
 ## Generated Files
 
@@ -154,7 +154,7 @@ Total entries processed: 7670
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `arq.yml`
-- **URL**: https://www.arqbackup.com/download/arqbackup/Arq7.39.pkg
+- **URL**: https://www.arqbackup.com/download/arqbackup/Arq7.39.1.pkg
 
 #### arq7
 
@@ -1351,7 +1351,7 @@ Total entries processed: 7670
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `gyazo.yml`
-- **URL**: https://files.gyazo.com/setup/Gyazo-10.7.0.pkg
+- **URL**: https://files.gyazo.com/setup/Gyazo-10.8.0.pkg
 
 #### hackolade
 
@@ -2665,7 +2665,7 @@ Total entries processed: 7670
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `sfm.yml`
-- **URL**: https://github.com/SagerNet/sing-box/releases/download/v1.13.5/SFM-1.13.5-Universal.pkg
+- **URL**: https://github.com/SagerNet/sing-box/releases/download/v1.13.6/SFM-1.13.6-Universal.pkg
 
 #### shutter-encoder
 
@@ -4152,7 +4152,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `actualbudget-actualbudget.yml`
-- **URL**: https://github.com/actualbudget/actual/releases/download/v26.3.0/Actual-windows-x64.exe
+- **URL**: https://github.com/actualbudget/actual/releases/download/v26.4.0/Actual-windows-x64.exe
 
 #### adalang-alire
 
@@ -7086,7 +7086,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aninsomniacy-motrixnext.yml`
-- **URL**: https://github.com/AnInsomniacy/motrix-next/releases/download/v3.6.1/MotrixNext_3.6.1_x64-setup.exe
+- **URL**: https://github.com/AnInsomniacy/motrix-next/releases/download/v3.6.3/MotrixNext_3.6.3_x64-setup.exe
 
 #### anjok07-ultimatevocalremover
 
@@ -8841,7 +8841,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `axpnet-aeroftp.yml`
-- **URL**: https://github.com/axpdev-lab/aeroftp/releases/download/v3.4.2/AeroFTP_3.4.2_x64-setup.exe
+- **URL**: https://github.com/axpdev-lab/aeroftp/releases/download/v3.4.3/AeroFTP_3.4.3_x64-setup.exe
 
 #### axure-axurerp-10
 
@@ -9319,6 +9319,15 @@ Total entries processed: 7670
 - **Version**: 
 - **File**: `azul-zulufx-25-jre.yml`
 - **URL**: https://cdn.azul.com/zulu/bin/zulu25.32.21-ca-fx-jre25.0.2-win_x64.msi
+
+#### azul-zulufx-26-jdk
+
+- **Source**: winget
+- **Name**: azul-zulufx-26-jdk
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `azul-zulufx-26-jdk.yml`
+- **URL**: https://cdn.azul.com/zulu/bin/zulu26.28.63-ca-fx-jdk26.0.0-win_x64.msi
 
 #### azul-zulufx-8-jdk
 
@@ -13539,7 +13548,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cebby2420-viadesktop.yml`
-- **URL**: https://github.com/cebby2420/via-desktop/releases/download/v2026.3.9/via-desktop-2026.3.9.Setup.exe
+- **URL**: https://github.com/cebby2420/via-desktop/releases/download/v2026.4.6/via-desktop-2026.4.6.Setup.exe
 
 #### cedric-fa2tv
 
@@ -13962,7 +13971,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `chill-astro-tmm.yml`
-- **URL**: https://github.com/Chill-Astro/Trust-My-Msix/releases/download/v3.14.1.2/TMM.exe
+- **URL**: https://github.com/Chill-Astro/Trust-My-Msix/releases/download/v3.14.1.4/TMM.exe
 
 #### chillibits-ccom
 
@@ -27273,7 +27282,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hrzlgnm-mdns-browser.yml`
-- **URL**: https://github.com/hrzlgnm/mdns-browser/releases/download/mdns-browser-v1.7.1/mdns-browser_1.7.1_x64-setup.exe
+- **URL**: https://github.com/hrzlgnm/mdns-browser/releases/download/mdns-browser-v1.8.0/mdns-browser_1.8.0_x64-setup.exe
 
 #### htacg-tidy
 
@@ -27814,6 +27823,15 @@ Total entries processed: 7670
 - **Version**: 
 - **File**: `ibm-semeru-25-jre.yml`
 - **URL**: https://github.com/ibmruntimes/semeru25-binaries/releases/download/jdk-25.0.2+10.1_openj9-0.57.0/ibm-semeru-open-jre_x64_windows_25.0.2.1.msi
+
+#### ibm-semeru-26-jdk
+
+- **Source**: winget
+- **Name**: ibm-semeru-26-jdk
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `ibm-semeru-26-jdk.yml`
+- **URL**: https://github.com/ibmruntimes/semeru26-binaries/releases/download/jdk-26+35_openj9-0.58.0/ibm-semeru-open-jdk_x64_windows_26.0.0.0.msi
 
 #### ibm-semeru-8-jdk
 
@@ -31719,7 +31737,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kawaiidango-pano-scrobbler.yml`
-- **URL**: https://github.com/kawaiiDango/pano-scrobbler/releases/download/435/pano-scrobbler-windows-x64.exe
+- **URL**: https://github.com/kawaiiDango/pano-scrobbler/releases/download/436/pano-scrobbler-windows-x64.exe
 
 #### kay-ou-simtradedesk
 
@@ -32133,7 +32151,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kiriki.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kiriki/master/windows/kiriki-master-775-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kiriki/master/windows/kiriki-master-779-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kiten
 
@@ -32169,7 +32187,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-klines.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/klines/master/windows/klines-master-820-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/klines/master/windows/klines-master-824-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kmahjongg
 
@@ -45444,7 +45462,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nexmoe-vidbee.yml`
-- **URL**: https://github.com/nexmoe/VidBee/releases/download/v1.3.7/vidbee-1.3.7-setup.exe
+- **URL**: https://github.com/nexmoe/VidBee/releases/download/v1.3.8/vidbee-1.3.8-setup.exe
 
 #### nexon-nexonplug
 
@@ -46254,7 +46272,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nordsecurity-nordlocker.yml`
-- **URL**: https://downloads.nordcdn.com/apps/windows/NordLockerEvolution/5.3.15.0/NordLockerSetup_x64.exe
+- **URL**: https://downloads.nordcdn.com/apps/windows/NordLockerEvolution/5.3.19.0/NordLockerSetup_x64.exe
 
 #### nordsecurity-nordpass
 
@@ -50871,7 +50889,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `powerplatformtoolbox-powerplatformtoolbox.yml`
-- **URL**: https://github.com/PowerPlatformToolBox/desktop-app/releases/download/v1.2.0/Power-Platform-ToolBox-1.2.0-x64-win.exe
+- **URL**: https://github.com/PowerPlatformToolBox/desktop-app/releases/download/v1.2.1/Power-Platform-ToolBox-1.2.1-x64-win.exe
 
 #### powersoftware-anyburn-pro
 
@@ -55580,6 +55598,15 @@ Total entries processed: 7670
 - **File**: `sap-sapmachine-25-jre.yml`
 - **URL**: https://github.com/SAP/SapMachine/releases/download/sapmachine-25.0.2/sapmachine-jre-25.0.2_windows-x64_bin.msi
 
+#### sap-sapmachine-26-jdk
+
+- **Source**: winget
+- **Name**: sap-sapmachine-26-jdk
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `sap-sapmachine-26-jdk.yml`
+- **URL**: https://github.com/SAP/SapMachine/releases/download/sapmachine-26/sapmachine-jdk-26_windows-x64_bin.msi
+
 #### saraansx-lune
 
 - **Source**: winget
@@ -56703,7 +56730,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `siarheikuchuk-screenshotannotator.yml`
-- **URL**: https://github.com/drweb86/annotator/releases/download/2026.02.25/ScreenshotAnnotator_v2026.02.25.exe
+- **URL**: https://github.com/drweb86/annotator/releases/download/2026.04.06/ScreenshotAnnotator_v2026.04.06.exe
 
 #### siarheim-lightdownloader
 
@@ -62895,7 +62922,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tooyi-ishell.yml`
-- **URL**: https://ishell-down.oss-cn-beijing.aliyuncs.com/ishellpro_3.0.5_x64-setup.exe
+- **URL**: https://ishell-down.oss-cn-beijing.aliyuncs.com/ishellpro_3.0.7_x64-setup.exe
 
 #### topalasoftwaresolutions-siw
 
@@ -65541,7 +65568,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wagnardsoft-displaydriveruninstaller.yml`
-- **URL**: https://www.wagnardsoft.com/DDU/download/DDU%20v18.1.5.0_setup.exe
+- **URL**: https://www.wagnardsoft.com/DDU/download/DDU%20v18.1.5.1_setup.exe
 
 #### wago-addons
 
@@ -66252,7 +66279,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `willibrandon-dotsider-mcp.yml`
-- **URL**: https://github.com/willibrandon/dotsider/releases/download/v0.8.0/dotsider-mcp-win-x64.msi
+- **URL**: https://github.com/willibrandon/dotsider/releases/download/v0.9.0/dotsider-mcp-win-x64.msi
 
 #### willibrandon-dotsider
 
@@ -66261,7 +66288,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `willibrandon-dotsider.yml`
-- **URL**: https://github.com/willibrandon/dotsider/releases/download/v0.8.0/dotsider-win-x64.msi
+- **URL**: https://github.com/willibrandon/dotsider/releases/download/v0.9.0/dotsider-win-x64.msi
 
 #### willibrandon-pgtail
 
@@ -67485,7 +67512,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xiaocang-easydictforwindows.yml`
-- **URL**: https://github.com/xiaocang/easydict_win32/releases/download/v0.6.2/Easydict-v0.6.2-x64-setup.unsigned.exe
+- **URL**: https://github.com/xiaocang/easydict_win32/releases/download/v0.6.3/Easydict-v0.6.3-x64-setup.unsigned.exe
 
 #### xiaomi-miui-
 
@@ -68331,7 +68358,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yukimemi-shun.yml`
-- **URL**: https://github.com/yukimemi/shun/releases/download/v5.0.2/shun_5.0.2_x64-setup.exe
+- **URL**: https://github.com/yukimemi/shun/releases/download/v5.0.6/shun_5.0.6_x64-setup.exe
 
 #### yuma14-shutdowncountdown
 
