@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-04-05 18:09:56 UTC
+Generated on: 2026-04-06 06:36:18 UTC
 
 ## Summary
 
@@ -1234,7 +1234,7 @@ Total entries processed: 7670
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `fuse-t.yml`
-- **URL**: https://github.com/macos-fuse-t/fuse-t/releases/download/1.2.0/fuse-t-macos-installer-1.2.0.pkg
+- **URL**: https://github.com/macos-fuse-t/fuse-t/releases/download/1.2.1/fuse-t-macos-installer-1.2.1.pkg
 
 #### fuse
 
@@ -3747,7 +3747,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `990aa-kivixa.yml`
-- **URL**: https://github.com/990aa/kivixa/releases/download/v0.4.1+4001/Kivixa-Setup-0.4.1.exe
+- **URL**: https://github.com/990aa/kivixa/releases/download/v0.5.0+5000/Kivixa-Setup-0.5.0.exe
 
 #### aahepburn-ragassistantforzotero
 
@@ -8841,7 +8841,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `axpnet-aeroftp.yml`
-- **URL**: https://github.com/axpdev-lab/aeroftp/releases/download/v3.4.1/AeroFTP_3.4.1_x64-setup.exe
+- **URL**: https://github.com/axpdev-lab/aeroftp/releases/download/v3.4.2/AeroFTP_3.4.2_x64-setup.exe
 
 #### axure-axurerp-10
 
@@ -18246,7 +18246,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `discloud-cli.yml`
-- **URL**: https://github.com/discloud/cli-dart/releases/download/0.8.2/discloud-cli-x64-setup.exe
+- **URL**: https://github.com/discloud/cli-dart/releases/download/0.8.4/discloud-cli-x64-setup.exe
 
 #### discord-discord-canary
 
@@ -18516,7 +18516,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dms-ai-printutil.yml`
-- **URL**: https://github.com/MYuitsu/print-util/releases/download/v0.1.0/print-util-0.1.0-setup.exe
+- **URL**: https://github.com/MYuitsu/print-util/releases/download/v0.3.0/print-util-0.3.0-setup.exe
 
 #### dmt-dmt840mdcontrollersoftware
 
@@ -18768,7 +18768,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dongdongbh-mindwtr.yml`
-- **URL**: https://github.com/dongdongbh/Mindwtr/releases/download/v0.7.9/mindwtr_0.7.9_x64-setup.exe
+- **URL**: https://github.com/dongdongbh/Mindwtr/releases/download/v0.8.0/mindwtr_0.8.0_x64-setup.exe
 
 #### donmar-bonsai
 
@@ -29703,7 +29703,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jannisx11-blockbench.yml`
-- **URL**: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_5.1.2.exe
+- **URL**: https://github.com/JannisX11/blockbench/releases/download/v5.1.3/Blockbench_5.1.3.exe
 
 #### janprochazka-dbgate
 
@@ -47469,7 +47469,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `onfstudios-orenofusen.yml`
-- **URL**: https://github.com/ore-no-fusen/ore-no-fusen/releases/download/v2.3.1/ore-no-fusen_2.3.1_x64-setup.exe
+- **URL**: https://github.com/ore-no-fusen/ore-no-fusen/releases/download/v2.4.1/ore-no-fusen_2.4.1_x64-setup.exe
 
 #### onionshare-onionshare-dev
 
@@ -51663,7 +51663,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ptrtech-uvtools.yml`
-- **URL**: https://github.com/sn4k3/UVtools/releases/download/v6.0.1/UVtools_win-x64_v6.0.1.msi
+- **URL**: https://github.com/sn4k3/UVtools/releases/download/v6.0.3/UVtools_win-x64_v6.0.3.msi
 
 #### publiqvzw-uitpasbeheerdersapplicatie
 
@@ -55173,7 +55173,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sagami121-audion.yml`
-- **URL**: https://github.com/sagami121/Audion/releases/download/0.1.2/Audion_0.1.2_x64-setup.exe
+- **URL**: https://github.com/sagami121/Audion/releases/download/0.1.3/Audion_0.1.3_x64-setup.exe
 
 #### sagami121-rpptoobject
 
@@ -56361,7 +56361,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-04-04/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-04-05/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -57333,7 +57333,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `smartsoft-smartftp.yml`
-- **URL**: https://static.smartftp.com/static/Products/Client/10.0.3317.0/x64/SmartFTP.msi
+- **URL**: https://static.smartftp.com/static/Products/Client/10.0.3318.0/x64/SmartFTP.msi
 
 #### smath-smathstudio-enterprise
 
@@ -60168,7 +60168,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `t-troll-alienfxtools.yml`
-- **URL**: https://github.com/T-Troll/alienfx-tools/releases/download/9.4.1/alienfx-tools.msi
+- **URL**: https://github.com/T-Troll/alienfx-tools/releases/download/9.4.1.1/alienfx-tools.msi
 
 #### t1m0thyj-windynamicdesktop
 
@@ -62904,7 +62904,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `topalasoftwaresolutions-siw.yml`
-- **URL**: https://www.gtopala.com/download/20260329a/siwtrial-setup.exe
+- **URL**: https://www.gtopala.com/download/20260405a/siwtrial-setup.exe
 
 #### topazlabs-topazdenoiseai
 
@@ -64380,7 +64380,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vapoursynth-vapoursynth.yml`
-- **URL**: https://github.com/vapoursynth/vapoursynth/releases/download/R73/VapourSynth-x64-R73.exe
+- **URL**: https://github.com/vapoursynth/vapoursynth/releases/download/R74/VapourSynth-x64-R74.exe
 
 #### variar-klogg
 
@@ -64758,7 +64758,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0298/gvim_9.2.0298_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0301/gvim_9.2.0301_x64.exe
 
 #### vim-vim
 
@@ -66261,7 +66261,7 @@ Total entries processed: 7670
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `willibrandon-dotsider.yml`
-- **URL**: https://github.com/willibrandon/dotsider/releases/download/v0.7.2/dotsider-win-x64.msi
+- **URL**: https://github.com/willibrandon/dotsider/releases/download/v0.8.0/dotsider-win-x64.msi
 
 #### willibrandon-pgtail
 
