@@ -1,4 +1,4 @@
-url: https://download-installer.cdn.mozilla.net/pub/firefox/releases/149.0.2/win64/an/Firefox%20Setup%20149.0.2.exe
+url: https://github.com/walles/moor/releases/download/v2.12.0/moor-v2.12.0-windows-amd64.exe
 automatic_install: false
 self_service: false
 categories: []
