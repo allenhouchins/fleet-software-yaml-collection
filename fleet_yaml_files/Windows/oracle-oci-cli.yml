@@ -1,4 +1,4 @@
-url: https://github.com/oracle/oci-cli/releases/download/v3.77.0/oci-cli-3.77.0-Windows-Server-Installer.msi
+url: https://github.com/oracle/oci-cli/releases/download/v3.78.0/oci-cli-3.78.0-Windows-Server-Installer.msi
 automatic_install: false
 self_service: false
 categories: []
