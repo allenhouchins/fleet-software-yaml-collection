@@ -1,4 +1,4 @@
-url: https://github.com/docker/sbx-releases/releases/download/v0.24.1/DockerSandboxes.msi
+url: https://github.com/docker/sbx-releases/releases/download/v0.24.2/DockerSandboxes.msi
 automatic_install: false
 self_service: false
 categories: []
