@@ -1,4 +1,4 @@
-url: https://github.com/zellij-org/zellij/releases/download/v0.44.0/zellij-x86_64-pc-windows-msvc-installer.msi
+url: https://github.com/zellij-org/zellij/releases/download/v0.44.1/zellij-x86_64-pc-windows-msvc-installer.msi
 automatic_install: false
 self_service: false
 categories: []

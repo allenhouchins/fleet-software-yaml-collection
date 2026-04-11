@@ -1,4 +1,4 @@
-url: https://download.wireguard.com/windows-client/wireguard-amd64-0.6.msi
+url: https://download.wireguard.com/windows-client/wireguard-amd64-0.6.1.msi
 automatic_install: false
 self_service: false
 categories: []
