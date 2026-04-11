@@ -1,4 +1,4 @@
-url: https://github.com/Chill-Astro/PyCalc/releases/download/v1.2/PyC_GUI-Setup.exe
+url: https://production-archimedes-secure-browser-artifacts.s3.amazonaws.com/latest/windows/guardian-browser-x64.exe
 automatic_install: false
 self_service: false
 categories: []

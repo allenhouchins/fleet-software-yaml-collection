@@ -1,11 +1,11 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-04-11 06:22:29 UTC
+Generated on: 2026-04-11 18:09:41 UTC
 
 ## Summary
 
-Total entries processed: 7732
-- macOS files: 370
+Total entries processed: 7733
+- macOS files: 371
 - Windows files: 7362
 
 ## Generated Files
@@ -272,6 +272,15 @@ Total entries processed: 7732
 - **Version**: 
 - **File**: `banking-4.yml`
 - **URL**: https://subsembly.com/download/MacBanking4.pkg
+
+#### baoliandeng
+
+- **Source**: homebrew/installomator
+- **Name**: baoliandeng
+- **Description**: Generated from Homebrew cask or Installomator script
+- **Version**: 
+- **File**: `baoliandeng.yml`
+- **URL**: https://github.com/madeye/BaoLianDeng/releases/download/v5.2/BaoLianDeng-5.2.pkg
 
 #### basictex
 
@@ -3756,7 +3765,7 @@ Total entries processed: 7732
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `990aa-kivixa.yml`
-- **URL**: https://github.com/990aa/kivixa/releases/download/v0.8.2+8002/Kivixa-Setup-0.8.2.exe
+- **URL**: https://github.com/990aa/kivixa/releases/download/v0.8.5+8005/Kivixa-Setup-0.8.5.exe
 
 #### aahepburn-ragassistantforzotero
 
@@ -7896,7 +7905,7 @@ Total entries processed: 7732
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ariesoxo-piz.yml`
-- **URL**: https://github.com/AriesOxO/piz/releases/download/v0.3.3/piz-x86_64-pc-windows-msvc.msi
+- **URL**: https://github.com/AriesOxO/piz/releases/download/v0.3.4/piz-x86_64-pc-windows-msvc.msi
 
 #### arixcel-arixcelexplorer
 
@@ -9770,6 +9779,15 @@ Total entries processed: 7732
 - **File**: `basti-def-helloworld-package.yml`
 - **URL**: https://github.com/Basti-def/helloworld-test/releases/download/helloworld/helloworld.exe
 
+#### batchyandfriends-batchy
+
+- **Source**: winget
+- **Name**: batchyandfriends-batchy
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `batchyandfriends-batchy.yml`
+- **URL**: https://releases.batchyandfriends.com/archive/Batchy-1.0.18-Setup.exe
+
 #### baulk-baulk
 
 - **Source**: winget
@@ -10992,7 +11010,7 @@ Total entries processed: 7732
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bggrgjqaubcoe-piliplus.yml`
-- **URL**: https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.0.2/PiliPlus_windows_2.0.2+4814_x64_setup.exe
+- **URL**: https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.0.3.2/PiliPlus_windows_2.0.3+4841_x64_setup.exe
 
 #### bgreenwell-xleak
 
@@ -14071,15 +14089,6 @@ Total entries processed: 7732
 - **Version**: 
 - **File**: `chill-astro-lamina.yml`
 - **URL**: https://github.com/Chill-Astro/Lamina-Calculator/releases/download/v11.26100.14.0/Setup.exe
-
-#### chill-astro-pycalc
-
-- **Source**: winget
-- **Name**: chill-astro-pycalc
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `chill-astro-pycalc.yml`
-- **URL**: https://github.com/Chill-Astro/PyCalc/releases/download/v1.2/PyC_GUI-Setup.exe
 
 #### chill-astro-tmm
 
@@ -18930,7 +18939,7 @@ Total entries processed: 7732
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dongdongbh-mindwtr.yml`
-- **URL**: https://github.com/dongdongbh/Mindwtr/releases/download/v0.8.1/mindwtr_0.8.1_x64-setup.exe
+- **URL**: https://github.com/dongdongbh/Mindwtr/releases/download/v0.8.2/mindwtr_0.8.2_x64-setup.exe
 
 #### donmar-bonsai
 
@@ -25392,7 +25401,7 @@ Total entries processed: 7732
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/acfwnbuufmenc73jf2eqis7wufdq_149.0.7784.0/149.0.7784.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/acbmyjuvandrkhxjhvncnf4e3xta_149.0.7785.0/149.0.7785.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -26427,7 +26436,7 @@ Total entries processed: 7732
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `haiying-officecli.yml`
-- **URL**: https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.42/officecli-win-x64.exe
+- **URL**: https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.43/officecli-win-x64.exe
 
 #### hakuneko-hakuneko-nightly
 
@@ -28236,7 +28245,7 @@ Total entries processed: 7732
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `idescriptor-idescriptor.yml`
-- **URL**: https://github.com/iDescriptor/iDescriptor/releases/download/v0.3.0/iDescriptor-v0.3.0-Windows_x86_64.msi
+- **URL**: https://github.com/iDescriptor/iDescriptor/releases/download/v0.4.0/iDescriptor-v0.4.0-Windows_x86_64.msi
 
 #### idmcomputersolutions-inc-uestudio
 
@@ -32196,7 +32205,7 @@ Total entries processed: 7732
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kaichat.yml`
-- **URL**: https://cdn.kde.org/ci-builds/utilities/kaichat/0.5/windows/kaichat-0.5-575-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/utilities/kaichat/0.7/windows/kaichat-0.7-1037-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kaidan
 
@@ -32241,7 +32250,7 @@ Total entries processed: 7732
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kasts.yml`
-- **URL**: https://cdn.kde.org/ci-builds/multimedia/kasts/release-26.04/windows/kasts-release_26.04-4430-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/multimedia/kasts/release-26.04/windows/kasts-release_26.04-4433-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kate
 
@@ -32673,7 +32682,7 @@ Total entries processed: 7732
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-minuet.yml`
-- **URL**: https://cdn.kde.org/ci-builds/education/minuet/master/windows/minuet-master-882-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/education/minuet/master/windows/minuet-master-919-windows-cl-msvc2022-x86_64.exe
 
 #### kde-neochat
 
@@ -32691,7 +32700,7 @@ Total entries processed: 7732
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-okular.yml`
-- **URL**: https://cdn.kde.org/ci-builds/graphics/okular/release-26.04/windows/okular-release_26.04-7286-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/graphics/okular/release-26.04/windows/okular-release_26.04-7301-windows-cl-msvc2022-x86_64.exe
 
 #### kde-parley
 
@@ -32718,7 +32727,7 @@ Total entries processed: 7732
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-pumoku.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/pumoku/master/windows/pumoku-master-248-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/pumoku/master/windows/pumoku-master-271-windows-cl-msvc2022-x86_64.exe
 
 #### kde-rkward
 
@@ -32754,7 +32763,7 @@ Total entries processed: 7732
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-tellico.yml`
-- **URL**: https://cdn.kde.org/ci-builds/office/tellico/master/windows/tellico-master-1961-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/office/tellico/4.2/windows/tellico-4.2-1976-windows-cl-msvc2022-x86_64.exe
 
 #### kde-tokodon
 
@@ -33573,7 +33582,7 @@ Total entries processed: 7732
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kts982-wintui.yml`
-- **URL**: https://github.com/kts982/wintui/releases/download/v2.1.0/wintui_2.1.0_windows_amd64.exe
+- **URL**: https://github.com/kts982/wintui/releases/download/v2.2.0/wintui_2.2.0_windows_amd64.exe
 
 #### kuaifan-dootask
 
@@ -35238,7 +35247,7 @@ Total entries processed: 7732
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `loot-loot.yml`
-- **URL**: https://github.com/loot/loot/releases/download/0.28.0/loot_0.28.0-win64.exe
+- **URL**: https://github.com/loot/loot/releases/download/0.29.0/loot_0.29.0-win64.exe
 
 #### losbiw-erin
 
@@ -36661,6 +36670,15 @@ Total entries processed: 7732
 - **Version**: 
 - **File**: `mdyna-mdyna.yml`
 - **URL**: https://github.com/mdyna/mdyna-app/releases/download/v0.21.0/MDyna-Setup-0.21.0.exe
+
+#### meazure-guardianbrowser
+
+- **Source**: winget
+- **Name**: meazure-guardianbrowser
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `meazure-guardianbrowser.yml`
+- **URL**: https://production-archimedes-secure-browser-artifacts.s3.amazonaws.com/latest/windows/guardian-browser-x64.exe
 
 #### medalb-v-medal
 
@@ -44373,7 +44391,7 @@ Total entries processed: 7732
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mpi-elan.yml`
-- **URL**: https://www.mpi.nl/tools/elan/ELAN_7-0_win.msi
+- **URL**: https://www.mpi.nl/tools/elan/ELAN_7-1_win.msi
 
 #### mpv-net
 
@@ -48900,7 +48918,7 @@ Total entries processed: 7732
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `oradbdumpviewer-oradbdumpviewer-beta.yml`
-- **URL**: https://github.com/OraDB-DUMP-Viewer/OraDB-DUMP-Viewer/releases/download/v3.1.2-beta/OraDBDumpViewer_v3.1.2-beta_installer_x64.exe
+- **URL**: https://github.com/OraDB-DUMP-Viewer/OraDB-DUMP-Viewer/releases/download/v3.2.0-beta/OraDBDumpViewer_v3.2.0-beta_installer_x64.exe
 
 #### oradbdumpviewer-oradbdumpviewer
 
@@ -48909,7 +48927,7 @@ Total entries processed: 7732
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `oradbdumpviewer-oradbdumpviewer.yml`
-- **URL**: https://github.com/OraDB-DUMP-Viewer/OraDB-DUMP-Viewer/releases/download/v3.1.2/OraDBDumpViewer_v3.1.2_installer_x64.exe
+- **URL**: https://github.com/OraDB-DUMP-Viewer/OraDB-DUMP-Viewer/releases/download/v3.2.0/OraDBDumpViewer_v3.2.0_installer_x64.exe
 
 #### orange-opensource-hurl
 
@@ -49341,7 +49359,7 @@ Total entries processed: 7732
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `paloaltonetworks-prismaaccessbrowser.yml`
-- **URL**: https://updates.talon-sec.com/releases/Prisma%20Access%20Browser/win/packaged/x64/signed_o4_stable_prisma_access_browser_installer_146_16_9_178-146.16.9.178-6317eb91.msi
+- **URL**: https://updates.talon-sec.com/releases/Prisma%20Access%20Browser/win/packaged/x64/signed_o4_stable_prisma_access_browser_installer_147_10_3_56-147.10.3.56-f768a7f4.msi
 
 #### palsternakka-outlookwindowhook
 
@@ -49440,7 +49458,7 @@ Total entries processed: 7732
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `paopaoandlingyia-prismcat.yml`
-- **URL**: https://github.com/paopaoandlingyia/PrismCat/releases/download/v1.3.0/prismcat-windows-amd64.exe
+- **URL**: https://github.com/paopaoandlingyia/PrismCat/releases/download/v1.3.1/prismcat-windows-amd64.exe
 
 #### papercutsoftware-ghosttrap
 
@@ -50556,7 +50574,7 @@ Total entries processed: 7732
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pixpin-pixpin-beta.yml`
-- **URL**: https://download.pixpinapp.com/PixPin_cn_zh-cn_3.1.0.2.exe
+- **URL**: https://download.pixpinapp.com/PixPin_cn_zh-cn_3.1.0.4.exe
 
 #### pixpin-pixpin
 
@@ -53283,7 +53301,7 @@ Total entries processed: 7732
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `raphamorim-rio.yml`
-- **URL**: https://github.com/raphamorim/rio/releases/download/v0.3.3/Rio-installer-x86_64.msi
+- **URL**: https://github.com/raphamorim/rio/releases/download/v0.3.4/Rio-installer-x86_64.msi
 
 #### raphgl-tuckr
 
@@ -57477,7 +57495,7 @@ Total entries processed: 7732
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `simplyca-typeless.yml`
-- **URL**: https://typeless-static.com/desktop-release/Typeless-0.9.7-x64-Setup.exe
+- **URL**: https://typeless-static.com/desktop-release/Typeless-1.1.0-x64-Setup.exe
 
 #### singular-recast
 
@@ -62293,15 +62311,6 @@ Total entries processed: 7732
 - **Version**: 
 - **File**: `thatonecalculator-discordrpcmaker.yml`
 - **URL**: https://github.com/ThatOneCalculator/DiscordRPCMaker/releases/download/v2.1.1/discordrpcmaker-windows.exe
-
-#### thaunknown-miru
-
-- **Source**: winget
-- **Name**: thaunknown-miru
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `thaunknown-miru.yml`
-- **URL**: https://github.com/ThaUnknown/miru/releases/download/v5.5.9/win-Miru-5.5.9-installer.exe
 
 #### theazurian-bookmarkr
 
