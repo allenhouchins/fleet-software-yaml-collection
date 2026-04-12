@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-04-12 06:32:23 UTC
+Generated on: 2026-04-12 18:12:15 UTC
 
 ## Summary
 
-Total entries processed: 7734
+Total entries processed: 7735
 - macOS files: 371
-- Windows files: 7363
+- Windows files: 7364
 
 ## Generated Files
 
@@ -18849,7 +18849,7 @@ Total entries processed: 7734
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `docmirror-dev-sidecar.yml`
-- **URL**: https://github.com/docmirror/dev-sidecar/releases/download/v2.0.0.3/DevSidecar-2.0.0.3-windows-x86_64.exe
+- **URL**: https://github.com/docmirror/dev-sidecar/releases/download/v2.0.1/DevSidecar-2.0.1-windows-x86_64.exe
 
 #### documizeinc-zerabase
 
@@ -25410,7 +25410,7 @@ Total entries processed: 7734
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/nf6mec7ozmkitllmnuebpwx2gy_149.0.7786.0/149.0.7786.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/ac4ardktbjl5jsnlhnderuu26pkq_149.0.7787.0/149.0.7787.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -25644,7 +25644,7 @@ Total entries processed: 7734
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `governikus-ausweisapp.yml`
-- **URL**: https://github.com/Governikus/AusweisApp/releases/download/2.5.0/AusweisApp-2.5.0.msi
+- **URL**: https://github.com/Governikus/AusweisApp/releases/download/2.5.1/AusweisApp-2.5.1.msi
 
 #### governmentoftheprc-guangdongprovince-yuezhengyi
 
@@ -26733,7 +26733,7 @@ Total entries processed: 7734
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `heidisql-heidisql.yml`
-- **URL**: https://github.com/HeidiSQL/HeidiSQL/releases/download/v12.16/HeidiSQL_12.16.0.7229_Setup.exe
+- **URL**: https://github.com/HeidiSQL/HeidiSQL/releases/download/12.17/HeidiSQL_12.17.0.7270_Setup.exe
 
 #### heizi-heiziflashtools
 
@@ -28479,7 +28479,7 @@ Total entries processed: 7734
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `imagemagick-imagemagick-q8.yml`
-- **URL**: https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-18/ImageMagick-7.1.2-18-Q8-x64-dll.exe
+- **URL**: https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-19/ImageMagick-7.1.2-19-Q8-x64-dll.exe
 
 #### imagemagick-imagemagick
 
@@ -28488,7 +28488,7 @@ Total entries processed: 7734
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `imagemagick-imagemagick.yml`
-- **URL**: https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-18/ImageMagick-7.1.2-18-Q16-HDRI-x64-dll.exe
+- **URL**: https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-19/ImageMagick-7.1.2-19-Q16-HDRI-x64-dll.exe
 
 #### imageoptim-gifski
 
@@ -33177,7 +33177,7 @@ Total entries processed: 7734
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kindness-kismet-stelliberty.yml`
-- **URL**: https://github.com/Kindness-Kismet/Stelliberty/releases/download/v1.2.276/Stelliberty-v1.2.276-windows-x64-setup.exe
+- **URL**: https://github.com/Kindness-Kismet/Stelliberty/releases/download/v1.2.277/Stelliberty-v1.2.277-windows-x64-setup.exe
 
 #### kingpindev-vicesonar
 
@@ -33852,7 +33852,7 @@ Total entries processed: 7734
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kwaroran-risuai.yml`
-- **URL**: https://github.com/kwaroran/Risuai/releases/download/v2026.3.336/RisuAI_2026.3.336_x64-setup.exe
+- **URL**: https://github.com/kwaroran/Risuai/releases/download/v2026.4.120/RisuAI_2026.4.120_x64-setup.exe
 
 #### kydronepilot-spaceeye
 
@@ -45876,7 +45876,7 @@ Total entries processed: 7734
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nextmv-cli.yml`
-- **URL**: https://github.com/nextmv-io/nextmv-py/releases/download/nextmv-v1.6.1/nextmv-windows-x64.exe
+- **URL**: https://github.com/nextmv-io/nextmv-py/releases/download/nextmv-v1.6.2/nextmv-windows-x64.exe
 
 #### nexttrace-nexttrace-core
 
@@ -46119,7 +46119,7 @@ Total entries processed: 7734
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nickgasson-nvc.yml`
-- **URL**: https://github.com/nickg/nvc/releases/download/r1.19.3/nvc-1.19.3.msi
+- **URL**: https://github.com/nickg/nvc/releases/download/r1.20.0/nvc-1.20.0.msi
 
 #### nickgottschlich-socialamnesia
 
@@ -48110,6 +48110,15 @@ Total entries processed: 7734
 - **File**: `opendsc-resources.yml`
 - **URL**: https://github.com/opendsc/opendsc/releases/download/v0.5.1/OpenDSC.Resources-0.5.1.msi
 
+#### opendsc-server
+
+- **Source**: winget
+- **Name**: opendsc-server
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `opendsc-server.yml`
+- **URL**: https://github.com/opendsc/opendsc/releases/download/v0.5.1/OpenDSC.Server-0.5.1.msi
+
 #### opengoal-launcher
 
 - **Source**: winget
@@ -48468,7 +48477,7 @@ Total entries processed: 7734
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `openrct2-openrct2.yml`
-- **URL**: https://github.com/OpenRCT2/OpenRCT2/releases/download/v0.4.9/OpenRCT2-0.4.9-windows-installer-x64.exe
+- **URL**: https://github.com/OpenRCT2/OpenRCT2/releases/download/v0.5.0/OpenRCT2-v0.5.0-windows-installer-x64.exe
 
 #### openrefine-openrefine
 
@@ -49530,7 +49539,7 @@ Total entries processed: 7734
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `parallels-parallels.yml`
-- **URL**: https://download.parallels.com/ras/v21/21.1.0.26548/RASClient-x64-21.1.26548.msi
+- **URL**: https://download.parallels.com/ras/v21/21.1.1.26688/RASClient-x64-21.1.26688.msi
 
 #### parrothat-plp
 
@@ -53805,7 +53814,7 @@ Total entries processed: 7734
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `relmer-rcdir.yml`
-- **URL**: https://github.com/relmer/RCDir/releases/download/v5.2.1398/rcdir.exe
+- **URL**: https://github.com/relmer/RCDir/releases/download/v5.3.1403/rcdir.exe
 
 #### relmer-tcdir
 
@@ -54381,7 +54390,7 @@ Total entries processed: 7734
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rioarisk-codexmanager.yml`
-- **URL**: https://github.com/RioArisk/codex-auth-manager/releases/download/v0.1.6/Codex.Manager_0.1.6_x64_en-US.msi
+- **URL**: https://github.com/RioArisk/codex-auth-manager/releases/download/v0.1.8/Codex.Manager_0.1.8_x64_en-US.msi
 
 #### riok-kreya
 
@@ -54912,7 +54921,7 @@ Total entries processed: 7734
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `romtenma-siki.yml`
-- **URL**: https://sikiapp.net/archives/0.40.6/SikiSetup-0.40.6.exe
+- **URL**: https://sikiapp.net/archives/0.40.7/SikiSetup-0.40.7.exe
 
 #### ronghuaxueleng-claudecodeconfigmanager
 
@@ -56568,7 +56577,7 @@ Total entries processed: 7734
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `securityronin-blazehash.yml`
-- **URL**: https://github.com/SecurityRonin/blazehash/releases/download/v0.2.0/blazehash-0.2.0-x86_64-pc-windows-msvc.msi
+- **URL**: https://github.com/SecurityRonin/blazehash/releases/download/v0.2.4/blazehash-0.2.4-x86_64-pc-windows-msvc.msi
 
 #### sedwards2009-extraterm
 
@@ -57468,7 +57477,7 @@ Total entries processed: 7734
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `simonschubert-kai.yml`
-- **URL**: https://github.com/SimonSchubert/Kai/releases/download/v2.1.2/Kai-2.1.2-windows.msi
+- **URL**: https://github.com/SimonSchubert/Kai/releases/download/v2.1.4/Kai-2.1.4-windows.msi
 
 #### simontatham-puzzles
 
@@ -61896,7 +61905,7 @@ Total entries processed: 7734
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-workbuddy.yml`
-- **URL**: https://download.codebuddy.cn/workbuddy/saas/win32-x64-user/WorkBuddy-win32-x64-user-4.9.2.25088780-96671b84.exe
+- **URL**: https://download.codebuddy.cn/workbuddy/saas/win32-x64-user/WorkBuddy-win32-x64-user-4.9.3.25145143-f10cab22.exe
 
 #### tencent-yuanbao
 
@@ -66369,7 +66378,7 @@ Total entries processed: 7734
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `waytech-clouddrive2.yml`
-- **URL**: https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.0.4/CloudDrive2Setup-X64-1.0.4.exe
+- **URL**: https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.0.5/CloudDrive2Setup-X64-1.0.5.exe
 
 #### weakauras-weakaurascompanion
 
@@ -66873,7 +66882,7 @@ Total entries processed: 7734
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `winbigfox-timescribe.yml`
-- **URL**: https://github.com/WINBIGFOX/TimeScribe/releases/download/v1.11.0/TimeScribe-1.11.0-setup.exe
+- **URL**: https://github.com/WINBIGFOX/TimeScribe/releases/download/v1.12.0/TimeScribe-1.12.0-setup.exe
 
 #### windirstat-windirstat-beta
 
@@ -67917,7 +67926,7 @@ Total entries processed: 7734
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xarthurx-whisperi.yml`
-- **URL**: https://github.com/xarthurx/whisperi/releases/download/v0.6.6/Whisperi_0.6.6_x64-setup.exe
+- **URL**: https://github.com/xarthurx/whisperi/releases/download/v0.6.7/Whisperi_0.6.7_x64-setup.exe
 
 #### xavierroche-httrack
 
