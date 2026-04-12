@@ -1,4 +1,4 @@
-url: https://dl.google.com/release2/chrome/nf6mec7ozmkitllmnuebpwx2gy_149.0.7786.0/149.0.7786.0_chrome_installer_uncompressed.exe
+url: https://github.com/dyad-sh/dyad/releases/download/v0.43.0/dyad-0.43.0.Setup.exe
 automatic_install: false
 self_service: false
 categories: []

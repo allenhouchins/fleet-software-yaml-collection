@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-04-11 18:09:41 UTC
+Generated on: 2026-04-12 06:32:23 UTC
 
 ## Summary
 
-Total entries processed: 7733
+Total entries processed: 7734
 - macOS files: 371
-- Windows files: 7362
+- Windows files: 7363
 
 ## Generated Files
 
@@ -2440,7 +2440,7 @@ Total entries processed: 7733
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `radio-silence.yml`
-- **URL**: https://radiosilenceapp.com/downloads/Radio_Silence_3.3.pkg
+- **URL**: https://radiosilenceapp.com/downloads/Radio_Silence_3.4.pkg
 
 #### realforce
 
@@ -2710,7 +2710,7 @@ Total entries processed: 7733
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `softube-central.yml`
-- **URL**: https://softubestorage.b-cdn.net/softubecentraldata/softubecentral/Softube%20Central-2.1.7-universal.pkg
+- **URL**: https://softubestorage.b-cdn.net/softubecentraldata/softubecentral/Softube%20Central-2.1.9-universal.pkg
 
 #### softubecentral
 
@@ -12000,7 +12000,7 @@ Total entries processed: 7733
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `blueberrycongee-termcanvas.yml`
-- **URL**: https://github.com/blueberrycongee/termcanvas/releases/download/v0.27.3/TermCanvas-Setup-0.27.3.exe
+- **URL**: https://github.com/blueberrycongee/termcanvas/releases/download/v0.27.5/TermCanvas-Setup-0.27.5.exe
 
 #### bluebubbles-bluebubbles
 
@@ -12126,7 +12126,7 @@ Total entries processed: 7733
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bodaay-hfdownloader.yml`
-- **URL**: https://github.com/bodaay/HuggingFaceModelDownloader/releases/download/v3.0.3/hfdownloader_windows_amd64_v3.0.3.exe
+- **URL**: https://github.com/bodaay/HuggingFaceModelDownloader/releases/download/v3.0.4/hfdownloader_windows_amd64_v3.0.4.exe
 
 #### bogdancalapod-pdq-cli
 
@@ -19553,6 +19553,15 @@ Total entries processed: 7733
 - **File**: `dweymouth-supersonic.yml`
 - **URL**: https://github.com/dweymouth/supersonic/releases/download/v0.21.0/Supersonic-0.21.0-windows-installer.exe
 
+#### dyad-dyad
+
+- **Source**: winget
+- **Name**: dyad-dyad
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `dyad-dyad.yml`
+- **URL**: https://github.com/dyad-sh/dyad/releases/download/v0.43.0/dyad-0.43.0.Setup.exe
+
 #### dygmalabs-bazecor
 
 - **Source**: winget
@@ -25401,7 +25410,7 @@ Total entries processed: 7733
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/acbmyjuvandrkhxjhvncnf4e3xta_149.0.7785.0/149.0.7785.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/nf6mec7ozmkitllmnuebpwx2gy_149.0.7786.0/149.0.7786.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -30432,7 +30441,7 @@ Total entries processed: 7733
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jellyfin2samsung-jellyfin2samsung.yml`
-- **URL**: https://github.com/Jellyfin2Samsung/Samsung-Jellyfin-Installer/releases/download/v2.2.0.6/Jellyfin2Samsung-v2.2.0.6-win-x64.msi
+- **URL**: https://github.com/Jellyfin2Samsung/Samsung-Jellyfin-Installer/releases/download/v2.2.0.7/Jellyfin2Samsung-v2.2.0.7-win-x64.msi
 
 #### jelmerro-vieb
 
@@ -38640,7 +38649,7 @@ Total entries processed: 7733
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-safetyscanner.yml`
-- **URL**: https://definitionupdates.microsoft.com/packages/content/msert.exe?packageType=Scanner&packageVersion=1.445.169.0&arch=amd64
+- **URL**: https://definitionupdates.microsoft.com/packages/content/msert.exe?packageType=Scanner&packageVersion=1.449.54.0&arch=amd64
 
 #### microsoft-sbomtool
 
@@ -47955,7 +47964,7 @@ Total entries processed: 7733
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `oomol-oomolstudio.yml`
-- **URL**: https://static.oomol.com/release/stable/win32/x64/OOMOL%20Studio-1.5.1-2026-03-30.20.exe
+- **URL**: https://static.oomol.com/release/stable/win32/x64/OOMOL%20Studio-1.5.3-2026-04-11.19.exe
 
 #### ooni-ooni-probe
 
@@ -50106,7 +50115,7 @@ Total entries processed: 7733
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `peters-horizon.yml`
-- **URL**: https://github.com/peters/horizon/releases/download/v0.2.4/horizon-windows-x64.exe
+- **URL**: https://github.com/peters/horizon/releases/download/v0.2.5/horizon-windows-x64.exe
 
 #### peterstrick-vivetool-gui
 
@@ -53301,7 +53310,7 @@ Total entries processed: 7733
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `raphamorim-rio.yml`
-- **URL**: https://github.com/raphamorim/rio/releases/download/v0.3.4/Rio-installer-x86_64.msi
+- **URL**: https://github.com/raphamorim/rio/releases/download/v0.3.5/Rio-installer-x86_64.msi
 
 #### raphgl-tuckr
 
@@ -53841,7 +53850,7 @@ Total entries processed: 7733
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `remcostoeten-dora.yml`
-- **URL**: https://github.com/remcostoeten/dora/releases/download/v0.0.102/Dora_0.0.102_x64_en-US.msi
+- **URL**: https://github.com/remcostoeten/dora/releases/download/v0.0.103/Dora_0.0.103_x64_en-US.msi
 
 #### remeha-pro
 
@@ -54039,7 +54048,7 @@ Total entries processed: 7733
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `revenge-stremioenhanced.yml`
-- **URL**: https://github.com/REVENGE977/stremio-enhanced/releases/download/v1.1.2/Stremio.Enhanced.Setup.1.1.2.exe
+- **URL**: https://github.com/REVENGE977/stremio-enhanced/releases/download/v1.1.3/Stremio.Enhanced.Setup.1.1.3.exe
 
 #### revival-wordlight
 
@@ -56829,7 +56838,7 @@ Total entries processed: 7733
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-04-10/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-04-11/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -66072,7 +66081,7 @@ Total entries processed: 7733
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wagnardsoft-displaydriveruninstaller.yml`
-- **URL**: https://www.wagnardsoft.com/DDU/download/DDU%20v18.1.5.1_setup.exe
+- **URL**: https://www.wagnardsoft.com/DDU/download/DDU%20v18.1.5.2_setup.exe
 
 #### wago-addons
 
