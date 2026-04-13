@@ -1,4 +1,4 @@
-url: https://release.axocdn.com/win64/GitKrakenSetup-9.8.2.exe
+url: https://api.gitkraken.dev/releases/production/windows/x64/11.9.0/GitKrakenSetup.exe
 automatic_install: false
 self_service: false
 categories: []
