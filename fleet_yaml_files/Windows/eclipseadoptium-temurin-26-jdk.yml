@@ -1,4 +1,4 @@
-url: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.108.26041219_Installer.pkg
+url: https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26+35/OpenJDK26U-jdk_x64_windows_hotspot_26_35.msi
 automatic_install: false
 self_service: false
 categories: []
