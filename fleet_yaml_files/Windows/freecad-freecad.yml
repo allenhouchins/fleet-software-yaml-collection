@@ -1,4 +1,4 @@
-url: https://github.com/FreeCAD/FreeCAD/releases/download/1.1.0/FreeCAD_1.1.0-Windows-x86_64-py311-installer.exe
+url: https://github.com/FreeCAD/FreeCAD/releases/download/1.1.1/FreeCAD_1.1.1-Windows-x86_64-py311-installer.exe
 automatic_install: false
 self_service: false
 categories: []
