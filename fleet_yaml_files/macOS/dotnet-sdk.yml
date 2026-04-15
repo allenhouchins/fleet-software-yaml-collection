@@ -1,4 +1,4 @@
-url: https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.201/dotnet-sdk-10.0.201-osx-arm64.pkg
+url: https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.202/dotnet-sdk-10.0.202-osx-arm64.pkg
 automatic_install: false
 self_service: false
 categories: []
