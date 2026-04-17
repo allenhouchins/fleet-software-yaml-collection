@@ -1,4 +1,4 @@
-url: https://packages.chef.io/files/stable/chefdk/4.13.3/windows/10/chefdk-4.13.3-1-x64.msi
+url: https://github.com/co2-lab/polvo/releases/download/v0.1.0/polvo_0.1.0_x64_en-US.msi
 automatic_install: false
 self_service: false
 categories: []
