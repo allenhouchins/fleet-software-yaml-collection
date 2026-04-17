@@ -1,4 +1,4 @@
-url: https://github.com/cli/cli/releases/download/v2.9.0/gh_2.9.0_windows_amd64.msi
+url: https://github.com/cli/cli/releases/download/v2.90.0/gh_2.90.0_windows_amd64.msi
 automatic_install: false
 self_service: false
 categories: []
