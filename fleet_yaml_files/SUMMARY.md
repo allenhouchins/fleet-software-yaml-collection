@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-04-18 06:25:34 UTC
+Generated on: 2026-04-18 18:12:15 UTC
 
 ## Summary
 
@@ -4872,7 +4872,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aidotnet-opencowork.yml`
-- **URL**: https://github.com/AIDotNet/OpenCowork/releases/download/0.9.1/OpenCowork-win-amd64-setup.exe
+- **URL**: https://github.com/AIDotNet/OpenCowork/releases/download/0.9.2/OpenCowork-win-amd64-setup.exe
 
 #### aignesberger-deadlink
 
@@ -9849,7 +9849,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `basilisk-basilisk.yml`
-- **URL**: https://dl.basilisk-browser.org/basilisk-20260309204654.win64.installer.exe
+- **URL**: https://dl.basilisk-browser.org/basilisk-20260415213024.win64.installer.exe
 
 #### basti-def-helloworld-package
 
@@ -16878,7 +16878,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cyclonedx-cdxgen.yml`
-- **URL**: https://github.com/CycloneDX/cdxgen/releases/download/v12.1.5/cdxgen-windows-amd64.exe
+- **URL**: https://github.com/CycloneDX/cdxgen/releases/download/v12.2.0/cdxgen-windows-amd64.exe
 
 #### cyclonedx-cli
 
@@ -17949,7 +17949,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `detachhead-rebased.yml`
-- **URL**: https://github.com/DetachHead/rebased/releases/download/1.0.7/ideaIC-261.22158.exe
+- **URL**: https://github.com/DetachHead/rebased/releases/download/1.0.9/rebased.exe
 
 #### determinedai-cli
 
@@ -19029,7 +19029,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `docmirror-dev-sidecar.yml`
-- **URL**: https://github.com/docmirror/dev-sidecar/releases/download/v2.0.1/DevSidecar-2.0.1-windows-x86_64.exe
+- **URL**: https://github.com/docmirror/dev-sidecar/releases/download/v2.0.2/DevSidecar-2.0.2-windows-x86_64.exe
 
 #### documizeinc-zerabase
 
@@ -20406,7 +20406,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `edde746-plezy.yml`
-- **URL**: https://github.com/edde746/plezy/releases/download/1.31.3/plezy-windows-installer.exe
+- **URL**: https://github.com/edde746/plezy/releases/download/1.33.1/plezy-windows-installer.exe
 
 #### edenian-prince-rust-secrets
 
@@ -20793,7 +20793,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `electerm-electerm.yml`
-- **URL**: https://github.com/electerm/electerm/releases/download/v3.3.8/electerm-3.3.8-win-x64-installer.exe
+- **URL**: https://github.com/electerm/electerm/releases/download/v3.5.6/electerm-3.5.6-win-x64-installer.exe
 
 #### electron-store-electron-app-store
 
@@ -25716,7 +25716,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/advl5vmpo2ffuekdao2uluq5ggyq_149.0.7797.0/149.0.7797.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/kh5e2l2txknsz4pt5rq3cadbfm_149.0.7799.0/149.0.7799.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -26607,7 +26607,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `guoyongchang-worktreemanager.yml`
-- **URL**: https://github.com/guoyongchang/worktree-manager/releases/download/v0.20260417.44214/Worktree-Manager-v0.20260417.44214-Windows-setup.exe
+- **URL**: https://github.com/guoyongchang/worktree-manager/releases/download/v0.20260418.144627/Worktree-Manager-v0.20260418.144627-Windows-setup.exe
 
 #### guranotfound-ninarium
 
@@ -26760,7 +26760,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `haiying-officecli.yml`
-- **URL**: https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.51/officecli-win-x64.exe
+- **URL**: https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.52/officecli-win-x64.exe
 
 #### hakuneko-hakuneko-nightly
 
@@ -27264,7 +27264,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hestudiocommunity-apksignergui.yml`
-- **URL**: https://github.com/hestudio-community/apksigner-gui/releases/download/v1.5.1/apksignergui_1.5.1_amd64.msi
+- **URL**: https://github.com/hestudio-community/apksigner-gui/releases/download/v1.5.2/apksignergui_1.5.2_amd64.msi
 
 #### hetman-datarecoverypack
 
@@ -27930,7 +27930,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hubdev-hubdev.yml`
-- **URL**: https://apt.hubdev.io/v1.9.51/HubDev_1.9.51_Setup.exe
+- **URL**: https://apt.hubdev.io/v1.9.56/HubDev_1.9.56_Setup.exe
 
 #### hulaspark-hula
 
@@ -32475,7 +32475,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-blinken.yml`
-- **URL**: https://cdn.kde.org/ci-builds/education/blinken/master/windows/blinken-master-770-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/education/blinken/master/windows/blinken-master-772-windows-cl-msvc2022-x86_64.exe
 
 #### kde-bomber
 
@@ -32646,7 +32646,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-karp.yml`
-- **URL**: https://cdn.kde.org/ci-builds/graphics/karp/master/windows/karp-master-571-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/graphics/karp/master/windows/karp-master-581-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kasts
 
@@ -32718,7 +32718,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kbruch.yml`
-- **URL**: https://cdn.kde.org/ci-builds/education/kbruch/master/windows/kbruch-master-832-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/education/kbruch/master/windows/kbruch-master-835-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kdeconnect
 
@@ -34122,7 +34122,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kubescape-kubescape.yml`
-- **URL**: https://github.com/kubescape/kubescape/releases/download/v4.0.3/kubescape_4.0.3_windows_amd64.exe
+- **URL**: https://github.com/kubescape/kubescape/releases/download/v4.0.5/kubescape_4.0.5_windows_amd64.exe
 
 #### kubus-bcfmanager-autocad-2025
 
@@ -34284,7 +34284,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kwaroran-risuai.yml`
-- **URL**: https://github.com/kwaroran/Risuai/releases/download/v2026.4.120/RisuAI_2026.4.120_x64-setup.exe
+- **URL**: https://github.com/kwaroran/Risuai/releases/download/v2026.4.181/RisuAI_2026.4.181_x64-setup.exe
 
 #### kydronepilot-spaceeye
 
@@ -34644,7 +34644,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `legeling-prompthub.yml`
-- **URL**: https://github.com/legeling/PromptHub/releases/download/v0.5.2-rebuild.3/PromptHub-Setup-0.5.2-x64.exe
+- **URL**: https://github.com/legeling/PromptHub/releases/download/v0.5.3-rebuild.6/PromptHub-Setup-0.5.3-x64.exe
 
 #### legithubdetai-animeback
 
@@ -37470,7 +37470,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mersive-solstice.yml`
-- **URL**: https://mersive.com/downloads/SolsticeClient-6.3.1.msi
+- **URL**: https://mersive.com/downloads/SolsticeClient-6.3.2.msi
 
 #### meshhouse-meshhouse
 
@@ -46938,7 +46938,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nofaff-installerclean.yml`
-- **URL**: https://github.com/no-faff/InstallerClean/releases/download/v1.5.2/InstallerClean-setup.exe
+- **URL**: https://github.com/no-faff/InstallerClean/releases/download/v1.5.3/InstallerClean-setup.exe
 
 #### noguia-lockbox
 
@@ -49962,7 +49962,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pantelis23-kernrift.yml`
-- **URL**: https://github.com/Pantelis23/KernRift/releases/download/v2.8.7/krc-windows-x86_64.exe
+- **URL**: https://github.com/Pantelis23/KernRift/releases/download/v2.8.8/krc-windows-x86_64.exe
 
 #### paodingai-calliper
 
@@ -51429,7 +51429,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `podman-cli.yml`
-- **URL**: https://github.com/containers/podman/releases/download/v5.8.1/podman-5.8.1-setup.exe
+- **URL**: https://github.com/containers/podman/releases/download/v5.8.2/podman-installer-windows-amd64.msi
 
 #### poetries-yuqing-monitor-electron
 
@@ -56028,7 +56028,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `russmckendrick-aicommit.yml`
-- **URL**: https://github.com/russmckendrick/aicommit/releases/download/v0.0.5/aic-windows-amd64.exe
+- **URL**: https://github.com/russmckendrick/aicommit/releases/download/v0.0.7/aic-windows-amd64.exe
 
 #### rustemmussabekov-raindrop
 
@@ -56064,7 +56064,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rustlang-rust-msvc.yml`
-- **URL**: https://static.rust-lang.org/dist/rust-1.94.1-x86_64-pc-windows-msvc.msi
+- **URL**: https://static.rust-lang.org/dist/rust-1.95.0-x86_64-pc-windows-msvc.msi
 
 #### rustlang-rustup
 
@@ -67782,7 +67782,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wireguard-wireguard.yml`
-- **URL**: https://download.wireguard.com/windows-client/wireguard-amd64-0.6.1.msi
+- **URL**: https://download.wireguard.com/windows-client/wireguard-amd64-1.0.msi
 
 #### wiresharkfoundation-stratoshark
 
@@ -68898,7 +68898,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ximilalaxiang-delive.yml`
-- **URL**: https://github.com/XimilalaXiang/DeLive/releases/download/v1.6.1/DeLive-1.6.1-x64.exe
+- **URL**: https://github.com/XimilalaXiang/DeLive/releases/download/v2.0.0/DeLive-2.0.0-x64.exe
 
 #### xinginc-akasakiminato
 
@@ -69798,7 +69798,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zedindustries-zed-preview.yml`
-- **URL**: https://github.com/zed-industries/zed/releases/download/v0.233.1-pre/Zed-x86_64.exe
+- **URL**: https://github.com/zed-industries/zed/releases/download/v0.233.2-pre/Zed-x86_64.exe
 
 #### zedindustries-zed
 
