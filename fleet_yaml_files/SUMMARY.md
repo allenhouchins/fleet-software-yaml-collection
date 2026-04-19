@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-04-19 06:34:31 UTC
+Generated on: 2026-04-19 18:12:47 UTC
 
 ## Summary
 
@@ -4872,7 +4872,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aidotnet-opencowork.yml`
-- **URL**: https://github.com/AIDotNet/OpenCowork/releases/download/0.9.2/OpenCowork-win-amd64-setup.exe
+- **URL**: https://github.com/AIDotNet/OpenCowork/releases/download/0.9.3/OpenCowork-win-amd64-setup.exe
 
 #### aignesberger-deadlink
 
@@ -7176,7 +7176,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `andromeda-andromeda.yml`
-- **URL**: https://github.com/tryandromeda/andromeda/releases/download/0.1.4/andromeda-windows-amd64.exe
+- **URL**: https://github.com/tryandromeda/andromeda/releases/download/0.1.5/andromeda-windows-amd64.exe
 
 #### andybochmann-devkill
 
@@ -7608,7 +7608,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `appbytroye-koodoreader.yml`
-- **URL**: https://dl.koodoreader.com/v2.3.1/Koodo-Reader-2.3.1-x64.exe
+- **URL**: https://dl.koodoreader.com/v2.3.2/Koodo-Reader-2.3.2-x64.exe
 
 #### appcontrol-appcontrol
 
@@ -8022,7 +8022,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `armbian-imager.yml`
-- **URL**: https://github.com/armbian/imager/releases/download/v1.3.0/Armbian.Imager_1.3.0_x64-setup.exe
+- **URL**: https://github.com/armbian/imager/releases/download/v1.3.2/Armbian.Imager_1.3.2_x64-setup.exe
 
 #### arminosaj-autodarkmode
 
@@ -8994,7 +8994,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `axpnet-aeroftp.yml`
-- **URL**: https://github.com/axpdev-lab/aeroftp/releases/download/v3.5.5/AeroFTP_3.5.5_x64-setup.exe
+- **URL**: https://github.com/axpdev-lab/aeroftp/releases/download/v3.5.7/AeroFTP_3.5.7_x64-setup.exe
 
 #### axure-axurerp-10
 
@@ -12081,7 +12081,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `blueberrycongee-termcanvas.yml`
-- **URL**: https://github.com/blueberrycongee/termcanvas/releases/download/v0.30.1/TermCanvas-Setup-0.30.1.exe
+- **URL**: https://github.com/blueberrycongee/termcanvas/releases/download/v0.30.3/TermCanvas-Setup-0.30.3.exe
 
 #### bluebubbles-bluebubbles
 
@@ -14196,7 +14196,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `chill-astro-lamina.yml`
-- **URL**: https://github.com/Chill-Astro/Lamina-Calculator/releases/download/v11.26100.14.0/Setup.exe
+- **URL**: https://github.com/Chill-Astro/Lamina-Calculator/releases/download/v11.26100.15.0/Setup.exe
 
 #### chill-astro-tmm
 
@@ -22521,7 +22521,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `filedini-filedini.yml`
-- **URL**: https://installer.filedini.app/Filedini-0.6.774.40139-Installer.exe
+- **URL**: https://installer.filedini.app/Filedini-0.6.821.57562-Installer.exe
 
 #### filemail-desktopapp
 
@@ -25896,7 +25896,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gorodulin-prj.yml`
-- **URL**: https://github.com/gorodulin/prj/releases/download/v0.4.1/prj-windows-amd64.exe
+- **URL**: https://github.com/gorodulin/prj/releases/download/v0.5.0/prj-windows-amd64.exe
 
 #### goto-goto
 
@@ -26607,7 +26607,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `guoyongchang-worktreemanager.yml`
-- **URL**: https://github.com/guoyongchang/worktree-manager/releases/download/v0.20260418.144627/Worktree-Manager-v0.20260418.144627-Windows-setup.exe
+- **URL**: https://github.com/guoyongchang/worktree-manager/releases/download/v0.20260419.84038/Worktree-Manager-v0.20260419.84038-Windows-setup.exe
 
 #### guranotfound-ninarium
 
@@ -26760,7 +26760,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `haiying-officecli.yml`
-- **URL**: https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.52/officecli-win-x64.exe
+- **URL**: https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.53/officecli-win-x64.exe
 
 #### hakuneko-hakuneko-nightly
 
@@ -31395,7 +31395,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jgraph-draw.yml`
-- **URL**: https://github.com/jgraph/drawio-desktop/releases/download/v29.6.6/draw.io-29.6.6-windows-installer.exe
+- **URL**: https://github.com/jgraph/drawio-desktop/releases/download/v29.7.8/draw.io-29.7.8-windows-installer.exe
 
 #### jhen0409-reactnativedebugger
 
@@ -32502,7 +32502,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-chessament.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/chessament/master/windows/chessament-master-589-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/chessament/master/windows/chessament-master-593-windows-cl-msvc2022-x86_64.exe
 
 #### kde-crowtranslate
 
@@ -32862,7 +32862,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kmines.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kmines/master/windows/kmines-master-942-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kmines/master/windows/kmines-master-950-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kmymoney
 
@@ -32880,7 +32880,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-knetwalk.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/knetwalk/master/windows/knetwalk-master-812-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/knetwalk/master/windows/knetwalk-master-817-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kolf
 
@@ -32889,7 +32889,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kolf.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kolf/master/windows/kolf-master-983-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kolf/master/windows/kolf-master-992-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kollision
 
@@ -32898,7 +32898,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kollision.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kollision/master/windows/kollision-master-797-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kollision/master/windows/kollision-master-802-windows-cl-msvc2022-x86_64.exe
 
 #### kde-konsole
 
@@ -32934,7 +32934,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kreversi.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kreversi/master/windows/kreversi-master-867-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kreversi/master/windows/kreversi-master-874-windows-cl-msvc2022-x86_64.exe
 
 #### kde-krita
 
@@ -32961,7 +32961,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kshisen.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kshisen/master/windows/kshisen-master-863-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kshisen/master/windows/kshisen-master-868-windows-cl-msvc2022-x86_64.exe
 
 #### kde-ksnakeduel
 
@@ -32970,7 +32970,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-ksnakeduel.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/ksnakeduel/master/windows/ksnakeduel-master-804-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/ksnakeduel/master/windows/ksnakeduel-master-807-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kspaceduel
 
@@ -32979,7 +32979,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kspaceduel.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kspaceduel/master/windows/kspaceduel-master-760-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kspaceduel/master/windows/kspaceduel-master-763-windows-cl-msvc2022-x86_64.exe
 
 #### kde-ksquares
 
@@ -32988,7 +32988,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-ksquares.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/ksquares/master/windows/ksquares-master-832-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/ksquares/master/windows/ksquares-master-839-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kstars
 
@@ -33006,7 +33006,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-ksudoku.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/ksudoku/master/windows/ksudoku-master-1007-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/ksudoku/master/windows/ksudoku-master-1016-windows-cl-msvc2022-x86_64.exe
 
 #### kde-ktimetracker
 
@@ -33060,7 +33060,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-lskat.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/lskat/master/windows/lskat-master-873-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/lskat/master/windows/lskat-master-878-windows-cl-msvc2022-x86_64.exe
 
 #### kde-marble
 
@@ -35706,7 +35706,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `loot-loot.yml`
-- **URL**: https://github.com/loot/loot/releases/download/0.29.0/loot_0.29.0-win64.exe
+- **URL**: https://github.com/loot/loot/releases/download/0.29.1/loot_0.29.1-win64.exe
 
 #### lostdesign-linked
 
@@ -36246,7 +36246,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `madlinux-dssh.yml`
-- **URL**: https://github.com/madLinux7/dssh/releases/download/v2.0.1/dssh.exe
+- **URL**: https://github.com/madLinux7/dssh/releases/download/v2.1.0/dssh.exe
 
 #### madlinux-dstimer
 
@@ -39891,7 +39891,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mikf-gallery-dl-nightly.yml`
-- **URL**: https://github.com/gdl-org/builds/releases/download/2026.04.17/gallery-dl_windows.exe
+- **URL**: https://github.com/gdl-org/builds/releases/download/2026.04.19/gallery-dl_windows.exe
 
 #### mikrotik-winbox
 
@@ -49215,7 +49215,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `openwong2kim-wmux.yml`
-- **URL**: https://github.com/openwong2kim/wmux/releases/download/v2.6.0/wmux-2.6.0.Setup.exe
+- **URL**: https://github.com/openwong2kim/wmux/releases/download/v2.7.0/wmux-2.7.0.Setup.exe
 
 #### openzfs-openzfs
 
@@ -50763,7 +50763,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `phodal-routa.yml`
-- **URL**: https://github.com/phodal/routa/releases/download/v0.17.0/Routa.Desktop_0.17.0_x64-setup.exe
+- **URL**: https://github.com/phodal/routa/releases/download/v0.17.1/Routa.Desktop_0.17.1_x64-setup.exe
 
 #### phonepresenter-phonepresenter
 
@@ -53868,7 +53868,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ransome1-sleek.yml`
-- **URL**: https://github.com/ransome1/sleek/releases/download/v1.3.1/sleek-1.3.1-win-Setup.exe
+- **URL**: https://github.com/ransome1/sleek/releases/download/v2.0.25/sleek-2.0.25-win-Setup.exe
 
 #### raoeus-tylex
 
@@ -54246,7 +54246,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `redeyenetworks-hopmatrix.yml`
-- **URL**: https://download.redeyenetworks.com/releases/1.4.9/HopMatrix-win-x64-setup.exe
+- **URL**: https://download.redeyenetworks.com/releases/1.5.0/HopMatrix-win-x64-setup.exe
 
 #### redhale-c5-ide
 
