@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-04-18 18:12:15 UTC
+Generated on: 2026-04-19 06:34:31 UTC
 
 ## Summary
 
@@ -3124,7 +3124,7 @@ Total entries processed: 7817
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `virtualdj.yml`
-- **URL**: https://download.virtualdj.com/b9246/19A27AAD/install_virtualdj_2026_b9246_mac.pkg
+- **URL**: https://download.virtualdj.com/b9295/D0AD584E/install_virtualdj_2026_b9295_mac.pkg
 
 #### vnc-server
 
@@ -7221,7 +7221,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aninsomniacy-motrixnext.yml`
-- **URL**: https://github.com/AnInsomniacy/motrix-next/releases/download/v3.7.1/MotrixNext_3.7.1_x64-setup.exe
+- **URL**: https://github.com/AnInsomniacy/motrix-next/releases/download/v3.7.2/MotrixNext_3.7.2_x64-setup.exe
 
 #### anjok07-ultimatevocalremover
 
@@ -8490,7 +8490,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `atomixproductions-virtualdj.yml`
-- **URL**: https://download.virtualdj.com/b9246/19A27AAD/install_virtualdj_2026_b9246_pc.msi
+- **URL**: https://download.virtualdj.com/b9295/D0AD584E/install_virtualdj_2026_b9295_pc.msi
 
 #### atticus64-juice
 
@@ -8994,7 +8994,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `axpnet-aeroftp.yml`
-- **URL**: https://github.com/axpdev-lab/aeroftp/releases/download/v3.5.4/AeroFTP_3.5.4_x64-setup.exe
+- **URL**: https://github.com/axpdev-lab/aeroftp/releases/download/v3.5.5/AeroFTP_3.5.5_x64-setup.exe
 
 #### axure-axurerp-10
 
@@ -11064,7 +11064,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `betterbird-betterbird.yml`
-- **URL**: https://www.betterbird.eu/downloads/WindowsInstaller/betterbird-140.9.0esr-bb20.en-US.win64.installer.exe
+- **URL**: https://www.betterbird.eu/downloads/WindowsInstaller/betterbird-140.10.0esr-bb21.en-US.win64.installer.exe
 
 #### beyond-all-reason-beyond-all-reason
 
@@ -12081,7 +12081,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `blueberrycongee-termcanvas.yml`
-- **URL**: https://github.com/blueberrycongee/termcanvas/releases/download/v0.29.0/TermCanvas-Setup-0.29.0.exe
+- **URL**: https://github.com/blueberrycongee/termcanvas/releases/download/v0.30.1/TermCanvas-Setup-0.30.1.exe
 
 #### bluebubbles-bluebubbles
 
@@ -15015,7 +15015,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `co2lab-polvo.yml`
-- **URL**: https://github.com/co2-lab/polvo/releases/download/v0.1.0/polvo_0.1.0_x64_en-US.msi
+- **URL**: https://github.com/co2-lab/Polvo/releases/download/v0.3.6/Polvo_0.3.6_x64_en-US.msi
 
 #### cobaltfusion-debugviewpp
 
@@ -20073,7 +20073,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `echowire-echowire.yml`
-- **URL**: https://echowire.org/dl/desktop/stable/win32/x64/Echowire-1.17.0-x64.exe
+- **URL**: https://echowire.org/dl/desktop/stable/win32/x64/Echowire-1.20.0-x64.exe
 
 #### ecks1337-ryusak
 
@@ -25716,7 +25716,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/kh5e2l2txknsz4pt5rq3cadbfm_149.0.7799.0/149.0.7799.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/adzklei7elp2hl7iagkhqajo525a_149.0.7800.0/149.0.7800.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -28956,7 +28956,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `infiniact-iaterm.yml`
-- **URL**: https://github.com/infiniact/homebrew-iaterm/releases/download/v0.1.87/IATerm_0.1.87_x64-setup.exe
+- **URL**: https://github.com/infiniact/homebrew-iaterm/releases/download/v0.1.89/IATerm_0.1.89_x64-setup.exe
 
 #### infinitepower18-wsasideloader
 
@@ -32268,7 +32268,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kandomenu-kando.yml`
-- **URL**: https://github.com/kando-menu/kando/releases/download/v2.2.0/Kando-2.2.0.Setup-x64.exe
+- **URL**: https://github.com/kando-menu/kando/releases/download/v2.3.0/Kando-2.3.0.Setup-x64.exe
 
 #### kangfenmao-cherrystudio
 
@@ -32502,7 +32502,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-chessament.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/chessament/master/windows/chessament-master-574-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/chessament/master/windows/chessament-master-589-windows-cl-msvc2022-x86_64.exe
 
 #### kde-crowtranslate
 
@@ -32817,7 +32817,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kiten.yml`
-- **URL**: https://cdn.kde.org/ci-builds/education/kiten/master/windows/kiten-master-974-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/education/kiten/master/windows/kiten-master-979-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kjumpingcube
 
@@ -50763,7 +50763,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `phodal-routa.yml`
-- **URL**: https://github.com/phodal/routa/releases/download/v0.16.0/Routa.Desktop_0.16.0_x64-setup.exe
+- **URL**: https://github.com/phodal/routa/releases/download/v0.17.0/Routa.Desktop_0.17.0_x64-setup.exe
 
 #### phonepresenter-phonepresenter
 
@@ -51024,7 +51024,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pinokiocomputer-pinokio.yml`
-- **URL**: https://github.com/pinokiocomputer/pinokio/releases/download/v7.2.0/Pinokio.exe
+- **URL**: https://github.com/pinokiocomputer/pinokio/releases/download/v7.2.6/Pinokio.exe
 
 #### pinta-pinta
 
@@ -52113,7 +52113,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `prettyoaktree-exifmod.yml`
-- **URL**: https://github.com/prettyoaktree/exifmod-electron/releases/download/v1.4.2/EXIFmod-1.4.2-setup.exe
+- **URL**: https://github.com/prettyoaktree/exifmod-electron/releases/download/v1.5.1/EXIFmod-1.5.1-setup.exe
 
 #### preveil-preveil
 
@@ -54408,7 +54408,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `relmer-tcdir.yml`
-- **URL**: https://github.com/relmer/TCDir/releases/download/v5.3.1443/TCDir.exe
+- **URL**: https://github.com/relmer/TCDir/releases/download/v5.4.1499/TCDir.exe
 
 #### relux-reluxdesktop
 
@@ -55623,7 +55623,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rouchant-zenit.yml`
-- **URL**: https://github.com/Rouchant/Zenit-Tauri/releases/download/v1.0.7/Zenit_1.0.7_x64-setup.exe
+- **URL**: https://github.com/Rouchant/Zenit-Tauri/releases/download/v1.0.9/Zenit_1.0.9_x64-setup.exe
 
 #### rowley-crossworks
 
@@ -57486,7 +57486,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-04-17/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-04-18/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -57819,7 +57819,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `siarheikuchuk-butil.yml`
-- **URL**: https://github.com/drweb86/butil/releases/download/2026.04.04/BUtil_v2026.04.04.exe
+- **URL**: https://github.com/drweb86/butil/releases/download/2026.04.20/BUtil_v2026.04.20.exe
 
 #### siarheikuchuk-screenshotannotator
 
@@ -57828,7 +57828,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `siarheikuchuk-screenshotannotator.yml`
-- **URL**: https://github.com/drweb86/annotator/releases/download/2026.04.08/ScreenshotAnnotator_v2026.04.08.exe
+- **URL**: https://github.com/drweb86/annotator/releases/download/2026.04.20/ScreenshotAnnotator_v2026.04.20.exe
 
 #### siarheim-lightdownloader
 
@@ -57864,7 +57864,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sibexico-trailblazer.yml`
-- **URL**: https://github.com/sibexico/Trailblazer/releases/download/v0.2.5/trailblazer_0.2.5_windows_x86_64.exe
+- **URL**: https://github.com/sibexico/Trailblazer/releases/download/v0.3.0/trailblazer_0.3.0_windows_x86_64.exe
 
 #### sibexico-trusty
 
@@ -57873,7 +57873,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sibexico-trusty.yml`
-- **URL**: https://github.com/sibexico/Trusty/releases/download/v0.5.0/trusty_0.5.0_windows_x86_64.exe
+- **URL**: https://github.com/sibexico/Trusty/releases/download/v0.5.2/trusty_0.5.2_windows_x86_64.exe
 
 #### siddharthvaddem-openscreen
 
@@ -66882,7 +66882,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `walles-moor.yml`
-- **URL**: https://github.com/walles/moor/releases/download/v2.12.0/moor-v2.12.0-windows-amd64.exe
+- **URL**: https://github.com/walles/moor/releases/download/v2.12.1/moor-v2.12.1-windows-amd64.exe
 
 #### wampserver-wampserver
 
@@ -70203,7 +70203,7 @@ Total entries processed: 7817
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ztools-ztools.yml`
-- **URL**: https://github.com/ZToolsCenter/ZTools/releases/download/v2.4.0/ZTools-2.4.0-win-x64-setup.exe
+- **URL**: https://github.com/ZToolsCenter/ZTools/releases/download/v2.4.1/ZTools-2.4.1-win-x64-setup.exe
 
 #### zugferdcommunity-qubaviewer
 
