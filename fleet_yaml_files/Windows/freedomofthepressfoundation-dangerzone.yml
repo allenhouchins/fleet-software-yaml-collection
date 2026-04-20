@@ -1,4 +1,4 @@
-url: https://download.wireguard.com/windows-client/wireguard-amd64-1.0.1.msi
+url: https://github.com/freedomofpress/dangerzone/releases/download/v0.10.0/Dangerzone-0.10.0.msi
 automatic_install: false
 self_service: false
 categories: []

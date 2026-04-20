@@ -1,4 +1,4 @@
-url: https://download.wireguard.com/windows-client/wireguard-amd64-1.0.1.msi
+url: https://github.com/sagami121/DotVis/releases/download/0.1.0/DotVis_0.1.0_x64_ja-JP.msi
 automatic_install: false
 self_service: false
 categories: []
