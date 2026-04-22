@@ -1,4 +1,4 @@
-url: https://download-installer.cdn.mozilla.net/pub/firefox/releases/150.0/win64/gd/Firefox%20Setup%20150.0.exe
+url: https://github.com/chrlsio/agent-skills/releases/download/v0.1.8/AgentSkills_0.1.8_x64-setup.exe
 automatic_install: false
 self_service: false
 categories: []

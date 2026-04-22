@@ -1,4 +1,4 @@
-url: https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/10.0.6/aspnetcore-runtime-10.0.6-win-x64.exe
+url: https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/10.0.7/aspnetcore-runtime-10.0.7-win-x64.exe
 automatic_install: false
 self_service: false
 categories: []
