@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-04-26 06:38:03 UTC
+Generated on: 2026-04-26 18:14:24 UTC
 
 ## Summary
 
@@ -2962,7 +2962,7 @@ Total entries processed: 7887
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `thonny.yml`
-- **URL**: https://github.com/thonny/thonny/releases/download/v4.1.7/thonny-4.1.7.pkg
+- **URL**: https://github.com/thonny/thonny/releases/download/v5.0.0/thonny-5.0.0-arm64.pkg
 
 #### timemachineeditor
 
@@ -3007,7 +3007,7 @@ Total entries processed: 7887
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `topaz-video.yml`
-- **URL**: https://downloads.topazlabs.com/deploy/TopazVideoStudio/1.3.1/TopazVideo-1.3.1.pkg
+- **URL**: https://downloads.topazlabs.com/deploy/TopazVideoStudio/1.4.0/TopazVideo-1.4.0.pkg
 
 #### tqsl
 
@@ -3711,7 +3711,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `64gram-64gram.yml`
-- **URL**: https://github.com/TDesktop-x64/tdesktop/releases/download/v1.2.0/64Gram-setup-x64.1.2.0.exe
+- **URL**: https://github.com/TDesktop-x64/tdesktop/releases/download/v1.2.1/64Gram-setup-x64.1.2.1.exe
 
 #### 66hex-frame
 
@@ -9048,7 +9048,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `axpnet-aeroftp.yml`
-- **URL**: https://github.com/axpdev-lab/aeroftp/releases/download/v3.6.4/AeroFTP_3.6.4_x64-setup.exe
+- **URL**: https://github.com/axpdev-lab/aeroftp/releases/download/v3.6.5/AeroFTP_3.6.5_x64-setup.exe
 
 #### axure-axurerp-10
 
@@ -12153,7 +12153,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `blueberrycongee-termcanvas.yml`
-- **URL**: https://github.com/blueberrycongee/termcanvas/releases/download/v0.34.0/TermCanvas-Setup-0.34.0.exe
+- **URL**: https://github.com/blueberrycongee/termcanvas/releases/download/v0.35.0/TermCanvas-Setup-0.35.0.exe
 
 #### bluebubbles-bluebubbles
 
@@ -12243,7 +12243,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bluewhackadoo-rdpea.yml`
-- **URL**: https://github.com/bluewhackadoo/RDPea/releases/download/v1.0.10/RDPea-Setup-1.0.10.exe
+- **URL**: https://github.com/bluewhackadoo/RDPea/releases/download/v1.1.0/RDPea-Setup-1.1.0.exe
 
 #### blur009-blurautoclicker
 
@@ -19416,7 +19416,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dreamlonglll-mini-term.yml`
-- **URL**: https://github.com/dreamlonglll/mini-term/releases/download/v0.2.27/Mini-Term_0.2.27_x64-setup.exe
+- **URL**: https://github.com/dreamlonglll/mini-term/releases/download/v0.2.28/Mini-Term_0.2.28_x64-setup.exe
 
 #### dreamsourcelab-dsview
 
@@ -22611,7 +22611,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ferdium-ferdium-nightly.yml`
-- **URL**: https://github.com/ferdium/ferdium-app/releases/download/v7.1.3-nightly.1/Ferdium-win-AutoSetup-7.1.3-nightly.1-x64.exe
+- **URL**: https://github.com/ferdium/ferdium-app/releases/download/v7.1.3-nightly.2/Ferdium-win-AutoSetup-7.1.3-nightly.2-x64.exe
 
 #### ferdium-ferdium
 
@@ -26121,7 +26121,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gorodulin-prj.yml`
-- **URL**: https://github.com/gorodulin/prj/releases/download/v0.5.0/prj-windows-amd64.exe
+- **URL**: https://github.com/gorodulin/prj/releases/download/v0.6.0/prj-windows-amd64.exe
 
 #### goto-goto
 
@@ -26859,7 +26859,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `guoyongchang-worktreemanager.yml`
-- **URL**: https://github.com/guoyongchang/worktree-manager/releases/download/v0.20260425.13519/Worktree-Manager-v0.20260425.13519-Windows-setup.exe
+- **URL**: https://github.com/guoyongchang/worktree-manager/releases/download/v0.20260426.82140/Worktree-Manager-v0.20260426.82140-Windows-setup.exe
 
 #### guranotfound-ninarium
 
@@ -28191,7 +28191,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hubdev-hubdev.yml`
-- **URL**: https://apt.hubdev.io/v1.9.57/HubDev_1.9.57_Setup.exe
+- **URL**: https://apt.hubdev.io/v1.9.59/HubDev_1.9.59_Setup.exe
 
 #### hulaspark-hula
 
@@ -34662,7 +34662,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ladislavfoldyna-qlog.yml`
-- **URL**: https://github.com/foldynl/QLog/releases/download/v0.49.1/qlog-installer-0.49.1.exe
+- **URL**: https://github.com/foldynl/QLog/releases/download/v0.50.0/qlog-installer-0.50.0.exe
 
 #### laipic-perfoo
 
@@ -35508,7 +35508,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `linwoodcloud-butterfly.yml`
-- **URL**: https://github.com/LinwoodDev/Butterfly/releases/download/v2.5.0/linwood-butterfly-windows-setup-x86_64.exe
+- **URL**: https://github.com/LinwoodDev/Butterfly/releases/download/v2.5.1/linwood-butterfly-windows-setup-x86_64.exe
 
 #### linwooddev-flow-nightly
 
@@ -37371,7 +37371,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mayocream-koharu.yml`
-- **URL**: https://github.com/mayocream/koharu/releases/download/0.52.0/koharu_0.52.0_x64-setup.exe
+- **URL**: https://github.com/mayocream/koharu/releases/download/0.53.0/koharu_0.53.0_x64-setup.exe
 
 #### mb21-panwriter
 
@@ -40215,7 +40215,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mikf-gallery-dl-nightly.yml`
-- **URL**: https://github.com/gdl-org/builds/releases/download/2026.04.22/gallery-dl_windows.exe
+- **URL**: https://github.com/gdl-org/builds/releases/download/2026.04.26/gallery-dl_windows.exe
 
 #### mikrotik-winbox
 
@@ -47541,7 +47541,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `notepad---notepad--.yml`
-- **URL**: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.3/npp.8.9.3.Installer.x64.exe
+- **URL**: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.4/npp.8.9.4.Installer.x64.exe
 
 #### notepad2mod-notepad2mod
 
@@ -48828,7 +48828,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `oomol-oomolstudio.yml`
-- **URL**: https://static.oomol.com/release/stable/win32/x64/OOMOL%20Studio-1.5.7-2026-04-23.18.exe
+- **URL**: https://static.oomol.com/release/stable/win32/x64/OOMOL%20Studio-1.5.8-2026-04-26.21.exe
 
 #### ooni-ooni-probe
 
@@ -55758,7 +55758,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rizonesoft-notepad3.yml`
-- **URL**: https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_6.25.822.1/Notepad3_6.25.822.1_x64_Setup.exe
+- **URL**: https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_7.26.426.1/Notepad3_7.26.426.1_x64_Setup.exe
 
 #### rizukirr-muslimtify
 
@@ -56739,7 +56739,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sagami121-audion.yml`
-- **URL**: https://github.com/sagami121/Audion/releases/download/0.1.8/Audion_0.1.8_x64-setup.exe
+- **URL**: https://github.com/sagami121/Audion/releases/download/1.0.0/Audion_1.0.0_x64-setup.exe
 
 #### sagami121-dotvis
 
@@ -58611,7 +58611,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `simonschubert-kai.yml`
-- **URL**: https://github.com/SimonSchubert/Kai/releases/download/v2.3.3/Kai-2.3.3-windows.msi
+- **URL**: https://github.com/SimonSchubert/Kai/releases/download/v2.3.4/Kai-2.3.4-windows.msi
 
 #### simontatham-puzzles
 
@@ -64668,7 +64668,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `topalasoftwaresolutions-siw.yml`
-- **URL**: https://www.gtopala.com/download/20260405c/siwtrial-setup.exe
+- **URL**: https://www.gtopala.com/download/20260426/siwtrial-setup.exe
 
 #### topazlabs-topazdenoiseai
 
@@ -65838,7 +65838,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `universalmediaserver-universalmediaserver.yml`
-- **URL**: https://github.com/UniversalMediaServer/UniversalMediaServer/releases/download/15.4.0/UMS-Windows-15.4.0-x86_64.exe
+- **URL**: https://github.com/UniversalMediaServer/UniversalMediaServer/releases/download/15.5.0/UMS-Windows-15.5.0-x86_64.exe
 
 #### universityofamsterdam-jasp
 
@@ -66774,7 +66774,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vkbo-novelwriter.yml`
-- **URL**: https://github.com/vkbo/novelWriter/releases/download/v2.8.2/novelwriter-2.8.2-amd64-setup.exe
+- **URL**: https://github.com/vkbo/novelWriter/releases/download/v26.1/novelwriter-26.1-amd64-setup.exe
 
 #### vkontakte-vkmessenger
 
@@ -68169,7 +68169,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wilsonglasser-basemaster.yml`
-- **URL**: https://github.com/wilsonglasser/basemaster/releases/download/v0.2.0/BaseMaster_0.2.0_x64-setup.exe
+- **URL**: https://github.com/wilsonglasser/basemaster/releases/download/v0.3.0/BaseMaster_0.3.0_x64-setup.exe
 
 #### win32ss-supermium
 
@@ -69393,7 +69393,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xiaolan-codexaccountswitch.yml`
-- **URL**: https://github.com/isxlan0/Codex_AccountSwitch/releases/download/v1.3.16/Codex_AccountSwitch_Setup_windows_x64_v1.3.16.exe
+- **URL**: https://github.com/isxlan0/Codex_AccountSwitch/releases/download/v1.3.17/Codex_AccountSwitch_Setup_windows_x64_v1.3.17.exe
 
 #### xiaomi-miui-
 
