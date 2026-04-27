@@ -1,11 +1,11 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-04-26 18:14:24 UTC
+Generated on: 2026-04-27 06:51:47 UTC
 
 ## Summary
 
-Total entries processed: 7887
-- macOS files: 373
+Total entries processed: 7888
+- macOS files: 374
 - Windows files: 7514
 
 ## Generated Files
@@ -298,7 +298,7 @@ Total entries processed: 7887
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `bitfocus-buttons.yml`
-- **URL**: https://s4.bitfocus.io/builds/buttons/bitfocus-buttons-mac-arm-5585-918fc50d.pkg
+- **URL**: https://s4.bitfocus.io/builds/buttons/bitfocus-buttons-mac-arm-5596-0fdd2cad.pkg
 
 #### blackhole-16ch
 
@@ -1514,6 +1514,15 @@ Total entries processed: 7887
 - **Version**: 
 - **File**: `kindle-previewer.yml`
 - **URL**: https://d2bzeorukaqrvt.cloudfront.net/KindlePreviewerInstaller.pkg
+
+#### kommodoscreenrecorder
+
+- **Source**: homebrew/installomator
+- **Name**: kommodoscreenrecorder
+- **Description**: Generated from Homebrew cask or Installomator script
+- **Version**: 
+- **File**: `kommodoscreenrecorder.yml`
+- **URL**: https://releases.komododecks.com/prod/electron/${appNewVersion}/kommodo-screen-recorder-${appNewVersion}-intel.pkg
 
 #### krisp
 
@@ -7626,7 +7635,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `apernet-hysteria.yml`
-- **URL**: https://github.com/apernet/hysteria/releases/download/app/v2.8.1/hysteria-windows-amd64.exe
+- **URL**: https://github.com/apernet/hysteria/releases/download/app/v2.8.2/hysteria-windows-amd64.exe
 
 #### apidocumentation-scalar
 
@@ -12027,7 +12036,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `blitz-blitz.yml`
-- **URL**: https://blitz-main.blitz.gg/Blitz-2.1.548.exe
+- **URL**: https://blitz-main.blitz.gg/Blitz-2.1.549.exe
 
 #### blix-bluemail
 
@@ -15807,7 +15816,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `conduittechnologies-conduitai.yml`
-- **URL**: https://github.com/conduit-technologies/conduitai-cli/releases/download/cli-v0.7.0/conduitai-win-x64.exe
+- **URL**: https://github.com/conduit-technologies/conduitai-cli/releases/download/cli-v0.9.1/conduitai-win-x64.exe
 
 #### confluentinc-confluent-cli
 
@@ -19245,7 +19254,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dongdongbh-mindwtr.yml`
-- **URL**: https://github.com/dongdongbh/Mindwtr/releases/download/v0.8.7/mindwtr_0.8.7_x64-setup.exe
+- **URL**: https://github.com/dongdongbh/Mindwtr/releases/download/v0.8.8/mindwtr_0.8.8_x64-setup.exe
 
 #### donmar-bonsai
 
@@ -19506,7 +19515,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `drrakendu78-startradfr.yml`
-- **URL**: https://github.com/drrakendu78/TradSC/releases/download/v4.0.2/StarTrad.FR_4.0.2_x64-setup.exe
+- **URL**: https://github.com/drrakendu78/TradSC/releases/download/v4.0.5/StarTrad.FR_4.0.5_x64-setup.exe
 
 #### drrakendu78-unicreate
 
@@ -22755,7 +22764,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `filevoyager-filevoyager.yml`
-- **URL**: https://www.filevoyager.com/wp-content/uploads/FileVoyager_x64_Setup_26.4.26.0_Lite.exe
+- **URL**: https://www.filevoyager.com/wp-content/uploads/FileVoyager_x64_Setup_26.4.26.1_Lite.exe
 
 #### filips-firefoxpwa
 
@@ -24627,7 +24636,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gaozhangmin-xbydriver.yml`
-- **URL**: https://github.com/gaozhangmin/aliyunpan/releases/download/v4.0.3-beta/xbyboxplayer-4.0.3-beta-win-x64.exe
+- **URL**: https://github.com/gaozhangmin/aliyunpan/releases/download/v4.0.4-beta/xbyboxplayer-4.0.4-beta-win-x64.exe
 
 #### gaphor-gaphor
 
@@ -27858,7 +27867,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hiroyukifuruno-katana-desktop.yml`
-- **URL**: https://github.com/HiroyukiFuruno/KatanA/releases/download/v0.22.5/KatanA-windows-x86_64.msi
+- **URL**: https://github.com/HiroyukiFuruno/KatanA/releases/download/v0.22.6/KatanA-windows-x86_64.msi
 
 #### hitalin-notedeck
 
@@ -28191,7 +28200,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hubdev-hubdev.yml`
-- **URL**: https://apt.hubdev.io/v1.9.59/HubDev_1.9.59_Setup.exe
+- **URL**: https://apt.hubdev.io/v1.9.60/HubDev_1.9.60_Setup.exe
 
 #### hulaspark-hula
 
@@ -28290,7 +28299,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hydralauncher-hydra.yml`
-- **URL**: https://github.com/hydralauncher/hydra/releases/download/v3.9.5/hydralauncher-3.9.5-setup.exe
+- **URL**: https://github.com/hydralauncher/hydra/releases/download/v3.9.6/hydralauncher-3.9.6-setup.exe
 
 #### hydrogen-music-hydrogen
 
@@ -31719,7 +31728,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jiluo-xterminal.yml`
-- **URL**: https://cdn-office.xterminal.cn/downloads/XTerminal-5.6.6-win-x64-installer.exe
+- **URL**: https://cdn-office.xterminal.cn/downloads/XTerminal-5.6.9-win-x64-installer.exe
 
 #### jimhan-kanban-desktop
 
@@ -34320,7 +34329,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kts982-wintui.yml`
-- **URL**: https://github.com/kts982/wintui/releases/download/v2.3.3/wintui_2.3.3_windows_amd64.exe
+- **URL**: https://github.com/kts982/wintui/releases/download/v2.4.0/wintui_2.4.0_windows_amd64.exe
 
 #### kuaifan-dootask
 
@@ -34329,7 +34338,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kuaifan-dootask.yml`
-- **URL**: https://github.com/kuaifan/dootask/releases/download/v1.7.23/DooTask-v1.7.23-win-x64.exe
+- **URL**: https://github.com/kuaifan/dootask/releases/download/v1.7.29/DooTask-v1.7.29-win-x64.exe
 
 #### kubernetes-aws-iam-authenticator
 
@@ -49575,7 +49584,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `openwhispersystems-signal-beta.yml`
-- **URL**: https://updates.signal.org/desktop/signal-desktop-beta-win-8.8.0-beta.1.exe
+- **URL**: https://updates.signal.org/desktop/signal-desktop-beta-win-8.9.0-beta.1.exe
 
 #### openwhispersystems-signal
 
@@ -49584,7 +49593,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `openwhispersystems-signal.yml`
-- **URL**: https://updates.signal.org/desktop/signal-desktop-win-8.7.0.exe
+- **URL**: https://updates.signal.org/desktop/signal-desktop-win-8.8.0.exe
 
 #### openwong2kim-wmux
 
@@ -52536,7 +52545,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `prettyoaktree-exifmod.yml`
-- **URL**: https://github.com/prettyoaktree/exifmod/releases/download/v1.7.5/EXIFmod-1.7.5-setup.exe
+- **URL**: https://github.com/prettyoaktree/exifmod/releases/download/v1.8.1/EXIFmod-1.8.1-setup.exe
 
 #### preveil-preveil
 
@@ -54192,7 +54201,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rakudo-rakudo.yml`
-- **URL**: https://rakudo.org/dl/rakudo/rakudo-moar-2026.03-01-win-x86_64-msvc.msi
+- **URL**: https://rakudo.org/dl/rakudo/rakudo-moar-2026.04-01-win-x86_64-msvc.msi
 
 #### rakuten-viber
 
@@ -54426,7 +54435,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `raycarrot-raymancontrolpanel.yml`
-- **URL**: https://github.com/RayCarrot/RaymanControlPanel/releases/download/14.4.0.3/RaymanControlPanel.exe
+- **URL**: https://github.com/RayCarrot/RaymanControlPanel/releases/download/14.5.0/RaymanControlPanel.exe
 
 #### raycho-raycho
 
@@ -54696,7 +54705,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `redeyenetworks-hopmatrix.yml`
-- **URL**: https://download.redeyenetworks.com/hopmatrix/releases/1.5.5/HopMatrix-win-x64-setup.exe
+- **URL**: https://download.redeyenetworks.com/hopmatrix/releases/1.6.0/HopMatrix-win-x64-setup.exe
 
 #### redhale-c5-ide
 
@@ -57963,7 +57972,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-04-25/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-04-26/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -58359,7 +58368,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sibexico-trailblazer.yml`
-- **URL**: https://github.com/sibexico/Trailblazer/releases/download/v0.3.0/trailblazer_0.3.0_windows_x86_64.exe
+- **URL**: https://github.com/sibexico/Trailblazer/releases/download/v0.4.0/trailblazer_0.4.0_windows_x86_64.exe
 
 #### sibexico-trusty
 
@@ -66585,7 +66594,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0392/gvim_9.2.0392_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0398/gvim_9.2.0398_x64.exe
 
 #### vim-vim
 
@@ -67449,7 +67458,7 @@ Total entries processed: 7887
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `walles-moor.yml`
-- **URL**: https://github.com/walles/moor/releases/download/v2.12.1/moor-v2.12.1-windows-amd64.exe
+- **URL**: https://github.com/walles/moor/releases/download/v2.12.2/moor-v2.12.2-windows-amd64.exe
 
 #### wampserver-wampserver
 
