@@ -1,4 +1,4 @@
-url: https://s3.amazonaws.com/redisinsight.download/public/latest/Redis-Insight-win-installer.exe
+url: https://github.com/redis/RedisInsight/releases/download/3.4.2/Redis-Insight-win-installer.exe
 automatic_install: false
 self_service: false
 categories: []
