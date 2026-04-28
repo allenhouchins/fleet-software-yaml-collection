@@ -1,4 +1,4 @@
-url: https://cloud.r-project.org/bin/macosx/big-sur-arm64/base/R-4.5.3-arm64.pkg
+url: https://cloud.r-project.org/bin/macosx/sonoma-arm64/base/R-4.6.0-arm64.pkg
 automatic_install: false
 self_service: false
 categories: []

@@ -1,4 +1,4 @@
-url: https://gbl.his.arc.azure.com/azcmagent/1.60/AzureConnectedMachineAgent.msi
+url: https://gbl.his.arc.azure.com/azcmagent/1.63/AzureConnectedMachineAgent.msi
 automatic_install: false
 self_service: false
 categories: []

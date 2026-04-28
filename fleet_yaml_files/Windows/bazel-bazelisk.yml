@@ -1,4 +1,4 @@
-url: https://github.com/bazelbuild/bazelisk/releases/download/v1.28.1/bazelisk-windows-amd64.exe
+url: https://github.com/bazelbuild/bazelisk/releases/download/v1.29.0/bazelisk-windows-amd64.exe
 automatic_install: false
 self_service: false
 categories: []
