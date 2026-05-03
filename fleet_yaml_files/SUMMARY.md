@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-05-02 18:17:23 UTC
+Generated on: 2026-05-03 06:50:48 UTC
 
 ## Summary
 
@@ -7284,7 +7284,7 @@ Total entries processed: 7939
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `andromeda-andromeda.yml`
-- **URL**: https://github.com/tryandromeda/andromeda/releases/download/0.1.7/andromeda-windows-amd64.exe
+- **URL**: https://github.com/tryandromeda/andromeda/releases/download/0.1.8/andromeda-windows-amd64.exe
 
 #### andybochmann-devkill
 
@@ -7905,7 +7905,7 @@ Total entries processed: 7939
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aptivi-bassboom.yml`
-- **URL**: https://github.com/Aptivi/BassBoom/releases/download/v0.2.13.4/bassboom-win-x64-installer.exe
+- **URL**: https://github.com/Aptivi/BassBoom/releases/download/v1.0.0/bassboom-win-x64-installer.exe
 
 #### aptivi-nitrocid-0-1-0-x
 
@@ -12747,7 +12747,7 @@ Total entries processed: 7939
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `brightblock-hyprlayer.yml`
-- **URL**: https://github.com/BrightBlock/hyprlayer-cli/releases/download/v1.5.2/hyprlayer-x86_64-pc-windows-msvc.exe
+- **URL**: https://github.com/BrightBlock/hyprlayer-cli/releases/download/v1.5.3/hyprlayer-x86_64-pc-windows-msvc.exe
 
 #### brightsign-baconnected
 
@@ -16914,7 +16914,7 @@ Total entries processed: 7939
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cst8t-gitmun.yml`
-- **URL**: https://github.com/cst8t/gitmun/releases/download/v0.3.3/Gitmun_0.3.3_x64-setup.exe
+- **URL**: https://github.com/cst8t/gitmun/releases/download/v0.4.0/Gitmun_0.4.0_x64-setup.exe
 
 #### cteros-eno-m
 
@@ -18750,7 +18750,7 @@ Total entries processed: 7939
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dimitarradenkov-pointframe.yml`
-- **URL**: https://github.com/dimitar-radenkov/Pointframe/releases/download/v5.4.6/Pointframe-5.4.6-x64-Setup.exe
+- **URL**: https://github.com/dimitar-radenkov/Pointframe/releases/download/v5.5.1/Pointframe-5.5.1-x64-Setup.exe
 
 #### dimitarradenkov-snippingtool
 
@@ -27228,7 +27228,7 @@ Total entries processed: 7939
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `haiying-officecli.yml`
-- **URL**: https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.69/officecli-win-x64.exe
+- **URL**: https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.70/officecli-win-x64.exe
 
 #### hakuneko-hakuneko-nightly
 
@@ -46767,7 +46767,7 @@ Total entries processed: 7939
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `netsentinel-netsentinel.yml`
-- **URL**: https://github.com/ossianericson/netsentinel/releases/download/v1.6.0/NetSentinel-Setup-1.6.0.exe
+- **URL**: https://github.com/ossianericson/netsentinel/releases/download/v1.6.2/NetSentinel-Setup-1.6.2.exe
 
 #### nettracex-tui
 
@@ -54723,7 +54723,7 @@ Total entries processed: 7939
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `raphamorim-rio.yml`
-- **URL**: https://github.com/raphamorim/rio/releases/download/v0.4.0/Rio-installer-x86_64.msi
+- **URL**: https://github.com/raphamorim/rio/releases/download/v0.4.1/Rio-installer-x86_64.msi
 
 #### raphgl-tuckr
 
@@ -58341,7 +58341,7 @@ Total entries processed: 7939
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-05-01/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-05-02/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -59601,7 +59601,7 @@ Total entries processed: 7939
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `soft64-fr-canscan.yml`
-- **URL**: https://github.com/Lob2018/CanScan/releases/download/v1.2.0.1/CanScan-1.2.0.1-x64-Setup.exe
+- **URL**: https://github.com/Lob2018/CanScan/releases/download/v1.2.0.2/CanScan-1.2.0.2-x64-Setup.exe
 
 #### softdeluxe-freedownloadmanager
 
@@ -65730,7 +65730,7 @@ Total entries processed: 7939
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tsuchim-imekeysforus.yml`
-- **URL**: https://github.com/tsuchim/ime-keys-for-us/releases/download/v0.1.3/IME-Keys-for-US-0.1.3-x64.msi
+- **URL**: https://github.com/tsuchim/ime-keys-for-us/releases/download/v0.1.4/IME-Keys-for-US-0.1.4-x64.msi
 
 #### tsutsu3-pi-hole-client
 
@@ -68664,7 +68664,7 @@ Total entries processed: 7939
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `windirstat-windirstat-beta.yml`
-- **URL**: https://github.com/windirstat/windirstat/releases/download/beta/v2.5.7/2026-04-24/WinDirStat-x64.msi
+- **URL**: https://github.com/windirstat/windirstat/releases/download/beta/v2.5.8/2026-05-02/WinDirStat-x64.msi
 
 #### windirstat-windirstat
 
