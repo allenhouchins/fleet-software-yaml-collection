@@ -1,4 +1,4 @@
-url: https://github.com/osquery/osquery/releases/download/5.22.1/osquery-5.22.1.pkg
+url: https://github.com/osquery/osquery/releases/download/5.23.0/osquery-5.23.0.pkg
 automatic_install: false
 self_service: false
 categories: []
