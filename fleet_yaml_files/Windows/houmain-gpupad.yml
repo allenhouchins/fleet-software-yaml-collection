@@ -1,4 +1,4 @@
-url: https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20235.4.5905%20Enterprise%20Installer.x64.msi
+url: https://github.com/houmain/gpupad/releases/download/3.4.1/GPUpad-3.4.1-win64.msi
 automatic_install: false
 self_service: false
 categories: []
