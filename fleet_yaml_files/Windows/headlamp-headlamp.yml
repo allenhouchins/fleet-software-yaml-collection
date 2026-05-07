@@ -1,4 +1,4 @@
-url: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.41.0/Headlamp-0.41.0-win-x64.exe
+url: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.42.0/Headlamp-0.42.0-win-x64.exe
 automatic_install: false
 self_service: false
 categories: []
