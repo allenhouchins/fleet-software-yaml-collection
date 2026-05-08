@@ -1,4 +1,4 @@
-url: https://download-installer.cdn.mozilla.net/pub/firefox/releases/150.0.2/win64/zh-CN/Firefox%20Setup%20150.0.2.exe
+url: https://codeberg.org/mikf/gallery-dl/releases/download/v1.32.1/gallery-dl.exe
 automatic_install: false
 self_service: false
 categories: []
