@@ -1,4 +1,4 @@
-url: https://github.com/smallstep/step-agent-plugin/releases/download/v0.65.6/step-agent_amd64.msi
+url: https://github.com/smallstep/step-agent-plugin/releases/download/v0.66.0/step-agent_amd64.msi
 automatic_install: false
 self_service: false
 categories: []
