@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-05-09 18:19:02 UTC
+Generated on: 2026-05-10 06:54:20 UTC
 
 ## Summary
 
@@ -6726,7 +6726,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `amarbego-gittop.yml`
-- **URL**: https://github.com/AmarBego/GitTop/releases/download/v0.5.1/gittop-0.5.1-windows-x86_64-setup.exe
+- **URL**: https://github.com/AmarBego/GitTop/releases/download/v0.5.3/gittop-0.5.3-windows-x86_64-setup.exe
 
 #### amarbego-rscoop
 
@@ -6735,7 +6735,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `amarbego-rscoop.yml`
-- **URL**: https://github.com/AmarBego/Rscoop/releases/download/v1.7.2/rscoop_1.7.2_x64_en-US.msi
+- **URL**: https://github.com/AmarBego/Rscoop/releases/download/v1.8.0/rscoop_1.8.0_x64_en-US.msi
 
 #### amazon-appstream
 
@@ -7221,7 +7221,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `amys94fr-snap2link.yml`
-- **URL**: https://github.com/amys94fr/Snap2Link/releases/download/v1.3.0/Snap2Link_1.3.0_x64-setup.exe
+- **URL**: https://github.com/amys94fr/Snap2Link/releases/download/v1.4.0/Snap2Link_1.4.0_x64-setup.exe
 
 #### anaconda-anaconda3
 
@@ -7383,7 +7383,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `andromeda-andromeda.yml`
-- **URL**: https://github.com/tryandromeda/andromeda/releases/download/0.1.8/andromeda-windows-amd64.exe
+- **URL**: https://github.com/tryandromeda/andromeda/releases/download/0.1.9/andromeda-windows-amd64.exe
 
 #### andybochmann-devkill
 
@@ -7743,7 +7743,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `anysphere-cursor.yml`
-- **URL**: https://downloads.cursor.com/production/80b138a7a0a948e1a798e9ed7867d76a1ba9a318/win32/x64/user-setup/CursorUserSetup-x64-3.3.27.exe
+- **URL**: https://downloads.cursor.com/production/3dc559280adc5f931ade8e25c7b85393842acf34/win32/x64/user-setup/CursorUserSetup-x64-3.3.30.exe
 
 #### apache-directorystudio
 
@@ -8580,7 +8580,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `astrbot-astrbotlauncher.yml`
-- **URL**: https://github.com/AstrBotDevs/astrbot-launcher/releases/download/v0.3.3/AstrBot.Launcher_0.3.3_x64-setup.exe
+- **URL**: https://github.com/AstrBotDevs/astrbot-launcher/releases/download/v0.3.4/AstrBot.Launcher_0.3.4_x64-setup.exe
 
 #### astrocomma-astrogrep
 
@@ -9246,7 +9246,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `axosoft-gitkraken.yml`
-- **URL**: https://api.gitkraken.dev/releases/production/windows/x64/12.1.0/GitKrakenSetup.exe
+- **URL**: https://api.gitkraken.dev/releases/production/windows/x64/12.1.1/GitKrakenSetup.exe
 
 #### axpnet-aeroftp
 
@@ -11163,7 +11163,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `benjaminlsr-handheldcompanion.yml`
-- **URL**: https://github.com/Valkirie/HandheldCompanion/releases/download/0.28.6.4/HandheldCompanion-0.28.6.4.exe
+- **URL**: https://github.com/Valkirie/HandheldCompanion/releases/download/0.29.3.0/HandheldCompanion-0.29.3.0.exe
 
 #### benji377-tooka
 
@@ -11388,7 +11388,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bggrgjqaubcoe-piliplus.yml`
-- **URL**: https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.0.6/PiliPlus_windows_2.0.6%2B4915_x64_setup.exe
+- **URL**: https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.0.7/PiliPlus_windows_2.0.7+4940_x64_setup.exe
 
 #### bgreenwell-xleak
 
@@ -12378,7 +12378,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `blueberrycongee-termcanvas.yml`
-- **URL**: https://github.com/blueberrycongee/termcanvas/releases/download/v0.39.6/TermCanvas-Setup-0.39.6.exe
+- **URL**: https://github.com/blueberrycongee/termcanvas/releases/download/v0.39.7/TermCanvas-Setup-0.39.7.exe
 
 #### bluebubbles-bluebubbles
 
@@ -14079,7 +14079,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ccseer-seer.yml`
-- **URL**: https://github.com/ccseer/Seer/releases/download/v4.3.2/Seer-4.3.2.exe
+- **URL**: https://github.com/ccseer/Seer/releases/download/v4.3.3/Seer-4.3.3.exe
 
 #### ce-programming-cemu
 
@@ -17526,7 +17526,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dascanard-radioss.yml`
-- **URL**: https://github.com/DasCanard/radioss/releases/download/v0.9.0/radioss_0.9.0_x64_en-US_windows.msi
+- **URL**: https://github.com/DasCanard/radioss/releases/download/v0.9.1/Radioss-0.9.1.msi
 
 #### dashlane-cli
 
@@ -25167,7 +25167,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `geminilight-mindos.yml`
-- **URL**: https://github.com/GeminiLight/MindOS/releases/download/desktop-v0.3.13/MindOS-Setup-0.3.13.exe
+- **URL**: https://github.com/GeminiLight/MindOS/releases/download/desktop-v0.3.14/MindOS-Setup-0.3.14-arm64.exe
 
 #### generaloutline-outline
 
@@ -26427,7 +26427,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-osvscanner.yml`
-- **URL**: https://github.com/google/osv-scanner/releases/download/v2.3.6/osv-scanner_windows_amd64.exe
+- **URL**: https://github.com/google/osv-scanner/releases/download/v2.3.8/osv-scanner_windows_amd64.exe
 
 #### google-playgames
 
@@ -27408,7 +27408,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `haiying-officecli.yml`
-- **URL**: https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.80/officecli-win-x64.exe
+- **URL**: https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.81/officecli-win-x64.exe
 
 #### hakuneko-hakuneko-nightly
 
@@ -29811,7 +29811,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `inspoaibox-mshell.yml`
-- **URL**: https://github.com/inspoaibox/Mshell/releases/download/v0.2.3/MShell-Setup-0.2.3.exe
+- **URL**: https://github.com/inspoaibox/Mshell/releases/download/v0.2.6/MShell-Setup-0.2.6.exe
 
 #### insta360-link-controller
 
@@ -31548,7 +31548,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jellyfin2samsung-jellyfin2samsung.yml`
-- **URL**: https://github.com/Jellyfin2Samsung/Samsung-Jellyfin-Installer/releases/download/v2.2.0.9/Jellyfin2Samsung-v2.2.0.9-win-x64.msi
+- **URL**: https://github.com/Jellyfin2Samsung/Samsung-Jellyfin-Installer/releases/download/v2.2.1.0/Jellyfin2Samsung-v2.2.1.0-win-x64.msi
 
 #### jelmerro-vieb
 
@@ -31818,7 +31818,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-intellijidea-ultimate-eap.yml`
-- **URL**: https://download.jetbrains.com/idea/idea-261.24374.34.exe
+- **URL**: https://download.jetbrains.com/idea/idea-262.4852.50.exe
 
 #### jetbrains-intellijidea-ultimate
 
@@ -55515,7 +55515,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rem0o-fancontrol.yml`
-- **URL**: https://github.com/Rem0o/FanControl.Releases/releases/download/V266/FanControl_266_net_10_0_Installer.exe
+- **URL**: https://github.com/Rem0o/FanControl.Releases/releases/download/V267/FanControl_267_net_10_0_Installer.exe
 
 #### remarkable-remarkablecompanionapp
 
@@ -66189,7 +66189,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `twintailteam-ttl.yml`
-- **URL**: https://github.com/TwintailTeam/TwintailLauncher/releases/download/ttl-v2.0.0/twintaillauncher_2.0.0_x64-setup.exe
+- **URL**: https://github.com/TwintailTeam/TwintailLauncher/releases/download/ttl-v2.1.0/twintaillauncher_2.1.0_x64-setup.exe
 
 #### twintype-twintype-cloud
 
@@ -67269,7 +67269,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `videolan-vlc-nightly.yml`
-- **URL**: https://artifacts.videolan.org/vlc/nightly-win64/20260304-0444/vlc-4.0.0-dev-win64-77d6c93e.msi
+- **URL**: https://artifacts.videolan.org/vlc/nightly-win64-ucrt-llvm/20260509-0442/vlc-4.0.0-dev-win64-9dcc03a3.msi
 
 #### videolan-vlc
 
@@ -67332,7 +67332,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0458/gvim_9.2.0458_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0461/gvim_9.2.0461_x64.exe
 
 #### vim-vim
 
@@ -67602,7 +67602,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vmvarela-sql-pipe.yml`
-- **URL**: https://github.com/vmvarela/sql-pipe/releases/download/v0.8.0/sql-pipe-x86_64-windows.exe
+- **URL**: https://github.com/vmvarela/sql-pipe/releases/download/v0.8.1/sql-pipe-x86_64-windows.exe
 
 #### vocalomakets-yuzukiyukarirei
 
@@ -68628,7 +68628,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wendylabs-wendy.yml`
-- **URL**: https://github.com/wendylabsinc/wendy-agent/releases/download/2026.05.04-145708/wendy-cli-windows-amd64-2026.05.04-145708.msi
+- **URL**: https://github.com/wendylabsinc/wendy-agent/releases/download/2026.05.09-220252/wendy-cli-windows-amd64-2026.05.09-220252.msi
 
 #### wenming-thirdspace
 

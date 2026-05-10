@@ -1,4 +1,4 @@
-url: https://artifacts.videolan.org/vlc/nightly-win64/20260304-0444/vlc-4.0.0-dev-win64-77d6c93e.msi
+url: https://artifacts.videolan.org/vlc/nightly-win64-ucrt-llvm/20260509-0442/vlc-4.0.0-dev-win64-9dcc03a3.msi
 automatic_install: false
 self_service: false
 categories: []
