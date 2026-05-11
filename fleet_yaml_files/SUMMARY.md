@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-05-10 18:19:25 UTC
+Generated on: 2026-05-11 07:10:30 UTC
 
 ## Summary
 
@@ -289,7 +289,7 @@ Total entries processed: 7981
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `bing-wallpaper.yml`
-- **URL**: https://download.microsoft.com/download/3a8e7366-aac0-4636-bc1d-a3c6c217accf/Installer/1.1.8/MSN/Var1/MW021/Bing%20Wallpaper.pkg
+- **URL**: https://download.microsoft.com/download/3c2365ad-ed5f-4ebc-bacf-6dd9c66a2d15/Installer/1.1.9/var1/MW011/2/BingWallpaper.pkg
 
 #### bitfocus-buttons
 
@@ -3441,7 +3441,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `0state-scafld.yml`
-- **URL**: https://github.com/nilstate/scafld/releases/download/v2.3.7/scafld_2.3.7_windows_amd64.exe
+- **URL**: https://github.com/nilstate/scafld/releases/download/v2.3.8/scafld_2.3.8_windows_amd64.exe
 
 #### 0x192-universalandroiddebloatergui
 
@@ -17526,7 +17526,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dascanard-radioss.yml`
-- **URL**: https://github.com/DasCanard/radioss/releases/download/0.9.3/Radioss.0.9.3.msi
+- **URL**: https://github.com/DasCanard/radioss/releases/download/0.9.5/Radioss.0.9.5.msi
 
 #### dashlane-cli
 
@@ -18264,7 +18264,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `deminimis-minimalfirewall.yml`
-- **URL**: https://github.com/deminimis/minimalfirewall/releases/download/v2.7.4/Minimal.Firewall.exe
+- **URL**: https://github.com/deminimis/minimalfirewall/releases/download/v2.7.5/Minimal.Firewall.exe
 
 #### denby-calculator
 
@@ -18921,7 +18921,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dimitarradenkov-pointframe.yml`
-- **URL**: https://github.com/dimitar-radenkov/Pointframe/releases/download/v5.8.9/Pointframe-5.8.9-x64-Setup.exe
+- **URL**: https://github.com/dimitar-radenkov/Pointframe/releases/download/v6.1.1/Pointframe-6.1.1-x64-Setup.exe
 
 #### dimitarradenkov-snippingtool
 
@@ -23124,7 +23124,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `finesssee-win-codexbar.yml`
-- **URL**: https://github.com/Finesssee/Win-CodexBar/releases/download/v0.23.9/CodexBar-0.23.9-Setup.exe
+- **URL**: https://github.com/Finesssee/Win-CodexBar/releases/download/v0.24.1/CodexBar-0.24.1-Setup.exe
 
 #### fing-fing
 
@@ -25167,7 +25167,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `geminilight-mindos.yml`
-- **URL**: https://github.com/GeminiLight/MindOS/releases/download/desktop-v0.3.15/MindOS-Setup-0.3.15-arm64.exe
+- **URL**: https://github.com/GeminiLight/MindOS/releases/download/desktop-v0.3.16/MindOS-Setup-0.3.16-arm64.exe
 
 #### generaloutline-outline
 
@@ -26202,7 +26202,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `golde-purplepen.yml`
-- **URL**: https://purple-pen.org/downloads/purplepen-341.exe
+- **URL**: https://purple-pen.org/downloads/purplepen-355.exe
 
 #### goldendict-goldendict
 
@@ -27408,7 +27408,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `haiying-officecli.yml`
-- **URL**: https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.84/officecli-win-x64.exe
+- **URL**: https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.85/officecli-win-x64.exe
 
 #### hakuneko-hakuneko-nightly
 
@@ -33933,7 +33933,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-ruqola.yml`
-- **URL**: https://cdn.kde.org/ci-builds/network/ruqola/2.7/windows/ruqola-2.7-12500-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/network/ruqola/2.7/windows/ruqola-2.7-12517-windows-cl-msvc2022-x86_64.exe
 
 #### kde-skrooge
 
@@ -36543,7 +36543,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `louishinchliffe-hardwaremon.yml`
-- **URL**: https://github.com/louisboii747/HardwareMon/releases/download/v12.7.7/HardwareMonSetup-12.7.7.exe
+- **URL**: https://github.com/louisboii747/HardwareMon/releases/download/v13.0.6/HardwareMonSetup-x64-13.0.6.exe
 
 #### louishitchcock-serialmonitor
 
@@ -40818,7 +40818,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mikf-gallery-dl-nightly.yml`
-- **URL**: https://github.com/gdl-org/builds/releases/download/2026.05.09/gallery-dl_windows.exe
+- **URL**: https://github.com/gdl-org/builds/releases/download/2026.05.10/gallery-dl_windows.exe
 
 #### mikf-gallery-dl
 
@@ -45921,7 +45921,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `msendpointmgr-1phonemirror.yml`
-- **URL**: https://github.com/MSEndpointMgr/1PhoneMirror/releases/download/v0.3.1/1PhoneMirror-0.3.1.msi
+- **URL**: https://github.com/MSEndpointMgr/1PhoneMirror/releases/download/v0.3.2/1PhoneMirror-0.3.2.msi
 
 #### msendpointmgr-intunedebugtoolkit
 
@@ -46461,7 +46461,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nashsu-llmwiki.yml`
-- **URL**: https://github.com/nashsu/llm_wiki/releases/download/v0.4.7/LLM.Wiki_0.4.7_x64-setup.exe
+- **URL**: https://github.com/nashsu/llm_wiki/releases/download/v0.4.9/LLM.Wiki_0.4.9_x64-setup.exe
 
 #### nasiridrishi-yank
 
@@ -46704,7 +46704,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ncsoft-purple.yml`
-- **URL**: https://gs-purple-inst.download.ncupdate.com/Purple/PurpleInstaller_2_26_429_11.exe
+- **URL**: https://gs-purple-inst.download.ncupdate.com/Purple/PurpleInstaller_2_26_511_8.exe
 
 #### ncyxie-notepad-dot-qt
 
@@ -47064,7 +47064,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `netsentinel-netsentinel.yml`
-- **URL**: https://github.com/ossianericson/netsentinel/releases/download/v1.7.9/NetSentinel-Setup-1.7.9.exe
+- **URL**: https://github.com/ossianericson/netsentinel/releases/download/v1.9.0/NetSentinel-Setup-1.9.0.exe
 
 #### nettracex-tui
 
@@ -50232,7 +50232,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `openwong2kim-wmux.yml`
-- **URL**: https://github.com/openwong2kim/wmux/releases/download/v2.8.1/wmux-2.8.1.Setup.exe
+- **URL**: https://github.com/openwong2kim/wmux/releases/download/v2.8.3/wmux-2.8.3.Setup.exe
 
 #### openzfs-openzfs
 
@@ -58593,7 +58593,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-05-08/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-05-10/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -58809,7 +58809,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `shilihu-mubu.yml`
-- **URL**: https://assets.mubu.com/client/5.5.2/win/Mubu-5.5.2-x64.exe
+- **URL**: https://assets.mubu.com/client/5.5.3/win/Mubu-5.5.3-x64.exe
 
 #### shinchiro-mpv
 
@@ -65235,7 +65235,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `toit-toit.yml`
-- **URL**: https://github.com/toitlang/toit/releases/download/v2.0.0-alpha.192/toit-windows-x64-installer.exe
+- **URL**: https://github.com/toitlang/toit/releases/download/v2.0.0-alpha.193/toit-windows-x64-installer.exe
 
 #### tom94-tev
 
@@ -67602,7 +67602,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vmvarela-sql-pipe.yml`
-- **URL**: https://github.com/vmvarela/sql-pipe/releases/download/v0.8.1/sql-pipe-x86_64-windows.exe
+- **URL**: https://github.com/vmvarela/sql-pipe/releases/download/v0.9.0/sql-pipe-x86_64-windows.exe
 
 #### vocalomakets-yuzukiyukarirei
 
@@ -67719,7 +67719,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `voltkraft-immichfolderwatch.yml`
-- **URL**: https://github.com/VoltKraft/immich-folder-watch/releases/download/v2.4.0/immich-folder-watch-2.4.0-win-x64.msi
+- **URL**: https://github.com/VoltKraft/immich-folder-watch/releases/download/v2.5.0/immich-folder-watch-2.5.0-win-x64.msi
 
 #### volumegraphics-myvgl
 
@@ -68241,7 +68241,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `walles-moor.yml`
-- **URL**: https://github.com/walles/moor/releases/download/v2.12.3/moor-v2.12.3-windows-amd64.exe
+- **URL**: https://github.com/walles/moor/releases/download/v2.13.0/moor-v2.13.0-windows-amd64.exe
 
 #### wampserver-wampserver
 
@@ -68979,7 +68979,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wilsonglasser-oryxis.yml`
-- **URL**: https://github.com/wilsonglasser/oryxis/releases/download/v0.5.7/oryxis-setup-x86_64.exe
+- **URL**: https://github.com/wilsonglasser/oryxis/releases/download/v0.6.0/oryxis-setup-x86_64.exe
 
 #### win32ss-supermium
 
@@ -69015,7 +69015,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `windirstat-windirstat-beta.yml`
-- **URL**: https://github.com/windirstat/windirstat/releases/download/beta/v2.5.8/2026-05-02/WinDirStat-x64.msi
+- **URL**: https://github.com/windirstat/windirstat/releases/download/beta/v2.5.9/2026-05-10/WinDirStat-x64.msi
 
 #### windirstat-windirstat
 
@@ -70185,7 +70185,7 @@ Total entries processed: 7981
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xiaocang-easydictforwindows.yml`
-- **URL**: https://github.com/xiaocang/easydict_win32/releases/download/v0.7.4/Easydict-v0.7.4-x64-setup.unsigned.exe
+- **URL**: https://github.com/xiaocang/easydict_win32/releases/download/v0.7.5/Easydict-v0.7.5-x64-setup.unsigned.exe
 
 #### xiaojieli-byetype
 
