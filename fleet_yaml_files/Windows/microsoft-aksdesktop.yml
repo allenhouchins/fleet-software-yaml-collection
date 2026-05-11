@@ -1,4 +1,4 @@
-url: https://github.com/Azure/aks-desktop/releases/download/v0.1.0-alpha/aks-desktop-0.1.0-alpha-win-x64.exe
+url: https://github.com/Azure/aks-desktop/releases/download/v0.6.0/aks-desktop-0.6.0-win-x64.exe
 automatic_install: false
 self_service: false
 categories: []
