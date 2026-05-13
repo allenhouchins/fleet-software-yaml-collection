@@ -1,4 +1,4 @@
-url: https://github.com/chocolatey/ChocolateyGUI/releases/download/3.0.1/ChocolateyGUI.msi
+url: https://github.com/chocolatey/ChocolateyGUI/releases/download/3.1.0/ChocolateyGUI.msi
 automatic_install: false
 self_service: false
 categories: []
