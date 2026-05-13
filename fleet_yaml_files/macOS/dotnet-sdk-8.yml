@@ -1,4 +1,4 @@
-url: https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.420/dotnet-sdk-8.0.420-osx-arm64.pkg
+url: https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.421/dotnet-sdk-8.0.421-osx-arm64.pkg
 automatic_install: false
 self_service: false
 categories: []
