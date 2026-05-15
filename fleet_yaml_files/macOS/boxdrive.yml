@@ -1,4 +1,4 @@
-url: https://e3.boxcdn.net/desktop/releases/mac/BoxDrive.pkg
+url: https://e3.boxcdn.net/desktop/releases/mac/BoxDrive-${appNewVersion}.pkg
 automatic_install: false
 self_service: false
 categories: []

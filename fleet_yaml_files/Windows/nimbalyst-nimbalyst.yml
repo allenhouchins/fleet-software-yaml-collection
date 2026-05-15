@@ -1,4 +1,4 @@
-url: https://files.pvs-studio.com/PVS-Studio_setup.exe
+url: https://github.com/nimbalyst/nimbalyst/releases/download/v0.60.1/Nimbalyst-Windows-x64.exe
 automatic_install: false
 self_service: false
 categories: []
