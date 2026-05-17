@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-05-17 06:56:58 UTC
+Generated on: 2026-05-17 18:21:24 UTC
 
 ## Summary
 
@@ -226,7 +226,7 @@ Total entries processed: 8052
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `azookey.yml`
-- **URL**: https://github.com/azooKey/azooKey-Desktop/releases/download/v0.1.3/azooKey-release-signed.pkg
+- **URL**: https://github.com/azooKey/azooKey-Desktop/releases/download/v0.1.4/azooKey-release-signed.pkg
 
 #### background-music
 
@@ -3459,7 +3459,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `0state-scafld.yml`
-- **URL**: https://github.com/nilstate/scafld/releases/download/v2.4.2/scafld_2.4.2_windows_amd64.exe
+- **URL**: https://github.com/nilstate/scafld/releases/download/v2.4.3/scafld_2.4.3_windows_amd64.exe
 
 #### 0x192-universalandroiddebloatergui
 
@@ -17229,7 +17229,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cst8t-gitmun.yml`
-- **URL**: https://github.com/cst8t/gitmun/releases/download/v0.4.5/Gitmun_0.4.5_x64-setup.exe
+- **URL**: https://github.com/cst8t/gitmun/releases/download/v0.5.3/Gitmun_0.5.3_x64-setup.exe
 
 #### cteros-eno-m
 
@@ -19893,7 +19893,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dreamlonglll-mini-term.yml`
-- **URL**: https://github.com/dreamlonglll/mini-term/releases/download/v0.4.6/Mini-Term_0.4.6_x64-setup.exe
+- **URL**: https://github.com/dreamlonglll/mini-term/releases/download/v0.4.7/Mini-Term_0.4.7_x64-setup.exe
 
 #### dreamsourcelab-dsview
 
@@ -21009,7 +21009,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `edde746-plezy.yml`
-- **URL**: https://github.com/edde746/plezy/releases/download/2.0.0/plezy-windows-installer.exe
+- **URL**: https://github.com/edde746/plezy/releases/download/2.1.0/plezy-windows-installer.exe
 
 #### edenian-prince-rust-secrets
 
@@ -22314,7 +22314,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `eugeny-tabby.yml`
-- **URL**: https://github.com/Eugeny/tabby/releases/download/v1.0.233/tabby-1.0.233-setup-x64.exe
+- **URL**: https://github.com/Eugeny/tabby/releases/download/v1.0.234/tabby-1.0.234-setup-x64.exe
 
 #### eusoft-dehelper
 
@@ -22692,7 +22692,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `fafarunner-fafarunner.yml`
-- **URL**: https://github.com/fafarunner/fafarunner/releases/download/v2.9.0/fafarunner-2.9.0-windows-x64-en-US.msi
+- **URL**: https://github.com/fafarunner/fafarunner/releases/download/v3.0.0/fafarunner-3.0.0-windows-x64-en-US.msi
 
 #### fai-solutions-move-window-between-desktops
 
@@ -27381,7 +27381,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gtxfury-flyclash.yml`
-- **URL**: https://github.com/GtxFury/FlyClash/releases/download/v0.2.8/FlyClash-0.2.8-x64-setup.exe
+- **URL**: https://github.com/GtxFury/FlyClash/releases/download/v0.2.9/FlyClash-0.2.9-x64-setup.exe
 
 #### guhan-goodcommit
 
@@ -27435,7 +27435,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `guoyongchang-worktreemanager.yml`
-- **URL**: https://github.com/guoyongchang/worktree-manager/releases/download/v0.20260513.21550/Worktree-Manager-v0.20260513.21550-Windows-setup.exe
+- **URL**: https://github.com/guoyongchang/worktree-manager/releases/download/v0.20260517.61218/Worktree-Manager-v0.20260517.61218-Windows-setup.exe
 
 #### guranotfound-ninarium
 
@@ -27786,7 +27786,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `haxllo-partboot.yml`
-- **URL**: https://github.com/haxllo/partboot/releases/download/v0.3.0/partboot.exe
+- **URL**: https://github.com/haxllo/partboot/releases/download/v0.3.1/partboot.exe
 
 #### hayaku-quickdash
 
@@ -28893,7 +28893,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hunterbown-deepseek-tui.yml`
-- **URL**: https://github.com/Hmbown/DeepSeek-TUI/releases/download/v0.8.38/deepseek-tui-windows-x64.exe
+- **URL**: https://github.com/Hmbown/DeepSeek-TUI/releases/download/v0.8.39/deepseek-tui-windows-x64.exe
 
 #### huohuasiwei-huohuasiwei
 
@@ -30585,7 +30585,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `iridiumio-compactgui.yml`
-- **URL**: https://github.com/IridiumIO/CompactGUI/releases/download/v4.0.0-beta.6/CompactGUI.exe
+- **URL**: https://github.com/IridiumIO/CompactGUI/releases/download/v4.0.0-beta.7/CompactGUI.exe
 
 #### irisinstruments-electreterrasequencer
 
@@ -32448,7 +32448,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jiluo-xterminal.yml`
-- **URL**: https://cdn-office.xterminal.cn/downloads/XTerminal-5.6.9-win-x64-installer.exe
+- **URL**: https://cdn-office.xterminal.cn/downloads/XTerminal-5.7.17-win-x64-installer.exe
 
 #### jimhan-kanban-desktop
 
@@ -33474,7 +33474,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kawaiidango-pano-scrobbler.yml`
-- **URL**: https://github.com/kawaiiDango/pano-scrobbler/releases/download/439/pano-scrobbler-windows-x64.exe
+- **URL**: https://github.com/kawaiiDango/pano-scrobbler/releases/download/440/pano-scrobbler-windows-x64.exe
 
 #### kay-ou-simtradedesk
 
@@ -36831,7 +36831,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lonr-6-ccdesktopswitch.yml`
-- **URL**: https://github.com/lonr-6/cc-desktop-switch/releases/download/v1.0.24/CC-Desktop-Switch-v1.0.24-Windows-Setup.exe
+- **URL**: https://github.com/lonr-6/cc-desktop-switch/releases/download/v1.0.25/CC-Desktop-Switch-v1.0.25-Windows-Setup.exe
 
 #### loom-loom
 
@@ -36885,7 +36885,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `louishinchliffe-hardwaremon.yml`
-- **URL**: https://github.com/louisboii747/HardwareMon/releases/download/v14.1.0/HardwareMonSetup-x64-14.1.0.exe
+- **URL**: https://github.com/louisboii747/HardwareMon/releases/download/v14.5.2/HardwareMonSetup-x64-14.5.2.exe
 
 #### louishitchcock-serialmonitor
 
@@ -41169,7 +41169,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mikf-gallery-dl-nightly.yml`
-- **URL**: https://github.com/gdl-org/builds/releases/download/2026.05.15/gallery-dl_windows.exe
+- **URL**: https://github.com/gdl-org/builds/releases/download/2026.05.17/gallery-dl_windows.exe
 
 #### mikf-gallery-dl
 
@@ -41754,7 +41754,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `moku-moku.yml`
-- **URL**: https://github.com/moku-project/Moku/releases/download/v0.9.3/Moku_0.9.3_x64-setup.exe
+- **URL**: https://github.com/moku-project/Moku/releases/download/v0.9.4/Moku_0.9.4_x64-setup.exe
 
 #### molotovtv-molotov
 
@@ -50331,7 +50331,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `openmpt-openmpt.yml`
-- **URL**: https://download.openmpt.org/archive/openmpt/1.32/OpenMPT-1.32.09.00-Setup.exe
+- **URL**: https://download.openmpt.org/archive/openmpt/1.32/OpenMPT-1.32.10.00-Setup.exe
 
 #### openmw-openmw
 
@@ -50394,7 +50394,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `openrct2-openrct2.yml`
-- **URL**: https://github.com/OpenRCT2/OpenRCT2/releases/download/v0.5.0/OpenRCT2-v0.5.0-windows-installer-x64.exe
+- **URL**: https://github.com/OpenRCT2/OpenRCT2/releases/download/v0.5.1/OpenRCT2-v0.5.1-windows-installer-x64.exe
 
 #### openrefine-openrefine
 
@@ -50628,7 +50628,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `openwong2kim-wmux.yml`
-- **URL**: https://github.com/openwong2kim/wmux/releases/download/v2.9.0/wmux-2.9.0.Setup.exe
+- **URL**: https://github.com/openwong2kim/wmux/releases/download/v2.9.1/wmux-2.9.1.Setup.exe
 
 #### openzfs-openzfs
 
@@ -51429,7 +51429,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `paopaoandlingyia-prismcat.yml`
-- **URL**: https://github.com/paopaoandlingyia/PrismCat/releases/download/v1.6.0/prismcat-v1.6.0-windows-amd64.exe
+- **URL**: https://github.com/paopaoandlingyia/PrismCat/releases/download/v1.7.0/prismcat-v1.7.0-windows-amd64.exe
 
 #### papercutsoftware-ghosttrap
 
@@ -52590,7 +52590,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pixpin-pixpin-beta.yml`
-- **URL**: https://download.pixpinapp.com/PixPin_cn_zh-cn_3.1.4.0.exe
+- **URL**: https://download.pixpinapp.com/PixPin_cn_zh-cn_3.2.2.3.exe
 
 #### pixpin-pixpin
 
@@ -57540,7 +57540,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rullerzhou-afk-clawd-on-desk.yml`
-- **URL**: https://github.com/rullerzhou-afk/clawd-on-desk/releases/download/v0.7.0/Clawd-on-Desk-Setup-0.7.0-arm64.exe
+- **URL**: https://github.com/rullerzhou-afk/clawd-on-desk/releases/download/v0.8.0/Clawd-on-Desk-Setup-0.8.0-arm64.exe
 
 #### rumyp-sentype
 
@@ -57990,7 +57990,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `samtaylor-mapinabox.yml`
-- **URL**: https://github.com/sjtaylor82/MapInABox/releases/download/v1.0.0/MapInABox-1.0.0-setup.exe
+- **URL**: https://github.com/sjtaylor82/MapInABox/releases/download/v1.0.0.4/MapInABox-1.0.0.4-setup.exe
 
 #### samuelattard-googleplaymusicdesktopplayer
 
@@ -58035,7 +58035,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sandboxie-classic.yml`
-- **URL**: https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.17.5/Sandboxie-Classic-x64-v5.72.5.exe
+- **URL**: https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.17.6/Sandboxie-Classic-x64-v5.72.6.exe
 
 #### sandboxie-plus
 
@@ -58917,7 +58917,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sejinchun-imagine.yml`
-- **URL**: https://github.com/nyam1003/imagine/raw/main/x64/Imagine_2.3.0_x64_Unicode_Full.exe
+- **URL**: https://github.com/nyam1003/imagine/raw/main/x64/Imagine_2.5.6_x64_Unicode_Full.exe
 
 #### selebrowproject-selebrow
 
@@ -60951,7 +60951,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sourcegraph-amp.yml`
-- **URL**: https://static.ampcode.com/cli/0.0.1778962366-g17b62b/amp-windows-x64-baseline.exe
+- **URL**: https://static.ampcode.com/cli/0.0.1779007153-g35ddd7/amp-windows-x64-baseline.exe
 
 #### southrivertechnologies-webdrive
 
@@ -62184,7 +62184,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `stretchly-stretchly.yml`
-- **URL**: https://github.com/hovancik/stretchly/releases/download/v1.18.1/Stretchly-Setup-1.18.1.exe
+- **URL**: https://github.com/hovancik/stretchly/releases/download/v1.21.0/Stretchly-Setup-1.21.0.exe
 
 #### strimio-strimio
 
@@ -62706,7 +62706,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `swift-toolchain.yml`
-- **URL**: https://download.swift.org/swift-6.3.1-release/windows10/swift-6.3.1-RELEASE/swift-6.3.1-RELEASE-windows10.exe
+- **URL**: https://download.swift.org/swift-6.3.2-release/windows10/swift-6.3.2-RELEASE/swift-6.3.2-RELEASE-windows10.exe
 
 #### swiftyapp-swifty
 
@@ -68844,7 +68844,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `walkme-walkmeeditor.yml`
-- **URL**: https://cdn.walkme.com/walkme-editor/Container/Distributables/GA/x64/Windows/PerUserInstallers/WalkMe%20Editor-5.4.2-1-commercial.exe
+- **URL**: https://cdn.walkme.com/walkme-editor/Container/Distributables/GA/x64/Windows/PerUserInstallers/WalkMe%20Editor-5.5.0-3-commercial.exe
 
 #### walkovertechnologies-giddh
 
@@ -69105,7 +69105,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `waytech-clouddrive2.yml`
-- **URL**: https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.0.7/CloudDrive2Setup-X64-1.0.7.exe
+- **URL**: https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.0.8/CloudDrive2Setup-X64-1.0.8.exe
 
 #### weakauras-weakaurascompanion
 
@@ -70815,7 +70815,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xiaocang-easydictforwindows.yml`
-- **URL**: https://github.com/xiaocang/easydict_win32/releases/download/v0.7.5/Easydict-v0.7.5-x64-setup.unsigned.exe
+- **URL**: https://github.com/xiaocang/easydict_win32/releases/download/v0.7.6/Easydict-v0.7.6-x64-setup.unsigned.exe
 
 #### xiaolan-codexaccountswitch
 
@@ -71085,7 +71085,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xmind-xmind.yml`
-- **URL**: https://www.xmind.app/xmind/downloads/Xmind-for-Windows-x64bit-26.03.04129-202605110716.exe
+- **URL**: https://www.xmind.app/xmind/downloads/Xmind-for-Windows-x64bit-26.03.04129-202605150754.exe
 
 #### xming-xming
 
