@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-05-16 18:19:10 UTC
+Generated on: 2026-05-17 06:56:58 UTC
 
 ## Summary
 
@@ -20901,7 +20901,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `eclipseadoptium-temurin-8-jre.yml`
-- **URL**: https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jre_x64_windows_hotspot_8u482b08.msi
+- **URL**: https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u492-b09/OpenJDK8U-jre_x64_windows_hotspot_8u492b09.msi
 
 #### eclipsecommunity-r3dfox
 
@@ -22467,7 +22467,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `evolveos-optimizer.yml`
-- **URL**: https://github.com/EvolveOS-Software/EvolveOS_Optimizer_V3.0/releases/download/1.1.2.311/EvolveOS_Optimizer.exe
+- **URL**: https://github.com/EvolveOS-Software/EvolveOS_Optimizer_V3.0/releases/download/1.1.3.313/EvolveOS_Optimizer.exe
 
 #### evope-evope
 
@@ -23304,7 +23304,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `finesssee-win-codexbar.yml`
-- **URL**: https://github.com/Finesssee/Win-CodexBar/releases/download/v0.26.2/CodexBar-0.26.2-Setup.exe
+- **URL**: https://github.com/Finesssee/Win-CodexBar/releases/download/v0.26.3/CodexBar-0.26.3-Setup.exe
 
 #### fing-fing
 
@@ -24546,7 +24546,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `freedomscientific-fusion-2026.yml`
-- **URL**: https://software.vfo.digital/Fusion/2026/2026.2603.31.400/2FDAF273-1446-4210-B52D-A18F41D60B94/F2026.2603.31.400-Offline-x64.exe
+- **URL**: https://software.vfo.digital/Fusion/2026/2026.2605.8.400/8453537E-6454-4D80-9177-29E077D60B6A/F2026.2605.8.400-Offline-x64.exe
 
 #### freedomscientific-jaws-2023
 
@@ -27597,7 +27597,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `haiying-officecli.yml`
-- **URL**: https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.92/officecli-win-x64.exe
+- **URL**: https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.93/officecli-win-x64.exe
 
 #### hakuneko-hakuneko-nightly
 
@@ -27786,7 +27786,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `haxllo-partboot.yml`
-- **URL**: https://github.com/haxllo/partboot/releases/download/v0.2.3/partboot.exe
+- **URL**: https://github.com/haxllo/partboot/releases/download/v0.3.0/partboot.exe
 
 #### hayaku-quickdash
 
@@ -33483,7 +33483,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kay-ou-simtradedesk.yml`
-- **URL**: https://github.com/kay-ou/SimTradeDesk/releases/download/v0.6.4/SimTradeDesk-Setup-0.6.4.exe
+- **URL**: https://github.com/kay-ou/SimTradeDesk/releases/download/v0.6.5/SimTradeDesk-Setup-0.6.5.exe
 
 #### kayapater-videodownloader
 
@@ -33537,7 +33537,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-akregator.yml`
-- **URL**: https://cdn.kde.org/ci-builds/pim/akregator/master/windows/akregator-master-2647-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/pim/akregator/master/windows/akregator-master-2649-windows-cl-msvc2022-x86_64.exe
 
 #### kde-alkimia
 
@@ -33591,7 +33591,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-chessament.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/chessament/master/windows/chessament-master-660-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/chessament/master/windows/chessament-master-661-windows-cl-msvc2022-x86_64.exe
 
 #### kde-crowtranslate
 
@@ -36507,7 +36507,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lizardbyte-sunshine.yml`
-- **URL**: https://github.com/LizardByte/Sunshine/releases/download/v2025.924.154138/Sunshine-Windows-AMD64-installer.exe
+- **URL**: https://github.com/LizardByte/Sunshine/releases/download/v2026.516.143833/Sunshine-Windows-AMD64-installer.exe
 
 #### lizardsystems-terminalservicesmanager
 
@@ -52851,7 +52851,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pmqueiroz-nova.yml`
-- **URL**: https://github.com/pmqueiroz/nova/releases/download/v0.19.0/nova_0.19.0_x64-setup.exe
+- **URL**: https://github.com/pmqueiroz/nova/releases/download/v0.20.0/nova_0.20.0_x64-setup.exe
 
 #### pmx-setup-test
 
@@ -53715,7 +53715,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `primebuild-threadpilot.yml`
-- **URL**: https://github.com/PrimeBuild-pc/ThreadPilot/releases/download/v1.1.3/ThreadPilot_v1.1.3_Setup.exe
+- **URL**: https://github.com/PrimeBuild-pc/ThreadPilot/releases/download/v1.1.6/ThreadPilot_v1.1.6_Setup.exe
 
 #### primecount-primecount
 
@@ -55587,7 +55587,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rclone-manager-rclone-manager.yml`
-- **URL**: https://github.com/Zarestia-Dev/rclone-manager/releases/download/v0.2.4/RClone.Manager_0.2.4_x64_en-US.msi
+- **URL**: https://github.com/Zarestia-Dev/rclone-manager/releases/download/v0.2.5/RClone.Manager_0.2.5_x64_en-US.msi
 
 #### rcloneui-rcloneui
 
@@ -56010,7 +56010,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `remcostoeten-dora.yml`
-- **URL**: https://github.com/remcostoeten/dora/releases/download/v0.0.103/Dora_0.0.103_x64_en-US.msi
+- **URL**: https://github.com/remcostoeten/dora/releases/download/v0.2.0/Dora_0.2.0_x64_en-US.msi
 
 #### remeha-pro
 
@@ -57432,7 +57432,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rubyinstallerteam-ruby-4-0.yml`
-- **URL**: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-4.0.3-1/rubyinstaller-4.0.3-1-x64.exe
+- **URL**: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-4.0.4-1/rubyinstaller-4.0.4-1-x64.exe
 
 #### rubyinstallerteam-rubywithdevkit-2-6
 
@@ -57504,7 +57504,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rubyinstallerteam-rubywithdevkit-4-0.yml`
-- **URL**: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-4.0.3-1/rubyinstaller-devkit-4.0.3-1-x64.exe
+- **URL**: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-4.0.4-1/rubyinstaller-devkit-4.0.4-1-x64.exe
 
 #### rubymetric-chsrc
 
@@ -59097,7 +59097,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-05-14/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-05-16/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -59772,7 +59772,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `simonschubert-kai.yml`
-- **URL**: https://github.com/SimonSchubert/Kai/releases/download/v2.6.0/Kai-2.6.0-windows.msi
+- **URL**: https://github.com/SimonSchubert/Kai/releases/download/v2.6.1/Kai-2.6.1-windows.msi
 
 #### simontatham-puzzles
 
@@ -60951,7 +60951,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sourcegraph-amp.yml`
-- **URL**: https://static.ampcode.com/cli/0.0.1778933687-g015257/amp-windows-x64-baseline.exe
+- **URL**: https://static.ampcode.com/cli/0.0.1778962366-g17b62b/amp-windows-x64-baseline.exe
 
 #### southrivertechnologies-webdrive
 
@@ -65667,7 +65667,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tinyrack-dotweave.yml`
-- **URL**: https://github.com/tinyrack-net/dotweave/releases/download/v0.44.0/dotweave-win-x64.exe
+- **URL**: https://github.com/tinyrack-net/dotweave/releases/download/v0.46.0/dotweave-win-x64.exe
 
 #### tinyrack-proxer
 
@@ -65676,7 +65676,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tinyrack-proxer.yml`
-- **URL**: https://github.com/tinyrack-net/proxer/releases/download/v0.6.0/proxer-win-x64.exe
+- **URL**: https://github.com/tinyrack-net/proxer/releases/download/v0.9.0/proxer-win-x64.exe
 
 #### tipa-user-koreanquiz
 
@@ -66639,7 +66639,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tsutsu3-pi-hole-client.yml`
-- **URL**: https://github.com/tsutsu3/pi-hole-client/releases/download/1.9.1_(97)/PiHoleClient_1.9.1_Windows_x64.exe
+- **URL**: https://github.com/tsutsu3/pi-hole-client/releases/download/1.9.2_(99)/PiHoleClient_1.9.2_Windows_x64.exe
 
 #### tts-webui-ignition
 
@@ -67953,7 +67953,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0488/gvim_9.2.0488_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0491/gvim_9.2.0491_x64.exe
 
 #### vim-vim
 
@@ -70554,7 +70554,7 @@ Total entries processed: 8052
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wrzdj-wrzdj-bridge.yml`
-- **URL**: https://github.com/thewrz/WrzDJ/releases/download/v2026.05.02/WrzDJ-Bridge.exe
+- **URL**: https://github.com/thewrz/WrzDJ/releases/download/v2026.05.16/WrzDJ-Bridge.exe
 
 #### wsdot-bridgelink
 
