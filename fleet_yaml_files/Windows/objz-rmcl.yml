@@ -1,4 +1,4 @@
-url: https://s3.amazonaws.com/ddagent-windows-stable/ddagent-cli-7.79.0.msi
+url: https://github.com/objz/rmcl/releases/download/v0.3.0/rmcl-x86_64-pc-windows-msvc.msi
 automatic_install: false
 self_service: false
 categories: []

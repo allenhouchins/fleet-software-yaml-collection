@@ -1,4 +1,4 @@
-url: https://s3.amazonaws.com/ddagent-windows-stable/ddagent-cli-7.79.0.msi
+url: https://github.com/lookup-foundation/RevitLookup/releases/download/2027.0.1/RevitLookup-2021.5.1-SingleUser.msi
 automatic_install: false
 self_service: false
 categories: []
