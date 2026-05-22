@@ -1,4 +1,4 @@
-url: https://github.com/Kitware/CMake/releases/download/v4.3.2/cmake-4.3.2-windows-x86_64.msi
+url: https://github.com/Kitware/CMake/releases/download/v4.3.3/cmake-4.3.3-windows-x86_64.msi
 automatic_install: false
 self_service: false
 categories: []

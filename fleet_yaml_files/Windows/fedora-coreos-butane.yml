@@ -1,4 +1,4 @@
-url: https://github.com/coreos/butane/releases/download/v0.27.0/butane-x86_64-pc-windows-gnu.exe
+url: https://github.com/coreos/butane/releases/download/v0.28.0/butane-x86_64-pc-windows-gnu.exe
 automatic_install: false
 self_service: false
 categories: []
