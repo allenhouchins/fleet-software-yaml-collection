@@ -1,4 +1,4 @@
-url: https://gitea.com/gitea/runner/releases/download/v1.0.5/gitea-runner-1.0.5-windows-amd64.exe
+url: https://gitea.com/gitea/runner/releases/download/v1.0.6/gitea-runner-1.0.6-windows-amd64.exe
 automatic_install: false
 self_service: false
 categories: []
