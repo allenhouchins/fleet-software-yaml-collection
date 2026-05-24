@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-05-24 07:05:12 UTC
+Generated on: 2026-05-24 18:21:41 UTC
 
 ## Summary
 
@@ -3801,7 +3801,7 @@ Total entries processed: 8087
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `5rahim-seanime.yml`
-- **URL**: https://github.com/5rahim/seanime/releases/download/v3.8.2/seanime-denshi-3.8.2_Windows_x64.exe
+- **URL**: https://github.com/5rahim/seanime/releases/download/v3.8.3/seanime-denshi-3.8.3_Windows_x64.exe
 
 #### 63beetlesmurf-pinnynotes
 
@@ -8499,7 +8499,7 @@ Total entries processed: 8087
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `arylmera-tokendashboard.yml`
-- **URL**: https://github.com/Arylmera/Token-Dashboard/releases/download/v4.1.3/Token.Dashboard_4.1.3_x64_en-US.msi
+- **URL**: https://github.com/Arylmera/Token-Dashboard/releases/download/v4.1.4/Token.Dashboard_4.1.4_x64_en-US.msi
 
 #### asafsaar-dofek
 
@@ -9354,7 +9354,7 @@ Total entries processed: 8087
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `axonara-searchmonkey.yml`
-- **URL**: https://github.com/cottrela/searchmonkey-III/releases/download/v0.2.4/Searchmonkey_0.2.4_x64-setup.exe
+- **URL**: https://github.com/cottrela/searchmonkey-III/releases/download/v0.3.0/Searchmonkey_0.3.0_x64-setup.exe
 
 #### axosoft-gitkraken
 
@@ -17256,7 +17256,7 @@ Total entries processed: 8087
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cst8t-gitmun.yml`
-- **URL**: https://github.com/cst8t/gitmun/releases/download/v0.6.0/Gitmun_0.6.0_x64-setup.exe
+- **URL**: https://github.com/cst8t/gitmun/releases/download/v0.6.2/Gitmun_0.6.2_x64-setup.exe
 
 #### cteros-eno-m
 
@@ -18552,7 +18552,7 @@ Total entries processed: 8087
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `detachhead-rebased.yml`
-- **URL**: https://github.com/DetachHead/rebased/releases/download/1.0.9/rebased.exe
+- **URL**: https://github.com/DetachHead/rebased/releases/download/1.1.0/rebased.exe
 
 #### determinedai-cli
 
@@ -19578,7 +19578,7 @@ Total entries processed: 8087
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dnscrypt-dnscrypt-proxy.yml`
-- **URL**: https://github.com/DNSCrypt/dnscrypt-proxy/releases/download/2.1.15/dnscrypt-proxy-x64-2.1.15.msi
+- **URL**: https://github.com/DNSCrypt/dnscrypt-proxy/releases/download/2.1.16/dnscrypt-proxy-x64-2.1.16.msi
 
 #### docker-agent
 
@@ -21036,7 +21036,7 @@ Total entries processed: 8087
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `edde746-plezy.yml`
-- **URL**: https://github.com/edde746/plezy/releases/download/2.1.0/plezy-windows-installer.exe
+- **URL**: https://github.com/edde746/plezy/releases/download/2.2.0/plezy-windows-installer.exe
 
 #### edenian-prince-rust-secrets
 
@@ -26508,7 +26508,7 @@ Total entries processed: 8087
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/lgm27bs5jcr7vmqbbh4gxwrf5a_150.0.7854.0/150.0.7854.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/ackveuf22mxq5evyvfcuicrmozpa_150.0.7855.0/150.0.7855.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -27597,7 +27597,7 @@ Total entries processed: 8087
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `haiying-aionui.yml`
-- **URL**: https://github.com/iOfficeAI/AionUi/releases/download/v2.1.0/AionUi-2.1.0-win-x64.exe
+- **URL**: https://github.com/iOfficeAI/AionUi/releases/download/v2.1.1/AionUi-2.1.1-win-x64.exe
 
 #### haiying-officeai
 
@@ -27615,7 +27615,7 @@ Total entries processed: 8087
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `haiying-officecli.yml`
-- **URL**: https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.96/officecli-win-x64.exe
+- **URL**: https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.97/officecli-win-x64.exe
 
 #### hakuneko-hakuneko-nightly
 
@@ -34770,7 +34770,7 @@ Total entries processed: 8087
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kindness-kismet-stelliberty.yml`
-- **URL**: https://github.com/Kindness-Kismet/Stelliberty/releases/download/v1.2.285/Stelliberty-v1.2.285-windows-x64-setup.exe
+- **URL**: https://github.com/Kindness-Kismet/Stelliberty/releases/download/v1.2.286/Stelliberty-v1.2.286-windows-x64-setup.exe
 
 #### kingpindev-vicesonar
 
@@ -36291,7 +36291,7 @@ Total entries processed: 8087
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lightzoneproject-lightzone.yml`
-- **URL**: https://github.com/ktgw0316/LightZone/releases/download/4.2.4/LightZone_Installer_4.2.4_20220227_windows-x64.exe
+- **URL**: https://github.com/ktgw0316/LightZone/releases/download/v5.0.0/LightZone-5.0.0-20260523T052703-windows-64bit.msi
 
 #### limaronaldo-claude-primer
 
@@ -37974,7 +37974,7 @@ Total entries processed: 8087
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mar10-wsgidav.yml`
-- **URL**: https://github.com/mar10/wsgidav/releases/download/v4.3.3/WsgiDAV-4.3.3.0-win64.msi
+- **URL**: https://github.com/mar10/wsgidav/releases/download/v4.3.4/wsgidav-4.3.4.0-win64.msi
 
 #### marcelolvcabral-brightscriptemulator
 
@@ -40575,7 +40575,7 @@ Total entries processed: 8087
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-safetyscanner.yml`
-- **URL**: https://definitionupdates.microsoft.com/packages/content/msert.exe?packageType=Scanner&packageVersion=1.451.69.0&arch=amd64
+- **URL**: https://definitionupdates.microsoft.com/packages/content/msert.exe?packageType=Scanner&packageVersion=1.451.76.0&arch=amd64
 
 #### microsoft-sbomtool
 
@@ -41358,7 +41358,7 @@ Total entries processed: 8087
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mikf-gallery-dl-nightly.yml`
-- **URL**: https://github.com/gdl-org/builds/releases/download/2026.05.22/gallery-dl_windows.exe
+- **URL**: https://github.com/gdl-org/builds/releases/download/2026.05.24/gallery-dl_windows.exe
 
 #### mikf-gallery-dl
 
@@ -42231,7 +42231,7 @@ Total entries processed: 8087
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `moritzbunkus-mkvtoolnix.yml`
-- **URL**: https://mkvtoolnix.download/windows/releases/98.0/mkvtoolnix-64-bit-98.0-setup.exe
+- **URL**: https://mkvtoolnix.download/windows/releases/99.0/mkvtoolnix-64-bit-99.0-setup.exe
 
 #### morpheusly-secureconnections
 
@@ -43383,7 +43383,7 @@ Total entries processed: 8087
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-firefox-developeredition-tg.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/151.0b9/win64/tg/Firefox%20Setup%20151.0b9.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/devedition/releases/151.0b10/win64/tg/Firefox%20Setup%20151.0b10.exe
 
 #### mozilla-firefox-developeredition-th
 
@@ -56217,7 +56217,7 @@ Total entries processed: 8087
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `relmer-matrixrain.yml`
-- **URL**: https://github.com/relmer/MatrixRain/releases/download/v1.2.1973/MatrixRain.exe
+- **URL**: https://github.com/relmer/MatrixRain/releases/download/v1.2.1983/MatrixRain.exe
 
 #### relmer-rcdir
 
@@ -58251,7 +58251,7 @@ Total entries processed: 8087
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `samtaylor-mapinabox.yml`
-- **URL**: https://github.com/sjtaylor82/MapInABox/releases/download/v1.0.0.5/MapInABox-1.0.0.5-setup.exe
+- **URL**: https://github.com/sjtaylor82/MapInABox/releases/download/v1.0.0.6/MapInABox-1.0.0.6-setup.exe
 
 #### samuelattard-googleplaymusicdesktopplayer
 
@@ -61221,7 +61221,7 @@ Total entries processed: 8087
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sourcegraph-amp.yml`
-- **URL**: https://static.ampcode.com/cli/0.0.1779581864-g6cae00/amp-windows-x64-baseline.exe
+- **URL**: https://static.ampcode.com/cli/0.0.1779624958-g6d0650/amp-windows-x64-baseline.exe
 
 #### southrivertechnologies-webdrive
 
@@ -66252,7 +66252,7 @@ Total entries processed: 8087
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `topalasoftwaresolutions-siw.yml`
-- **URL**: https://www.gtopala.com/download/20260513c/siwtrial-setup.exe
+- **URL**: https://www.gtopala.com/download/20260524a/siwtrial-setup.exe
 
 #### topazlabs-topazdenoiseai
 
@@ -68403,7 +68403,7 @@ Total entries processed: 8087
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vivaldi-vivaldi.yml`
-- **URL**: https://downloads.vivaldi.com/stable/Vivaldi.8.0.4033.28.x64.exe
+- **URL**: https://downloads.vivaldi.com/stable/Vivaldi.8.0.4033.34.x64.exe
 
 #### vivi-vivi
 
@@ -68628,7 +68628,7 @@ Total entries processed: 8087
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `voltkraft-immichfolderwatch.yml`
-- **URL**: https://github.com/VoltKraft/immich-folder-watch/releases/download/v2.5.2/immich-folder-watch-2.5.2-win-x64.msi
+- **URL**: https://github.com/VoltKraft/immich-folder-watch/releases/download/v2.5.3/immich-folder-watch-2.5.3-win-x64.msi
 
 #### volumegraphics-myvgl
 
@@ -69897,7 +69897,7 @@ Total entries processed: 8087
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wilsonglasser-basemaster.yml`
-- **URL**: https://github.com/wilsonglasser/basemaster/releases/download/v0.6.3/BaseMaster_0.6.3_x64-setup.exe
+- **URL**: https://github.com/wilsonglasser/basemaster/releases/download/v0.6.4/BaseMaster_0.6.4_x64-setup.exe
 
 #### wilsonglasser-oryxis
 
@@ -70896,7 +70896,7 @@ Total entries processed: 8087
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wuxiran-cc-panes.yml`
-- **URL**: https://github.com/wuxiran/cc-pane/releases/download/v0.9.41/cc-panes_0.9.41_x64-setup.exe
+- **URL**: https://github.com/wuxiran/cc-pane/releases/download/v0.9.42/cc-panes_0.9.42_x64-setup.exe
 
 #### wxriw-lyricify-lite
 
@@ -72426,7 +72426,7 @@ Total entries processed: 8087
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zhukunpenglinyutong-ccgui.yml`
-- **URL**: https://github.com/zhukunpenglinyutong/desktop-cc-gui/releases/download/v0.5.1/ccgui_0.5.1_x64-setup.exe
+- **URL**: https://github.com/zhukunpenglinyutong/desktop-cc-gui/releases/download/v0.5.2/ccgui_0.5.2_x64-setup.exe
 
 #### ziad-tcg
 
