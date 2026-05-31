@@ -1,4 +1,4 @@
-url: https://github.com/dbkangaroo/kangaroo/releases/download/v9.5.1.531/Kangaroo-PostgreSQL-9.5.1.531-x86_64.exe
+url: https://jabraxpressonlineprdstor.blob.core.windows.net/jdo/JabraDirectSetup.exe
 automatic_install: false
 self_service: false
 categories: []

@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-05-31 07:17:40 UTC
+Generated on: 2026-05-31 18:24:18 UTC
 
 ## Summary
 
-Total entries processed: 8163
+Total entries processed: 8165
 - macOS files: 384
-- Windows files: 7779
+- Windows files: 7781
 
 ## Generated Files
 
@@ -7743,7 +7743,7 @@ Total entries processed: 8163
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `antonioorionus-arroxy.yml`
-- **URL**: https://github.com/antonio-orionus/Arroxy/releases/download/v0.3.6/Arroxy-Setup-0.3.6.exe
+- **URL**: https://github.com/antonio-orionus/Arroxy/releases/download/v0.3.7/Arroxy-Setup-0.3.7.exe
 
 #### antonmedv-walk
 
@@ -8220,7 +8220,7 @@ Total entries processed: 8163
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `archi-archi.yml`
-- **URL**: https://www.archimatetool.com/downloads/archi/5.9.0/Archi-Win64-Setup-5.9.0.exe
+- **URL**: https://github.com/archimatetool/archi.io/releases/download/5.9.0/Archi-Win64-Setup-5.9.0.exe
 
 #### archisman-panigrahi-quickbib
 
@@ -12594,7 +12594,7 @@ Total entries processed: 8163
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `blueberrycongee-termcanvas.yml`
-- **URL**: https://github.com/blueberrycongee/termcanvas/releases/download/v0.39.8/TermCanvas-Setup-0.39.8.exe
+- **URL**: https://github.com/blueberrycongee/termcanvas/releases/download/v0.39.9/TermCanvas-Setup-0.39.9.exe
 
 #### bluebubbles-bluebubbles
 
@@ -13827,7 +13827,7 @@ Total entries processed: 8163
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `c0re100-qbittorrent-enhanced-edition.yml`
-- **URL**: https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/download/release-5.1.3.10/qbittorrent_enhanced_5.1.3.10_x64_setup.exe
+- **URL**: https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/download/release-5.2.1.10/qbittorrent_enhanced_5.2.1.10_x64_setup.exe
 
 #### c3er-mdview
 
@@ -14268,7 +14268,7 @@ Total entries processed: 8163
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `catonetworks-catoclient.yml`
-- **URL**: https://clients.catonetworks.com/windows/6.2.0.8682/setup.msi
+- **URL**: https://clients.catonetworks.com/windows/6.4.6.8830/setup.msi
 
 #### catsxp-catsxp
 
@@ -15996,7 +15996,7 @@ Total entries processed: 8163
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `codexu-notegen.yml`
-- **URL**: https://github.com/codexu/note-gen/releases/download/note-gen-v0.27.9/NoteGen_0.27.9_x64-setup.exe
+- **URL**: https://github.com/codexu/note-gen/releases/download/note-gen-v0.28.0/NoteGen_0.28.0_x64-setup.exe
 
 #### codezeno-claudecodeusagemonitor
 
@@ -19254,7 +19254,7 @@ Total entries processed: 8163
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dimitarradenkov-pointframe.yml`
-- **URL**: https://github.com/dimitar-radenkov/Pointframe/releases/download/v6.3.1/Pointframe-6.3.1-x64-Setup.exe
+- **URL**: https://github.com/dimitar-radenkov/Pointframe/releases/download/v6.3.2/Pointframe-6.3.2-x64-Setup.exe
 
 #### dimitarradenkov-snippingtool
 
@@ -19470,7 +19470,7 @@ Total entries processed: 8163
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dixieflatline76-spice.yml`
-- **URL**: https://github.com/dixieflatline76/Spice/releases/download/v2.5.6/Spice-Setup-2.5.6-windows-amd64.exe
+- **URL**: https://github.com/dixieflatline76/Spice/releases/download/v2.5.7/Spice-Setup-2.5.7-windows-amd64.exe
 
 #### dj7nt-waveloggate
 
@@ -20019,7 +20019,7 @@ Total entries processed: 8163
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `drakkan-sftpgo.yml`
-- **URL**: https://github.com/drakkan/sftpgo/releases/download/v2.7.1/sftpgo_v2.7.1_windows_x86_64.exe
+- **URL**: https://github.com/drakkan/sftpgo/releases/download/v2.7.3/sftpgo_v2.7.3_windows_x86_64.exe
 
 #### drakkan-sftpgoenterprise
 
@@ -20055,7 +20055,7 @@ Total entries processed: 8163
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dreamlonglll-mini-term.yml`
-- **URL**: https://github.com/dreamlonglll/mini-term/releases/download/v0.4.9/Mini-Term_0.4.9_x64-setup.exe
+- **URL**: https://github.com/dreamlonglll/mini-term/releases/download/v0.5.0/Mini-Term_0.5.0_x64-setup.exe
 
 #### dreamsourcelab-dsview
 
@@ -21918,7 +21918,7 @@ Total entries processed: 8163
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `emurasoft-emeditor.yml`
-- **URL**: https://download.emeditor.com/emed64_26.1.0.msi
+- **URL**: https://download.emeditor.com/emed64_26.1.1.msi
 
 #### enarxproject-enarx
 
@@ -22602,7 +22602,7 @@ Total entries processed: 8163
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `everless321-dym.yml`
-- **URL**: https://github.com/Everless321/dYm/releases/download/v1.8.8/dym-1.8.8-setup.exe
+- **URL**: https://github.com/Everless321/dYm/releases/download/v1.8.9/dym-1.8.9-setup.exe
 
 #### evernote-evernote
 
@@ -27624,7 +27624,7 @@ Total entries processed: 8163
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `guoyongchang-worktreemanager.yml`
-- **URL**: https://github.com/guoyongchang/worktree-manager/releases/download/v0.20260526.64228/Worktree-Manager-v0.20260526.64228-Windows-setup.exe
+- **URL**: https://github.com/guoyongchang/worktree-manager/releases/download/v0.20260531.85427/Worktree-Manager-v0.20260531.85427-Windows-setup.exe
 
 #### guranotfound-ninarium
 
@@ -27768,7 +27768,7 @@ Total entries processed: 8163
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `haiying-aionui.yml`
-- **URL**: https://github.com/iOfficeAI/AionUi/releases/download/v2.1.7/AionUi-2.1.7-win-x64.exe
+- **URL**: https://github.com/iOfficeAI/AionUi/releases/download/v2.1.8/AionUi-2.1.8-win-x64.exe
 
 #### haiying-officeai
 
@@ -31208,6 +31208,15 @@ Total entries processed: 8163
 - **File**: `jabba-team-jabba.yml`
 - **URL**: https://github.com/Jabba-Team/jabba/releases/download/0.15.0/jabba-0.15.0-windows-amd64.exe
 
+#### jabra-direct
+
+- **Source**: winget
+- **Name**: jabra-direct
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `jabra-direct.yml`
+- **URL**: https://jabraxpressonlineprdstor.blob.core.windows.net/jdo/JabraDirectSetup.exe
+
 #### jabref-jabref
 
 - **Source**: winget
@@ -33789,7 +33798,7 @@ Total entries processed: 8163
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kay-ou-simtradedesk.yml`
-- **URL**: https://github.com/kay-ou/SimTradeDesk/releases/download/v0.7.3/SimTradeDesk-Setup-0.7.3.exe
+- **URL**: https://github.com/kay-ou/SimTradeDesk/releases/download/v0.7.4/SimTradeDesk-Setup-0.7.4.exe
 
 #### kayapater-kayauth
 
@@ -36795,7 +36804,7 @@ Total entries processed: 8163
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `litang-qianji.yml`
-- **URL**: https://app.qianjiapp.com/qianji_443_1481.exe
+- **URL**: https://app.qianjiapp.com/qianji_448_1508.exe
 
 #### litecoin-core
 
@@ -40746,7 +40755,7 @@ Total entries processed: 8163
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-powerbireportserver.yml`
-- **URL**: https://download.microsoft.com/download/2/7/3/2739a88a-4769-4700-8748-1a01ddf60974/PowerBIReportServer.exe
+- **URL**: https://download.microsoft.com/download/3/7/5/3754bf6e-e422-46ec-b9f8-fb3dc3993cab/PowerBIReportServer.exe
 
 #### microsoft-powershell-preview
 
@@ -49712,6 +49721,15 @@ Total entries processed: 8163
 - **File**: `ocbase-occt-personal.yml`
 - **URL**: https://dl.ocbase.com/per/stable/OCCT.exe
 
+#### ocenaudio-ocenaudio
+
+- **Source**: winget
+- **Name**: ocenaudio-ocenaudio
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `ocenaudio-ocenaudio.yml`
+- **URL**: https://www.ocenaudio.com/downloads/index.php/ocenaudio_windows64.exe
+
 #### oclc-contentdmprojectclient
 
 - **Source**: winget
@@ -50268,7 +50286,7 @@ Total entries processed: 8163
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `onfstudios-orenofusen.yml`
-- **URL**: https://github.com/ore-no-fusen/ore-no-fusen/releases/download/v3.5.1/ore-no-fusen_3.5.1_x64-setup.exe
+- **URL**: https://github.com/ore-no-fusen/ore-no-fusen/releases/download/v3.5.2/ore-no-fusen_3.5.2_x64-setup.exe
 
 #### onionshare-onionshare-dev
 
@@ -51267,7 +51285,7 @@ Total entries processed: 8163
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `opheys-oph-cli.yml`
-- **URL**: https://github.com/BuildmodeOne/oph-cli/releases/download/v2.0.4/oph-win32-x64.exe
+- **URL**: https://github.com/BuildmodeOne/oph-cli/releases/download/v2.0.5/oph-win32-x64.exe
 
 #### opslycloud-opsly-cli
 
@@ -52437,7 +52455,7 @@ Total entries processed: 8163
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pclcommunity-pcl2-ce-beta.yml`
-- **URL**: https://github.com/PCL-Community/PCL-CE/releases/download/v2.15.0-beta.1/PCL2_CE_Beta_x64.exe
+- **URL**: https://github.com/PCL-Community/PCL-CE/releases/download/v2.15.0-beta.2/PCL2_CE_Beta_x64.exe
 
 #### pclcommunity-pcl2-ce
 
@@ -52923,7 +52941,7 @@ Total entries processed: 8163
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `picguard-picguard-pro.yml`
-- **URL**: https://github.com/picguard/picguard/releases/download/v5.5.1/picguard-pro-5.5.1-windows-x64-en-US.msi
+- **URL**: https://github.com/picguard/picguard/releases/download/v5.5.2.475/picguard-pro-5.5.2.475-windows-x64-en-US.msi
 
 #### picguard-picguard
 
@@ -59862,7 +59880,7 @@ Total entries processed: 8163
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo.yml`
-- **URL**: https://github.com/servo/servo/releases/download/v0.1.0/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo/releases/download/v0.2.0/servo-x86_64-windows-msvc.exe
 
 #### session-session
 
@@ -61752,7 +61770,7 @@ Total entries processed: 8163
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sourcegraph-amp.yml`
-- **URL**: https://static.ampcode.com/cli/0.0.1780186756-g629f87/amp-windows-x64-baseline.exe
+- **URL**: https://static.ampcode.com/cli/0.0.1780230108-g6b52f9/amp-windows-x64-baseline.exe
 
 #### southrivertechnologies-webdrive
 
@@ -64272,7 +64290,7 @@ Total entries processed: 8163
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `taozuhong-kangaroopostgresql.yml`
-- **URL**: https://github.com/dbkangaroo/kangaroo/releases/download/v9.4.1.505/Kangaroo-PostgreSQL-9.4.1.505-x86_64.exe
+- **URL**: https://github.com/dbkangaroo/kangaroo/releases/download/v9.5.1.531/Kangaroo-PostgreSQL-9.5.1.531-x86_64.exe
 
 #### taozuhong-kangarooredis
 
@@ -64299,7 +64317,7 @@ Total entries processed: 8163
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `taozuhong-kangaroosqlserver.yml`
-- **URL**: https://github.com/dbkangaroo/kangaroo/releases/download/v9.4.1.505/Kangaroo-SQLServer-9.4.1.505-x86_64.exe
+- **URL**: https://github.com/dbkangaroo/kangaroo/releases/download/v9.5.1.531/Kangaroo-SQLServer-9.5.1.531-x86_64.exe
 
 #### taraksharma-nighthawk
 
@@ -70203,7 +70221,7 @@ Total entries processed: 8163
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wendylabs-wendy.yml`
-- **URL**: https://github.com/wendylabsinc/wendy-agent/releases/download/2026.05.30-161141/wendy-cli-windows-amd64-2026.05.30-161141.msi
+- **URL**: https://github.com/wendylabsinc/wendy-agent/releases/download/2026.05.31-060504/wendy-cli-windows-amd64-2026.05.31-060504.msi
 
 #### wenming-thirdspace
 
@@ -73317,7 +73335,7 @@ Total entries processed: 8163
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ztools-ztools.yml`
-- **URL**: https://github.com/ZToolsCenter/ZTools/releases/download/v2.4.1/ZTools-2.4.1-win-x64-setup.exe
+- **URL**: https://github.com/ZToolsCenter/ZTools/releases/download/v2.5.0/ZTools-2.5.0-win-x64-setup.exe
 
 #### zugferdcommunity-qubaviewer
 
