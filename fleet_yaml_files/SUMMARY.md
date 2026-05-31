@@ -1,11 +1,11 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-05-30 18:23:14 UTC
+Generated on: 2026-05-31 07:17:40 UTC
 
 ## Summary
 
-Total entries processed: 8162
-- macOS files: 383
+Total entries processed: 8163
+- macOS files: 384
 - Windows files: 7779
 
 ## Generated Files
@@ -2441,6 +2441,15 @@ Total entries processed: 8162
 - **Version**: 
 - **File**: `powerpanel.yml`
 - **URL**: https://dl4jz3rbrsfum.cloudfront.net/software/PPP_Mac_v2.7.1.1.pkg
+
+#### powershell-preview
+
+- **Source**: homebrew/installomator
+- **Name**: powershell-preview
+- **Description**: Generated from Homebrew cask or Installomator script
+- **Version**: 
+- **File**: `powershell-preview.yml`
+- **URL**: https://github.com/PowerShell/PowerShell/releases/download/v7.7.0-preview.2/powershell-7.7.0-preview.2-osx-arm64.pkg
 
 #### presentation
 
@@ -6015,7 +6024,7 @@ Total entries processed: 8162
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `altova-authentic-integration-2026.yml`
-- **URL**: https://cdn.sw.altova.com/v2026/en/AuthenticIntegrationPackage2026_x64.exe
+- **URL**: https://cdn.sw.altova.com/v2026r2/en/AuthenticIntegrationPackage2026rel2_x64.exe
 
 #### altova-databasespy-2023-enterprise
 
@@ -12072,7 +12081,7 @@ Total entries processed: 8162
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `binjr-core-x64.yml`
-- **URL**: https://github.com/binjr/binjr/releases/download/v3.29.0/binjr-3.29.0_windows-x86_64.msi
+- **URL**: https://github.com/binjr/binjr/releases/download/v3.29.1/binjr-3.29.1_windows-x86_64.msi
 
 #### biomejs-biome
 
@@ -13944,7 +13953,7 @@ Total entries processed: 8162
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `can1357-oh-my-pi.yml`
-- **URL**: https://github.com/can1357/oh-my-pi/releases/download/v15.5.3/omp-windows-x64.exe
+- **URL**: https://github.com/can1357/oh-my-pi/releases/download/v15.7.2/omp-windows-x64.exe
 
 #### candycreamalgorithm-kanatomell
 
@@ -15798,7 +15807,7 @@ Total entries processed: 8162
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `codedogqby-readany.yml`
-- **URL**: https://github.com/codedogQBY/ReadAny/releases/download/v1.3.1/ReadAny_1.3.1_x64-setup.exe
+- **URL**: https://github.com/codedogQBY/ReadAny/releases/download/v1.3.2/ReadAny_1.3.2_x64-setup.exe
 
 #### codef0x-ffzap
 
@@ -19245,7 +19254,7 @@ Total entries processed: 8162
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dimitarradenkov-pointframe.yml`
-- **URL**: https://github.com/dimitar-radenkov/Pointframe/releases/download/v6.2.2/Pointframe-6.2.2-x64-Setup.exe
+- **URL**: https://github.com/dimitar-radenkov/Pointframe/releases/download/v6.3.1/Pointframe-6.3.1-x64-Setup.exe
 
 #### dimitarradenkov-snippingtool
 
@@ -19857,7 +19866,7 @@ Total entries processed: 8162
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dolthub-dolt.yml`
-- **URL**: https://github.com/dolthub/dolt/releases/download/v2.0.8/dolt-windows-amd64.msi
+- **URL**: https://github.com/dolthub/dolt/releases/download/v2.1.0/dolt-windows-amd64.msi
 
 #### dominikreichl-keepass
 
@@ -22629,7 +22638,7 @@ Total entries processed: 8162
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `evolveos-optimizer.yml`
-- **URL**: https://github.com/EvolveOS-Software/EvolveOS_Optimizer_V3.0/releases/download/1.1.3.313/EvolveOS_Optimizer.exe
+- **URL**: https://github.com/EvolveOS-Software/EvolveOS_Optimizer_V3.0/releases/download/1.1.4.327/EvolveOS_Optimizer.exe
 
 #### evope-evope
 
@@ -26661,7 +26670,7 @@ Total entries processed: 8162
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/p2y4iafht56jfwwejz7gkmmpbm_150.0.7866.0/150.0.7866.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/krxi2jvsfwzmlshg4ouhmcdiwq_150.0.7868.0/150.0.7868.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -33843,7 +33852,7 @@ Total entries processed: 8162
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-akregator.yml`
-- **URL**: https://cdn.kde.org/ci-builds/pim/akregator/master/windows/akregator-master-2664-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/pim/akregator/master/windows/akregator-master-2679-windows-cl-msvc2022-x86_64.exe
 
 #### kde-alkimia
 
@@ -33933,7 +33942,7 @@ Total entries processed: 8162
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-elisa.yml`
-- **URL**: https://cdn.kde.org/ci-builds/multimedia/elisa/master/windows/elisa-master-4422-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/multimedia/elisa/master/windows/elisa-master-4433-windows-cl-msvc2022-x86_64.exe
 
 #### kde-falkon
 
@@ -34239,7 +34248,7 @@ Total entries processed: 8162
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-klines.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/klines/master/windows/klines-master-842-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/klines/master/windows/klines-master-847-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kmahjongg
 
@@ -34482,7 +34491,7 @@ Total entries processed: 8162
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-minuet.yml`
-- **URL**: https://cdn.kde.org/ci-builds/education/minuet/master/windows/minuet-master-1052-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/education/minuet/master/windows/minuet-master-1055-windows-cl-msvc2022-x86_64.exe
 
 #### kde-neochat
 
@@ -37722,7 +37731,7 @@ Total entries processed: 8162
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lycohana-bilisum.yml`
-- **URL**: https://github.com/lycohana/BiliSum/releases/download/v1.16.3/BiliSum-1.16.3-win-x64-Setup.exe
+- **URL**: https://github.com/lycohana/BiliSum/releases/download/v1.18.3/BiliSum-1.18.3-win-x64-Setup.exe
 
 #### lyonbros-turtl
 
@@ -41646,7 +41655,7 @@ Total entries processed: 8162
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mikf-gallery-dl-nightly.yml`
-- **URL**: https://github.com/gdl-org/builds/releases/download/2026.05.27/gallery-dl_windows.exe
+- **URL**: https://github.com/gdl-org/builds/releases/download/2026.05.30/gallery-dl_windows.exe
 
 #### mikf-gallery-dl
 
@@ -51843,7 +51852,7 @@ Total entries processed: 8162
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `p-stsoftware-winsshterm.yml`
-- **URL**: https://github.com/WinSSHTerm/WinSSHTerm/releases/download/2.41.8/WinSSHTerm-2.41.8-x64.msi
+- **URL**: https://github.com/WinSSHTerm/WinSSHTerm/releases/download/2.41.9/WinSSHTerm-2.41.9-x64.msi
 
 #### p1nk0-gotype
 
@@ -52923,7 +52932,7 @@ Total entries processed: 8162
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `picguard-picguard.yml`
-- **URL**: https://github.com/picguard/picguard/releases/download/v5.5.1/picguard-5.5.1-windows-x64-en-US.msi
+- **URL**: https://github.com/picguard/picguard/releases/download/v5.5.2.475/picguard-5.5.2.475-windows-x64-en-US.msi
 
 #### pichit-pickit
 
@@ -56460,7 +56469,7 @@ Total entries processed: 8162
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `recol-dlssupdater.yml`
-- **URL**: https://github.com/Recol/DLSS-Updater/releases/download/V4.1.5/DLSS.Updater.4.1.5.msi
+- **URL**: https://github.com/Recol/DLSS-Updater/releases/download/V4.1.7/DLSS.Updater.4.1.7.msi
 
 #### recoupler-audiobookconverter
 
@@ -56505,7 +56514,7 @@ Total entries processed: 8162
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `redeyenetworks-logivore.yml`
-- **URL**: https://download.redeyenetworks.com/logivore/releases/0.14.1/logivore-win-x64-setup.exe
+- **URL**: https://download.redeyenetworks.com/logivore/releases/0.14.2/logivore-win-x64-setup.exe
 
 #### redeyenetworks-logivoreforveeam
 
@@ -56514,7 +56523,7 @@ Total entries processed: 8162
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `redeyenetworks-logivoreforveeam.yml`
-- **URL**: https://download.redeyenetworks.com/logivore-for-veeam/releases/0.14.1/logivore-for-veeam-win-x64-setup.exe
+- **URL**: https://download.redeyenetworks.com/logivore-for-veeam/releases/0.14.2/logivore-for-veeam-win-x64-setup.exe
 
 #### redhale-c5-ide
 
@@ -56712,7 +56721,7 @@ Total entries processed: 8162
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `remcostoeten-dora.yml`
-- **URL**: https://github.com/remcostoeten/dora/releases/download/v0.2.0/Dora_0.2.0_x64_en-US.msi
+- **URL**: https://github.com/remcostoeten/dora/releases/download/v0.26.7/Dora_0.26.7_x64_en-US.msi
 
 #### remeha-pro
 
@@ -57873,7 +57882,7 @@ Total entries processed: 8162
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rorkai-asc.yml`
-- **URL**: https://github.com/rorkai/App-Store-Connect-CLI/releases/download/1.6.1/asc_1.6.1_windows_amd64.exe
+- **URL**: https://github.com/rorkai/App-Store-Connect-CLI/releases/download/1.7.0/asc_1.7.0_windows_amd64.exe
 
 #### roryok-poe-writer
 
@@ -59844,7 +59853,7 @@ Total entries processed: 8162
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-05-29/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-05-30/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -61743,7 +61752,7 @@ Total entries processed: 8162
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sourcegraph-amp.yml`
-- **URL**: https://static.ampcode.com/cli/0.0.1780143526-gc351d5/amp-windows-x64-baseline.exe
+- **URL**: https://static.ampcode.com/cli/0.0.1780186756-g629f87/amp-windows-x64-baseline.exe
 
 #### southrivertechnologies-webdrive
 
@@ -64218,7 +64227,7 @@ Total entries processed: 8162
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `taozuhong-kangaroomariadb.yml`
-- **URL**: https://github.com/dbkangaroo/kangaroo/releases/download/v9.4.1.505/Kangaroo-MariaDB-9.4.1.505-x86_64.exe
+- **URL**: https://github.com/dbkangaroo/kangaroo/releases/download/v9.5.1.531/Kangaroo-MariaDB-9.5.1.531-x86_64.exe
 
 #### taozuhong-kangaroomongodb
 
@@ -64227,7 +64236,7 @@ Total entries processed: 8162
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `taozuhong-kangaroomongodb.yml`
-- **URL**: https://github.com/dbkangaroo/kangaroo/releases/download/v9.4.1.505/Kangaroo-MongoDB-9.4.1.505-x86_64.exe
+- **URL**: https://github.com/dbkangaroo/kangaroo/releases/download/v9.5.1.531/Kangaroo-MongoDB-9.5.1.531-x86_64.exe
 
 #### taozuhong-kangaroomultiple
 
@@ -64236,7 +64245,7 @@ Total entries processed: 8162
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `taozuhong-kangaroomultiple.yml`
-- **URL**: https://github.com/dbkangaroo/kangaroo/releases/download/v9.4.1.505/Kangaroo-Multiple-9.4.1.505-x86_64.exe
+- **URL**: https://github.com/dbkangaroo/kangaroo/releases/download/v9.5.1.531/Kangaroo-Multiple-9.5.1.531-x86_64.exe
 
 #### taozuhong-kangaroomysql
 
@@ -64245,7 +64254,7 @@ Total entries processed: 8162
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `taozuhong-kangaroomysql.yml`
-- **URL**: https://github.com/dbkangaroo/kangaroo/releases/download/v9.4.1.505/Kangaroo-MySQL-9.4.1.505-x86_64.exe
+- **URL**: https://github.com/dbkangaroo/kangaroo/releases/download/v9.5.1.531/Kangaroo-MySQL-9.5.1.531-x86_64.exe
 
 #### taozuhong-kangaroooracle
 
@@ -64254,7 +64263,7 @@ Total entries processed: 8162
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `taozuhong-kangaroooracle.yml`
-- **URL**: https://github.com/dbkangaroo/kangaroo/releases/download/v9.4.1.505/Kangaroo-Oracle-9.4.1.505-x86_64.exe
+- **URL**: https://github.com/dbkangaroo/kangaroo/releases/download/v9.5.1.531/Kangaroo-Oracle-9.5.1.531-x86_64.exe
 
 #### taozuhong-kangaroopostgresql
 
@@ -64272,7 +64281,7 @@ Total entries processed: 8162
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `taozuhong-kangarooredis.yml`
-- **URL**: https://github.com/dbkangaroo/kangaroo/releases/download/v9.4.1.505/Kangaroo-Redis-9.4.1.505-x86_64.exe
+- **URL**: https://github.com/dbkangaroo/kangaroo/releases/download/v9.5.1.531/Kangaroo-Redis-9.5.1.531-x86_64.exe
 
 #### taozuhong-kangaroosqlite
 
