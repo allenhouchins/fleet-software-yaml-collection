@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-06-01 07:42:41 UTC
+Generated on: 2026-06-01 19:38:05 UTC
 
 ## Summary
 
-Total entries processed: 8165
+Total entries processed: 8170
 - macOS files: 384
-- Windows files: 7781
+- Windows files: 7786
 
 ## Generated Files
 
@@ -1999,7 +1999,7 @@ Total entries processed: 8165
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `mullvad-vpn-beta.yml`
-- **URL**: https://cdn.mullvad.net/app/desktop/releases/2026.3-beta1/MullvadVPN-2026.3-beta1.pkg
+- **URL**: https://cdn.mullvad.net/app/desktop/releases/2026.3-beta2/MullvadVPN-2026.3-beta2.pkg
 
 #### mullvad-vpn
 
@@ -2053,7 +2053,7 @@ Total entries processed: 8165
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `netbeans.yml`
-- **URL**: https://github.com/Friends-of-Apache-NetBeans/netbeans-installers/releases/download/v29-build1/Apache-NetBeans-29-arm64.pkg
+- **URL**: https://github.com/Friends-of-Apache-NetBeans/netbeans-installers/releases/download/nb30-zulu25/Apache-NetBeans-30-zulu-25-arm64.pkg
 
 #### nexonplug
 
@@ -3504,7 +3504,7 @@ Total entries processed: 8165
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `0x4d44-mdmdview.yml`
-- **URL**: https://github.com/0x4D44/mdmdview/releases/download/v1.14.2/mdmdview-v1.14.2-windows-x86_64.msi
+- **URL**: https://github.com/0x4D44/mdmdview/releases/download/v1.16.0/mdmdview-v1.16.0-windows-x86_64.msi
 
 #### 0xgingi-browser
 
@@ -8789,6 +8789,15 @@ Total entries processed: 8165
 - **File**: `atagon-com-kogiqa.yml`
 - **URL**: https://updater.kogiqa.com/release/kogi-qa-0.5.1064-setup.exe
 
+#### atani-mysh
+
+- **Source**: winget
+- **Name**: atani-mysh
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `atani-mysh.yml`
+- **URL**: https://github.com/atani/mysh/releases/download/v0.9.1/mysh-windows-x64.msi
+
 #### athlabs-spyglass
 
 - **Source**: winget
@@ -12513,7 +12522,7 @@ Total entries processed: 8165
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bloomberg-bloombergterminal.yml`
-- **URL**: https://bdn-ak-ssl.bloomberg.com/software/trv/sotr194_2_81.exe
+- **URL**: https://bdn-ak-ssl.bloomberg.com/software/trv/sotr195_4_81.exe
 
 #### bloznelis-typioca
 
@@ -15457,6 +15466,15 @@ Total entries processed: 8165
 - **Version**: 
 - **File**: `cliptoteam-clipto.yml`
 - **URL**: https://github.com/clipto-pro/Desktop/releases/download/v7.2.6/clipto-7.2.6.exe
+
+#### clleb-gear
+
+- **Source**: winget
+- **Name**: clleb-gear
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `clleb-gear.yml`
+- **URL**: https://github.com/cLLeB/gear/releases/download/v0.1.1/Gear_0.1.1_x64_en-US.msi
 
 #### clockassist-clockassist
 
@@ -30695,6 +30713,15 @@ Total entries processed: 8165
 - **File**: `invo-invoconnect.yml`
 - **URL**: https://invo.blob.core.windows.net/clienttools/InvoConnect/InvoConnect.msi
 
+#### invokeai-inc-invokecommunityedition
+
+- **Source**: winget
+- **Name**: invokeai-inc-invokecommunityedition
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `invokeai-inc-invokecommunityedition.yml`
+- **URL**: https://github.com/invoke-ai/launcher/releases/latest/download/Invoke.Community.Edition.Setup.latest.exe
+
 #### iobit-uninstaller
 
 - **Source**: winget
@@ -33404,6 +33431,15 @@ Total entries processed: 8165
 - **File**: `junctionnetworks-onsip.yml`
 - **URL**: https://www.onsip.com/hubfs/ONSIP3343WINDOWS.exe
 
+#### junjieqin-picviewer
+
+- **Source**: winget
+- **Name**: junjieqin-picviewer
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `junjieqin-picviewer.yml`
+- **URL**: https://github.com/junjieqin97/PicViewer/releases/download/v0.2.0/PicViewer-0.2.0.msi
+
 #### junkundi-crossdesk
 
 - **Source**: winget
@@ -33708,7 +33744,7 @@ Total entries processed: 8165
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `karingx-clashmi.yml`
-- **URL**: https://github.com/KaringX/clashmi/releases/download/v1.0.23.904/clashmi_1.0.23.904_windows_x64.exe
+- **URL**: https://github.com/KaringX/clashmi/releases/download/v1.0.24.1006/clashmi_1.0.24.1006_windows_x64.exe
 
 #### karingx-karing
 
@@ -33717,7 +33753,7 @@ Total entries processed: 8165
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `karingx-karing.yml`
-- **URL**: https://github.com/KaringX/karing/releases/download/v1.2.18.2102/karing_1.2.18.2102_windows_x64.exe
+- **URL**: https://github.com/KaringX/karing/releases/download/v1.2.19.2209/karing_1.2.19.2209_windows_x64.exe
 
 #### karlstav-cava
 
@@ -65127,7 +65163,7 @@ Total entries processed: 8165
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-wechat-universal.yml`
-- **URL**: https://dldir1v6.qq.com/weixin/Universal/Windows/WeChatWin_4.1.8.exe
+- **URL**: https://dldir1v6.qq.com/weixin/Universal/Windows/WeChatWin_4.1.9.exe
 
 #### tencent-wechat
 
@@ -68467,6 +68503,15 @@ Total entries processed: 8165
 - **Version**: 
 - **File**: `vapoursynth-vapoursynth.yml`
 - **URL**: https://github.com/vapoursynth/vapoursynth/releases/download/R76/VapourSynth-x64-R76.exe
+
+#### var-gg-gitwink
+
+- **Source**: winget
+- **Name**: var-gg-gitwink
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `var-gg-gitwink.yml`
+- **URL**: https://github.com/var-gg/gitwink/releases/download/v0.4.0/gitwink_0.4.0_x64-setup.exe
 
 #### variar-klogg
 
