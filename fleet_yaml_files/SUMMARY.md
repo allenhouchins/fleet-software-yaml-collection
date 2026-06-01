@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-05-31 18:24:18 UTC
+Generated on: 2026-06-01 07:42:41 UTC
 
 ## Summary
 
@@ -1207,7 +1207,7 @@ Total entries processed: 8165
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `finch.yml`
-- **URL**: https://github.com/runfinch/finch/releases/download/v1.17.0/Finch-v1.17.0-aarch64.pkg
+- **URL**: https://github.com/runfinch/finch/releases/download/v1.17.1/Finch-v1.17.1-aarch64.pkg
 
 #### flox
 
@@ -13422,7 +13422,7 @@ Total entries processed: 8165
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bullzip-pdfprinter.yml`
-- **URL**: https://cdn.bullzip.com/download/pdf/Setup_BullzipPDFPrinter_2026_0_0_2993.exe
+- **URL**: https://www.bullzip.com/download/pdf/Setup_BullzipPDFPrinter_2026_0_0_2993.exe
 
 #### burnaware-burnawarepremium
 
@@ -34509,7 +34509,7 @@ Total entries processed: 8165
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-neochat.yml`
-- **URL**: https://cdn.kde.org/ci-builds/network/neochat/release-26.04/windows/neochat-release_26.04-15973-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/network/neochat/release-26.04/windows/neochat-release_26.04-15992-windows-cl-msvc2022-x86_64.exe
 
 #### kde-okular
 
@@ -51600,7 +51600,7 @@ Total entries processed: 8165
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `osgeo-geoserver.yml`
-- **URL**: https://sourceforge.net/projects/geoserver/files/GeoServer/2.28.2/GeoServer-2.28.2-winsetup.exe/download
+- **URL**: https://sourceforge.net/projects/geoserver/files/GeoServer/2.28.4/GeoServer-2.28.4-winsetup.exe/download
 
 #### osgeo-qgis-ltr
 
@@ -61770,7 +61770,7 @@ Total entries processed: 8165
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sourcegraph-amp.yml`
-- **URL**: https://static.ampcode.com/cli/0.0.1780230108-g6b52f9/amp-windows-x64-baseline.exe
+- **URL**: https://static.ampcode.com/cli/0.0.1780244579-g6b52f9/amp-windows-x64-baseline.exe
 
 #### southrivertechnologies-webdrive
 
@@ -61860,7 +61860,7 @@ Total entries processed: 8165
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sparrowwallet-sparrow.yml`
-- **URL**: https://github.com/sparrowwallet/sparrow/releases/download/2.5.1/Sparrow-2.5.1.msi
+- **URL**: https://github.com/sparrowwallet/sparrow/releases/download/2.5.2/Sparrow-2.5.2.msi
 
 #### spatie-ray
 
@@ -64308,7 +64308,7 @@ Total entries processed: 8165
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `taozuhong-kangaroosqlite.yml`
-- **URL**: https://github.com/dbkangaroo/kangaroo/releases/download/v9.4.1.505/Kangaroo-SQLite-9.4.1.505-x86_64.exe
+- **URL**: https://github.com/dbkangaroo/kangaroo/releases/download/v9.5.1.531/Kangaroo-SQLite-9.5.1.531-x86_64.exe
 
 #### taozuhong-kangaroosqlserver
 
