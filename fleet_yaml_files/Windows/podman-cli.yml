@@ -1,4 +1,4 @@
-url: https://github.com/containers/podman/releases/download/v5.8.2/podman-installer-windows-amd64.msi
+url: https://github.com/podman-container-tools/podman/releases/download/v5.8.2/podman-installer-windows-amd64.msi
 automatic_install: false
 self_service: false
 categories: []
