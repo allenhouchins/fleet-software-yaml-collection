@@ -1,4 +1,4 @@
-url: https://s3.amazonaws.com/ec2-downloads-windows/SSMAgent/3.3.4515.0/windows_amd64/AmazonSSMAgentSetup.exe
+url: https://github.com/cuong21951/cron/releases/download/v0.2.0/cron-0.2.0-x86_64-pc-windows-msvc.exe
 automatic_install: false
 self_service: false
 categories: []

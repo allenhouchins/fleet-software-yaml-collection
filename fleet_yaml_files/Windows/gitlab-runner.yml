@@ -1,4 +1,4 @@
-url: https://gitlab-runner-downloads.s3.amazonaws.com/v18.9.0/binaries/gitlab-runner-windows-amd64.exe
+url: https://s3.dualstack.us-east-1.amazonaws.com/gitlab-runner-downloads/v19.0.1/binaries/gitlab-runner-windows-amd64.exe
 automatic_install: false
 self_service: false
 categories: []

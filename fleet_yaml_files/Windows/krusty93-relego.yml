@@ -1,4 +1,4 @@
-url: https://s3.amazonaws.com/ec2-downloads-windows/SSMAgent/3.3.4515.0/windows_amd64/AmazonSSMAgentSetup.exe
+url: https://github.com/Krusty93/relego/releases/download/cli/v0.11.10/relego-0.11.10-win-x64.exe
 automatic_install: false
 self_service: false
 categories: []
