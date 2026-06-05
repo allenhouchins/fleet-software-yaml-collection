@@ -1,4 +1,4 @@
-url: https://dl.defined.net/e2600f2e/v0.9.3/windows/amd64/DNClient-Desktop.msi
+url: https://dl.defined.net/stable/binaries/dnclient/v0.9.5/windows/amd64/DNClient-Desktop.msi
 automatic_install: false
 self_service: false
 categories: []
