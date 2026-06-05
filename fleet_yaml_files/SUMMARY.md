@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-06-05 07:27:54 UTC
+Generated on: 2026-06-05 18:39:02 UTC
 
 ## Summary
 
-Total entries processed: 8233
+Total entries processed: 8234
 - macOS files: 386
-- Windows files: 7847
+- Windows files: 7848
 
 ## Generated Files
 
@@ -3178,7 +3178,7 @@ Total entries processed: 8233
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `unifi-identity-endpoint.yml`
-- **URL**: https://fw-download.ubnt.com/data/uid-identity-standard-desktop-app/b6a8-macOS-4.0.2-0fcaaa25-879c-4b31-b5c2-f4ba3bfd84db.pkg
+- **URL**: https://fw-download.ubnt.com/data/uid-identity-standard-desktop-app/8f79-macOS-4.0.3-1895971c-f843-4d21-b7fb-e08dd3be3ffc.pkg
 
 #### unifi-identity-enterprise
 
@@ -5907,7 +5907,7 @@ Total entries processed: 8233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aloxbook-aloxbook.yml`
-- **URL**: https://aloxbook.com/downloads/windows/AloxBook-1.5.0-Setup.exe
+- **URL**: https://aloxbook.com/downloads/windows/AloxBook-1.6.0-Setup.exe
 
 #### alperhan-crossmacro
 
@@ -5943,7 +5943,7 @@ Total entries processed: 8233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `altair-graphql-altair.yml`
-- **URL**: https://github.com/altair-graphql/altair/releases/download/v8.5.3/altair_8.5.3_x64_win.exe
+- **URL**: https://github.com/altair-graphql/altair/releases/download/v8.5.4/altair_8.5.4_x64_win.exe
 
 #### altamashkhan-sysreconpro
 
@@ -16365,7 +16365,7 @@ Total entries processed: 8233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `comfy-comfyui-desktop.yml`
-- **URL**: https://download.todesktop.com/241012ess7yxs0e/ComfyUI%20Setup%200.9.4%20-%20Build%20260528kd5rbl6yc-x64.exe
+- **URL**: https://download.todesktop.com/241130tqe9q3y/Comfy%20Desktop%20Setup%201.0.8%20-%20Build%20260605q62oisylu-x64.exe
 
 #### comiccatcher-comiccatcher
 
@@ -19092,7 +19092,7 @@ Total entries processed: 8233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `devproxy-devproxy.yml`
-- **URL**: https://github.com/dotnet/dev-proxy/releases/download/v3.0.0/dev-proxy-installer-win-x64-v3.0.0.exe
+- **URL**: https://github.com/dotnet/dev-proxy/releases/download/v3.0.1/dev-proxy-installer-win-x64-v3.0.1.exe
 
 #### devtoys-app-devtoys
 
@@ -19506,7 +19506,7 @@ Total entries processed: 8233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dinamonetworks-hsmdinamo.yml`
-- **URL**: https://downloads.dinamonetworks.io/bin/client/windows/x64/4.25.0/dinamo-4.25.0-x64-setup-en_us.msi
+- **URL**: https://downloads.dinamonetworks.io/bin/client/windows/x64/4.26.0/dinamo-4.26.0-x64-setup-en_us.msi
 
 #### dio-purecodec
 
@@ -23556,7 +23556,7 @@ Total entries processed: 8233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `figma-figma.yml`
-- **URL**: https://desktop.figma.com/win/build/Figma-126.5.5.exe
+- **URL**: https://desktop.figma.com/win/build/Figma-126.5.6.exe
 
 #### filecloud-fileclouddrive
 
@@ -27579,7 +27579,7 @@ Total entries processed: 8233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gravitational-teleportconnect.yml`
-- **URL**: https://cdn.teleport.dev/Teleport%20Connect%20Setup-18.8.2.exe
+- **URL**: https://cdn.teleport.dev/Teleport%20Connect%20Setup-18.8.3.exe
 
 #### grayloginc-graylogsidecar
 
@@ -29253,7 +29253,7 @@ Total entries processed: 8233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hrzlgnm-mdns-browser.yml`
-- **URL**: https://github.com/hrzlgnm/mdns-browser/releases/download/mdns-browser-v1.9.8/mdns-browser_1.9.8_x64-setup.exe
+- **URL**: https://github.com/hrzlgnm/mdns-browser/releases/download/mdns-browser-v1.9.9/mdns-browser_1.9.9_x64-setup.exe
 
 #### htacg-tidy
 
@@ -30243,7 +30243,7 @@ Total entries processed: 8233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `imagemagick-imagemagick-q16.yml`
-- **URL**: https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-24/ImageMagick-7.1.2-24-Q16-x64-dll.exe
+- **URL**: https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-25/ImageMagick-7.1.2-25-Q16-x64-dll.exe
 
 #### imagemagick-imagemagick-q8
 
@@ -30261,7 +30261,7 @@ Total entries processed: 8233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `imagemagick-imagemagick.yml`
-- **URL**: https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-24/ImageMagick-7.1.2-24-Q16-HDRI-x64-dll.exe
+- **URL**: https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-25/ImageMagick-7.1.2-25-Q16-HDRI-x64-dll.exe
 
 #### imageoptim-gifski
 
@@ -31359,7 +31359,7 @@ Total entries processed: 8233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `itsnateai-mwbtoggle.yml`
-- **URL**: https://github.com/itsnateai/MousewithoutBordersToggle/releases/download/v2.5.23/MWBToggle.exe
+- **URL**: https://github.com/itsnateai/MousewithoutBordersToggle/releases/download/v2.5.24/MWBToggle.exe
 
 #### itsnateai-syncthingpause
 
@@ -31368,7 +31368,7 @@ Total entries processed: 8233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `itsnateai-syncthingpause.yml`
-- **URL**: https://github.com/itsnateai/syncthingpause/releases/download/v3.2.14/SyncthingPause.exe
+- **URL**: https://github.com/itsnateai/syncthingpause/releases/download/v3.2.17/SyncthingPause.exe
 
 #### itsnateai-syncthingtray
 
@@ -37857,7 +37857,7 @@ Total entries processed: 8233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lucasdeeiroz-robotrunner.yml`
-- **URL**: https://github.com/lucasdeeiroz/robot_runner/releases/download/v2.3.0-beta6/Robot.Runner_2.3.0-beta6_windows_x64-setup.exe
+- **URL**: https://github.com/lucasdeeiroz/robot_runner/releases/download/v2.3.0-stable/Robot.Runner_2.3.0-stable_windows_x64-setup.exe
 
 #### lucasreade-ohhaibrowser
 
@@ -42555,7 +42555,7 @@ Total entries processed: 8233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mockzilla-mockzilla.yml`
-- **URL**: https://github.com/mockzilla/mockzilla/releases/download/v2.7.2/mockzilla-v2.7.2-windows-amd64.exe
+- **URL**: https://github.com/mockzilla/mockzilla/releases/download/v2.7.3/mockzilla-v2.7.3-windows-amd64.exe
 
 #### modeliosoft-modelio
 
@@ -48369,7 +48369,7 @@ Total entries processed: 8233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `netsarangcomputer-portx.yml`
-- **URL**: https://cdn.netsarang.net/0ac7ea20/PortX-2.2.9-Setup.exe
+- **URL**: https://cdn.netsarang.net/0ac7ea20/PortX-2.3.0-Setup.exe
 
 #### netsdk-s3browser
 
@@ -48387,7 +48387,7 @@ Total entries processed: 8233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `netsentinel-netsentinel.yml`
-- **URL**: https://github.com/ossianericson/netsentinel/releases/download/v1.9.76/NetSentinel-Setup-1.9.76.exe
+- **URL**: https://github.com/ossianericson/netsentinel/releases/download/v1.9.87/NetSentinel-Setup-1.9.87.exe
 
 #### nettracex-tui
 
@@ -51087,7 +51087,7 @@ Total entries processed: 8233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `opendumpviewer-opendumpviewer.yml`
-- **URL**: https://github.com/Open-DUMP-Viewer/Open-DUMP-Viewer/releases/download/v4.1.2/OpenDumpViewer_v4.1.2_installer_x64.exe
+- **URL**: https://github.com/Open-DUMP-Viewer/Open-DUMP-Viewer/releases/download/v4.1.3/OpenDumpViewer_v4.1.3_installer_x64.exe
 
 #### opengoal-launcher
 
@@ -55875,7 +55875,7 @@ Total entries processed: 8233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `qgis-qfield.yml`
-- **URL**: https://github.com/opengisch/QField/releases/download/v4.1.9/qfield-v4.1.9-windows-x64.exe
+- **URL**: https://github.com/opengisch/QField/releases/download/v4.2.1/qfield-v4.2.1-windows-x64.exe
 
 #### qiagen-clcgenomicsworkbench
 
@@ -56919,7 +56919,7 @@ Total entries processed: 8233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `reblexis-lookpilot.yml`
-- **URL**: https://github.com/Reblexis/lookpilot-downloads/releases/download/v1.8.4/LookPilot-Setup-1.8.4.exe
+- **URL**: https://github.com/Reblexis/lookpilot-downloads/releases/download/v1.9.17/LookPilot-Setup-1.9.17.exe
 
 #### receitafederaldobrasil-escritura--odigitalecf
 
@@ -62337,7 +62337,7 @@ Total entries processed: 8233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sourcegraph-amp.yml`
-- **URL**: https://static.ampcode.com/cli/0.0.1780619537-gd3ac9a/amp-windows-x64-baseline.exe
+- **URL**: https://static.ampcode.com/cli/0.0.1780656948-g0a52b8/amp-windows-x64-baseline.exe
 
 #### southrivertechnologies-webdrive
 
@@ -63984,7 +63984,7 @@ Total entries processed: 8233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `surrealdb-surrealdb.yml`
-- **URL**: https://github.com/surrealdb/surrealdb/releases/download/v3.0.5/surreal-v3.0.5.windows-amd64.exe
+- **URL**: https://github.com/surrealdb/surrealdb/releases/download/v3.1.3/surreal-v3.1.3.windows-amd64.exe
 
 #### suse-rancherdesktop
 
@@ -65748,7 +65748,7 @@ Total entries processed: 8233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-workbuddy.yml`
-- **URL**: https://download.codebuddy.cn/workbuddy/saas/win32-x64-user/WorkBuddy-win32-x64-user-4.24.8.29724905-8d20aed6.exe
+- **URL**: https://download.codebuddy.cn/workbuddy/saas/win32-x64-user/WorkBuddy-win32-x64-user-5.0.2.29916712-0ce39ce2.exe
 
 #### tencent-yuanbao
 
@@ -68313,7 +68313,7 @@ Total entries processed: 8233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ubiquiti-identitydesktop-endpoint.yml`
-- **URL**: https://fw-download.ubnt.com/data/uid-identity-standard-desktop-app-msi/048a-windows-3.7.1-297329d2-3f02-4ee2-a569-37b9b7e29e19.msi
+- **URL**: https://fw-download.ubnt.com/data/uid-identity-standard-desktop-app-msi/990c-windows-3.7.2-85cbca73-92bb-471a-ba59-fc5c3729868c.msi
 
 #### ubiquiti-identitydesktop-enterprise
 
@@ -69456,7 +69456,7 @@ Total entries processed: 8233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0593/gvim_9.2.0593_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0597/gvim_9.2.0597_x64.exe
 
 #### vim-vim
 
@@ -70933,6 +70933,15 @@ Total entries processed: 8233
 - **Version**: 
 - **File**: `wherewhere-wsatools.yml`
 - **URL**: https://github.com/Paving-Base/WSA-Tools/releases/download/v0.0.1/WSATools.Installer_0.0.1.0_x64.msi
+
+#### whirlwindfx-signalrgb
+
+- **Source**: winget
+- **Name**: whirlwindfx-signalrgb
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `whirlwindfx-signalrgb.yml`
+- **URL**: https://release.signalrgb.com/Install_SignalRgb.exe
 
 #### whiteknight-mdq
 
@@ -72417,7 +72426,7 @@ Total entries processed: 8233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xiaocang-easydictforwindows.yml`
-- **URL**: https://github.com/xiaocang/easydict_win32/releases/download/v0.8.1/Easydict-v0.8.1-x64-setup.unsigned.exe
+- **URL**: https://github.com/xiaocang/easydict_win32/releases/download/v0.8.2/Easydict-v0.8.2-x64-setup.unsigned.exe
 
 #### xiaolan-codexaccountswitch
 
@@ -73731,7 +73740,7 @@ Total entries processed: 8233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zhukunpenglinyutong-ccgui.yml`
-- **URL**: https://github.com/zhukunpenglinyutong/desktop-cc-gui/releases/download/v0.5.5/ccgui_0.5.5_x64-setup.exe
+- **URL**: https://github.com/zhukunpenglinyutong/desktop-cc-gui/releases/download/v0.5.6/ccgui_0.5.6_x64-setup.exe
 
 #### ziad-tcg
 
@@ -73875,7 +73884,7 @@ Total entries processed: 8233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zoom-zoom-vdi.yml`
-- **URL**: https://zoom.us/download/vdi/6.6.14.26970/ZoomInstallerVDI.msi?archType=x64
+- **URL**: https://zoom.us/download/vdi/7.0.10.26980/ZoomInstallerVDI.msi?archType=x64
 
 #### zoom-zoom
 
@@ -73947,7 +73956,7 @@ Total entries processed: 8233
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ztools-ztools.yml`
-- **URL**: https://github.com/ZToolsCenter/ZTools/releases/download/v2.5.0/ZTools-2.5.0-win-x64-setup.exe
+- **URL**: https://github.com/ZToolsCenter/ZTools/releases/download/v2.6.1/ZTools-2.6.1-win-x64-setup.exe
 
 #### zugferdcommunity-qubaviewer
 
