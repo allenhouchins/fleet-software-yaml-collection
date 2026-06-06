@@ -1,4 +1,4 @@
-url: https://github.com/arduino/arduino-cli/releases/download/v1.5.0/arduino-cli_1.5.0_Windows_64bit.msi
+url: https://github.com/arduino/arduino-cli/releases/download/v1.5.1/arduino-cli_1.5.1_Windows_64bit.msi
 automatic_install: false
 self_service: false
 categories: []
