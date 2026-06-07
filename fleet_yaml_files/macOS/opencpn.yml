@@ -1,10 +1,7 @@
-url: https://github.com/mikefarah/yq/releases/download/v4.53.3/yq_windows_amd64.exe
+url: https://github.com/OpenCPN/OpenCPN/releases/download/Release_5.14.0/OpenCPN_5.14.0-universal+17193.91f3b6743-14.pkg
 automatic_install: false
 self_service: false
 categories: []
-install_script: '# TODO: Add install script for this EXE'
-uninstall_script: '# TODO: Add uninstall script for this EXE'
 
 # Categories are currently limited to Browsers, Communication, Developer tools, and Productivity.
 # This is a minimum version of this file. All configurable parameters can be seen at https://fleetdm.com/docs/rest-api/rest-api#parameters139
-# Note: Any exe requires an install script and uninstall script to be defined

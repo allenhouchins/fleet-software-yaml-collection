@@ -1,11 +1,11 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-06-07 07:22:56 UTC
+Generated on: 2026-06-07 18:27:02 UTC
 
 ## Summary
 
-Total entries processed: 8236
-- macOS files: 388
+Total entries processed: 8238
+- macOS files: 390
 - Windows files: 7848
 
 ## Generated Files
@@ -1893,6 +1893,15 @@ Total entries processed: 8236
 - **File**: `microsoft-powerpoint.yml`
 - **URL**: https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.109.26053122_Installer.pkg
 
+#### microsoft-remote-help
+
+- **Source**: homebrew/installomator
+- **Name**: microsoft-remote-help
+- **Description**: Generated from Homebrew cask or Installomator script
+- **Version**: 
+- **File**: `microsoft-remote-help.yml`
+- **URL**: https://res.public.onecdn.static.microsoft/mro1cdnstorage/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/Microsoft_Remote_Help_1.0.2601221_installer.pkg
+
 #### microsoft-teams
 
 - **Source**: homebrew/installomator
@@ -2270,6 +2279,15 @@ Total entries processed: 8236
 - **Version**: 
 - **File**: `opencore-patcher.yml`
 - **URL**: https://github.com/dortania/OpenCore-Legacy-Patcher/releases/download/2.4.1/OpenCore-Patcher.pkg
+
+#### opencpn
+
+- **Source**: homebrew/installomator
+- **Name**: opencpn
+- **Description**: Generated from Homebrew cask or Installomator script
+- **Version**: 
+- **File**: `opencpn.yml`
+- **URL**: https://github.com/OpenCPN/OpenCPN/releases/download/Release_5.14.0/OpenCPN_5.14.0-universal+17193.91f3b6743-14.pkg
 
 #### opensong
 
@@ -7617,7 +7635,7 @@ Total entries processed: 8236
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aninsomniacy-motrixnext.yml`
-- **URL**: https://github.com/AnInsomniacy/motrix-next/releases/download/v3.9.3/MotrixNext_3.9.3_x64-setup.exe
+- **URL**: https://github.com/AnInsomniacy/motrix-next/releases/download/v3.9.4/MotrixNext_3.9.4_x64-setup.exe
 
 #### anjok07-ultimatevocalremover
 
@@ -9534,7 +9552,7 @@ Total entries processed: 8236
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `axpnet-aeroftp.yml`
-- **URL**: https://github.com/axpdev-lab/aeroftp/releases/download/v4.0.3/AeroFTP_4.0.3_x64-setup.exe
+- **URL**: https://github.com/axpdev-lab/aeroftp/releases/download/v4.0.4/AeroFTP_4.0.4_x64-setup.exe
 
 #### axure-axurerp-10
 
@@ -17553,7 +17571,7 @@ Total entries processed: 8236
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cst8t-gitmun.yml`
-- **URL**: https://github.com/cst8t/gitmun/releases/download/v0.6.4/Gitmun_0.6.4_x64-setup.exe
+- **URL**: https://github.com/cst8t/gitmun/releases/download/v0.7.0/Gitmun_0.7.0_x64-setup.exe
 
 #### cteros-eno-m
 
@@ -18903,7 +18921,7 @@ Total entries processed: 8236
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `detachhead-rebased.yml`
-- **URL**: https://github.com/DetachHead/rebased/releases/download/1.1.2/rebased.exe
+- **URL**: https://github.com/DetachHead/rebased/releases/download/1.1.3/rebased.exe
 
 #### determinedai-cli
 
@@ -21405,7 +21423,7 @@ Total entries processed: 8236
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `edde746-plezy.yml`
-- **URL**: https://github.com/edde746/plezy/releases/download/2.4.0/plezy-windows-installer.exe
+- **URL**: https://github.com/edde746/plezy/releases/download/2.5.0/plezy-windows-installer.exe
 
 #### edenian-prince-rust-secrets
 
@@ -25986,7 +26004,7 @@ Total entries processed: 8236
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gg-ai-ggcode-desktop.yml`
-- **URL**: https://github.com/topcheer/ggcode/releases/download/v1.3.60/ggcode-desktop_1.3.60_windows_x64.msi
+- **URL**: https://github.com/topcheer/ggcode/releases/download/v1.3.62/ggcode-desktop_1.3.62_windows_x64.msi
 
 #### ghisler-totalcommander
 
@@ -28992,7 +29010,7 @@ Total entries processed: 8236
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hitalin-notedeck.yml`
-- **URL**: https://github.com/hitalin/notedeck/releases/download/v1.0.3/NoteDeck-1.0.3-windows-x64-setup.exe
+- **URL**: https://github.com/hitalin/notedeck/releases/download/v1.0.4/NoteDeck-1.0.4-windows-x64-setup.exe
 
 #### hitevision-hitepai6
 
@@ -32448,7 +32466,7 @@ Total entries processed: 8236
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jerrywu001-cc-sessions-viewer.yml`
-- **URL**: https://github.com/jerrywu001/cc-sessions-viewer/releases/download/v0.1.4/cc-sessions-viewer_0.1.4_x64-setup.exe
+- **URL**: https://github.com/jerrywu001/cc-sessions-viewer/releases/download/v0.1.5/cc-sessions-viewer_0.1.5_x64-setup.exe
 
 #### jeskola-buzz
 
@@ -34131,7 +34149,7 @@ Total entries processed: 8236
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kawayiyokami-p-ai.yml`
-- **URL**: https://github.com/kawayiYokami/P-ai/releases/download/v0.11.0/P-ai_0.11.0_x64-setup.exe
+- **URL**: https://github.com/kawayiYokami/P-ai/releases/download/v0.11.2/P-ai_0.11.2_x64-setup.exe
 
 #### kay-ou-simtradedesk
 
@@ -34851,7 +34869,7 @@ Total entries processed: 8236
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-minuet.yml`
-- **URL**: https://cdn.kde.org/ci-builds/education/minuet/master/windows/minuet-master-1094-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/education/minuet/master/windows/minuet-master-1098-windows-cl-msvc2022-x86_64.exe
 
 #### kde-neochat
 
@@ -38325,7 +38343,7 @@ Total entries processed: 8236
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `magic-wormhole-magic-wormhole.yml`
-- **URL**: https://github.com/aquacash5/magic-wormhole-exe/releases/download/0.22.0.1/wormhole.exe
+- **URL**: https://github.com/aquacash5/magic-wormhole-exe/releases/download/0.24.0/wormhole.exe
 
 #### magicsplat-tcltk
 
@@ -42069,7 +42087,7 @@ Total entries processed: 8236
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mikefarah-yq.yml`
-- **URL**: https://github.com/mikefarah/yq/releases/download/v4.53.2/yq_windows_amd64.exe
+- **URL**: https://github.com/mikefarah/yq/releases/download/v4.53.3/yq_windows_amd64.exe
 
 #### mikf-gallery-dl-nightly
 
@@ -51492,7 +51510,7 @@ Total entries processed: 8236
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `openrct2-openrct2.yml`
-- **URL**: https://github.com/OpenRCT2/OpenRCT2/releases/download/v0.5.1/OpenRCT2-v0.5.1-windows-installer-x64.exe
+- **URL**: https://github.com/OpenRCT2/OpenRCT2/releases/download/v0.5.2/OpenRCT2-v0.5.2-windows-installer-x64.exe
 
 #### openrefine-openrefine
 
@@ -54912,7 +54930,7 @@ Total entries processed: 8236
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `primebuild-threadpilot.yml`
-- **URL**: https://github.com/PrimeBuild-pc/ThreadPilot/releases/download/v1.3.1/ThreadPilot_v1.3.1_Setup.exe
+- **URL**: https://github.com/PrimeBuild-pc/ThreadPilot/releases/download/v1.4.0/ThreadPilot_v1.4.0_Setup.exe
 
 #### primecount-primecount
 
@@ -61131,7 +61149,7 @@ Total entries processed: 8236
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `simplex-simplex-chat.yml`
-- **URL**: https://github.com/simplex-chat/simplex-chat/releases/download/v6.5.2/simplex-desktop-windows-x86_64.msi
+- **URL**: https://github.com/simplex-chat/simplex-chat/releases/download/v6.5.4/simplex-desktop-windows-x86_64.msi
 
 #### simplyca-typeless
 
@@ -62355,7 +62373,7 @@ Total entries processed: 8236
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sourcegraph-amp.yml`
-- **URL**: https://static.ampcode.com/cli/0.0.1780797859-g3669ef/amp-windows-x64-baseline.exe
+- **URL**: https://static.ampcode.com/cli/0.0.1780827515-ga4daec/amp-windows-x64-baseline.exe
 
 #### southrivertechnologies-webdrive
 
@@ -70392,7 +70410,7 @@ Total entries processed: 8236
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `walkme-walkmeeditor.yml`
-- **URL**: https://cdn.walkme.com/walkme-editor/Container/Distributables/GA/x64/Windows/PerUserInstallers/WalkMe%20Editor-5.5.0-3-commercial.exe
+- **URL**: https://cdn.walkme.com/walkme-editor/Container/Distributables/GA/x64/Windows/PerUserInstallers/WalkMe%20Editor-5.5.1-7-commercial.exe
 
 #### walkovertechnologies-giddh
 
