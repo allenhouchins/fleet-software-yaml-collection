@@ -1,4 +1,4 @@
-url: https://github.com/grafana/alloy/releases/download/v1.16.2/alloy-installer-windows-amd64.exe
+url: https://github.com/grafana/alloy/releases/download/v1.16.3/alloy-installer-windows-amd64.exe
 automatic_install: false
 self_service: false
 categories: []
