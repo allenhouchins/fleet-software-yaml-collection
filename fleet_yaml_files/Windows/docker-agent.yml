@@ -1,4 +1,4 @@
-url: https://github.com/docker/docker-agent/releases/download/v1.73.0/docker-agent-windows-amd64.exe
+url: https://github.com/docker/docker-agent/releases/download/v1.74.0/docker-agent-windows-amd64.exe
 automatic_install: false
 self_service: false
 categories: []
