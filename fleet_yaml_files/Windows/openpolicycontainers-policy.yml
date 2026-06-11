@@ -1,4 +1,4 @@
-url: https://github.com/opcr-io/policy/releases/download/v0.3.8/policy_windows_amd64.msi
+url: https://github.com/opcr-io/policy/releases/download/v0.4.0/policy_windows_amd64.msi
 automatic_install: false
 self_service: false
 categories: []

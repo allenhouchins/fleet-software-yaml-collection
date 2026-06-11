@@ -1,10 +1,7 @@
-url: https://github.com/AdventDevInc/kudu/releases/download/v1.44.1/Kudu-Setup-1.44.1.exe
+url: https://github.com/sailpoint-oss/sailpoint-cli/releases/download/2.2.12/sail_2.2.12_windows_amd64.zip_unsigned.msi
 automatic_install: false
 self_service: false
 categories: []
-install_script: '# TODO: Add install script for this EXE'
-uninstall_script: '# TODO: Add uninstall script for this EXE'
 
 # Categories are currently limited to Browsers, Communication, Developer tools, and Productivity.
 # This is a minimum version of this file. All configurable parameters can be seen at https://fleetdm.com/docs/rest-api/rest-api#parameters139
-# Note: Any exe requires an install script and uninstall script to be defined
