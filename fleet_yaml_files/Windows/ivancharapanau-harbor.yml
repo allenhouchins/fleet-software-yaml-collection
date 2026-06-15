@@ -1,4 +1,4 @@
-url: https://github.com/av/harbor/releases/download/v0.4.9/Harbor_0.4.9_x64-setup.exe
+url: https://github.com/av/harbor/releases/download/v0.5.2/Harbor_0.5.2_x64-setup.exe
 automatic_install: false
 self_service: false
 categories: []
