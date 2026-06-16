@@ -1,4 +1,4 @@
-url: https://cdn.kde.org/ci-builds/games/ksquares/master/windows/ksquares-master-866-windows-cl-msvc2022-x86_64.exe
+url: https://storage.googleapis.com/revex-desktop-app-production/releases/0.1.11/win/HighLevel%20Setup%200.1.11.exe
 automatic_install: false
 self_service: false
 categories: []
