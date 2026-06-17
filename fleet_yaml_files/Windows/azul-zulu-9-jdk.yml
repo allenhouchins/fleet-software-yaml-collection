@@ -1,4 +1,4 @@
-url: https://cdn.azul.com/zulu/bin/zulu9.0.7.1-jdk9.0.7-win_x64.msi
+url: https://cdn.azul.com/zulu/bin/zulu9.0.7.1-ca-jdk9.0.7-win_x64.msi
 automatic_install: false
 self_service: false
 categories: []
