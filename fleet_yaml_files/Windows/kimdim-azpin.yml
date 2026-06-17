@@ -1,0 +1,7 @@
+url: https://github.com/lfmundim/AzPin/releases/download/win-v0.3.17/AzPin-Setup-x64-0.3.17.msi
+automatic_install: false
+self_service: false
+categories: []
+
+# Categories are currently limited to Browsers, Communication, Developer tools, and Productivity.
+# This is a minimum version of this file. All configurable parameters can be seen at https://fleetdm.com/docs/rest-api/rest-api#parameters139
