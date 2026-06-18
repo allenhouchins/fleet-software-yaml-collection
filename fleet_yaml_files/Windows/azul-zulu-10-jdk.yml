@@ -1,4 +1,4 @@
-url: https://cdn.azul.com/zulu/bin/zulu10.3+5-jdk10.0.2-win_x64.msi
+url: https://cdn.azul.com/zulu/bin/zulu10.3.5-ca-jdk10.0.2-win_x64.msi
 automatic_install: false
 self_service: false
 categories: []
