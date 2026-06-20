@@ -1,4 +1,4 @@
-url: https://github.com/jqlang/jq/releases/download/jq-1.8.1/jq-windows-amd64.exe
+url: https://github.com/jqlang/jq/releases/download/jq-1.8.2/jq-windows-amd64.exe
 automatic_install: false
 self_service: false
 categories: []
