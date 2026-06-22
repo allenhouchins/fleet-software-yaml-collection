@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-06-21 18:31:14 UTC
+Generated on: 2026-06-22 07:56:54 UTC
 
 ## Summary
 
@@ -12819,7 +12819,7 @@ Total entries processed: 8435
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `blitz-blitz.yml`
-- **URL**: https://blitz-main.blitz.gg/Blitz-2.1.588.exe
+- **URL**: https://blitz-main.blitz.gg/Blitz-2.1.589.exe
 
 #### blix-bluemail
 
@@ -13044,7 +13044,7 @@ Total entries processed: 8435
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `blur009-blurautoclicker.yml`
-- **URL**: https://github.com/Blur009/Blur-AutoClicker/releases/download/v3.7.2/BlurAutoClicker_3.7.2_x64-setup.exe
+- **URL**: https://github.com/Blur009/Blur-AutoClicker/releases/download/v3.8.0/BlurAutoClicker_3.8.0_x64-setup.exe
 
 #### blushyes-sofast
 
@@ -14133,7 +14133,7 @@ Total entries processed: 8435
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bytedance-trae-cn.yml`
-- **URL**: https://lf-cdn.trae.ai/obj/trae-ai-us/pkg/app/releases/stable/2.3.40353/win32/Trae_CN-Setup-x64.exe
+- **URL**: https://lf-cdn.trae.ai/obj/trae-ai-us/pkg/app/releases/stable/2.3.44175/win32/Trae_CN-Setup-x64.exe
 
 #### bytedance-trae
 
@@ -16464,7 +16464,7 @@ Total entries processed: 8435
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `codexu-notegen.yml`
-- **URL**: https://github.com/codexu/note-gen/releases/download/note-gen-v0.29.2/NoteGen_0.29.2_x64-setup.exe
+- **URL**: https://github.com/codexu/note-gen/releases/download/note-gen-v0.30.0/NoteGen_0.30.0_x64-setup.exe
 
 #### codezeno-claudecodeusagemonitor
 
@@ -22251,7 +22251,7 @@ Total entries processed: 8435
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `elcruncharino-neostego.yml`
-- **URL**: https://github.com/ElCruncharino/neostego/releases/download/v1.0.1/NeoStego-1.0.1.msi
+- **URL**: https://github.com/ElCruncharino/neostego/releases/download/v1.0.4/NeoStego-1.0.4.msi
 
 #### electerm-electerm
 
@@ -23808,7 +23808,7 @@ Total entries processed: 8435
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `fathah-hermesdesktop.yml`
-- **URL**: https://github.com/fathah/hermes-desktop/releases/download/v0.6.34/hermes-desktop-0.6.34-setup.exe
+- **URL**: https://github.com/fathah/hermes-desktop/releases/download/v0.6.35/hermes-desktop-0.6.35-setup.exe
 
 #### fathom-fathom
 
@@ -24159,7 +24159,7 @@ Total entries processed: 8435
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `filedini-filedini.yml`
-- **URL**: https://installer.filedini.app/Filedini-0.7.112.9561-Installer.exe
+- **URL**: https://installer.filedini.app/Filedini-0.7.128.37218-Installer.exe
 
 #### filemail-desktopapp
 
@@ -27588,7 +27588,7 @@ Total entries processed: 8435
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/pfafilgg5kzdurqqzmi4fy4mxy_151.0.7904.0/151.0.7904.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/kyk32uigraevfjmfmzj23voaba_151.0.7905.0/151.0.7905.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -30990,7 +30990,7 @@ Total entries processed: 8435
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `imagemagick-imagemagick-q16.yml`
-- **URL**: https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-25/ImageMagick-7.1.2-25-Q16-x64-dll.exe
+- **URL**: https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-26/ImageMagick-7.1.2-26-Q16-x64-dll.exe
 
 #### imagemagick-imagemagick-q8
 
@@ -30999,7 +30999,7 @@ Total entries processed: 8435
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `imagemagick-imagemagick-q8.yml`
-- **URL**: https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-25/ImageMagick-7.1.2-25-Q8-x64-dll.exe
+- **URL**: https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-26/ImageMagick-7.1.2-26-Q8-x64-dll.exe
 
 #### imagemagick-imagemagick
 
@@ -31008,7 +31008,7 @@ Total entries processed: 8435
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `imagemagick-imagemagick.yml`
-- **URL**: https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-25/ImageMagick-7.1.2-25-Q16-HDRI-x64-dll.exe
+- **URL**: https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-26/ImageMagick-7.1.2-26-Q16-HDRI-x64-dll.exe
 
 #### imageoptim-gifski
 
@@ -34914,7 +34914,7 @@ Total entries processed: 8435
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kawayiyokami-p-ai.yml`
-- **URL**: https://github.com/kawayiYokami/P-ai/releases/download/v0.13.3/P-ai_0.13.3_x64-setup.exe
+- **URL**: https://github.com/kawayiYokami/P-ai/releases/download/v0.13.6/P-ai_0.13.6_x64-setup.exe
 
 #### kay-ou-simtradedesk
 
@@ -35058,7 +35058,7 @@ Total entries processed: 8435
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-chessament.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/chessament/master/windows/chessament-master-681-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/chessament/master/windows/chessament-master-683-windows-cl-msvc2022-x86_64.exe
 
 #### kde-crowtranslate
 
@@ -50439,7 +50439,7 @@ Total entries processed: 8435
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nofaff-installerclean.yml`
-- **URL**: https://github.com/no-faff/InstallerClean/releases/download/v1.9.1/InstallerClean-setup.exe
+- **URL**: https://github.com/no-faff/InstallerClean/releases/download/v1.9.2/InstallerClean-setup.exe
 
 #### noguia-lockbox
 
@@ -54579,7 +54579,7 @@ Total entries processed: 8435
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `phodal-routa.yml`
-- **URL**: https://github.com/phodal/routa/releases/download/v0.18.1/Routa.Desktop_0.18.1_x64-setup.exe
+- **URL**: https://github.com/phodal/routa/releases/download/v0.19.0/Routa.Desktop_0.19.0_x64-setup.exe
 
 #### phonepresenter-phonepresenter
 
@@ -57099,7 +57099,7 @@ Total entries processed: 8435
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `qgis-qfield.yml`
-- **URL**: https://github.com/opengisch/QField/releases/download/v4.2.3/qfield-v4.2.3-windows-x64.exe
+- **URL**: https://github.com/opengisch/QField/releases/download/v4.2.4/qfield-v4.2.4-windows-x64.exe
 
 #### qiagen-clcgenomicsworkbench
 
@@ -58242,7 +58242,7 @@ Total entries processed: 8435
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `recol-dlssupdater.yml`
-- **URL**: https://github.com/Recol/DLSS-Updater/releases/download/V4.1.9/DLSS.Updater.4.1.9.msi
+- **URL**: https://github.com/Recol/DLSS-Updater/releases/download/V4.2.0/DLSS.Updater.4.2.0.msi
 
 #### recoupler-audiobookconverter
 
@@ -61725,7 +61725,7 @@ Total entries processed: 8435
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-06-20/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-06-21/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -63777,7 +63777,7 @@ Total entries processed: 8435
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sourcegraph-amp.yml`
-- **URL**: https://static.ampcode.com/cli/0.0.1782048529-g31be0a/amp-windows-x64-baseline.exe
+- **URL**: https://static.ampcode.com/cli/0.0.1782094482-gbb43a4/amp-windows-x64-baseline.exe
 
 #### southrivertechnologies-webdrive
 
@@ -65865,7 +65865,7 @@ Total entries processed: 8435
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `synology-c2identityldapsynctool.yml`
-- **URL**: https://global.synologydownload.com/download/Utility/C2IdentityLDAPSyncTool/1.78.0-01400/Windows/x86_64/SynologyC2IdentityLDAPSync-1.78.0-01400.msi
+- **URL**: https://global.synologydownload.com/download/Utility/C2IdentityLDAPSyncTool/1.79.0-01428/Windows/x86_64/SynologyC2IdentityLDAPSync-1.79.0-01428.msi
 
 #### synology-cameratool
 
@@ -67116,7 +67116,7 @@ Total entries processed: 8435
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-ima-copilot.yml`
-- **URL**: https://app-dl.ima.qq.com/win/2.5.5_4456/ima.copilot_win_x64_1018_2.5.5_4456.exe
+- **URL**: https://app-dl.ima.qq.com/win_channel/ima.copilot_win_x64_1018_2.5.6_4487.exe
 
 #### tencent-qclaw
 
@@ -71085,7 +71085,7 @@ Total entries processed: 8435
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0680/gvim_9.2.0680_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0699/gvim_9.2.0699_x64.exe
 
 #### vim-vim
 
@@ -73326,7 +73326,7 @@ Total entries processed: 8435
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wolfgangwarehaus-jellytoast.yml`
-- **URL**: https://github.com/wolfgangwarehaus/jellytoast/releases/download/v0.1.2/jellytoast-0.1.2-windows-x64-setup.exe
+- **URL**: https://github.com/wolfgangwarehaus/jellytoast/releases/download/v0.1.3/jellytoast-0.1.3-windows-x64-setup.exe
 
 #### wolframresearch-wolframengine
 
