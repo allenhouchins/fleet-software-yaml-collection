@@ -1,4 +1,4 @@
-url: https://download.newrelic.com/infrastructure_agent/windows/newrelic-infra.1.76.2.msi
+url: https://download.newrelic.com/infrastructure_agent/windows/newrelic-infra.1.77.0.msi
 automatic_install: false
 self_service: false
 categories: []
