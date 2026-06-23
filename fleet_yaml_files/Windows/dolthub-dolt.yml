@@ -1,4 +1,4 @@
-url: https://github.com/dolthub/dolt/releases/download/v2.1.8/dolt-windows-amd64.msi
+url: https://github.com/dolthub/dolt/releases/download/v2.1.9/dolt-windows-amd64.msi
 automatic_install: false
 self_service: false
 categories: []
