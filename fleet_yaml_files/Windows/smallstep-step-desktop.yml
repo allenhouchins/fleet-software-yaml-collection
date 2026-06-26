@@ -1,4 +1,4 @@
-url: https://github.com/smallstep/step-agent-plugin/releases/download/v0.67.3/step-desktop_amd64.msi
+url: https://github.com/smallstep/step-agent/releases/download/v0.68.0/step-desktop_amd64.msi
 automatic_install: false
 self_service: false
 categories: []

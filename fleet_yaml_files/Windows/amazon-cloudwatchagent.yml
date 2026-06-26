@@ -1,4 +1,4 @@
-url: https://amazoncloudwatch-agent.s3.amazonaws.com/windows/amd64/1.300068.0b1491/amazon-cloudwatch-agent.msi
+url: https://amazoncloudwatch-agent.s3.amazonaws.com/windows/amd64/1.300069.0b1529/amazon-cloudwatch-agent.msi
 automatic_install: false
 self_service: false
 categories: []
