@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-06-26 18:35:49 UTC
+Generated on: 2026-06-27 07:03:58 UTC
 
 ## Summary
 
-Total entries processed: 8454
+Total entries processed: 8456
 - macOS files: 398
-- Windows files: 8056
+- Windows files: 8058
 
 ## Generated Files
 
@@ -1432,7 +1432,7 @@ Total entries processed: 8454
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `hackolade.yml`
-- **URL**: https://hackolade.s3.amazonaws.com/previous/v8.12.0/Hackolade-macARM64-setup-signed.pkg
+- **URL**: https://hackolade.s3.amazonaws.com/previous/v8.12.1/Hackolade-macARM64-setup-signed.pkg
 
 #### hancom-docs
 
@@ -1558,7 +1558,7 @@ Total entries processed: 8454
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `jyutping.yml`
-- **URL**: https://github.com/yuetyam/jyutping/releases/download/0.78.0/Jyutping-v0.78.0-Mac.pkg
+- **URL**: https://github.com/yuetyam/jyutping/releases/download/0.79.0/Jyutping-v0.79.0-Mac.pkg
 
 #### kdrive
 
@@ -2953,7 +2953,7 @@ Total entries processed: 8454
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `spyder.yml`
-- **URL**: https://github.com/spyder-ide/spyder/releases/download/v6.1.4/Spyder-macOS-arm64.pkg
+- **URL**: https://github.com/spyder-ide/spyder/releases/download/v6.1.5/Spyder-macOS-arm64.pkg
 
 #### squirrel-app
 
@@ -3088,7 +3088,7 @@ Total entries processed: 8454
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `teleport-suite.yml`
-- **URL**: https://cdn.teleport.dev/teleport-18.9.1.pkg
+- **URL**: https://cdn.teleport.dev/teleport-18.9.2.pkg
 
 #### temurin-11
 
@@ -4215,7 +4215,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `abowlofeleven-hopscout.yml`
-- **URL**: https://github.com/ABowlOfEleven/hopscout/releases/download/v0.1.0/hopscout-0.1.0-x64.msi
+- **URL**: https://github.com/ABowlOfEleven/hopscout/releases/download/v0.1.1/hopscout-0.1.1-x64.msi
 
 #### abrignoni-aleapp-cli
 
@@ -5916,7 +5916,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `alibaba-opencodereview.yml`
-- **URL**: https://github.com/alibaba/open-code-review/releases/download/v1.6.3/opencodereview-windows-amd64.exe
+- **URL**: https://github.com/alibaba/open-code-review/releases/download/v1.6.4/opencodereview-windows-amd64.exe
 
 #### alibaba-qianwen
 
@@ -5934,7 +5934,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `alibaba-qoder.yml`
-- **URL**: https://qoder-ide.oss-accelerate.aliyuncs.com/release/1.10.2/QoderUserSetup-x64.exe
+- **URL**: https://qoder-ide.oss-accelerate.aliyuncs.com/release/1.10.3/QoderUserSetup-x64.exe
 
 #### alibaba-qoderwork
 
@@ -7041,7 +7041,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `amanthanvi-winghostty.yml`
-- **URL**: https://github.com/amanthanvi/winghostty/releases/download/v1.3.115/winghostty-1.3.115-windows-x64-setup.exe
+- **URL**: https://github.com/amanthanvi/winghostty/releases/download/v1.3.116/winghostty-1.3.116-windows-x64-setup.exe
 
 #### amarbego-gittop
 
@@ -7059,7 +7059,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `amarbego-rscoop.yml`
-- **URL**: https://github.com/AmarBego/Rscoop/releases/download/v1.9.5/rscoop_1.9.5_x64_en-US.msi
+- **URL**: https://github.com/AmarBego/Rscoop/releases/download/v1.9.6/rscoop_1.9.6_x64_en-US.msi
 
 #### amazon-appstream
 
@@ -7599,7 +7599,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `analysedecircuit-oxideterm.yml`
-- **URL**: https://github.com/AnalyseDeCircuit/oxideterm/releases/download/v1.6.7/OxideTerm_1.6.7_windows_x64-setup.exe
+- **URL**: https://github.com/AnalyseDeCircuit/oxideterm/releases/download/v1.6.8/OxideTerm_1.6.8_windows_x64-setup.exe
 
 #### anatawa12-alcom
 
@@ -12873,7 +12873,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `blitz-blitz.yml`
-- **URL**: https://blitz-main.blitz.gg/Blitz-2.1.592.exe
+- **URL**: https://blitz-main.blitz.gg/Blitz-2.1.593.exe
 
 #### blix-bluemail
 
@@ -13458,7 +13458,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `brave-brave-nightly.yml`
-- **URL**: https://github.com/brave/brave-browser/releases/download/v1.94.4/BraveBrowserStandaloneSilentNightlySetup.exe
+- **URL**: https://github.com/brave/brave-browser/releases/download/v1.94.7/BraveBrowserStandaloneSilentNightlySetup.exe
 
 #### brave-brave
 
@@ -13467,7 +13467,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `brave-brave.yml`
-- **URL**: https://github.com/brave/brave-browser/releases/download/v1.91.178/BraveBrowserStandaloneSilentSetup.exe
+- **URL**: https://github.com/brave/brave-browser/releases/download/v1.91.180/BraveBrowserStandaloneSilentSetup.exe
 
 #### brave-braveorigin-nightly
 
@@ -13476,7 +13476,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `brave-braveorigin-nightly.yml`
-- **URL**: https://github.com/brave/brave-browser/releases/download/v1.94.4/BraveOriginStandaloneSilentNightlySetup.exe
+- **URL**: https://github.com/brave/brave-browser/releases/download/v1.94.7/BraveOriginStandaloneSilentNightlySetup.exe
 
 #### breeze2-dsumanager
 
@@ -14394,7 +14394,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `can1357-oh-my-pi.yml`
-- **URL**: https://github.com/can1357/oh-my-pi/releases/download/v16.1.9/omp-windows-x64.exe
+- **URL**: https://github.com/can1357/oh-my-pi/releases/download/v16.2.0/omp-windows-x64.exe
 
 #### candycreamalgorithm-kanatomell
 
@@ -16761,7 +16761,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `comfy-comfyui-desktop.yml`
-- **URL**: https://download.todesktop.com/241130tqe9q3y/Comfy%20Desktop%20Setup%201.0.8%20-%20Build%20260605q62oisylu-x64.exe
+- **URL**: https://download.todesktop.com/241130tqe9q3y/Comfy%20Desktop%20Setup%201.0.9%20-%20Build%20260605vnt6m0i1m-x64.exe
 
 #### comiccatcher-comiccatcher
 
@@ -18147,7 +18147,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cybertimon-rapidraw.yml`
-- **URL**: https://github.com/CyberTimon/RapidRAW/releases/download/v1.5.7/01_RapidRAW_v1.5.7_windows_x64.exe
+- **URL**: https://github.com/CyberTimon/RapidRAW/releases/download/v1.5.8/01_RapidRAW_v1.5.8_windows_x64.exe
 
 #### cyclonedx-cdxgen
 
@@ -20291,6 +20291,15 @@ Total entries processed: 8454
 - **File**: `dlbroadfoot-bb.yml`
 - **URL**: https://github.com/dlbroadfoot/bitbucket-cli/releases/download/v2.87.1/bb_2.87.1_windows_amd64.msi
 
+#### dmezhnov-knitcalc
+
+- **Source**: winget
+- **Name**: dmezhnov-knitcalc
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `dmezhnov-knitcalc.yml`
+- **URL**: https://github.com/dmezhnov/knitcalc/releases/download/v1.8.65+88/knitcalc-setup-x64-1.8.65+88.exe
+
 #### dmitry-farafonov-micswitch
 
 - **Source**: winget
@@ -20820,7 +20829,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `drofus-drofus.yml`
-- **URL**: https://deploy.drofus.com/stable/drofus-setup-2.18.6.msi
+- **URL**: https://deploy.drofus.com/stable/drofus-setup-2.18.7.msi
 
 #### dropbox-dropbox
 
@@ -21217,6 +21226,15 @@ Total entries processed: 8454
 - **Version**: 
 - **File**: `dwango-opentoonz-nightly.yml`
 - **URL**: https://github.com/opentoonz/opentoonz_nightlies/releases/download/nightly_10da5fb957382ac9d94612efa63ed9da216a6b8b/OpenToonzSetup.exe
+
+#### dwango-opentoonz
+
+- **Source**: winget
+- **Name**: dwango-opentoonz
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `dwango-opentoonz.yml`
+- **URL**: https://github.com/opentoonz/opentoonz/releases/download/v1.8.0/OpenToonzSetup.exe
 
 #### dweymouth-supersonic
 
@@ -23709,7 +23727,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `factoryai-factory.yml`
-- **URL**: https://downloads.factory.ai/factory-desktop/releases/0.116.0/win32/x64/Factory-0.116.0%20Setup.exe
+- **URL**: https://downloads.factory.ai/factory-desktop/releases/0.116.1/win32/x64/Factory-0.116.1%20Setup.exe
 
 #### factset-factsetworkstation
 
@@ -23880,7 +23898,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `fathah-hermesdesktop.yml`
-- **URL**: https://github.com/fathah/hermes-desktop/releases/download/v0.7.0/hermes-desktop-0.7.0-setup.exe
+- **URL**: https://github.com/fathah/hermes-desktop/releases/download/v0.7.1/hermes-desktop-0.7.1-setup.exe
 
 #### fathom-fathom
 
@@ -24015,7 +24033,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `felipesantos-volumelocker.yml`
-- **URL**: https://github.com/felipecrs/volume-locker/releases/download/v0.8.7/VolumeLocker.exe
+- **URL**: https://github.com/felipecrs/volume-locker/releases/download/v0.8.9/VolumeLocker.exe
 
 #### feliskio-sleep-timer
 
@@ -26679,7 +26697,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gg-ai-ggcode-cli.yml`
-- **URL**: https://github.com/topcheer/ggcode/releases/download/v1.3.85/ggcode_1.3.85_windows_x64.msi
+- **URL**: https://github.com/topcheer/ggcode/releases/download/v1.3.86/ggcode_1.3.86_windows_x64.msi
 
 #### gg-ai-ggcode-desktop
 
@@ -26688,7 +26706,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gg-ai-ggcode-desktop.yml`
-- **URL**: https://github.com/topcheer/ggcode/releases/download/v1.3.85/ggcode-desktop_1.3.85_windows_x64.msi
+- **URL**: https://github.com/topcheer/ggcode/releases/download/v1.3.86/ggcode-desktop_1.3.86_windows_x64.msi
 
 #### ghisler-totalcommander
 
@@ -27669,7 +27687,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/d27ido2l3whg5dimnkntvzfy7y_151.0.7914.0/151.0.7914.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/actsljaw4ecmemgpskyclhqed32a_151.0.7915.0/151.0.7915.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -27678,7 +27696,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-dev-exe.yml`
-- **URL**: https://dl.google.com/release2/chrome/adiascm3tw2nomlburj6t5zlr3rq_151.0.7896.2/151.0.7896.2_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/adtbr4qsohol32e2p7fudtgjlglq_151.0.7912.0/151.0.7912.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev
 
@@ -28254,7 +28272,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `granola-granola.yml`
-- **URL**: https://dr2v7l5emb758.cloudfront.net/7.372.1/Granola-7.372.1-win-x64.exe
+- **URL**: https://dr2v7l5emb758.cloudfront.net/7.372.2/Granola-7.372.2-win-x64.exe
 
 #### graphcool-graphqlplayground
 
@@ -28326,7 +28344,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gravitational-teleportconnect.yml`
-- **URL**: https://cdn.teleport.dev/Teleport%20Connect%20Setup-18.9.1.exe
+- **URL**: https://cdn.teleport.dev/Teleport%20Connect%20Setup-18.9.2.exe
 
 #### grayloginc-graylogsidecar
 
@@ -33348,7 +33366,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-clion-eap.yml`
-- **URL**: https://download.jetbrains.com/cpp/CLion-262.8117.20.exe
+- **URL**: https://download.jetbrains.com/cpp/CLion-262.8377.40.exe
 
 #### jetbrains-clion
 
@@ -33717,7 +33735,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-rustrover-eap.yml`
-- **URL**: https://download.jetbrains.com/rustrover/RustRover-262.8117.29.exe
+- **URL**: https://download.jetbrains.com/rustrover/RustRover-262.8377.49.exe
 
 #### jetbrains-rustrover
 
@@ -35013,7 +35031,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kawayiyokami-p-ai.yml`
-- **URL**: https://github.com/kawayiYokami/P-ai/releases/download/v0.15.1/P-ai_0.15.1_x64-setup.exe
+- **URL**: https://github.com/kawayiYokami/P-ai/releases/download/v0.15.2/P-ai_0.15.2_x64-setup.exe
 
 #### kay-ou-simtradedesk
 
@@ -35121,7 +35139,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-ark.yml`
-- **URL**: https://cdn.kde.org/ci-builds/utilities/ark/release-26.04/windows/ark-release_26.04-2588-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/utilities/ark/release-26.04/windows/ark-release_26.04-2592-windows-cl-msvc2022-x86_64.exe
 
 #### kde-blinken
 
@@ -35130,7 +35148,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-blinken.yml`
-- **URL**: https://cdn.kde.org/ci-builds/education/blinken/master/windows/blinken-master-802-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/education/blinken/master/windows/blinken-master-804-windows-cl-msvc2022-x86_64.exe
 
 #### kde-bomber
 
@@ -35157,7 +35175,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-chessament.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/chessament/master/windows/chessament-master-696-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/chessament/master/windows/chessament-master-701-windows-cl-msvc2022-x86_64.exe
 
 #### kde-crowtranslate
 
@@ -35202,7 +35220,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-falkon.yml`
-- **URL**: https://cdn.kde.org/ci-builds/network/falkon/master/windows/falkon-master-2631-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/network/falkon/master/windows/falkon-master-2633-windows-cl-msvc2022-x86_64.exe
 
 #### kde-filelight
 
@@ -35211,7 +35229,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-filelight.yml`
-- **URL**: https://cdn.kde.org/ci-builds/utilities/filelight/release-26.04/windows/filelight-release_26.04-2124-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/utilities/filelight/release-26.04/windows/filelight-release_26.04-2130-windows-cl-msvc2022-x86_64.exe
 
 #### kde-gcompris
 
@@ -35310,7 +35328,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kasts.yml`
-- **URL**: https://cdn.kde.org/ci-builds/multimedia/kasts/release-26.04/windows/kasts-release_26.04-4514-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/multimedia/kasts/release-26.04/windows/kasts-release_26.04-4518-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kate
 
@@ -35319,7 +35337,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kate.yml`
-- **URL**: https://cdn.kde.org/ci-builds/utilities/kate/release-26.04/windows/kate-release_26.04-11899-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/utilities/kate/release-26.04/windows/kate-release_26.04-11951-windows-cl-msvc2022-x86_64.exe
 
 #### kde-katomic
 
@@ -35373,7 +35391,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kbruch.yml`
-- **URL**: https://cdn.kde.org/ci-builds/education/kbruch/master/windows/kbruch-master-863-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/education/kbruch/master/windows/kbruch-master-865-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kdeconnect
 
@@ -35445,7 +35463,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kigo.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kigo/master/windows/kigo-master-910-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kigo/master/windows/kigo-master-918-windows-cl-msvc2022-x86_64.exe
 
 #### kde-killbots
 
@@ -35517,7 +35535,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kmines.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kmines/master/windows/kmines-master-982-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kmines/master/windows/kmines-master-993-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kmymoney
 
@@ -35535,7 +35553,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-knetwalk.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/knetwalk/master/windows/knetwalk-master-839-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/knetwalk/master/windows/knetwalk-master-843-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kolf
 
@@ -35544,7 +35562,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kolf.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kolf/master/windows/kolf-master-1014-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kolf/master/windows/kolf-master-1018-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kollision
 
@@ -35562,7 +35580,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-konsole.yml`
-- **URL**: https://cdn.kde.org/ci-builds/utilities/konsole/master/windows/konsole-master-4897-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/utilities/konsole/master/windows/konsole-master-4923-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kontact
 
@@ -35580,7 +35598,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-konversation.yml`
-- **URL**: https://cdn.kde.org/ci-builds/network/konversation/release-26.04/windows/konversation-release_26.04-1708-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/network/konversation/release-26.04/windows/konversation-release_26.04-1714-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kreversi
 
@@ -35616,7 +35634,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kshisen.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kshisen/master/windows/kshisen-master-897-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kshisen/master/windows/kshisen-master-903-windows-cl-msvc2022-x86_64.exe
 
 #### kde-ksnakeduel
 
@@ -35625,7 +35643,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-ksnakeduel.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/ksnakeduel/master/windows/ksnakeduel-master-834-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/ksnakeduel/master/windows/ksnakeduel-master-840-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kspaceduel
 
@@ -35634,7 +35652,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kspaceduel.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/kspaceduel/master/windows/kspaceduel-master-790-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/kspaceduel/master/windows/kspaceduel-master-792-windows-cl-msvc2022-x86_64.exe
 
 #### kde-ksquares
 
@@ -35643,7 +35661,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-ksquares.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/ksquares/master/windows/ksquares-master-866-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/ksquares/master/windows/ksquares-master-872-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kstars
 
@@ -35688,7 +35706,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kturtle.yml`
-- **URL**: https://cdn.kde.org/ci-builds/education/kturtle/master/windows/kturtle-master-1150-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/education/kturtle/master/windows/kturtle-master-1152-windows-cl-msvc2022-x86_64.exe
 
 #### kde-labplot
 
@@ -35715,7 +35733,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-lskat.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/lskat/master/windows/lskat-master-904-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/lskat/master/windows/lskat-master-908-windows-cl-msvc2022-x86_64.exe
 
 #### kde-marble
 
@@ -35742,7 +35760,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-minuet.yml`
-- **URL**: https://cdn.kde.org/ci-builds/education/minuet/master/windows/minuet-master-1131-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/education/minuet/master/windows/minuet-master-1142-windows-cl-msvc2022-x86_64.exe
 
 #### kde-neochat
 
@@ -35850,7 +35868,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-umbrello.yml`
-- **URL**: https://cdn.kde.org/ci-builds/sdk/umbrello/release-26.04/windows/umbrello-release_26.04-1729-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/sdk/umbrello/release-26.04/windows/umbrello-release_26.04-1735-windows-cl-msvc2022-x86_64.exe
 
 #### kdevora-pumpselector
 
@@ -37182,7 +37200,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lancommander-launcher.yml`
-- **URL**: https://github.com/LANCommander/LANCommander/releases/download/v1.1.5/LANCommander.Launcher-1.1.5-x64-Setup.exe
+- **URL**: https://github.com/LANCommander/LANCommander/releases/download/v2.1.5/LANCommander.Launcher-2.1.5-x64-Setup.exe
 
 #### lancommander-server
 
@@ -37191,7 +37209,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lancommander-server.yml`
-- **URL**: https://github.com/LANCommander/LANCommander/releases/download/v2.1.0/LANCommander.Server-2.1.0-x64-Setup.exe
+- **URL**: https://github.com/LANCommander/LANCommander/releases/download/v2.1.5/LANCommander.Server-2.1.5-x64-Setup.exe
 
 #### lando-lando
 
@@ -37290,7 +37308,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `laurentiu021-sysmanager.yml`
-- **URL**: https://github.com/laurentiu021/SystemManager/releases/download/v1.42.0/SysManager-v1.42.0.exe
+- **URL**: https://github.com/laurentiu021/SystemManager/releases/download/v1.42.8/SysManager-v1.42.8.exe
 
 #### laurentprenedecotret-pandoc-plot
 
@@ -37947,7 +37965,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `linearorbit-linear.yml`
-- **URL**: https://releases.linear.app/Linear%20Setup%201.31.0.exe
+- **URL**: https://releases.linear.app/Linear%20Setup%201.31.1.exe
 
 #### liner-linerworkspace
 
@@ -38721,7 +38739,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `louishinchliffe-hardwaremon.yml`
-- **URL**: https://github.com/louisboii747/HardwareMon/releases/download/v18.3.2/HardwareMon-v18.3.2.exe
+- **URL**: https://github.com/louisboii747/HardwareMon/releases/download/v18.3.7/HardwareMon-v18.3.7.exe
 
 #### louishitchcock-serialmonitor
 
@@ -40557,7 +40575,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `meltytech-shotcut.yml`
-- **URL**: https://github.com/mltframework/shotcut/releases/download/v26.4.30/shotcut-win64-26.4.30.exe
+- **URL**: https://github.com/mltframework/shotcut/releases/download/v26.6.25/shotcut-win64-26.6.25.exe
 
 #### melvin-abraham-google-assistant-preview
 
@@ -41781,7 +41799,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-edge.yml`
-- **URL**: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/96f71ebf-d93a-4a10-80af-5c5380af81f5/MicrosoftEdgeEnterpriseX64.msi
+- **URL**: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/82374039-b772-4d0a-a9a9-ee311dabec12/MicrosoftEdgeEnterpriseX64.msi
 
 #### microsoft-edgewebview2runtime
 
@@ -43185,7 +43203,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mikf-gallery-dl-nightly.yml`
-- **URL**: https://github.com/gdl-org/builds/releases/download/2026.06.25/gallery-dl_windows.exe
+- **URL**: https://github.com/gdl-org/builds/releases/download/2026.06.26/gallery-dl_windows.exe
 
 #### mikf-gallery-dl
 
@@ -43329,7 +43347,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `minimax-minimaxhub-cn.yml`
-- **URL**: https://filecdn.minimax.chat/public/minimax-hub/release/domestic/MiniMax%20Hub%20Setup%201.0.5.exe
+- **URL**: https://filecdn.minimax.chat/public/minimax-hub/release/domestic/MiniMax%20Hub%20Setup%201.0.6.exe
 
 #### minimax-minimaxhub
 
@@ -43338,7 +43356,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `minimax-minimaxhub.yml`
-- **URL**: https://file.cdn.minimax.io/public/minimax-hub/release/overseas/MiniMax%20Hub%20Setup%201.0.4.exe
+- **URL**: https://file.cdn.minimax.io/public/minimax-hub/release/overseas/MiniMax%20Hub%20Setup%201.0.6.exe
 
 #### ministryofeducationoftheprc-smartschools
 
@@ -50664,7 +50682,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nomandhoni-blinkeye.yml`
-- **URL**: https://github.com/nomandhoni-cs/blink-eye/releases/download/v2.7.6/Blink.Eye_2.7.6_x64-setup.exe
+- **URL**: https://github.com/nomandhoni-cs/blink-eye/releases/download/v2.7.8/Blink.Eye_2.7.8_x64-setup.exe
 
 #### nomic-gpt4all
 
@@ -54255,7 +54273,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pclcommunity-pcl2-ce-beta.yml`
-- **URL**: https://github.com/PCL-Community/PCL-CE/releases/download/v2.15.0-beta.3/PCL2_CE_Beta_x64.exe
+- **URL**: https://github.com/PCL-Community/PCL-CE/releases/download/v2.15.0-beta.4/PCL2_CE_Beta_x64.exe
 
 #### pclcommunity-pcl2-ce
 
@@ -54471,7 +54489,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `perforce-p4v.yml`
-- **URL**: https://www.perforce.com/downloads/perforce/r26.2/bin.ntx64/p4vinst64.msi
+- **URL**: https://filehost.perforce.com/perforce/r26.2/bin.ntx64/p4vinst64.msi
 
 #### perimeter81-harmonysase
 
@@ -55056,7 +55074,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pixpin-pixpin-beta.yml`
-- **URL**: https://download.pixpinapp.com/PixPin_3.3.1.7.exe
+- **URL**: https://download.pixpinapp.com/PixPin_3.3.2.6.exe
 
 #### pixpin-pixpin
 
@@ -56577,7 +56595,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `prusa3d-prusaslicer.yml`
-- **URL**: https://github.com/prusa3d/PrusaSlicer/releases/download/version_2.9.5/PrusaSlicer-2.9.5-setup.exe
+- **URL**: https://github.com/prusa3d/PrusaSlicer/releases/download/version_2.9.6/PrusaSlicer-2.9.6-setup.exe
 
 #### ps-kubedevdashboard
 
@@ -59034,7 +59052,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ricardocabral-icuvisor.yml`
-- **URL**: https://github.com/ricardocabral/icuvisor/releases/download/v1.2.0/icuvisor_1.2.0_windows_amd64.msi
+- **URL**: https://github.com/ricardocabral/icuvisor/releases/download/v1.2.1/icuvisor_1.2.1_windows_amd64.msi
 
 #### richardsonsoftware-razorsql
 
@@ -59925,7 +59943,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rproject-r.yml`
-- **URL**: https://cloud.r-project.org/bin/windows/base/old/4.6.0/R-4.6.0-win.exe
+- **URL**: https://cloud.r-project.org/bin/windows/base/old/4.6.1/R-4.6.1-win.exe
 
 #### rproject-rtools
 
@@ -61635,7 +61653,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sejda-pdfdesktop.yml`
-- **URL**: https://downloads.sejda-cdn.com/sejda-desktop_7.9.6_x64.msi
+- **URL**: https://downloads.sejda-cdn.com/sejda-desktop_7.9.7_x64.msi
 
 #### sejinchun-imagine
 
@@ -61680,7 +61698,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sentry-sentry-cli.yml`
-- **URL**: https://github.com/getsentry/sentry-cli/releases/download/3.5.1/sentry-cli-Windows-x86_64.exe
+- **URL**: https://github.com/getsentry/sentry-cli/releases/download/3.6.0/sentry-cli-Windows-x86_64.exe
 
 #### seonglae-intuiter
 
@@ -61833,7 +61851,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-06-24/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-06-26/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -63894,7 +63912,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sourcegraph-amp.yml`
-- **URL**: https://static.ampcode.com/cli/0.0.1782470447-ge651cf/amp-windows-x64-baseline.exe
+- **URL**: https://static.ampcode.com/cli/0.0.1782525116-g47f525/amp-windows-x64-baseline.exe
 
 #### southrivertechnologies-webdrive
 
@@ -67422,7 +67440,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-workbuddy.yml`
-- **URL**: https://download.codebuddy.cn/workbuddy/saas/win32-x64-user/WorkBuddy-win32-x64-user-5.1.6.31448847-0db69b64.exe
+- **URL**: https://download.codebuddy.cn/workbuddy/saas/win32-x64-user/WorkBuddy-win32-x64-user-5.1.7.31711488-dc01bf2f.exe
 
 #### tencent-yuanbao
 
@@ -67638,7 +67656,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tessl-tessl.yml`
-- **URL**: https://install.tessl.io/installers-windows/0.88.0/TesslSetup-0.88.0-x64.exe
+- **URL**: https://install.tessl.io/installers-windows/0.88.2/TesslSetup-0.88.2-x64.exe
 
 #### testfully-testfully
 
@@ -68754,7 +68772,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tinyhumansai-openhuman.yml`
-- **URL**: https://github.com/tinyhumansai/openhuman/releases/download/v0.57.53/OpenHuman_0.57.53_x64-setup.exe
+- **URL**: https://github.com/tinyhumansai/openhuman/releases/download/v0.58.0/OpenHuman_0.58.0_x64-setup.exe
 
 #### tinyrack-dotweave
 
@@ -71229,7 +71247,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0725/gvim_9.2.0725_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0735/gvim_9.2.0735_x64.exe
 
 #### vim-vim
 
@@ -72264,7 +72282,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wangnov-codexappmanager.yml`
-- **URL**: https://github.com/Wangnov/Codex-App-Manager/releases/download/v0.2.2/CodexAppManager_0.2.2_x64-setup.exe
+- **URL**: https://github.com/Wangnov/Codex-App-Manager/releases/download/v0.2.3/CodexAppManager_0.2.3_x64-setup.exe
 
 #### wangqrkkk-paperquay
 
@@ -72489,7 +72507,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `waytech-clouddrive2.yml`
-- **URL**: https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.0.10/CloudDrive2Setup-X64-1.0.10.exe
+- **URL**: https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.0.11/CloudDrive2Setup-X64-1.0.11.exe
 
 #### weakauras-weakaurascompanion
 
@@ -75693,7 +75711,7 @@ Total entries processed: 8454
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zhukunpenglinyutong-ccgui.yml`
-- **URL**: https://github.com/zhukunpenglinyutong/desktop-cc-gui/releases/download/v0.5.9/ccgui_0.5.9_x64-setup.exe
+- **URL**: https://github.com/zhukunpenglinyutong/desktop-cc-gui/releases/download/v0.6.0/ccgui_0.6.0_x64-setup.exe
 
 #### ziad-tcg
 
