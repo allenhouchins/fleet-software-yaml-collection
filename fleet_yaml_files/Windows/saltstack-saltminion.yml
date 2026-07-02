@@ -1,4 +1,4 @@
-url: https://packages.broadcom.com/artifactory/saltproject-generic/windows/3008.1/Salt-Minion-3008.1-Py3-AMD64-Setup.exe
+url: https://packages.broadcom.com/artifactory/saltproject-generic/windows/3008.2/Salt-Minion-3008.2-Py3-AMD64-Setup.exe
 automatic_install: false
 self_service: false
 categories: []
