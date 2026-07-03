@@ -1,4 +1,4 @@
-url: https://github.com/postgresql-interfaces/psqlodbc/releases/download/REL-18_00_0001-mimalloc/psqlodbc-setup.exe
+url: https://github.com/postgresql-interfaces/psqlodbc/releases/download/REL-18_00_0002-mimalloc/psqlodbc-setup.exe
 automatic_install: false
 self_service: false
 categories: []
