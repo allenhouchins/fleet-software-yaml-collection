@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-07-05 08:44:10 UTC
+Generated on: 2026-07-05 19:06:05 UTC
 
 ## Summary
 
@@ -3304,7 +3304,7 @@ Total entries processed: 8542
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `unity-webgl-support-for-editor.yml`
-- **URL**: https://download.unity3d.com/download_unity/0d9463e84828/MacEditorTargetInstaller/UnitySetup-WebGL-Support-for-Editor-6000.5.1f1.pkg
+- **URL**: https://download.unity3d.com/download_unity/eb73d3b415a1/MacEditorTargetInstaller/UnitySetup-WebGL-Support-for-Editor-6000.5.2f1.pkg
 
 #### unity-windows-support-for-editor
 
@@ -3313,7 +3313,7 @@ Total entries processed: 8542
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `unity-windows-support-for-editor.yml`
-- **URL**: https://download.unity3d.com/download_unity/0d9463e84828/MacEditorTargetInstaller/UnitySetup-Windows-Mono-Support-for-Editor-6000.5.1f1.pkg
+- **URL**: https://download.unity3d.com/download_unity/eb73d3b415a1/MacEditorTargetInstaller/UnitySetup-Windows-Mono-Support-for-Editor-6000.5.2f1.pkg
 
 #### unity
 
@@ -3457,7 +3457,7 @@ Total entries processed: 8542
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `windows-app.yml`
-- **URL**: https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_11.3.6_installer.pkg
+- **URL**: https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Windows_App_11.3.7_installer.pkg
 
 #### wireless-workbench
 
@@ -7743,7 +7743,7 @@ Total entries processed: 8542
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `andrea-offgitx64.yml`
-- **URL**: https://github.com/NuggiDev/OffGit/releases/download/v1.0/OffGitx64.exe
+- **URL**: https://github.com/NuggiDev/OffGit/releases/download/v1.1/OffGitx64.exe
 
 #### andreamarucci-hd2arsenal
 
@@ -8931,7 +8931,7 @@ Total entries processed: 8542
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `arylmera-tokendashboard.yml`
-- **URL**: https://github.com/Arylmera/Token-Dashboard/releases/download/v5.1.1-validation/Token.Dashboard_5.1.1_x64_en-US.msi
+- **URL**: https://github.com/Arylmera/Token-Dashboard/releases/download/v5.1.2/Token.Dashboard_5.1.2_x64_en-US.msi
 
 #### asafsaar-dofek
 
@@ -18147,7 +18147,7 @@ Total entries processed: 8542
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cst8t-gitmun.yml`
-- **URL**: https://github.com/cst8t/gitmun/releases/download/v0.8.1/Gitmun_0.8.1_x64-setup.exe
+- **URL**: https://github.com/cst8t/gitmun/releases/download/v0.9.0/Gitmun_0.9.0_x64-setup.exe
 
 #### cteros-eno-m
 
@@ -18885,7 +18885,7 @@ Total entries processed: 8542
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `davidengelhart-termpolis.yml`
-- **URL**: https://github.com/codedev-david/termpolis/releases/download/v1.19.3/Termpolis.Setup.1.19.3.exe
+- **URL**: https://github.com/codedev-david/termpolis/releases/download/v1.19.4/Termpolis.Setup.1.19.4.exe
 
 #### davidmeeker-femm
 
@@ -20991,7 +20991,7 @@ Total entries processed: 8542
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dreamlonglll-mini-term.yml`
-- **URL**: https://github.com/dreamlonglll/mini-term/releases/download/v0.6.5/Mini-Term_0.6.5_x64-setup.exe
+- **URL**: https://github.com/dreamlonglll/mini-term/releases/download/v0.6.6/Mini-Term_0.6.6_x64-setup.exe
 
 #### dreamsourcelab-dsview
 
@@ -27966,7 +27966,7 @@ Total entries processed: 8542
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/bylxysrsqnc3trwzdttwkedakq_152.0.7931.0/152.0.7931.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/c7teygmah4r72ey7eybnyyvgcu_152.0.7932.0/152.0.7932.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -29235,7 +29235,7 @@ Total entries processed: 8542
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hanshutx-nezha.yml`
-- **URL**: https://github.com/hanshuaikang/nezha/releases/download/v0.4.4/NeZha_0.4.4_x64-setup.exe
+- **URL**: https://github.com/hanshuaikang/nezha/releases/download/v0.4.5/NeZha_0.4.5_x64-setup.exe
 
 #### hanwha-wisenetwaveclient
 
@@ -30099,7 +30099,7 @@ Total entries processed: 8542
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hitalin-notedeck.yml`
-- **URL**: https://github.com/hitalin/notedeck/releases/download/v1.5.0/NoteDeck-1.5.0-windows-x64-setup.exe
+- **URL**: https://github.com/hitalin/notedeck/releases/download/v1.6.0/NoteDeck-1.6.0-windows-x64-setup.exe
 
 #### hitevision-hitepai6
 
@@ -33609,7 +33609,7 @@ Total entries processed: 8542
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jely2002-youtube-dl-gui.yml`
-- **URL**: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.0/Open.Video.Downloader_3.2.0_x64-setup.exe
+- **URL**: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_3.2.1_x64-setup.exe
 
 #### jens-duttke-usage-monitor-for-claude
 
@@ -33645,7 +33645,7 @@ Total entries processed: 8542
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jerrywu001-cc-sessions-viewer.yml`
-- **URL**: https://github.com/jerrywu001/cc-sessions-viewer/releases/download/v0.2.5/Sessions.Viewer_0.2.5_x64-setup.exe
+- **URL**: https://github.com/jerrywu001/cc-sessions-viewer/releases/download/v0.2.6/Sessions.Viewer_0.2.6_x64-setup.exe
 
 #### jeskola-buzz
 
@@ -35580,7 +35580,7 @@ Total entries processed: 8542
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-falkon.yml`
-- **URL**: https://cdn.kde.org/ci-builds/network/falkon/master/windows/falkon-master-2656-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/network/falkon/master/windows/falkon-master-2660-windows-cl-msvc2022-x86_64.exe
 
 #### kde-filelight
 
@@ -35697,7 +35697,7 @@ Total entries processed: 8542
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kate.yml`
-- **URL**: https://cdn.kde.org/ci-builds/utilities/kate/release-26.04/windows/kate-release_26.04-11979-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/utilities/kate/release-26.04/windows/kate-release_26.04-11986-windows-cl-msvc2022-x86_64.exe
 
 #### kde-katomic
 
@@ -36678,7 +36678,7 @@ Total entries processed: 8542
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kindel-mcec.yml`
-- **URL**: https://github.com/tig/mcec/releases/download/v3.0.16/mcec.Setup.exe
+- **URL**: https://github.com/tig/mcec/releases/download/v3.0.17/mcec.Setup.exe
 
 #### kindel-winprint
 
@@ -36696,7 +36696,7 @@ Total entries processed: 8542
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kindness-kismet-stelliberty.yml`
-- **URL**: https://github.com/Kindness-Kismet/stelliberty/releases/download/v2.0.0-beta3/stelliberty-v2.0.0-beta3-win-x64-setup.exe
+- **URL**: https://github.com/Kindness-Kismet/stelliberty/releases/download/v2.0.0-beta4/stelliberty-v2.0.0-beta4-win-x64-setup.exe
 
 #### kingpindev-vicesonar
 
@@ -37587,7 +37587,7 @@ Total entries processed: 8542
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lancommander-launcher.yml`
-- **URL**: https://github.com/LANCommander/LANCommander/releases/download/v2.1.6/LANCommander.Launcher-2.1.6-x64-Setup.exe
+- **URL**: https://github.com/LANCommander/LANCommander/releases/download/v2.1.7/LANCommander.Launcher-2.1.7-x64-Setup.exe
 
 #### lancommander-server
 
@@ -37596,7 +37596,7 @@ Total entries processed: 8542
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lancommander-server.yml`
-- **URL**: https://github.com/LANCommander/LANCommander/releases/download/v2.1.6/LANCommander.Server-2.1.6-x64-Setup.exe
+- **URL**: https://github.com/LANCommander/LANCommander/releases/download/v2.1.7/LANCommander.Server-2.1.7-x64-Setup.exe
 
 #### lando-lando
 
@@ -39027,7 +39027,7 @@ Total entries processed: 8542
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lookupfoundation-revitlookup-2021.yml`
-- **URL**: https://github.com/lookup-foundation/RevitLookup/releases/download/2027.0.2/RevitLookup-2021.5.2-SingleUser.msi
+- **URL**: https://github.com/lookup-foundation/RevitLookup/releases/download/2027.0.3/RevitLookup-2021.5.3-SingleUser.msi
 
 #### lookupfoundation-revitlookup-2022
 
@@ -39036,7 +39036,7 @@ Total entries processed: 8542
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lookupfoundation-revitlookup-2022.yml`
-- **URL**: https://github.com/lookup-foundation/RevitLookup/releases/download/2027.0.2/RevitLookup-2022.5.2-SingleUser.msi
+- **URL**: https://github.com/lookup-foundation/RevitLookup/releases/download/2027.0.3/RevitLookup-2022.5.3-SingleUser.msi
 
 #### lookupfoundation-revitlookup-2023
 
@@ -39045,7 +39045,7 @@ Total entries processed: 8542
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lookupfoundation-revitlookup-2023.yml`
-- **URL**: https://github.com/lookup-foundation/RevitLookup/releases/download/2027.0.2/RevitLookup-2023.5.2-SingleUser.msi
+- **URL**: https://github.com/lookup-foundation/RevitLookup/releases/download/2027.0.3/RevitLookup-2023.5.3-SingleUser.msi
 
 #### lookupfoundation-revitlookup-2024
 
@@ -39054,7 +39054,7 @@ Total entries processed: 8542
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lookupfoundation-revitlookup-2024.yml`
-- **URL**: https://github.com/lookup-foundation/RevitLookup/releases/download/2027.0.2/RevitLookup-2024.3.2-SingleUser.msi
+- **URL**: https://github.com/lookup-foundation/RevitLookup/releases/download/2027.0.3/RevitLookup-2024.3.3-SingleUser.msi
 
 #### lookupfoundation-revitlookup-2025
 
@@ -39063,7 +39063,7 @@ Total entries processed: 8542
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lookupfoundation-revitlookup-2025.yml`
-- **URL**: https://github.com/lookup-foundation/RevitLookup/releases/download/2027.0.2/RevitLookup-2025.2.2-SingleUser.msi
+- **URL**: https://github.com/lookup-foundation/RevitLookup/releases/download/2027.0.3/RevitLookup-2025.2.3-SingleUser.msi
 
 #### lookupfoundation-revitlookup-2026
 
@@ -39072,7 +39072,7 @@ Total entries processed: 8542
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lookupfoundation-revitlookup-2026.yml`
-- **URL**: https://github.com/lookup-foundation/RevitLookup/releases/download/2027.0.2/RevitLookup-2026.1.2-SingleUser.msi
+- **URL**: https://github.com/lookup-foundation/RevitLookup/releases/download/2027.0.3/RevitLookup-2026.1.3-SingleUser.msi
 
 #### lookupfoundation-revitlookup-2027
 
@@ -60375,7 +60375,7 @@ Total entries processed: 8542
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rorkai-asc.yml`
-- **URL**: https://github.com/rorkai/App-Store-Connect-CLI/releases/download/2.5.0/asc_2.5.0_windows_amd64.exe
+- **URL**: https://github.com/rorkai/App-Store-Connect-CLI/releases/download/2.5.1/asc_2.5.1_windows_amd64.exe
 
 #### roryok-poe-writer
 
@@ -64533,7 +64533,7 @@ Total entries processed: 8542
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sourcegraph-amp.yml`
-- **URL**: https://static.ampcode.com/cli/0.0.1783181941-g187572/amp-windows-x64-baseline.exe
+- **URL**: https://static.ampcode.com/cli/0.0.1783254279-ge7c178/amp-windows-x64-baseline.exe
 
 #### southrivertechnologies-webdrive
 
@@ -66792,7 +66792,7 @@ Total entries processed: 8542
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `t-troll-alienfxtools.yml`
-- **URL**: https://github.com/T-Troll/alienfx-tools/releases/download/9.6.1.1/alienfx-tools.msi
+- **URL**: https://github.com/T-Troll/alienfx-tools/releases/download/9.6.1.2/alienfx-tools.msi
 
 #### t1m0thyj-windynamicdesktop
 
@@ -73011,7 +73011,7 @@ Total entries processed: 8542
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `wangnov-codex-threadripper.yml`
-- **URL**: https://github.com/Wangnov/codex-threadripper/releases/download/v0.3.4/codex-threadripper-x86_64-pc-windows-msvc.msi
+- **URL**: https://github.com/Wangnov/codex-threadripper/releases/download/v0.3.5/codex-threadripper-x86_64-pc-windows-msvc.msi
 
 #### wangnov-codexappmanager
 
@@ -76485,7 +76485,7 @@ Total entries processed: 8542
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zhukunpenglinyutong-ccgui.yml`
-- **URL**: https://github.com/zhukunpenglinyutong/desktop-cc-gui/releases/download/v0.6.5/ccgui_0.6.5_x64-setup.exe
+- **URL**: https://github.com/zhukunpenglinyutong/desktop-cc-gui/releases/download/v0.6.6/ccgui_0.6.6_x64-setup.exe
 
 #### ziad-tcg
 
