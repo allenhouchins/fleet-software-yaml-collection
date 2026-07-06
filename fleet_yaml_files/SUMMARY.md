@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-07-06 10:01:06 UTC
+Generated on: 2026-07-06 19:46:19 UTC
 
 ## Summary
 
-Total entries processed: 8541
+Total entries processed: 8545
 - macOS files: 401
-- Windows files: 8140
+- Windows files: 8144
 
 ## Generated Files
 
@@ -1153,7 +1153,7 @@ Total entries processed: 8541
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `enpass.yml`
-- **URL**: https://dl.enpass.io/stable/mac/package/6.12.3.2597/Enpass.pkg
+- **URL**: https://dl.enpass.io/stable/mac/package/6.12.4.2629/Enpass.pkg
 
 #### entry
 
@@ -1549,7 +1549,7 @@ Total entries processed: 8541
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `jgrasp.yml`
-- **URL**: https://jgrasp.org/dl4g/jgrasp/jgrasp206_19.pkg
+- **URL**: https://jgrasp.org/dl4g/jgrasp/jgrasp210_01.pkg
 
 #### jitouch
 
@@ -8310,7 +8310,7 @@ Total entries processed: 8541
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `appbytroye-koodoreader.yml`
-- **URL**: https://dl.koodoreader.com/v2.3.8/Koodo-Reader-2.3.8-x64.exe
+- **URL**: https://dl.koodoreader.com/v2.3.9/Koodo-Reader-2.3.9-x64.exe
 
 #### appcontrollabs-appcontrolsetup
 
@@ -9527,6 +9527,15 @@ Total entries processed: 8541
 - **File**: `autodesk-desktopconnector.yml`
 - **URL**: https://up.autodesk.com/2017/CDX/AB4AADCC-F890-4B4F-A7A6-B0FBD2386796/DesktopConnector-x64-2027.1.0.59.exe
 
+#### autodesk-dwgtrueview-2027
+
+- **Source**: winget
+- **Name**: autodesk-dwgtrueview-2027
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `autodesk-dwgtrueview-2027.yml`
+- **URL**: https://upload2.delivery.autodesk.com/WebInstall3StubGUI-1781876152414.exe?response-content-disposition=attachment%3B%20filename%20%3D%22Autodesk_DWG_TrueView_2027_French_fr-FR_setup_webinstall.exe%22%20%3B%20filename%2A%3DUTF-8%27%27Autodesk_DWG_TrueView_2027_French_fr-FR_setup_webinstall.exe
+
 #### autodesk-eagle
 
 - **Source**: winget
@@ -10731,7 +10740,7 @@ Total entries processed: 8541
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `barracuda-secureedgeagent.yml`
-- **URL**: https://d.barracuda.com/SEA/SecureEdgeAgent_3.0.2-64_x64.msi
+- **URL**: https://d.barracuda.com/SEA/SecureEdgeAgent_3.0.3-38_x64.msi
 
 #### barrycarlyon-barrycarlyonextensiontools
 
@@ -15620,6 +15629,15 @@ Total entries processed: 8541
 - **File**: `chronoplexsoftware-myfamilytree.yml`
 - **URL**: https://chronoplexsoftware.com/myfamilytree/downloads/myfamilytree16.2.0.0x64.msi
 
+#### chronosphere-fluentbit
+
+- **Source**: winget
+- **Name**: chronosphere-fluentbit
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `chronosphere-fluentbit.yml`
+- **URL**: https://packages.fluentbit.io/windows/fluent-bit-5.0.7-win64.exe
+
 #### chrox-readest
 
 - **Source**: winget
@@ -16429,6 +16447,15 @@ Total entries processed: 8541
 - **Version**: 
 - **File**: `codeblocks-codeblocks.yml`
 - **URL**: https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/codeblocks-25.03-setup-nonadmin.exe/download
+
+#### codeby-rigstats
+
+- **Source**: winget
+- **Name**: codeby-rigstats
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `codeby-rigstats.yml`
+- **URL**: https://github.com/dvalfrid/rigstats/releases/download/v1.35.1/RIGStats_1.35.1_x64-setup.exe
 
 #### codecguide-k-litecodecpack-basic
 
@@ -34041,7 +34068,7 @@ Total entries processed: 8541
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jetbrains-rider-eap.yml`
-- **URL**: https://download.jetbrains.com/rider/JetBrains.Rider-2026.2-EAP8-262.8377.34.Checked.exe
+- **URL**: https://download.jetbrains.com/rider/JetBrains.Rider-2026.2-EAP9-262.8665.68.Checked.exe
 
 #### jetbrains-rider
 
@@ -34761,7 +34788,7 @@ Total entries processed: 8541
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `js8call-improved-js8call-improved.yml`
-- **URL**: https://github.com/JS8Call-improved/JS8Call-improved/releases/download/v3.0.1/JS8Call-3.0.1-installer.exe
+- **URL**: https://github.com/JS8Call-improved/JS8Call-improved/releases/download/v3.0.2/JS8Call-3.0.2-installer.exe
 
 #### jsfoundation-appium
 
@@ -35391,7 +35418,7 @@ Total entries processed: 8541
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kawayiyokami-p-ai.yml`
-- **URL**: https://github.com/kawayiYokami/P-ai/releases/download/v0.18.5/P-ai_0.18.5_x64-setup.exe
+- **URL**: https://github.com/kawayiYokami/P-ai/releases/download/v0.18.6/P-ai_0.18.6_x64-setup.exe
 
 #### kay-ou-simtradedesk
 
@@ -35535,7 +35562,7 @@ Total entries processed: 8541
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-chessament.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/chessament/master/windows/chessament-master-724-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/chessament/master/windows/chessament-master-727-windows-cl-msvc2022-x86_64.exe
 
 #### kde-crowtranslate
 
@@ -36678,7 +36705,7 @@ Total entries processed: 8541
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kindel-mcec.yml`
-- **URL**: https://github.com/tig/mcec/releases/download/v3.0.19/mcec.Setup.exe
+- **URL**: https://github.com/tig/mcec/releases/download/v3.0.20/mcec.Setup.exe
 
 #### kindel-winprint
 
@@ -36687,7 +36714,7 @@ Total entries processed: 8541
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kindel-winprint.yml`
-- **URL**: https://github.com/tig/winprint/releases/download/v3.0.8/Kindel.WinPrint-win-x64-Setup.exe
+- **URL**: https://github.com/tig/winprint/releases/download/v3.0.9/Kindel.WinPrint-win-x64-Setup.exe
 
 #### kindness-kismet-stelliberty
 
@@ -39405,7 +39432,7 @@ Total entries processed: 8541
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lukilabs-craft.yml`
-- **URL**: https://res.craft.do/windows-app/Craft%20Installer%203.5.8.exe
+- **URL**: https://res.craft.do/windows-app/Craft%20Installer%203.5.9.exe
 
 #### lumiowo-lumitracker
 
@@ -57855,7 +57882,7 @@ Total entries processed: 8541
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `qiyuey-bingwallpapernow.yml`
-- **URL**: https://github.com/qiyuey/bing-wallpaper-now/releases/download/1.5.0/Bing.Wallpaper.Now_1.5.0_x64_zh-CN.msi
+- **URL**: https://github.com/qiyuey/bing-wallpaper-now/releases/download/1.5.2/Bing.Wallpaper.Now_1.5.2_x64_zh-CN.msi
 
 #### ql-win-quicklook
 
@@ -60375,7 +60402,7 @@ Total entries processed: 8541
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rorkai-asc.yml`
-- **URL**: https://github.com/rorkai/App-Store-Connect-CLI/releases/download/2.5.1/asc_2.5.1_windows_amd64.exe
+- **URL**: https://github.com/rorkai/App-Store-Connect-CLI/releases/download/2.6.0/asc_2.6.0_windows_amd64.exe
 
 #### roryok-poe-writer
 
@@ -61222,6 +61249,15 @@ Total entries processed: 8541
 - **Version**: 
 - **File**: `saltstack-saltminion.yml`
 - **URL**: https://packages.broadcom.com/artifactory/saltproject-generic/windows/3008.2/Salt-Minion-3008.2-Py3-AMD64-Setup.exe
+
+#### salvatoresorvillo-vistacare
+
+- **Source**: winget
+- **Name**: salvatoresorvillo-vistacare
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `salvatoresorvillo-vistacare.yml`
+- **URL**: https://github.com/SalvatoreSorvillo/VistaCare/releases/download/v1.0.0/VistaCare.exe
 
 #### samsung-easyconnectiontoscreen
 
@@ -63543,7 +63579,7 @@ Total entries processed: 8541
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `slonopotamus-stevedore.yml`
-- **URL**: https://github.com/slonopotamus/stevedore/releases/download/3.3.1/stevedore-3.3.1-x86_64.msi
+- **URL**: https://github.com/slonopotamus/stevedore/releases/download/3.4.0/stevedore-3.4.0-x86_64.msi
 
 #### slp-studio-linuxpractice
 
@@ -64533,7 +64569,7 @@ Total entries processed: 8541
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sourcegraph-amp.yml`
-- **URL**: https://static.ampcode.com/cli/0.0.1783293536-g17072e/amp-windows-x64-baseline.exe
+- **URL**: https://static.ampcode.com/cli/0.0.1783315410-g29de81/amp-windows-x64-baseline.exe
 
 #### southrivertechnologies-webdrive
 
@@ -65820,7 +65856,7 @@ Total entries processed: 8541
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `streetwriters-notesnook.yml`
-- **URL**: https://github.com/streetwriters/notesnook/releases/download/v3.4.2/notesnook_win_x64.exe
+- **URL**: https://github.com/streetwriters/notesnook/releases/download/v3.4.3/notesnook_win_x64.exe
 
 #### stremio-stremio-beta
 
@@ -66864,7 +66900,7 @@ Total entries processed: 8541
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tableclothproject-tablecloth.yml`
-- **URL**: https://github.com/yourtablecloth/TableCloth/releases/download/v1.20.4/TableCloth_1.20.4.0_Release_x64.exe
+- **URL**: https://github.com/yourtablecloth/TableCloth/releases/download/v1.20.5/TableCloth_1.20.5.0_Release_x64.exe
 
 #### tableplus-tableplus
 
@@ -67926,7 +67962,7 @@ Total entries processed: 8541
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-ima-copilot.yml`
-- **URL**: https://app-dl.ima.qq.com/win_channel/ima.copilot_win_x64_1018_2.5.7_4521.exe
+- **URL**: https://app-dl.ima.qq.com/win_channel/ima.copilot_win_x64_1018_2.6.0_4645.exe
 
 #### tencent-qclaw
 
@@ -72129,7 +72165,7 @@ Total entries processed: 8541
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vivaldi-vivaldi-snapshot.yml`
-- **URL**: https://downloads.vivaldi.com/snapshot/Vivaldi.8.1.4087.32.x64.exe
+- **URL**: https://downloads.vivaldi.com/snapshot/Vivaldi.8.1.4087.40.x64.exe
 
 #### vivaldi-vivaldi
 
@@ -73740,7 +73776,7 @@ Total entries processed: 8541
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `willibrandon-scout.yml`
-- **URL**: https://github.com/willibrandon/scout/releases/download/v0.4.1/scout-win-x64.msi
+- **URL**: https://github.com/willibrandon/scout/releases/download/v0.4.2/scout-win-x64.msi
 
 #### willnewii-qiniuclient
 
