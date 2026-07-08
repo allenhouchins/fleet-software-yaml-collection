@@ -1,4 +1,4 @@
-url: https://cdn.posit.co/positron/releases/win/x86_64/Positron-2026.07.0-365-UserSetup-x64.exe
+url: https://github.com/quacomes-cli/axiom/releases/download/v0.1.82/Axiom_0.1.82_x64-setup.exe
 automatic_install: false
 self_service: false
 categories: []
