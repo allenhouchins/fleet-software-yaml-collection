@@ -1,4 +1,4 @@
-url: https://definitionupdates.microsoft.com/packages/content/msert.exe?packageType=Scanner&packageVersion=1.455.81.0&arch=amd64
+url: https://github.com/burkeholland/resize-me/releases/download/v0.2.0-windows/ResizeMe-windows-amd64.exe
 automatic_install: false
 self_service: false
 categories: []
