@@ -1,4 +1,4 @@
-url: https://github.com/ParetoSecurity/agent/releases/download/0.2.38/paretosecurity-installer-amd64.exe
+url: https://github.com/ParetoSecurity/agent/releases/download/0.3.21/paretosecurity-installer-amd64.exe
 automatic_install: false
 self_service: false
 categories: []
