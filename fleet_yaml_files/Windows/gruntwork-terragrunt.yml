@@ -1,4 +1,4 @@
-url: https://github.com/gruntwork-io/terragrunt/releases/download/v1.1.0/terragrunt_windows_amd64.exe
+url: https://github.com/gruntwork-io/terragrunt/releases/download/v1.1.1/terragrunt_windows_amd64.exe
 automatic_install: false
 self_service: false
 categories: []
