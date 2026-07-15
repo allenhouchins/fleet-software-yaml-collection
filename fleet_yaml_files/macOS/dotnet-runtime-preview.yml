@@ -1,4 +1,4 @@
-url: https://builds.dotnet.microsoft.com/dotnet/Runtime/11.0.0-preview.5.26302.115/dotnet-runtime-11.0.0-preview.5.26302.115-osx-arm64.pkg
+url: https://builds.dotnet.microsoft.com/dotnet/Runtime/11.0.0-preview.6.26359.118/dotnet-runtime-11.0.0-preview.6.26359.118-osx-arm64.pkg
 automatic_install: false
 self_service: false
 categories: []
