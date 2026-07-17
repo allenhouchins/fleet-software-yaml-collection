@@ -1,4 +1,4 @@
-url: https://github.com/OpenWhispr/openwhispr/releases/download/v1.7.3/OpenWhispr-Setup-1.7.3.exe
+url: https://github.com/OpenWhispr/openwhispr/releases/latest/download/OpenWhispr-Setup-1.7.5.exe
 automatic_install: false
 self_service: false
 categories: []
