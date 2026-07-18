@@ -1,4 +1,4 @@
-url: https://releases.zine.la/lattics/win/Lattics_win_installer_x64_4.0.0.exe
+url: https://github.com/LoxSmoke/openlogi-net/releases/download/v0.8.0/OpenLogi.net-0.8.0-setup.exe
 automatic_install: false
 self_service: false
 categories: []
