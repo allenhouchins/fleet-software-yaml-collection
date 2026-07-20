@@ -1,4 +1,4 @@
-url: https://github.com/grafana/alloy/releases/download/v1.18.0/alloy-installer-windows-amd64.exe
+url: https://github.com/hebrew-translation-hub/translation-launcher/releases/download/v1.1.0-beta/TranslationManager-Setup-1.1.0.exe
 automatic_install: false
 self_service: false
 categories: []
