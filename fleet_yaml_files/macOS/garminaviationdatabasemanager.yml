@@ -1,4 +1,4 @@
-url: https://download.oracle.com/java/25/archive/jdk-25.0.4_windows-x64_bin.msi
+url: $(curl -fs "https://fly.garmin.com/fly-garmin/garmin-aviation-database-manager/" | grep -Eo "https://static.garmin.com/apps/fly/files/desktop/mac[^\"']*garminAvnDbManagerSetup_[0-9]+(\\.[0-9]+)*\\.pkg" | head -n1)
 automatic_install: false
 self_service: false
 categories: []
