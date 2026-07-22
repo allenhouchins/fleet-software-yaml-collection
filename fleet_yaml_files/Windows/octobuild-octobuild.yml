@@ -1,4 +1,4 @@
-url: https://github.com/octobuild/octobuild/releases/download/1.8.1/octobuild-1.8.1-x86_64.msi
+url: https://github.com/octobuild/octobuild/releases/download/1.9.2/octobuild-1.9.2-x86_64.msi
 automatic_install: false
 self_service: false
 categories: []

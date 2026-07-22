@@ -1,4 +1,4 @@
-url: https://cdn.kde.org/ci-builds/games/ktuberling/master/windows/ktuberling-master-994-windows-cl-msvc2022-x86_64.exe
+url: https://github.com/SteveWeed79/palctl/releases/download/1.0.0/palctl-setup.exe
 automatic_install: false
 self_service: false
 categories: []
