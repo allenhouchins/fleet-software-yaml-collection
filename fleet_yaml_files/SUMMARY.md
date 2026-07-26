@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-07-25 18:57:25 UTC
+Generated on: 2026-07-26 08:13:12 UTC
 
 ## Summary
 
@@ -13206,7 +13206,7 @@ Total entries processed: 8782
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `blitz-blitz.yml`
-- **URL**: https://blitz-main.blitz.gg/Blitz-2.1.602.exe
+- **URL**: https://blitz-main.blitz.gg/Blitz-2.1.603.exe
 
 #### blix-bluemail
 
@@ -20082,7 +20082,7 @@ Total entries processed: 8782
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `desktopplus-desktopplus.yml`
-- **URL**: https://github.com/desktop-plus/desktop-plus/releases/download/v3.6.3.1/DesktopPlus-v3.6.3.1-windows-x64.exe
+- **URL**: https://github.com/desktop-plus/desktop-plus/releases/download/v3.6.4.0/DesktopPlus-v3.6.4.0-windows-x64.exe
 
 #### desowin-usbpcap
 
@@ -23736,7 +23736,7 @@ Total entries processed: 8782
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `epatels-ckimagepdfreducer.yml`
-- **URL**: https://github.com/epatels/ck-image-pdf-reducer/releases/download/v4.0.0/CKImagePDFReducerSetup.exe
+- **URL**: https://github.com/epatels/ck-image-pdf-reducer/releases/download/v4.0.1/CKImagePDFReducerSetup.exe
 
 #### epatels-ckpdfunlocker
 
@@ -28704,7 +28704,7 @@ Total entries processed: 8782
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/acrg6snm5ptalnflwcgs656tj5ua_152.0.7971.0/152.0.7971.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/n637qapnpkci3n5mvo65oksfda_152.0.7972.0/152.0.7972.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -30207,7 +30207,7 @@ Total entries processed: 8782
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `heartached-noctis.yml`
-- **URL**: https://github.com/heartached/Noctis/releases/download/v1.3.3/Noctis-v1.3.3-Setup.exe
+- **URL**: https://github.com/heartached/Noctis/releases/download/v1.3.5/Noctis-v1.3.5-Setup.exe
 
 #### heartbeatchat-heartbeat
 
@@ -40449,7 +40449,7 @@ Total entries processed: 8782
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lucasdeeiroz-robotrunner.yml`
-- **URL**: https://github.com/lucasdeeiroz/robot_runner/releases/download/v2.3.3-beta6/Robot.Runner_2.3.3-beta6_windows_x64-setup.exe
+- **URL**: https://github.com/lucasdeeiroz/robot_runner/releases/download/v3.0.0-alpha1/Robot.Runner_3.0.0-alpha1_windows_x64-setup.exe
 
 #### lucasreade-ohhaibrowser
 
@@ -52293,7 +52293,7 @@ Total entries processed: 8782
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nitichote-dev-thaikeyfix.yml`
-- **URL**: https://github.com/nchotenin-tech/thaikeyfix/releases/download/v0.2.0/thaikeyfix-v0.2.0-x64.exe
+- **URL**: https://github.com/nchotenin-tech/thaikeyfix/releases/download/v0.3.0/thaikeyfix-v0.3.0-x64.exe
 
 #### nitrokeygmbh-nitrokey-app
 
@@ -52446,7 +52446,7 @@ Total entries processed: 8782
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nofaff-installerclean.yml`
-- **URL**: https://github.com/no-faff/InstallerClean/releases/download/v2.2.0/InstallerClean-2.2.0-setup.exe
+- **URL**: https://github.com/no-faff/InstallerClean/releases/download/v2.3.0/InstallerClean-2.3.0-setup.exe
 
 #### noguia-lockbox
 
@@ -54939,7 +54939,7 @@ Total entries processed: 8782
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `openwong2kim-wmux.yml`
-- **URL**: https://github.com/openwong2kim/wmux/releases/download/v3.33.0/wmux-3.33.0.Setup.exe
+- **URL**: https://github.com/openwong2kim/wmux/releases/download/v3.35.0/wmux-3.35.0.Setup.exe
 
 #### openwong2kim-wsnap
 
@@ -55272,7 +55272,7 @@ Total entries processed: 8782
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `orcasvn-orcasvn.yml`
-- **URL**: https://github.com/wustites/OrcaSVN/releases/download/v0.4.9/OrcaSVN_0.4.9_x64-setup.exe
+- **URL**: https://github.com/wustites/OrcaSVN/releases/download/v0.5.0/OrcaSVN_0.5.0_x64-setup.exe
 
 #### orica-shotplus-tunnel
 
@@ -60519,7 +60519,7 @@ Total entries processed: 8782
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `recol-dlssupdater.yml`
-- **URL**: https://github.com/Recol/DLSS-Updater/releases/download/V4.4.3/DLSS.Updater.4.4.3.msi
+- **URL**: https://github.com/Recol/DLSS-Updater/releases/download/V4.5.1/DLSS.Updater.4.5.1.msi
 
 #### recoupler-audiobookconverter
 
@@ -60555,7 +60555,7 @@ Total entries processed: 8782
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `redeyenetworks-hopmatrix.yml`
-- **URL**: https://download.redeyenetworks.com/hopmatrix/releases/1.8.2/HopMatrix-win-x64-setup.exe
+- **URL**: https://download.redeyenetworks.com/hopmatrix/releases/1.8.4/HopMatrix-win-x64-setup.exe
 
 #### redeyenetworks-logivore
 
@@ -61014,7 +61014,7 @@ Total entries processed: 8782
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `retang-sysoverlay.yml`
-- **URL**: https://github.com/dsmontero2001/sysoverlay-releases/releases/download/v0.1.39/SysOverlay_0.1.39_x64-setup.exe
+- **URL**: https://github.com/dsmontero2001/sysoverlay-releases/releases/download/v0.1.41/SysOverlay_0.1.41_x64-setup.exe
 
 #### retroshare-retroshare
 
@@ -62076,7 +62076,7 @@ Total entries processed: 8782
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rorkai-asc.yml`
-- **URL**: https://github.com/rorkai/App-Store-Connect-CLI/releases/download/3.1.1/asc_3.1.1_windows_amd64.exe
+- **URL**: https://github.com/rorkai/App-Store-Connect-CLI/releases/download/3.1.2/asc_3.1.2_windows_amd64.exe
 
 #### roryok-poe-writer
 
@@ -64173,7 +64173,7 @@ Total entries processed: 8782
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-07-24/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-07-25/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -65001,7 +65001,7 @@ Total entries processed: 8782
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `simonschubert-kai.yml`
-- **URL**: https://github.com/SimonSchubert/Kai/releases/download/v2.8.3/Kai-2.8.3-windows.msi
+- **URL**: https://github.com/SimonSchubert/Kai/releases/download/v2.9.0/Kai-2.9.0-windows.msi
 
 #### simontatham-puzzles
 
@@ -66333,7 +66333,7 @@ Total entries processed: 8782
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sourcegraph-amp.yml`
-- **URL**: https://static.ampcode.com/cli/0.0.1784996198-gd115de/amp-windows-x64-baseline.exe
+- **URL**: https://static.ampcode.com/cli/0.0.1785025152-g56c26c/amp-windows-x64-baseline.exe
 
 #### southrivertechnologies-webdrive
 
@@ -67431,7 +67431,7 @@ Total entries processed: 8782
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `stevethekiller-killerscan.yml`
-- **URL**: https://github.com/SteveTheKiller/KillerScan/releases/download/v1.5.3/KillerScan.exe
+- **URL**: https://github.com/SteveTheKiller/KillerScan/releases/download/v1.5.4/KillerScan.exe
 
 #### steveweed79-palctl
 
@@ -67827,7 +67827,7 @@ Total entries processed: 8782
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `substratesystems-endstate.yml`
-- **URL**: https://github.com/Artexis10/endstate-gui/releases/download/gui-v3.8.0/Endstate_3.8.0_x64_en-US.msi
+- **URL**: https://github.com/Artexis10/endstate-gui/releases/download/gui-v3.8.1/Endstate_3.8.1_x64_en-US.msi
 
 #### subsurface-subsurface
 
@@ -68286,7 +68286,7 @@ Total entries processed: 8782
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sylvainrougeaux-echosync.yml`
-- **URL**: https://api.luminescence-software.org/download.php?software=echosync&installer=msi&version=9011
+- **URL**: https://api.luminescence-software.org/download.php?software=echosync&installer=msi&version=9012
 
 #### sylvainrougeaux-metatogger
 
@@ -68295,7 +68295,7 @@ Total entries processed: 8782
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sylvainrougeaux-metatogger.yml`
-- **URL**: https://api.luminescence-software.org/download.php?software=metatogger&installer=msi&version=7720
+- **URL**: https://api.luminescence-software.org/download.php?software=metatogger&installer=msi&version=7721
 
 #### sylviiu-ezytdl
 
@@ -68700,7 +68700,7 @@ Total entries processed: 8782
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tableclothproject-tablecloth.yml`
-- **URL**: https://github.com/yourtablecloth/TableCloth/releases/download/v1.20.6/TableCloth_1.20.6.0_Release_x64.exe
+- **URL**: https://github.com/yourtablecloth/TableCloth/releases/download/v1.20.7/TableCloth_1.20.7.0_Release_x64.exe
 
 #### tableplus-tableplus
 
@@ -73209,7 +73209,7 @@ Total entries processed: 8782
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `unpaved028-cliptyper.yml`
-- **URL**: https://github.com/unpaved028/ClipTyper/releases/download/v1.4.1/ClipTyper-Setup.exe
+- **URL**: https://github.com/unpaved028/ClipTyper/releases/download/v1.5.0/ClipTyper-Setup.exe
 
 #### untis-untis-2025
 
@@ -73947,7 +73947,7 @@ Total entries processed: 8782
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0853/gvim_9.2.0853_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.0856/gvim_9.2.0856_x64.exe
 
 #### vim-vim
 
@@ -74154,7 +74154,7 @@ Total entries processed: 8782
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vkbo-novelwriter.yml`
-- **URL**: https://github.com/vkbo/novelWriter/releases/download/v26.1.1/novelwriter-26.1.1-amd64-setup.exe
+- **URL**: https://github.com/vkbo/novelWriter/releases/download/v26.1.2/novelwriter-26.1.2-amd64-setup.exe
 
 #### vkontakte-vkmessenger
 
@@ -77718,7 +77718,7 @@ Total entries processed: 8782
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `y-aslant-elegantclipboard.yml`
-- **URL**: https://github.com/Y-ASLant/ElegantClipboard/releases/download/v1.2.4/ElegantClipboard_1.2.4_x64-setup.exe
+- **URL**: https://github.com/Y-ASLant/ElegantClipboard/releases/download/v1.2.6/ElegantClipboard_1.2.6_x64-setup.exe
 
 #### y2z-monolith
 
