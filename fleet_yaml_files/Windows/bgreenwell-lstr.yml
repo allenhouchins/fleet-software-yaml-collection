@@ -1,4 +1,4 @@
-url: https://developers.yubico.com/yubikey-manager-qt/Releases/yubikey-manager-qt-1.2.5-mac.pkg
+url: https://github.com/bgreenwell/lstr/releases/download/v0.3.0/lstr-x86_64-pc-windows-msvc.msi
 automatic_install: false
 self_service: false
 categories: []
