@@ -1,4 +1,4 @@
-url: https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.0.1/win64/cy/Firefox%20Setup%20153.0.1.exe
+url: https://github.com/modrexio/modrex/releases/download/v0.12.2/modrex_x86_64.exe
 automatic_install: false
 self_service: false
 categories: []
