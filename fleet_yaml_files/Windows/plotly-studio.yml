@@ -1,4 +1,4 @@
-url: https://plotly-cloud-production-desktop-installer-bucket.s3.amazonaws.com/plotly_studio_x64_v0.0.83.msi
+url: https://plotly-cloud-production-desktop-installer-bucket.s3.amazonaws.com/plotly_studio_x64_no_update_v0.0.85.msi
 automatic_install: false
 self_service: false
 categories: []
