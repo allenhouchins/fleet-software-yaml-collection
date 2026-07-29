@@ -1,4 +1,4 @@
-url: https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31+11/OpenJDK11U-jdk_x64_windows_hotspot_11.0.31_11.msi
+url: https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32+9/OpenJDK11U-jdk_x64_windows_hotspot_11.0.32_9.msi
 automatic_install: false
 self_service: false
 categories: []
