@@ -1,4 +1,4 @@
-url: https://github.com/ibmruntimes/semeru26-binaries/releases/download/jdk-26.0.1.0/ibm-semeru-open-jdk_x64_windows_26.0.1.0.msi
+url: https://github.com/ibmruntimes/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jdk_x64_windows_26.0.2.0.msi
 automatic_install: false
 self_service: false
 categories: []
