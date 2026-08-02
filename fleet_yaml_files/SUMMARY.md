@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-08-02 08:10:20 UTC
+Generated on: 2026-08-02 18:59:43 UTC
 
 ## Summary
 
@@ -6141,7 +6141,7 @@ Total entries processed: 8906
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `alibaba-opencodereview.yml`
-- **URL**: https://github.com/alibaba/open-code-review/releases/download/v1.8.4/opencodereview-windows-amd64.exe
+- **URL**: https://github.com/alibaba/open-code-review/releases/download/v1.8.5/opencodereview-windows-amd64.exe
 
 #### alibaba-qianwen
 
@@ -6159,7 +6159,7 @@ Total entries processed: 8906
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `alibaba-qoder.yml`
-- **URL**: https://qoder-ide.oss-accelerate.aliyuncs.com/release/1.21.1/QoderUserSetup-x64.exe
+- **URL**: https://qoder-ide.oss-accelerate.aliyuncs.com/release/1.21.2/QoderUserSetup-x64.exe
 
 #### alibaba-qoderwork
 
@@ -19110,7 +19110,7 @@ Total entries processed: 8906
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dais-dais.yml`
-- **URL**: https://github.com/Dais-Project/Dais/releases/download/app-v0.13.4/Dais_0.13.4_x64-setup.exe
+- **URL**: https://github.com/Dais-Project/Dais/releases/download/app-v0.13.5/Dais_0.13.5_x64-setup.exe
 
 #### daltonmenezes-electron-screen-recorder
 
@@ -19776,7 +19776,7 @@ Total entries processed: 8906
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dbmobile-resonance.yml`
-- **URL**: https://github.com/db-mobile/resonance/releases/download/v3.1.6/Resonance_3.1.6_x64-setup.exe
+- **URL**: https://github.com/db-mobile/resonance/releases/download/v3.1.7/Resonance_3.1.7_x64-setup.exe
 
 #### dbrgn-tealdeer
 
@@ -23925,7 +23925,7 @@ Total entries processed: 8906
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `enter-tainer-typstyle.yml`
-- **URL**: https://github.com/typstyle-rs/typstyle/releases/download/v0.15.0/typstyle-x86_64-pc-windows-msvc.exe
+- **URL**: https://github.com/typstyle-rs/typstyle/releases/download/v0.15.1/typstyle-x86_64-pc-windows-msvc.exe
 
 #### entropiq-agent
 
@@ -29073,7 +29073,7 @@ Total entries processed: 8906
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/acucv5xq2wptwoqvrcqx5423lv2a_153.0.7985.0/153.0.7985.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/ad7miuakrabxtbsqs6jmixb57hya_153.0.7986.0/153.0.7986.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -32979,7 +32979,7 @@ Total entries processed: 8906
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `inferencehub-inferencehub.yml`
-- **URL**: https://github.com/InferenceHub/inferencehub-desktop/releases/download/v0.2.18/InferenceHub_0.2.18_x64-setup.exe
+- **URL**: https://github.com/InferenceHub/inferencehub-desktop/releases/download/v0.2.19/InferenceHub_0.2.19_x64-setup.exe
 
 #### infiniact-iaterm
 
@@ -35922,7 +35922,7 @@ Total entries processed: 8906
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jmrplens-gitlab-mcp-server.yml`
-- **URL**: https://github.com/jmrplens/gitlab-mcp-server/releases/download/v2.6.0/gitlab-mcp-server-windows-amd64.exe
+- **URL**: https://github.com/jmrplens/gitlab-mcp-server/releases/download/v2.6.1/gitlab-mcp-server-windows-amd64.exe
 
 #### jnizm-hashcalc
 
@@ -36498,7 +36498,7 @@ Total entries processed: 8906
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `justhil-pidesktop.yml`
-- **URL**: https://github.com/justhil/pi-app/releases/download/v0.5.4/pi.Desktop-Setup-0.5.4-x64.exe
+- **URL**: https://github.com/justhil/pi-app/releases/download/v0.5.5/pi.Desktop-Setup-0.5.5-x64.exe
 
 #### justin025-onthespot
 
@@ -38289,7 +38289,7 @@ Total entries processed: 8906
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kingsoft-wpsoffice-x64.yml`
-- **URL**: https://official-package.wpscdn.cn/wps/download/WPS_Setup_x64_26884.exe
+- **URL**: https://official-package.wpscdn.cn/wps/download/WPS_Setup_x64_28022.exe
 
 #### kingston-ssdmanager
 
@@ -39522,7 +39522,7 @@ Total entries processed: 8906
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lbjlaq-antigravitytools.yml`
-- **URL**: https://github.com/lbjlaq/Antigravity-Manager/releases/download/v4.4.9/Antigravity.Tools_4.4.9_x64-setup.exe
+- **URL**: https://github.com/lbjlaq/Antigravity-Manager/releases/download/v4.5.0/Antigravity.Tools_4.5.0_x64-setup.exe
 
 #### lbry-lbry
 
@@ -41322,7 +41322,7 @@ Total entries processed: 8906
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lunasans-movieshelf.yml`
-- **URL**: https://github.com/lunasans/movieshelf-desktop/releases/download/v0.22.0/MovieShelf-Setup-0.22.0.exe
+- **URL**: https://github.com/lunasans/movieshelf-desktop/releases/download/v0.24.0/MovieShelf-Setup-0.24.0.exe
 
 #### lunasans-nmailclient
 
@@ -51627,7 +51627,7 @@ Total entries processed: 8906
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nashsu-llmwiki.yml`
-- **URL**: https://github.com/nashsu/llm_wiki/releases/download/v0.6.6/LLM.Wiki_0.6.6_x64-setup.exe
+- **URL**: https://github.com/nashsu/llm_wiki/releases/download/v0.6.7/LLM.Wiki_0.6.7_x64-setup.exe
 
 #### nasiridrishi-yank
 
@@ -51933,7 +51933,7 @@ Total entries processed: 8906
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `neelabo-neeview.yml`
-- **URL**: https://github.com/neelabo/NeeView/releases/download/46.1/NeeView46.1.msi
+- **URL**: https://github.com/neelabo/NeeView/releases/download/46.2/NeeView46.2.msi
 
 #### neemb-distill
 
@@ -52923,7 +52923,7 @@ Total entries processed: 8906
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nihitdev-yoo.yml`
-- **URL**: https://github.com/nihitdev/yo-cli/releases/download/v0.6.6/yoo-windows-x86_64.exe
+- **URL**: https://github.com/nihitdev/yo-cli/releases/download/v0.9.0/yoo-windows-x86_64.exe
 
 #### niimbot-niimbot
 
@@ -54858,7 +54858,7 @@ Total entries processed: 8906
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `oo-software-safeerase-professional.yml`
-- **URL**: https://package.oo-software.com/winget/safeerase/19.5.1078/oosafeerase_19.5.1078_pro_eng_x64.msi
+- **URL**: https://package.oo-software.com/winget/safeerase/21.3.26142/oosafeerase_21.3.26142_pro_eng_x64.msi
 
 #### oo-software-safeerase-server
 
@@ -54867,7 +54867,7 @@ Total entries processed: 8906
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `oo-software-safeerase-server.yml`
-- **URL**: https://package.oo-software.com/winget/safeerase/19.5.1078/oosafeerase_19.5.1078_server_eng_x64.msi
+- **URL**: https://package.oo-software.com/winget/safeerase/21.3.26142/oosafeerase_21.3.26142_server_eng_x64.msi
 
 #### oo-software-shutup10-premium
 
@@ -55497,7 +55497,7 @@ Total entries processed: 8906
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `openrct2-openrct2.yml`
-- **URL**: https://github.com/OpenRCT2/OpenRCT2/releases/download/v0.5.3/OpenRCT2-v0.5.3-windows-installer-x64.exe
+- **URL**: https://github.com/OpenRCT2/OpenRCT2/releases/download/v0.5.4/OpenRCT2-v0.5.4-windows-installer-x64.exe
 
 #### openrefine-openrefine
 
@@ -57396,7 +57396,7 @@ Total entries processed: 8906
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `peters-horizon.yml`
-- **URL**: https://github.com/peters/horizon/releases/download/v0.2.6/horizon-windows-x64.exe
+- **URL**: https://github.com/peters/horizon/releases/download/v0.2.7/horizon-windows-x64.exe
 
 #### peterstrick-vivetool-gui
 
@@ -60375,7 +60375,7 @@ Total entries processed: 8906
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `qmplay2-qmplay2.yml`
-- **URL**: https://github.com/zaps166/QMPlay2/releases/download/26.06.27/QMPlay2-Win64-26.06.27-v2.exe
+- **URL**: https://github.com/zaps166/QMPlay2/releases/download/26.08.02/QMPlay2-Win64-26.08.02.exe
 
 #### qnap-externalraidmanager
 
@@ -63021,7 +63021,7 @@ Total entries processed: 8906
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `roxybrowser-roxybrowser.yml`
-- **URL**: https://sgp1.vultrobjects.com/roxybrowseross/public/package/app/Windows/64/3.9.2/RoxyBrowser_x64_3.9.2.exe
+- **URL**: https://sgp1.vultrobjects.com/roxybrowseross/public/package/app/Windows/64/4.0.0/RoxyBrowser_x64_4.0.0.exe
 
 #### royalapps-royalserver
 
@@ -67296,7 +67296,7 @@ Total entries processed: 8906
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sourcegraph-amp.yml`
-- **URL**: https://static.ampcode.com/cli/0.0.1785646934-g35813b/amp-windows-x64-baseline.exe
+- **URL**: https://static.ampcode.com/cli/0.0.1785687550-g686ee1/amp-windows-x64-baseline.exe
 
 #### southrivertechnologies-webdrive
 
@@ -69600,7 +69600,7 @@ Total entries processed: 8906
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sztheory-exifcleaner.yml`
-- **URL**: https://github.com/szTheory/exifcleaner/releases/download/v4.0.0/ExifCleaner.Setup.4.0.0.exe
+- **URL**: https://github.com/szTheory/exifcleaner/releases/download/v4.0.1/ExifCleaner.Setup.4.0.1.exe
 
 #### t-troll-alienfxtools
 
@@ -72318,7 +72318,7 @@ Total entries processed: 8906
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tinyrack-dotweave.yml`
-- **URL**: https://github.com/tinyrack-net/dotweave/releases/download/v2.2.0/dotweave-win-x64.exe
+- **URL**: https://github.com/tinyrack-net/dotweave/releases/download/v2.3.0/dotweave-win-x64.exe
 
 #### tinyrack-proxer
 
@@ -72696,7 +72696,7 @@ Total entries processed: 8906
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `topalasoftwaresolutions-siw.yml`
-- **URL**: https://www.gtopala.com/download/20260714/siwtrial-setup.exe
+- **URL**: https://www.gtopala.com/download/20260802/siwtrial-setup.exe
 
 #### topazlabs-topazdenoiseai
 
@@ -76008,7 +76008,7 @@ Total entries processed: 8906
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `walles-moor.yml`
-- **URL**: https://github.com/walles/moor/releases/download/v2.16.1/moor-v2.16.1-windows-amd64.exe
+- **URL**: https://github.com/walles/moor/releases/download/v2.16.2/moor-v2.16.2-windows-amd64.exe
 
 #### waltrone-mousekeeper
 
@@ -76818,7 +76818,7 @@ Total entries processed: 8906
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `willibrandon-scout.yml`
-- **URL**: https://github.com/willibrandon/scout/releases/download/v0.6.0/scout-win-x64.msi
+- **URL**: https://github.com/willibrandon/scout/releases/download/v0.6.1/scout-win-x64.msi
 
 #### willnewii-qiniuclient
 
@@ -76917,7 +76917,7 @@ Total entries processed: 8906
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `windirstat-windirstat.yml`
-- **URL**: https://github.com/windirstat/windirstat/releases/download/release/v2.7.0/WinDirStat-x64.msi
+- **URL**: https://github.com/windirstat/windirstat/releases/download/release/v2.8.0/WinDirStat-x64.msi
 
 #### windscribe-windscribe
 
@@ -78204,7 +78204,7 @@ Total entries processed: 8906
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xiaocang-easydictforwindows.yml`
-- **URL**: https://github.com/xiaocang/easydict_win32/releases/download/v0.8.8/Easydict-v0.8.8-x64-setup.unsigned.exe
+- **URL**: https://github.com/xiaocang/easydict_win32/releases/download/v0.8.9/Easydict-v0.8.9-x64-setup.unsigned.exe
 
 #### xiaolan-codexaccountswitch
 
@@ -79005,7 +79005,7 @@ Total entries processed: 8906
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yetone-alma.yml`
-- **URL**: https://updates.alma.now/alma-0.0.926-win-x64.exe
+- **URL**: https://updates.alma.now/alma-0.0.928-win-x64.exe
 
 #### yetone-nextaitranslator
 
@@ -79500,7 +79500,7 @@ Total entries processed: 8906
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zedindustries-zed-preview.yml`
-- **URL**: https://github.com/zed-industries/zed/releases/download/v1.14.1-pre/Zed-x86_64.exe
+- **URL**: https://github.com/zed-industries/zed/releases/download/v1.14.2-pre/Zed-x86_64.exe
 
 #### zedindustries-zed
 
