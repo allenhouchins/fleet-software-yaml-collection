@@ -1,4 +1,4 @@
-url: https://github.com/changepacks/changepacks/releases/download/changepacks(crates%2Fchangepacks%2FCargo.toml)%400.2.4/changepacks-windows-x86_64.exe
+url: https://github.com/changepacks/changepacks/releases/download/changepacks(crates/changepacks/Cargo.toml)@0.3.3/changepacks-windows-x86_64.exe
 automatic_install: false
 self_service: false
 categories: []

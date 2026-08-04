@@ -1,4 +1,4 @@
-url: https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.1%2B8/OpenJDK26U-jdk_aarch64_mac_hotspot_26.0.1_8.pkg
+url: https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2%2B10/OpenJDK26U-jdk_aarch64_mac_hotspot_26.0.2_10.pkg
 automatic_install: false
 self_service: false
 categories: []
