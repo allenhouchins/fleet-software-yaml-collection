@@ -1,4 +1,4 @@
-url: https://dist.neo4j.org/neo4j-desktop/win-offline/Neo4j%20Desktop%20Setup%201.6.3.exe
+url: https://dist.neo4j.org/neo4j-desktop-2/win/neo4j-desktop-2.2.1-x64.exe
 automatic_install: false
 self_service: false
 categories: []
