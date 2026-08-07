@@ -1,0 +1,7 @@
+url: https://package.oo-software.com/winget/diskimage/22.6.1231/oodiskimage_22.6.1231_premium_eng_x64.msi
+automatic_install: false
+self_service: false
+categories: []
+
+# Categories are currently limited to Browsers, Communication, Developer tools, and Productivity.
+# This is a minimum version of this file. All configurable parameters can be seen at https://fleetdm.com/docs/rest-api/rest-api#parameters139
