@@ -1,4 +1,4 @@
-url: https://github.com/agentjp/bdinfo-rs/releases/download/gui-v2.0.0/bdinfo-rs-gui-x86_64-pc-windows-msvc.msi
+url: https://github.com/agentjp/bdinfo-rs/releases/download/gui-v3.0.0/bdinfo-rs-gui-x86_64-pc-windows-msvc.msi
 automatic_install: false
 self_service: false
 categories: []
