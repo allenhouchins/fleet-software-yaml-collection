@@ -1,4 +1,4 @@
-url: https://rawtherapee.com/shared/builds/windows/RawTherapee_5.12_win64_release.exe
+url: https://github.com/RawTherapee/RawTherapee/releases/download/5.13/RawTherapee_5.13_win64_x86_64_release.exe
 automatic_install: false
 self_service: false
 categories: []
