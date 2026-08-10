@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-08-09 18:29:52 UTC
+Generated on: 2026-08-10 07:16:36 UTC
 
 ## Summary
 
-Total entries processed: 8992
+Total entries processed: 8991
 - macOS files: 405
-- Windows files: 8587
+- Windows files: 8586
 
 ## Generated Files
 
@@ -901,7 +901,7 @@ Total entries processed: 8992
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `daedalus-mainnet.yml`
-- **URL**: https://update-cardano-mainnet.iohk.io/daedalus-11.2.0-86185-mainnet-8f9737937-x86_64-darwin.pkg
+- **URL**: https://update-cardano-mainnet.iohk.io/daedalus-11.2.0-86185-mainnet-8f9737937-aarch64-darwin.pkg
 
 #### depnotify
 
@@ -2350,7 +2350,7 @@ Total entries processed: 8992
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `openzfs.yml`
-- **URL**: https://github.com/openzfsonosx/openzfs-fork/releases/download/zfs-macOS-2.3.1/OpenZFSonOsX-2.3.1-Tahoe.26-26-arm64.pkg
+- **URL**: https://github.com/openzfsonosx/openzfs-fork/releases/download/zfs-macOS-2.4.1/OpenZFSonOsX-2.4.1-Tahoe.26-arm64.pkg
 
 #### orka-vm-tools
 
@@ -18005,15 +18005,6 @@ Total entries processed: 8992
 - **File**: `cooldesk-cooldesk.yml`
 - **URL**: https://github.com/abhayraghuwanshi/cooldesk-extension/releases/download/v2.0.7/CoolDesk_2.0.7_x64-setup.exe
 
-#### coolplaylin-fastgithub
-
-- **Source**: winget
-- **Name**: coolplaylin-fastgithub
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `coolplaylin-fastgithub.yml`
-- **URL**: https://github.com/CoolPlayLin/FastGithubSetup/releases/download/2.1.4/FastGithub.Setup.ia32.System.exe
-
 #### copasi-copasi
 
 - **Source**: winget
@@ -26778,7 +26769,7 @@ Total entries processed: 8992
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `folge-folge.yml`
-- **URL**: https://cdn.folge.me/Folge-1.38.1.exe
+- **URL**: https://cdn.folge.me/Folge-1.38.2.exe
 
 #### fontforge-fontforge
 
@@ -30909,7 +30900,7 @@ Total entries processed: 8992
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `heartached-noctis.yml`
-- **URL**: https://github.com/heartached/Noctis/releases/download/v1.4.1/Noctis-v1.4.1-Setup.exe
+- **URL**: https://github.com/heartached/Noctis/releases/download/v1.4.2/Noctis-v1.4.2-Setup.exe
 
 #### heartbeatchat-heartbeat
 
@@ -31746,7 +31737,7 @@ Total entries processed: 8992
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `horacemaxwell-horosa.yml`
-- **URL**: https://github.com/Horace-Maxwell/Horosa-Web-App-comprehensively-improved-Windows/releases/download/v3.7.3/Horosa-Setup-3.7.3.exe
+- **URL**: https://github.com/Horace-Maxwell/Horosa-Web-App-comprehensively-improved-Windows/releases/download/v3.8.1/Horosa-Setup-3.8.1.exe
 
 #### horihiro-runx
 
@@ -33456,7 +33447,7 @@ Total entries processed: 8992
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `inspectdevtools-inspect.yml`
-- **URL**: https://download.todesktop.com/231013edhal6kvv/Inspect%20Setup%203.1.1%20-%20Build%20260805nyignljic-x64.exe
+- **URL**: https://download.todesktop.com/231013edhal6kvv/Inspect%20Setup%203.2.1%20-%20Build%20260806t0jqqtxgi-x64.exe
 
 #### inspoaibox-mshell
 
@@ -37155,7 +37146,7 @@ Total entries processed: 8992
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `karingx-clashmi.yml`
-- **URL**: https://github.com/KaringX/clashmi/releases/download/v1.0.28.1404/clashmi_1.0.28.1404_windows_x64.exe
+- **URL**: https://github.com/KaringX/clashmi/releases/download/v1.0.28.1406/clashmi_1.0.28.1406_windows_x64.exe
 
 #### karingx-karing
 
@@ -38073,7 +38064,7 @@ Total entries processed: 8992
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-tellico.yml`
-- **URL**: https://cdn.kde.org/ci-builds/office/tellico/4.2/windows/tellico-4.2-2099-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/office/tellico/4.2/windows/tellico-4.2-2104-windows-cl-msvc2022-x86_64.exe
 
 #### kde-tokodon
 
@@ -38433,7 +38424,7 @@ Total entries processed: 8992
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `khanhtd36-herdr-khanhtd36.yml`
-- **URL**: https://github.com/khanhtd36/herdr/releases/download/fork-v0.7.5-khanhtd36.1/herdr-windows-x86_64.exe
+- **URL**: https://github.com/khanhtd36/herdr/releases/download/fork-v0.8.0-khanhtd36.2/herdr-windows-x86_64.exe
 
 #### khoj-khoj
 
@@ -41979,7 +41970,7 @@ Total entries processed: 8992
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `macnev2013-anyscp.yml`
-- **URL**: https://github.com/macnev2013/anySCP/releases/download/v0.10.5/anySCP_0.10.5_x64_en-US.msi
+- **URL**: https://github.com/macnev2013/anySCP/releases/download/v0.11.1/anySCP_0.11.1_x64_en-US.msi
 
 #### macpawwayltd-clearvpn
 
@@ -45246,7 +45237,7 @@ Total entries processed: 8992
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-safetyscanner.yml`
-- **URL**: https://definitionupdates.microsoft.com/packages/content/msert.exe?packageType=Scanner&packageVersion=1.457.80.0&arch=amd64
+- **URL**: https://definitionupdates.microsoft.com/packages/content/msert.exe?packageType=Scanner&packageVersion=1.457.88.0&arch=amd64
 
 #### microsoft-sbomtool
 
@@ -46686,7 +46677,7 @@ Total entries processed: 8992
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mockzilla-mockzilla.yml`
-- **URL**: https://github.com/mockzilla/mockzilla/releases/download/v2.8.7/mockzilla-v2.8.7-windows-amd64.exe
+- **URL**: https://github.com/mockzilla/mockzilla/releases/download/v2.8.8/mockzilla-v2.8.8-windows-amd64.exe
 
 #### modeliosoft-modelio
 
@@ -52059,7 +52050,7 @@ Total entries processed: 8992
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nashaofu-shell360.yml`
-- **URL**: https://github.com/nashaofu/shell360/releases/download/v0.2.5/Shell360_0.2.5_x64-setup.exe
+- **URL**: https://github.com/nashaofu/shell360/releases/download/v0.2.6/Shell360_0.2.6_x64-setup.exe
 
 #### nashsu-llmwiki
 
@@ -58449,7 +58440,7 @@ Total entries processed: 8992
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pixpin-pixpin.yml`
-- **URL**: https://download.pixpinapp.com/PixPin_win_3.3.5.7.exe
+- **URL**: https://download.pixpinapp.com/PixPin_win_3.4.3.2.exe
 
 #### pizi-scrcpygui
 
@@ -59520,7 +59511,7 @@ Total entries processed: 8992
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `presencejam-presencejam.yml`
-- **URL**: https://github.com/Carme99/PresenceJam-Desktop/releases/download/v2.9.1/PresenceJam_2.9.1_x64_en-US.msi
+- **URL**: https://github.com/Carme99/PresenceJam-Desktop/releases/download/v3.0.0/PresenceJam_3.0.0_x64_en-US.msi
 
 #### presono-presono
 
@@ -64173,7 +64164,7 @@ Total entries processed: 8992
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ryanyuuki-anymex.yml`
-- **URL**: https://github.com/RyanYuuki/AnymeX/releases/download/v3.1.3/AnymeX-x86_64-3.1.3-Installer.exe
+- **URL**: https://github.com/RyanYuuki/AnymeX/releases/download/v3.1.4/AnymeX-x86_64-3.1.4-Installer.exe
 
 #### rye-rye
 
@@ -64200,7 +64191,7 @@ Total entries processed: 8992
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ryko-godothub.yml`
-- **URL**: https://github.com/RykoTheDev/GodotHub/releases/download/v1.1.5/GodotHub_1.1.5_x64_en-US.msi
+- **URL**: https://github.com/RykoTheDev/GodotHub/releases/download/v1.3.0/GodotHub_1.3.0_x64_en-US.msi
 
 #### rymcu-rycom
 
@@ -67953,7 +67944,7 @@ Total entries processed: 8992
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sourcegraph-amp.yml`
-- **URL**: https://static.ampcode.com/cli/0.0.1786291588-g1c260a/amp-windows-x64-baseline.exe
+- **URL**: https://static.ampcode.com/cli/0.0.1786320433-geeee54/amp-windows-x64-baseline.exe
 
 #### southrivertechnologies-webdrive
 
@@ -75936,7 +75927,7 @@ Total entries processed: 8992
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vkrainb-ccmesh.yml`
-- **URL**: https://github.com/VkRainB/ccMesh/releases/download/v0.2.2/ccMesh_0.2.2_x64-setup.exe
+- **URL**: https://github.com/VkRainB/ccMesh/releases/download/v0.2.3/ccMesh_0.2.3_x64-setup.exe
 
 #### vladelaina-catime
 
@@ -79311,7 +79302,7 @@ Total entries processed: 8992
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xournal---xournal--.yml`
-- **URL**: https://github.com/xournalpp/xournalpp/releases/download/v1.3.6/xournalpp-1.3.6-windows-setup-AMD64.exe
+- **URL**: https://github.com/xournalpp/xournalpp/releases/download/v1.3.7/xournalpp-1.3.7-windows-setup-AMD64.exe
 
 #### xpf0000-flyenv
 
@@ -79770,7 +79761,7 @@ Total entries processed: 8992
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yetone-alma.yml`
-- **URL**: https://updates.alma.now/alma-0.0.950-win-x64.exe
+- **URL**: https://updates.alma.now/alma-0.0.951-win-x64.exe
 
 #### yetone-nextaitranslator
 
@@ -80355,7 +80346,7 @@ Total entries processed: 8992
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zenprivacy-zendesktop.yml`
-- **URL**: https://github.com/irbis-sh/zen-desktop/releases/download/v0.24.1/Zen-amd64-installer.exe
+- **URL**: https://github.com/irbis-sh/zen-desktop/releases/download/v0.25.0/Zen-amd64-installer.exe
 
 #### zentraedi-zspace
 
@@ -80517,7 +80508,7 @@ Total entries processed: 8992
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zhukunpenglinyutong-ccgui.yml`
-- **URL**: https://github.com/zhukunpenglinyutong/desktop-cc-gui/releases/download/v0.8.4/ccgui_0.8.4_x64-setup.exe
+- **URL**: https://github.com/zhukunpenglinyutong/desktop-cc-gui/releases/download/v0.8.6/ccgui_0.8.6_x64-setup.exe
 
 #### ziad-tcg
 
