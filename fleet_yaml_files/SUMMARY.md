@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-08-10 07:16:36 UTC
+Generated on: 2026-08-10 18:47:51 UTC
 
 ## Summary
 
@@ -1135,7 +1135,7 @@ Total entries processed: 8991
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `emclient.yml`
-- **URL**: https://cdn-dist.emclient.com/dist/v10.4.5647_Mac/setup.pkg
+- **URL**: https://cdn-dist.emclient.com/dist/v10.4.5663_Mac/setup.pkg
 
 #### enclave
 
@@ -2089,7 +2089,7 @@ Total entries processed: 8991
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `mullvad-vpn-beta.yml`
-- **URL**: https://cdn.mullvad.net/app/desktop/releases/2026.4-beta1/MullvadVPN-2026.4-beta1.pkg
+- **URL**: https://cdn.mullvad.net/app/desktop/releases/2026.4-beta2/MullvadVPN-2026.4-beta2.pkg
 
 #### mullvad-vpn
 
@@ -5466,7 +5466,7 @@ Total entries processed: 8991
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aidotnet-opencowork.yml`
-- **URL**: https://github.com/AIDotNet/OpenCowork/releases/download/1.2.9/OpenCowork-win-amd64-setup.exe
+- **URL**: https://github.com/AIDotNet/OpenCowork/releases/download/1.3.1/OpenCowork-win-amd64-setup.exe
 
 #### aignesberger-deadlink
 
@@ -6150,7 +6150,7 @@ Total entries processed: 8991
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `alibaba-opencodereview.yml`
-- **URL**: https://github.com/alibaba/open-code-review/releases/download/v1.8.9/opencodereview-windows-amd64.exe
+- **URL**: https://github.com/alibaba/open-code-review/releases/download/v1.9.0/opencodereview-windows-amd64.exe
 
 #### alibaba-qianwen
 
@@ -14439,7 +14439,7 @@ Total entries processed: 8991
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `buchen-portfolio.yml`
-- **URL**: https://github.com/portfolio-performance/portfolio/releases/download/0.86.0/PortfolioPerformance-0.86.0-setup.exe
+- **URL**: https://github.com/portfolio-performance/portfolio/releases/download/0.86.1/PortfolioPerformance-0.86.1-setup.exe
 
 #### buct0r-fullfetch
 
@@ -23511,7 +23511,7 @@ Total entries processed: 8991
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ekkolearnai-hermesstudio.yml`
-- **URL**: https://github.com/EKKOLearnAI/hermes-studio/releases/download/v0.6.39/Hermes.Studio-0.6.39-x64.exe
+- **URL**: https://github.com/EKKOLearnAI/hermes-studio/releases/download/v0.6.40/Hermes.Studio-0.6.40-x64.exe
 
 #### ekvedaras-redis-gui
 
@@ -25887,7 +25887,7 @@ Total entries processed: 8991
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `fioooooooo-fyllocode.yml`
-- **URL**: https://github.com/Fioooooooo/FylloCode/releases/download/v0.15.1/FylloCode-0.15.1-win-x64-setup.exe
+- **URL**: https://github.com/Fioooooooo/FylloCode/releases/download/v0.15.2/FylloCode-0.15.2-win-x64-setup.exe
 
 #### fiorilli-fiorilliwebextensionclient
 
@@ -31710,7 +31710,7 @@ Total entries processed: 8991
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hoornet-vega.yml`
-- **URL**: https://github.com/hoornet/vega/releases/download/v0.14.0/Vega_0.14.0_x64-setup.exe
+- **URL**: https://github.com/hoornet/vega/releases/download/v0.14.3/Vega_0.14.3_x64-setup.exe
 
 #### hoppscotch-agent
 
@@ -32745,7 +32745,7 @@ Total entries processed: 8991
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `icyhoty2k-quickimageviewer.yml`
-- **URL**: https://github.com/icyhoty2k/QuickImageViewer/releases/download/v2.250.1.320/QuickImageViewer.exe
+- **URL**: https://github.com/icyhoty2k/QuickImageViewer/releases/download/v2.252.0.327/QuickImageViewer.exe
 
 #### ideagenthub-agenthub
 
@@ -39783,7 +39783,7 @@ Total entries processed: 8991
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `laurentiu021-sysmanager.yml`
-- **URL**: https://github.com/laurentiu021/SystemManager/releases/download/v1.57.7/SysManager-v1.57.7.exe
+- **URL**: https://github.com/laurentiu021/SystemManager/releases/download/v1.58.1/SysManager-v1.58.1.exe
 
 #### laurentprenedecotret-pandoc-plot
 
@@ -45237,7 +45237,7 @@ Total entries processed: 8991
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-safetyscanner.yml`
-- **URL**: https://definitionupdates.microsoft.com/packages/content/msert.exe?packageType=Scanner&packageVersion=1.457.88.0&arch=amd64
+- **URL**: https://definitionupdates.microsoft.com/packages/content/msert.exe?packageType=Scanner&packageVersion=1.457.93.0&arch=amd64
 
 #### microsoft-sbomtool
 
@@ -45966,7 +45966,7 @@ Total entries processed: 8991
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-windowsbatterylifetool.yml`
-- **URL**: https://github.com/microsoft/WebBrowsingPowerRelease/releases/download/v2.0.18/WindowsBatteryLifeTool-2.0.18.msi
+- **URL**: https://github.com/microsoft/WebBrowsingPowerRelease/releases/download/v2.0.19/WindowsBatteryLifeTool-2.0.19.msi
 
 #### microsoft-windowscloudioprotectiondriver
 
@@ -56172,7 +56172,7 @@ Total entries processed: 8991
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `opentubex-opentubex.yml`
-- **URL**: https://github.com/OpenTubeX/OpenTubeX/releases/download/v0.30.2-beta/opentubex-0.30.2-beta-setup-x64.exe
+- **URL**: https://github.com/OpenTubeX/OpenTubeX/releases/download/v0.31.0-beta/opentubex-0.31.0-beta-setup-x64.exe
 
 #### openvpntechnologies-openvpn
 
@@ -65973,7 +65973,7 @@ Total entries processed: 8991
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `shianmike-sharppy-reimagined.yml`
-- **URL**: https://github.com/ShianMike/SHARPpy-Reimagined/releases/download/v0.8.0/SHARPpy-Reimagined-v0.8.0-windows-x64.exe
+- **URL**: https://github.com/ShianMike/SHARPpy-Reimagined/releases/download/v0.8.1/SHARPpy-Reimagined-v0.8.1-windows-x64.exe
 
 #### shift-shift
 
@@ -67944,7 +67944,7 @@ Total entries processed: 8991
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sourcegraph-amp.yml`
-- **URL**: https://static.ampcode.com/cli/0.0.1786320433-geeee54/amp-windows-x64-baseline.exe
+- **URL**: https://static.ampcode.com/cli/0.0.1786350568-g45006e/amp-windows-x64-baseline.exe
 
 #### southrivertechnologies-webdrive
 
@@ -71427,7 +71427,7 @@ Total entries processed: 8991
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-ima-copilot.yml`
-- **URL**: https://app-dl.ima.qq.com/win_channel/ima.copilot_win_x64_1018_2.6.4_4846.exe
+- **URL**: https://app-dl.ima.qq.com/win_channel/ima.copilot_win_x64_1018_2.6.5_4887.exe
 
 #### tencent-qclaw
 
@@ -71616,7 +71616,7 @@ Total entries processed: 8991
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tencent-yuanbao.yml`
-- **URL**: https://cdn-hybrid-prod.hunyuan.tencent.com/Desktop/official/12f490ef7baad51926ac5227b0899f40/yuanbao_2.79.0.613_x64.exe
+- **URL**: https://cdn-hybrid-prod.hunyuan.tencent.com/Desktop/official/ff7966288c185dcf2123341f067183fb/yuanbao_2.80.0.611_x64.exe
 
 #### tenoriolabs-inkwell
 
@@ -79230,7 +79230,7 @@ Total entries processed: 8991
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xmind-xmind.yml`
-- **URL**: https://www.xmind.app/xmind/downloads/Xmind-for-Windows-x64bit-26.05.01105-202607290750.exe
+- **URL**: https://www.xmind.app/xmind/downloads/Xmind-for-Windows-x64bit-26.05.01106-202608091913.exe
 
 #### xming-xming
 
@@ -80490,7 +80490,7 @@ Total entries processed: 8991
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zhipuai-zcode.yml`
-- **URL**: https://cdn-zcode.z.ai/zcode/electron/releases/3.6.5/windows-x64/ZCode-3.6.5-win-x64.exe
+- **URL**: https://cdn-zcode.z.ai/zcode/electron/releases/3.7.5/windows-x64/ZCode-3.7.5-win-x64.exe
 
 #### zhipuai-zread
 
@@ -80706,7 +80706,7 @@ Total entries processed: 8991
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zoom-zoomrooms.yml`
-- **URL**: https://cdn.zoom.us/prod/7.1.5.8017/x64/zoomrooms-7.1.5.8017-x64.exe
+- **URL**: https://cdn.zoom.us/prod/7.1.6.8048/x64/zoomrooms-7.1.6.8048-x64.exe
 
 #### zophie-sticker
 
