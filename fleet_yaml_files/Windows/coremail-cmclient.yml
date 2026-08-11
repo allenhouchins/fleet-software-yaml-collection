@@ -1,7 +1,10 @@
-url: https://packages.couchbase.com/releases/8.0.2/couchbase-server-community_8.0.2-windows_amd64.msi
+url: https://lunkrcdn.icoremail.net/cab/publish/lunkr4mail/cmclient_4.2.3-1596_amd64.exe
 automatic_install: false
 self_service: false
 categories: []
+install_script: '# TODO: Add install script for this EXE'
+uninstall_script: '# TODO: Add uninstall script for this EXE'
 
 # Categories are currently limited to Browsers, Communication, Developer tools, and Productivity.
 # This is a minimum version of this file. All configurable parameters can be seen at https://fleetdm.com/docs/rest-api/rest-api#parameters139
+# Note: Any exe requires an install script and uninstall script to be defined

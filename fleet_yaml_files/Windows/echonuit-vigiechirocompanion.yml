@@ -1,4 +1,4 @@
-url: https://packages.couchbase.com/releases/8.0.2/couchbase-server-community_8.0.2-windows_amd64.msi
+url: https://github.com/echonuit/vigiechiro-pr-companion/releases/download/v2.34.2/VigieChiroCompanion-2.34.2-x64.msi
 automatic_install: false
 self_service: false
 categories: []
