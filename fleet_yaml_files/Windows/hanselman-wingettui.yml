@@ -1,4 +1,4 @@
-url: https://github.com/shanselman/winget-tui/releases/download/v0.13.0/winget-tui-x64.exe
+url: https://github.com/shanselman/winget-tui/releases/download/v0.13.2/winget-tui-x64.exe
 automatic_install: false
 self_service: false
 categories: []
