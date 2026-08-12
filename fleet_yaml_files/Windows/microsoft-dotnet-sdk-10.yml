@@ -1,4 +1,4 @@
-url: https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.302/dotnet-sdk-10.0.302-win-x64.exe
+url: https://download.microsoft.com/download/24266d69-23ac-410d-be6b-3190df0bc33f/18ebd5de-124a-4a17-b2c2-dd2bb3ef771f/dotnet-sdk-10.0.303-win-x64.exe
 automatic_install: false
 self_service: false
 categories: []
