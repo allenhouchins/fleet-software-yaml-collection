@@ -1,4 +1,4 @@
-url: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/153.0.3esr/win64/et/Thunderbird%20Setup%20153.0.3esr.exe
+url: https://github.com/imperium42/echophrase-releases/releases/download/v0.8.0-beta.70/Echophrase_0.8.0-beta.70_x64-setup.exe
 automatic_install: false
 self_service: false
 categories: []
