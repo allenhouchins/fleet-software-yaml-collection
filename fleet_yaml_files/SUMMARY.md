@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-08-15 06:24:34 UTC
+Generated on: 2026-08-15 18:18:22 UTC
 
 ## Summary
 
@@ -5106,7 +5106,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aelassas-servy.yml`
-- **URL**: https://github.com/aelassas/servy/releases/download/v9.4/servy-9.4-x64-installer.exe
+- **URL**: https://github.com/aelassas/servy/releases/download/v9.5/servy-9.5-x64-installer.exe
 
 #### aerosoft-one
 
@@ -6186,7 +6186,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `alibaba-opencodereview.yml`
-- **URL**: https://github.com/alibaba/open-code-review/releases/download/v1.9.3/opencodereview-windows-amd64.exe
+- **URL**: https://github.com/alibaba/open-code-review/releases/download/v1.9.4/opencodereview-windows-amd64.exe
 
 #### alibaba-qianwen
 
@@ -6222,7 +6222,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `alibaba-quark.yml`
-- **URL**: https://umcdn.quark.cn/download/37212/quarkpc/pcquark@homepage_oficial/QuarkPC_V7.0.5.931_pc_pf30002_(zh-cn)_release_(Build3106104-1000-x64).exe
+- **URL**: https://umcdn.quark.cn/download/37212/quarkpc/pcquark@homepage_oficial/QuarkPC_V7.1.0.949_pc_pf30002_(zh-cn)_release_(Build3130308-1000-x64).exe
 
 #### alibaba-quarkclouddrive
 
@@ -8751,7 +8751,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `apps2samsung-apps2samsung.yml`
-- **URL**: https://github.com/Apps2Samsung/Apps2Samsung/releases/download/v2.7.3/Apps2Samsung-v2.7.3-win-x64.msi
+- **URL**: https://github.com/Apps2Samsung/Apps2Samsung/releases/download/v2.7.4/Apps2Samsung-v2.7.4-win-x64.msi
 
 #### appwork-jdownloader
 
@@ -9597,7 +9597,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `athrvk-vayu.yml`
-- **URL**: https://github.com/athrvk/vayu/releases/download/v0.17.0/Vayu-x64.exe
+- **URL**: https://github.com/athrvk/vayu/releases/download/v0.17.1/Vayu-x64.exe
 
 #### atlassian-bitbucket
 
@@ -10200,7 +10200,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `awesomedog-infrss-server.yml`
-- **URL**: https://github.com/AwesomeDog/infinite-rss-reader/releases/download/v2.1.1/infrss-server-windows.exe
+- **URL**: https://github.com/AwesomeDog/infinite-rss-reader/releases/download/v2.1.3/infrss-server-windows.exe
 
 #### awesomedog-maxlaunchpad
 
@@ -10218,7 +10218,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `awesomedog-soma.yml`
-- **URL**: https://github.com/AwesomeDog/soma/releases/download/v0.9.3/soma-windows-x64.exe
+- **URL**: https://github.com/AwesomeDog/soma/releases/download/v0.9.4/soma-windows-x64.exe
 
 #### axcore-tartube
 
@@ -16203,7 +16203,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `chrislauinger77-qontrolpanel.yml`
-- **URL**: https://github.com/ChrisLauinger77/QontrolPanel/releases/download/1.20.2/QontrolPanel_Installer.exe
+- **URL**: https://github.com/ChrisLauinger77/QontrolPanel/releases/download/1.21.0/QontrolPanel_Installer.exe
 
 #### chrislauinger77-toerings
 
@@ -31935,7 +31935,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hoornet-vega.yml`
-- **URL**: https://github.com/hoornet/vega/releases/download/v0.15.2/Vega_0.15.2_x64-setup.exe
+- **URL**: https://github.com/hoornet/vega/releases/download/v0.15.3/Vega_0.15.3_x64-setup.exe
 
 #### hoppscotch-agent
 
@@ -32169,7 +32169,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hrzlgnm-zux.yml`
-- **URL**: https://github.com/hrzlgnm/zux/releases/download/v1.4.0/zux_1.4.0_x64-setup.exe
+- **URL**: https://github.com/hrzlgnm/zux/releases/download/v1.4.1/zux_1.4.1_x64-setup.exe
 
 #### htacg-tidy
 
@@ -35616,7 +35616,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jefuriiij-pingmeter.yml`
-- **URL**: https://github.com/jefuriiij/ping-meter/releases/download/v0.4.0/PingMeter.exe
+- **URL**: https://github.com/jefuriiij/ping-meter/releases/download/v0.4.1/PingMeter.exe
 
 #### jeiel85-localpdfstudio
 
@@ -37686,7 +37686,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-chessament.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/chessament/master/windows/chessament-master-801-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/chessament/master/windows/chessament-master-805-windows-cl-msvc2022-x86_64.exe
 
 #### kde-crowtranslate
 
@@ -38739,7 +38739,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `khanhtd36-herdr-khanhtd36.yml`
-- **URL**: https://github.com/khanhtd36/herdr/releases/download/fork-v0.8.0-khanhtd36.2/herdr-windows-x86_64.exe
+- **URL**: https://github.com/khanhtd36/herdr/releases/download/fork-v0.8.0-khanhtd36.3/herdr-windows-x86_64.exe
 
 #### khoj-khoj
 
@@ -40188,7 +40188,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lbjlaq-antigravitytools.yml`
-- **URL**: https://github.com/lbjlaq/Antigravity-Manager/releases/download/v4.5.5/Antigravity.Tools_4.5.5_x64-setup.exe
+- **URL**: https://github.com/lbjlaq/Antigravity-Manager/releases/download/v4.5.6/Antigravity.Tools_4.5.6_x64-setup.exe
 
 #### lbry-lbry
 
@@ -42033,7 +42033,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lunasans-movieshelf.yml`
-- **URL**: https://github.com/lunasans/movieshelf-desktop/releases/download/v0.25.0/MovieShelf-Setup-0.25.0.exe
+- **URL**: https://github.com/lunasans/movieshelf-desktop/releases/download/v1.1.0/MovieShelf-Setup-1.1.0.exe
 
 #### lunasans-nmailclient
 
@@ -42204,7 +42204,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lyswhut-anylisten.yml`
-- **URL**: https://github.com/any-listen/any-listen-desktop/releases/download/v0.7.1/any-listen-0.7.1-x64-Setup.exe
+- **URL**: https://github.com/any-listen/any-listen-desktop/releases/download/v0.8.0/any-listen-0.8.0-x64-Setup.exe
 
 #### lyswhut-lx-music-desktop
 
@@ -46497,7 +46497,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mihomo-party-clash-party.yml`
-- **URL**: https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.0/clash-party-windows-2.0.0-x64-setup.exe
+- **URL**: https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.2/clash-party-windows-2.0.2-x64-setup.exe
 
 #### mihomo-party-mihomo-party
 
@@ -46506,7 +46506,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mihomo-party-mihomo-party.yml`
-- **URL**: https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.0/clash-party-windows-2.0.0-x64-setup.exe
+- **URL**: https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.2/clash-party-windows-2.0.2-x64-setup.exe
 
 #### mikefarah-yq
 
@@ -46641,7 +46641,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mingchen666-reviva.yml`
-- **URL**: https://github.com/mingchen666/Reviva/releases/download/v1.1.0/Reviva-Windows-1.1.0-x64-Setup.exe
+- **URL**: https://github.com/mingchen666/Reviva/releases/download/v1.2.0/Reviva-Windows-1.2.0-x64-Setup.exe
 
 #### mingo-mingo
 
@@ -52338,7 +52338,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `naenaetart-amllttmltool.yml`
-- **URL**: https://github.com/NaeNaeTart/NaeNae-AMLL-TTML-TOOL/releases/download/v0.9.3/AMLL.TTML.Tool_0.9.3_x64_en-US.msi
+- **URL**: https://github.com/NaeNaeTart/NaeNae-AMLL-TTML-TOOL/releases/download/v0.9.6/AMLL.TTML.Tool_0.9.6_x64_en-US.msi
 
 #### nagios-ncpa
 
@@ -53886,7 +53886,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nimbusagent-nimbus.yml`
-- **URL**: https://github.com/nimbus-agent/Nimbus/releases/download/v2.4.2/nimbus-headless-windows-x64.msi
+- **URL**: https://github.com/nimbus-agent/Nimbus/releases/download/v2.4.5/nimbus-headless-windows-x64.msi
 
 #### nirosoftware-serialflow
 
@@ -56370,7 +56370,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `openmpt-openmpt.yml`
-- **URL**: https://download.openmpt.org/archive/openmpt/1.32/OpenMPT-1.32.10.00-Setup.exe
+- **URL**: https://download.openmpt.org/archive/openmpt/1.32/OpenMPT-1.32.11.00-Setup.exe
 
 #### openmw-openmw
 
@@ -60672,7 +60672,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `psynect-omnimend.yml`
-- **URL**: https://crashpro-inference.psynect.workers.dev/releases/v1.7.16/OmniMend-v1.7.16-offline-setup.exe
+- **URL**: https://crashpro-inference.psynect.workers.dev/releases/v2.0.2/OmniMend-v2.0.2-offline-setup.exe
 
 #### ptmrio-phrasevault
 
@@ -64074,7 +64074,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rorkai-asc.yml`
-- **URL**: https://github.com/rorkai/App-Store-Connect-CLI/releases/download/4.3.0/asc_4.3.0_windows_amd64.exe
+- **URL**: https://github.com/rorkai/App-Store-Connect-CLI/releases/download/4.4.2/asc_4.4.2_windows_amd64.exe
 
 #### roryok-poe-writer
 
@@ -68511,7 +68511,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sourcegraph-amp.yml`
-- **URL**: https://static.ampcode.com/cli/0.0.1786752172-g5bf5f5/amp-windows-x64-baseline.exe
+- **URL**: https://static.ampcode.com/cli/0.0.1786809683-g406e31/amp-windows-x64-baseline.exe
 
 #### southrivertechnologies-webdrive
 
@@ -75918,7 +75918,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vcmi-vcmi.yml`
-- **URL**: https://github.com/vcmi/vcmi/releases/download/1.7.4/VCMI-Windows-x64.exe
+- **URL**: https://github.com/vcmi/vcmi/releases/download/1.7.5/VCMI-Windows-x64.exe
 
 #### vcsjones-azuresigntool
 
@@ -79635,7 +79635,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xiaoyouchr-ghostdownloader.yml`
-- **URL**: https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.2.6/Ghost-Downloader-v4.2.6-Windows-x86_64-Setup.exe
+- **URL**: https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.3.0/Ghost-Downloader-v4.3.0-Windows-x86_64-Setup.exe
 
 #### xiaozhu188-electron-vue-cloud-music
 
@@ -79860,7 +79860,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xmediarecode-xmediarecode.yml`
-- **URL**: https://www.xmedia-recode.de/download/XMediaRecode3636_x64_setup.exe
+- **URL**: https://www.xmedia-recode.de/download/XMediaRecode3637_x64_setup.exe
 
 #### xmind-xmind
 
@@ -80409,7 +80409,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yetone-nextaitranslator.yml`
-- **URL**: https://github.com/nextai-translator/nextai-translator/releases/download/v0.6.37/NextAI.Translator_0.6.37_x64-setup.exe
+- **URL**: https://github.com/nextai-translator/nextai-translator/releases/download/v0.6.38/NextAI.Translator_0.6.38_x64-setup.exe
 
 #### yetone-openaitranslator
 
@@ -81147,7 +81147,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zhukunpenglinyutong-ccgui.yml`
-- **URL**: https://github.com/zhukunpenglinyutong/desktop-cc-gui/releases/download/v0.8.8/ccgui_0.8.8_x64-setup.exe
+- **URL**: https://github.com/zhukunpenglinyutong/desktop-cc-gui/releases/download/v0.8.9/ccgui_0.8.9_x64-setup.exe
 
 #### ziad-tcg
 
