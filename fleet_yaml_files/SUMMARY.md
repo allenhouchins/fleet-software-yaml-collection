@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-08-15 18:18:22 UTC
+Generated on: 2026-08-16 06:27:27 UTC
 
 ## Summary
 
-Total entries processed: 9062
+Total entries processed: 9061
 - macOS files: 405
-- Windows files: 8657
+- Windows files: 8656
 
 ## Generated Files
 
@@ -4314,7 +4314,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `abisheknarasimhan-ravensport.yml`
-- **URL**: https://github.com/abishekvupputur/ravensPort/releases/download/v4.3.1/RavensPort-Setup-4.3.1.exe
+- **URL**: https://github.com/abishekvupputur/ravensPort/releases/download/v4.3.2/RavensPort-Setup-4.3.2.exe
 
 #### abkteknik-desktuna
 
@@ -4395,7 +4395,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aburousan-hilbert.yml`
-- **URL**: https://github.com/aburousan/hilbert-editor/releases/download/tauri-v0.1.10/Hilbert_0.1.10_x64-setup.exe
+- **URL**: https://github.com/aburousan/hilbert-editor/releases/download/tauri-v0.2.0/Hilbert_0.2.0_x64-setup.exe
 
 #### abyss-abyssoverlay
 
@@ -13521,7 +13521,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `blix-bluemail.yml`
-- **URL**: https://download.bluemail.me/BlueMail/BlueMail-1.143.50.exe
+- **URL**: https://download.bluemail.me/BlueMail/BlueMail-1.143.51.exe
 
 #### blobststudios-bvald
 
@@ -13746,7 +13746,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `blur009-blurautoclicker.yml`
-- **URL**: https://github.com/Blur009/Blur-AutoClicker/releases/download/v3.9.1/BlurAutoClicker_3.9.1_x64-setup.exe
+- **URL**: https://github.com/Blur009/Blur-AutoClicker/releases/download/v3.9.2/BlurAutoClicker_3.9.2_x64-setup.exe
 
 #### blushyes-sofast
 
@@ -30765,7 +30765,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `haiying-aionui.yml`
-- **URL**: https://github.com/iOfficeAI/AionUi/releases/download/v2.1.9/AionUi-2.1.9-win-x64.exe
+- **URL**: https://github.com/iOfficeAI/AionUi/releases/download/v2.1.47-final/AionUi-2.1.47-win-x64.exe
 
 #### haiying-officeai
 
@@ -31080,7 +31080,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hdosys-herdr-sandbox.yml`
-- **URL**: https://github.com/hdosys/herdr-sandbox/releases/download/v0.0.12/herdr-sandbox_v0.0.12_windows_amd64_setup.exe
+- **URL**: https://github.com/hdosys/herdr-sandbox/releases/download/v0.0.15/herdr-sandbox_v0.0.15_windows_amd64_setup.exe
 
 #### headlamp-headlamp
 
@@ -31125,7 +31125,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `heartached-noctis.yml`
-- **URL**: https://github.com/heartached/Noctis/releases/download/v1.4.4/Noctis-v1.4.4-Setup.exe
+- **URL**: https://github.com/heartached/Noctis/releases/download/v1.4.6/Noctis-v1.4.6-Setup.exe
 
 #### heartbeatchat-heartbeat
 
@@ -37686,7 +37686,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-chessament.yml`
-- **URL**: https://cdn.kde.org/ci-builds/games/chessament/master/windows/chessament-master-805-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/games/chessament/master/windows/chessament-master-808-windows-cl-msvc2022-x86_64.exe
 
 #### kde-crowtranslate
 
@@ -54966,7 +54966,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `objz-rmcl.yml`
-- **URL**: https://github.com/objz/rmcl/releases/download/v0.4.0/rmcl-x86_64-pc-windows-msvc.msi
+- **URL**: https://github.com/objz/rmcl/releases/download/v0.4.1/rmcl-x86_64-pc-windows-msvc.msi
 
 #### obsidian-obsidian
 
@@ -60375,7 +60375,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `projectenv-projectenvcli.yml`
-- **URL**: https://github.com/Project-Env/project-env-cli/releases/download/v3.27.0/cli-3.27.0-windows-amd64-setup.exe
+- **URL**: https://github.com/Project-Env/project-env-cli/releases/download/v3.28.0/cli-3.28.0-windows-amd64-setup.exe
 
 #### projectenv-projectenvshell
 
@@ -60717,7 +60717,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ptweezy-cronstable.yml`
-- **URL**: https://github.com/ptweezy/cronstable/releases/download/1.2.38/cronstable-windows-amd64.exe
+- **URL**: https://github.com/ptweezy/cronstable/releases/download/1.2.41/cronstable-windows-amd64.exe
 
 #### publiqvzw-uitpasbeheerdersapplicatie
 
@@ -61555,15 +61555,6 @@ Total entries processed: 9062
 - **Version**: 
 - **File**: `qtodotxt-qtodotxt.yml`
 - **URL**: https://github.com/QTodoTxt/QTodoTxt/releases/download/v1.7.0/qtodotxt_1.7.0.exe
-
-#### quacomes-axiom
-
-- **Source**: winget
-- **Name**: quacomes-axiom
-- **Description**: Generated from WinGet repository
-- **Version**: 
-- **File**: `quacomes-axiom.yml`
-- **URL**: https://github.com/quacomes-cli/axiom/releases/download/v0.1.82/Axiom_0.1.82_x64-setup.exe
 
 #### quadrantmc-quadrant
 
@@ -64695,7 +64686,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ryanyuuki-anymex.yml`
-- **URL**: https://github.com/RyanYuuki/AnymeX/releases/download/v3.1.4/AnymeX-x86_64-3.1.4-Installer.exe
+- **URL**: https://github.com/RyanYuuki/AnymeX/releases/download/v3.1.5/AnymeX-x86_64-3.1.5-Installer.exe
 
 #### rye-rye
 
@@ -66279,7 +66270,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-08-14/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-08-15/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -66432,7 +66423,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `shahriyardx-brightctrl.yml`
-- **URL**: https://github.com/shahriyardx/brightctrl/releases/download/v0.2.3/brightctrl.exe
+- **URL**: https://github.com/shahriyardx/brightctrl/releases/download/v0.2.5/brightctrl.exe
 
 #### shakaproject-shakapackager
 
@@ -68511,7 +68502,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sourcegraph-amp.yml`
-- **URL**: https://static.ampcode.com/cli/0.0.1786809683-g406e31/amp-windows-x64-baseline.exe
+- **URL**: https://static.ampcode.com/cli/0.0.1786838506-ge65dd2/amp-windows-x64-baseline.exe
 
 #### southrivertechnologies-webdrive
 
@@ -69645,7 +69636,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `stevethekiller-killerpdf.yml`
-- **URL**: https://github.com/SteveTheKiller/KillerPDF/releases/download/v1.7.1/KillerPDF.exe
+- **URL**: https://github.com/SteveTheKiller/KillerPDF/releases/download/v1.7.3/KillerPDF.exe
 
 #### stevethekiller-killerscan
 
@@ -74712,7 +74703,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tsabo-clipmate.yml`
-- **URL**: https://github.com/Tsabo/ClipMate/releases/download/v0.1.0-beta.2/ClipMate-Setup-0.1.0-beta.2.exe
+- **URL**: https://github.com/Tsabo/ClipMate/releases/download/v0.1.0-beta.3/ClipMate-Setup-0.1.0-beta.3.exe
 
 #### tschoonj-gtkforwindows-gtk2
 
@@ -75567,7 +75558,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `unpaved028-cliptyper.yml`
-- **URL**: https://github.com/unpaved028/ClipTyper/releases/download/v1.5.1/ClipTyper-Setup.exe
+- **URL**: https://github.com/unpaved028/ClipTyper/releases/download/v1.6.0/ClipTyper-Setup.exe
 
 #### untis-untis-2025
 
@@ -81192,7 +81183,7 @@ Total entries processed: 9062
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `zmgid-kivio.yml`
-- **URL**: https://github.com/ZMGID/kivio/releases/download/v2.9.0/Kivio.Desktop_2.9.0_x64-setup.exe
+- **URL**: https://github.com/ZMGID/kivio/releases/download/v2.9.1/Kivio.Desktop_2.9.1_x64-setup.exe
 
 #### zoho-arattai
 
