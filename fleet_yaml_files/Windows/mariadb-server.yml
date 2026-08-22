@@ -1,4 +1,4 @@
-url: https://downloads.mariadb.org/rest-api/mariadb/12.3.2/mariadb-12.3.2-winx64.msi
+url: https://downloads.mariadb.org/rest-api/mariadb/12.3.3/mariadb-12.3.3-winx64.msi
 automatic_install: false
 self_service: false
 categories: []
