@@ -1,4 +1,4 @@
-url: https://github.com/xonsh/xonsh-winget/releases/download/0.24.1/xonsh-0.24.1-win-x64-inno5-py313-setup.exe
+url: https://github.com/xonsh/xonsh-winget/releases/download/0.24.2/xonsh-0.24.2-win-x64-inno5-py313-setup.exe
 automatic_install: false
 self_service: false
 categories: []
