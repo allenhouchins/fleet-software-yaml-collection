@@ -1,4 +1,4 @@
-url: https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.1.0esr/win64/en-CA/Firefox%20Setup%20153.1.0esr.exe
+url: https://github.com/mozilla/mozregression/releases/download/7.3.0/mozregression-gui-signed.exe
 automatic_install: false
 self_service: false
 categories: []
