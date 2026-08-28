@@ -1,10 +1,7 @@
-url: https://fresh.superwhisper.com/download?asset=532497475&filename=superwhisper_1.6.1_x64-setup.exe
+url: https://artifacts.tools.arm.com/arm-performix/app/2026.3.2/darwin/arm64/ArmPerformix-darwin-arm64.pkg
 automatic_install: false
 self_service: false
 categories: []
-install_script: '# TODO: Add install script for this EXE'
-uninstall_script: '# TODO: Add uninstall script for this EXE'
 
 # Categories are currently limited to Browsers, Communication, Developer tools, and Productivity.
 # This is a minimum version of this file. All configurable parameters can be seen at https://fleetdm.com/docs/rest-api/rest-api#parameters139
-# Note: Any exe requires an install script and uninstall script to be defined
