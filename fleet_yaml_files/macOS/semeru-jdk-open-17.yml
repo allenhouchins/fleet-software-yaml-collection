@@ -1,4 +1,4 @@
-url: https://github.com/ibmruntimes/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jdk_aarch64_mac_17.0.20.0.pkg
+url: https://github.com/ibmruntimes/semeru17-binaries/releases/download/jdk-17.0.20.10/ibm-semeru-open-jdk_aarch64_mac_17.0.20.10.pkg
 automatic_install: false
 self_service: false
 categories: []
