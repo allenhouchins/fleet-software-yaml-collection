@@ -1,4 +1,4 @@
-url: https://download.clis.cloud.ibm.com/ibm-cloud-cli/2.47.0/IBM_Cloud_CLI_2.47.0_arm64.pkg
+url: https://github.com/ludo-technologies/hiroba/releases/download/v0.1.31/Hiroba_0.1.31_x64_en-US.msi
 automatic_install: false
 self_service: false
 categories: []
