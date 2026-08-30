@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-08-30 11:00:20 UTC
+Generated on: 2026-08-30 20:22:11 UTC
 
 ## Summary
 
-Total entries processed: 9217
+Total entries processed: 9221
 - macOS files: 409
-- Windows files: 8808
+- Windows files: 8812
 
 ## Generated Files
 
@@ -2935,7 +2935,7 @@ Total entries processed: 9217
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `sfm.yml`
-- **URL**: https://github.com/SagerNet/sing-box/releases/download/v1.13.20/SFM-1.13.20-Universal.pkg
+- **URL**: https://github.com/SagerNet/sing-box/releases/download/v1.13.21/SFM-1.13.21-Universal.pkg
 
 #### shade
 
@@ -9291,7 +9291,7 @@ Total entries processed: 9217
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `armbian-imager.yml`
-- **URL**: https://github.com/armbian/imager/releases/download/v2.0.3/Armbian.Imager_2.0.3_x64-setup.exe
+- **URL**: https://github.com/armbian/imager/releases/download/v2.0.4/Armbian.Imager_2.0.4_x64-setup.exe
 
 #### arminosaj-autodarkmode
 
@@ -16104,7 +16104,7 @@ Total entries processed: 9217
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `changepacks-changepacks.yml`
-- **URL**: https://github.com/changepacks/changepacks/releases/download/changepacks(crates/changepacks/Cargo.toml)@0.3.4/changepacks-windows-x86_64.exe
+- **URL**: https://github.com/changepacks/changepacks/releases/download/changepacks(crates/changepacks/Cargo.toml)@0.3.6/changepacks-windows-x86_64.exe
 
 #### chanplecai-smarttaskbar
 
@@ -17284,6 +17284,15 @@ Total entries processed: 9217
 - **Version**: 
 - **File**: `clsid2-mpc-hc.yml`
 - **URL**: https://github.com/clsid2/mpc-hc/releases/download/2.8.1/MPC-HC.2.8.1.x64.exe
+
+#### clyplabs-clypdat
+
+- **Source**: winget
+- **Name**: clyplabs-clypdat
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `clyplabs-clypdat.yml`
+- **URL**: https://github.com/ClypLabs/ClypDat/releases/download/v1.4.0/ClypDat-Setup.exe
 
 #### cmdutil-whatthefile
 
@@ -19686,7 +19695,7 @@ Total entries processed: 9217
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dagaza-qube.yml`
-- **URL**: https://github.com/dagaza/Qube/releases/download/v1.3.38/Qube-1.3.38-Setup.exe
+- **URL**: https://github.com/dagaza/Qube/releases/download/v1.3.43/Qube-1.3.43-Setup.exe
 
 #### dahobr-jwmeetingplayer
 
@@ -20244,7 +20253,7 @@ Total entries processed: 9217
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `davidengelhart-termpolis.yml`
-- **URL**: https://github.com/codedev-david/termpolis/releases/download/v1.38.0/Termpolis.Setup.1.38.0.exe
+- **URL**: https://github.com/codedev-david/termpolis/releases/download/v1.38.1/Termpolis.Setup.1.38.1.exe
 
 #### davidmeeker-femm
 
@@ -23844,7 +23853,7 @@ Total entries processed: 9217
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `eeyzs1-devwit.yml`
-- **URL**: https://github.com/eeyzs1/DevWit/releases/download/v0.6.0/DevWit.Setup.0.6.0.exe
+- **URL**: https://github.com/eeyzs1/DevWit/releases/download/v0.7.0/DevWit.Setup.0.7.0.exe
 
 #### eff-certbot
 
@@ -24042,7 +24051,7 @@ Total entries processed: 9217
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ekkolearnai-hermesstudio.yml`
-- **URL**: https://github.com/EKKOLearnAI/hermes-studio/releases/download/v0.7.1/Hermes.Studio-0.7.1-x64.exe
+- **URL**: https://github.com/EKKOLearnAI/hermes-studio/releases/download/v0.7.12/Hermes.Studio-0.7.12-x64.exe
 
 #### ekvedaras-redis-gui
 
@@ -25194,7 +25203,7 @@ Total entries processed: 9217
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `etheraura-kartend.yml`
-- **URL**: https://github.com/EtherAura/Kartend/releases/download/v0.0.18/Kartend-0.0.18-windows-x64-setup.exe
+- **URL**: https://github.com/EtherAura/Kartend/releases/download/v0.0.19/Kartend-0.0.19-windows-x64-setup.exe
 
 #### ethereum-geth
 
@@ -31692,7 +31701,7 @@ Total entries processed: 9217
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hellowind777-hellogrok-cli.yml`
-- **URL**: https://github.com/hellowind777/hellogrok/releases/download/v0.1.19/hellogrok-cli-windows-amd64.exe
+- **URL**: https://github.com/hellowind777/hellogrok/releases/download/v0.1.20/hellogrok-cli-windows-amd64.exe
 
 #### hellowind777-hellogrok
 
@@ -31701,7 +31710,7 @@ Total entries processed: 9217
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hellowind777-hellogrok.yml`
-- **URL**: https://github.com/hellowind777/hellogrok/releases/download/v0.1.19/hellogrok-windows-amd64.exe
+- **URL**: https://github.com/hellowind777/hellogrok/releases/download/v0.1.20/hellogrok-windows-amd64.exe
 
 #### helmutbuhler-8gadgetpack
 
@@ -38595,7 +38604,7 @@ Total entries processed: 9217
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kiten.yml`
-- **URL**: https://cdn.kde.org/ci-builds/education/kiten/master/windows/kiten-master-1031-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/education/kiten/master/windows/kiten-master-1048-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kjumpingcube
 
@@ -39352,6 +39361,15 @@ Total entries processed: 9217
 - **Version**: 
 - **File**: `khronosgroup-vulkansdk.yml`
 - **URL**: https://sdk.lunarg.com/sdk/download/1.4.357.0/windows/vulkansdk-windows-X64-1.4.357.0.exe
+
+#### kibalab-vrcli
+
+- **Source**: winget
+- **Name**: kibalab-vrcli
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `kibalab-vrcli.yml`
+- **URL**: https://github.com/kibalab/VRCLI/releases/download/v0.20.0/VRCLI-0.20.0-win-x64-setup.exe
 
 #### kicad-kicad-lite
 
@@ -40224,7 +40242,7 @@ Total entries processed: 9217
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kuddev-nebula.yml`
-- **URL**: https://github.com/Kuddev/nebula/releases/download/v1.4.0/NebulaTerminal-1.4.0-windows-x64-setup.exe
+- **URL**: https://github.com/Kuddev/nebula/releases/download/v1.4.1/NebulaTerminal-1.4.1-windows-x64-setup.exe
 
 #### kuestenlogik-bowire
 
@@ -40800,7 +40818,7 @@ Total entries processed: 9217
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lbjlaq-antigravitytools.yml`
-- **URL**: https://github.com/lbjlaq/Antigravity-Manager/releases/download/v4.6.3/Antigravity.Tools_4.6.3_x64-setup.exe
+- **URL**: https://github.com/lbjlaq/Antigravity-Manager/releases/download/v4.6.4/Antigravity.Tools_4.6.4_x64-setup.exe
 
 #### lbry-lbry
 
@@ -43545,7 +43563,7 @@ Total entries processed: 9217
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `marcelolvcabral-brightscriptemulator.yml`
-- **URL**: https://github.com/lvcabral/brs-desktop/releases/download/v2.5.1/brs-desktop-2.5.1-windows.exe
+- **URL**: https://github.com/lvcabral/brs-desktop/releases/download/v2.5.2/brs-desktop-2.5.2-windows.exe
 
 #### marcelotrevisani-zoio
 
@@ -54210,7 +54228,7 @@ Total entries processed: 9217
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nexmoe-vidbee.yml`
-- **URL**: https://github.com/nexmoe/VidBee/releases/download/v2.0.2/vidbee-2.0.2-setup.exe
+- **URL**: https://github.com/nexmoe/VidBee/releases/download/v2.1.0/vidbee-2.1.0-setup.exe
 
 #### nexon-nexonplug
 
@@ -61437,7 +61455,7 @@ Total entries processed: 9217
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `projectvid-viddl.yml`
-- **URL**: https://github.com/Project-Vid-dl/vid-dl/releases/download/v1.3.0/Video.Downloader_1.3.0_x64-setup.exe
+- **URL**: https://github.com/Project-Vid-dl/vid-dl/releases/download/v1.4.0/Video.Downloader_1.4.0_x64-setup.exe
 
 #### proma-proma
 
@@ -62220,7 +62238,7 @@ Total entries processed: 9217
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pzielinski-purerequest.yml`
-- **URL**: https://github.com/piotrzielinski1994/purerequest/releases/download/v0.1.0/purerequest_0.1.0_x64-setup.exe
+- **URL**: https://github.com/piotrzielinski1994/purerequest/releases/download/v0.1.1/purerequest_0.1.1_x64-setup.exe
 
 #### q14six-de-vokabularwav-maker
 
@@ -65208,7 +65226,7 @@ Total entries processed: 9217
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `roshad-roschronotrace.yml`
-- **URL**: https://github.com/roshad/Ro-s-ChronoTrace/releases/download/v1.7.0/Ros.ChronoTrace_1.7.0_x64-setup.exe
+- **URL**: https://github.com/roshad/Ro-s-ChronoTrace/releases/download/v1.8.0/Ros.ChronoTrace_1.8.0_x64-setup.exe
 
 #### rouchant-zenit
 
@@ -68313,7 +68331,7 @@ Total entries processed: 9217
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `simonschubert-kai.yml`
-- **URL**: https://github.com/SimonSchubert/Kai/releases/download/v3.0.0/Kai-3.0.0-windows.msi
+- **URL**: https://github.com/SimonSchubert/Kai/releases/download/v3.1.0/Kai-3.1.0-windows.msi
 
 #### simontatham-puzzles
 
@@ -69377,6 +69395,15 @@ Total entries processed: 9217
 - **File**: `soldforaloss-devhud.yml`
 - **URL**: https://github.com/soldforaloss/dev-hud/releases/download/v0.1.1/dev-hud_0.1.1_x64-setup.exe
 
+#### solibiz-pcstorageguard
+
+- **Source**: winget
+- **Name**: solibiz-pcstorageguard
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `solibiz-pcstorageguard.yml`
+- **URL**: https://solibiz.com/downloads/pc-storage-guard/1.0.0/PCStorageGuard-Setup-1.0.0.exe
+
 #### solidclouds-frontiers
 
 - **Source**: winget
@@ -69699,7 +69726,7 @@ Total entries processed: 9217
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sourcegraph-amp.yml`
-- **URL**: https://static.ampcode.com/cli/0.0.1788062443-gbd1430/amp-windows-x64-baseline.exe
+- **URL**: https://static.ampcode.com/cli/0.0.1788091238-g043a16/amp-windows-x64-baseline.exe
 
 #### southrivertechnologies-webdrive
 
@@ -72075,7 +72102,7 @@ Total entries processed: 9217
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sysmanage-sysmanage-agent.yml`
-- **URL**: https://github.com/bceverly/sysmanage-agent/releases/download/v3.7.0.1/sysmanage-agent-3.7.0.1-windows-x64.msi
+- **URL**: https://github.com/bceverly/sysmanage-agent/releases/download/v3.7.0.2/sysmanage-agent-3.7.0.2-windows-x64.msi
 
 #### sysmanage-sysmanage
 
@@ -72084,7 +72111,7 @@ Total entries processed: 9217
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sysmanage-sysmanage.yml`
-- **URL**: https://github.com/bceverly/sysmanage/releases/download/v3.7.0.1/sysmanage-3.7.0.1-windows-x64.msi
+- **URL**: https://github.com/bceverly/sysmanage/releases/download/v3.7.0.2/sysmanage-3.7.0.2-windows-x64.msi
 
 #### szchkt-leaklog
 
@@ -78501,7 +78528,7 @@ Total entries processed: 9217
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vwspython-vuforia-cloud-reco.yml`
-- **URL**: https://github.com/VWS-Python/vws-cli/releases/download/2026.02.22/vuforia-cloud-reco-windows.exe
+- **URL**: https://github.com/VWS-Python/vws-cli/releases/download/2026.08.30.5/vuforia-cloud-reco-windows.exe
 
 #### vwspython-vumark
 
@@ -78510,7 +78537,7 @@ Total entries processed: 9217
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vwspython-vumark.yml`
-- **URL**: https://github.com/VWS-Python/vws-cli/releases/download/2026.02.22/vumark-windows.exe
+- **URL**: https://github.com/VWS-Python/vws-cli/releases/download/2026.08.30.5/vumark-windows.exe
 
 #### vwspython-vws-cli
 
@@ -78519,7 +78546,7 @@ Total entries processed: 9217
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vwspython-vws-cli.yml`
-- **URL**: https://github.com/VWS-Python/vws-cli/releases/download/2026.02.22/vws-windows.exe
+- **URL**: https://github.com/VWS-Python/vws-cli/releases/download/2026.08.30.5/vws-windows.exe
 
 #### vyomi-vyomi
 
@@ -80590,6 +80617,15 @@ Total entries processed: 9217
 - **Version**: 
 - **File**: `wozhi-wiznote-x.yml`
 - **URL**: https://get.wiz.cn/x/wiznote-desktop-0.1.107-win-x64.exe
+
+#### wrenchware-forecastcenter
+
+- **Source**: winget
+- **Name**: wrenchware-forecastcenter
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `wrenchware-forecastcenter.yml`
+- **URL**: https://github.com/wrenchware/forecast-center/releases/download/v0.9.0/ForecastCenter-Setup-0.9.0-x64.exe
 
 #### wrike-wrikedesktopapp
 
