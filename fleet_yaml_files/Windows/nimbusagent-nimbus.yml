@@ -1,4 +1,4 @@
-url: https://github.com/nimbus-agent/Nimbus/releases/download/v7.2.0/nimbus-headless-windows-x64.msi
+url: https://github.com/nimbus-agent/Nimbus/releases/download/v7.3.0/nimbus-headless-windows-x64.msi
 automatic_install: false
 self_service: false
 categories: []
