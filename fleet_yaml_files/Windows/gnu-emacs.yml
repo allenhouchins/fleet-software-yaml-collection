@@ -1,4 +1,4 @@
-url: https://ftp.gnu.org/gnu/emacs/windows/emacs-30/emacs-30.2-installer.exe
+url: https://ftp.gnu.org/gnu/emacs/windows/emacs-31/emacs-31.1-installer-UCRT64.exe
 automatic_install: false
 self_service: false
 categories: []
