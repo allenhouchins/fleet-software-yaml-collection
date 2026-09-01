@@ -1,4 +1,4 @@
-url: https://omnibus-aptible-toolbelt.s3.amazonaws.com/release/aptible-cli-go/aptible-cli-go_1.0.0_darwin_arm64.pkg
+url: https://omnibus-aptible-toolbelt.s3.amazonaws.com/release/aptible-cli-go/aptible-cli-go_1.0.1_darwin_arm64.pkg
 automatic_install: false
 self_service: false
 categories: []
