@@ -1,4 +1,4 @@
-url: https://github.com/PowerShell/PowerShell/releases/download/v7.7.0-preview.3/powershell-7.7.0-preview.3-osx-arm64.pkg
+url: https://github.com/PowerShell/PowerShell/releases/download/v7.7.0-preview.4/powershell-7.7.0-preview.4-osx-arm64.pkg
 automatic_install: false
 self_service: false
 categories: []
