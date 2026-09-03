@@ -1,10 +1,7 @@
-url: https://dr2v7l5emb758.cloudfront.net/7.529.2/Granola-7.529.2-win-x64.exe
+url: https://eidas.minv.sk/download/files/windows/x64/eID_klient.msi
 automatic_install: false
 self_service: false
 categories: []
-install_script: '# TODO: Add install script for this EXE'
-uninstall_script: '# TODO: Add uninstall script for this EXE'
 
 # Categories are currently limited to Browsers, Communication, Developer tools, and Productivity.
 # This is a minimum version of this file. All configurable parameters can be seen at https://fleetdm.com/docs/rest-api/rest-api#parameters139
-# Note: Any exe requires an install script and uninstall script to be defined

@@ -1,4 +1,4 @@
-url: https://static.rust-lang.org/dist/rust-1.98.0-x86_64-pc-windows-msvc.msi
+url: https://static.rust-lang.org/dist/rust-1.98.1-x86_64-pc-windows-msvc.msi
 automatic_install: false
 self_service: false
 categories: []

@@ -1,4 +1,4 @@
-url: https://artifacts.elastic.co/downloads/beats/heartbeat/heartbeat-9.5.2-windows-x86_64.msi
+url: https://artifacts.elastic.co/downloads/beats/heartbeat/heartbeat-9.5.3-windows-x86_64.msi
 automatic_install: false
 self_service: false
 categories: []
