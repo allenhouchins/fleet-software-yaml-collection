@@ -1,4 +1,4 @@
-url: https://download-installer.cdn.mozilla.net/pub/firefox/releases/155.0.1/win64/gn/Firefox%20Setup%20155.0.1.exe
+url: https://github.com/AGWA/git-crypt/releases/download/0.7.0/git-crypt-0.7.0-x86_64.exe
 automatic_install: false
 self_service: false
 categories: []
