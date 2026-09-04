@@ -1,4 +1,4 @@
-url: https://github.com/crowdsecurity/crowdsec/releases/download/v1.8.0/crowdsec_1.8.0.msi
+url: https://github.com/crowdsecurity/crowdsec/releases/download/v1.8.1/crowdsec_1.8.1.msi
 automatic_install: false
 self_service: false
 categories: []
