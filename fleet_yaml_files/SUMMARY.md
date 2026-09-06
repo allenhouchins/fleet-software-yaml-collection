@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-09-05 19:47:12 UTC
+Generated on: 2026-09-06 10:02:39 UTC
 
 ## Summary
 
-Total entries processed: 9321
+Total entries processed: 9322
 - macOS files: 441
-- Windows files: 8880
+- Windows files: 8881
 
 ## Generated Files
 
@@ -3331,7 +3331,7 @@ Total entries processed: 9321
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `starnet2.yml`
-- **URL**: https://download.starnetastro.com/StarNet2_macos-arm64_2.5.4-0214_COREML_arm64.pkg
+- **URL**: https://download.starnetastro.com/StarNet2_macos-arm64_2.6.0-0231_COREML_arm64.pkg
 
 #### steelseries-gg
 
@@ -5413,6 +5413,15 @@ Total entries processed: 9321
 - **Version**: 
 - **File**: `adrienallard-fileconverter.yml`
 - **URL**: https://github.com/Tichau/FileConverter/releases/download/v2.2/FileConverter-2.2-x64-setup.msi
+
+#### adriencros-avash
+
+- **Source**: winget
+- **Name**: adriencros-avash
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `adriencros-avash.yml`
+- **URL**: https://github.com/AdrienAvalon/avash/releases/download/v0.9.1/Avash_0.9.1_x64-setup.exe
 
 #### adspower-adspower
 
@@ -10344,7 +10353,7 @@ Total entries processed: 9321
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aurelioavila-pctweaker.yml`
-- **URL**: https://github.com/AurelioAvila/pc-tweaker-app/releases/download/v1.8.0/pc-tweaker-app_1.8.0_x64-setup.exe
+- **URL**: https://github.com/AurelioAvila/pc-tweaker-app/releases/download/v1.9.0/pc-tweaker-app_1.9.0_x64-setup.exe
 
 #### aurora-aurora
 
@@ -14691,7 +14700,7 @@ Total entries processed: 9321
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `braillify-braillify.yml`
-- **URL**: https://github.com/dev-five-git/braillify/releases/download/braillify(libs/braillify/Cargo.toml)@2.0.1/braillify-windows-x86_64.exe
+- **URL**: https://github.com/dev-five-git/braillify/releases/download/braillify(libs/braillify/Cargo.toml)@2.1.2/braillify-windows-x86_64.exe
 
 #### brak-beaclientsecurity
 
@@ -20676,7 +20685,7 @@ Total entries processed: 9321
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `davidengelhart-termpolis.yml`
-- **URL**: https://github.com/codedev-david/termpolis/releases/download/v1.38.5/Termpolis.Setup.1.38.5.exe
+- **URL**: https://github.com/codedev-david/termpolis/releases/download/v1.39.0/Termpolis.Setup.1.39.0.exe
 
 #### davidlago-lakedb
 
@@ -22062,7 +22071,7 @@ Total entries processed: 9321
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dimitarradenkov-pointframe.yml`
-- **URL**: https://github.com/dimitar-radenkov/Pointframe/releases/download/v6.6.9/Pointframe-6.6.9-x64-Setup.exe
+- **URL**: https://github.com/dimitar-radenkov/Pointframe/releases/download/v6.7.1/Pointframe-6.7.1-x64-Setup.exe
 
 #### dimitarradenkov-snippingtool
 
@@ -22800,7 +22809,7 @@ Total entries processed: 9321
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dongdongbh-mindwtr.yml`
-- **URL**: https://github.com/dongdongbh/Mindwtr/releases/download/v1.2.7/mindwtr_1.2.7_x64-setup.exe
+- **URL**: https://github.com/dongdongbh/Mindwtr/releases/download/v1.2.8/mindwtr_1.2.8_x64-setup.exe
 
 #### donmar-bonsai
 
@@ -24528,7 +24537,7 @@ Total entries processed: 9321
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ekkolearnai-hermesstudio.yml`
-- **URL**: https://github.com/EKKOLearnAI/hermes-studio/releases/download/v0.7.17/Hermes.Studio-0.7.17-x64.exe
+- **URL**: https://github.com/EKKOLearnAI/hermes-studio/releases/download/v0.7.18/Hermes.Studio-0.7.18-x64.exe
 
 #### ekvedaras-redis-gui
 
@@ -29748,7 +29757,7 @@ Total entries processed: 9321
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `gitextensionsteam-gitextensions.yml`
-- **URL**: https://github.com/gitextensions/gitextensions/releases/download/v7.2.0/GitExtensions-x64-7.2.0.92-501f831.msi
+- **URL**: https://github.com/gitextensions/gitextensions/releases/download/v7.2.1/GitExtensions-x64-7.2.1.7-0aea2d6df.msi
 
 #### github-atom-beta
 
@@ -31629,7 +31638,7 @@ Total entries processed: 9321
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `habrmnc-bilet.yml`
-- **URL**: https://github.com/Habeeb-Rahman-CA/bilet/releases/download/bilet-v1.3.0/bilet_1.3.0_x64-setup.exe
+- **URL**: https://github.com/Habeeb-Rahman-CA/bilet/releases/download/bilet-v1.3.1/bilet_1.3.1_x64-setup.exe
 
 #### hadc188-reader
 
@@ -31953,7 +31962,7 @@ Total entries processed: 9321
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hawaii-beach-tinynvidiaupdatechecker.yml`
-- **URL**: https://github.com/HawaiiBeach/TinyNvidiaUpdateChecker/releases/download/v1.25.2/TinyNvidiaUpdateChecker.exe
+- **URL**: https://github.com/HawaiiBeach/TinyNvidiaUpdateChecker/releases/download/v1.26.0/TinyNvidiaUpdateChecker.exe
 
 #### haxefoundation-haxe
 
@@ -32871,7 +32880,7 @@ Total entries processed: 9321
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `holographichat-yaeachievement.yml`
-- **URL**: https://github.com/HolographicHat/Yae/releases/download/5.7.3/YaeAchievement.exe
+- **URL**: https://github.com/HolographicHat/Yae/releases/download/5.8.0/YaeAchievement.exe
 
 #### hongfeiyucode-deepseekharnessdesktop
 
@@ -34599,7 +34608,7 @@ Total entries processed: 9321
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `inflowpayai-inflow.yml`
-- **URL**: https://github.com/inflowpayai/inflow-cli/releases/download/v0.12.0/inflow-0.12.0-windows-x64.msi
+- **URL**: https://github.com/inflowpayai/inflow-cli/releases/download/v0.12.2/inflow-0.12.2-windows-x64.msi
 
 #### ingohdeboer-winshell
 
@@ -36642,7 +36651,7 @@ Total entries processed: 9321
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jcalado-voxdmr.yml`
-- **URL**: https://github.com/jcalado/voxdmr-site/releases/download/v0.15.0/VoxDMR-windows-x86_64.exe
+- **URL**: https://github.com/jcalado/voxdmr-site/releases/download/v0.15.1/VoxDMR-windows-x86_64.exe
 
 #### jcardama-leopardwm
 
@@ -38289,7 +38298,7 @@ Total entries processed: 9321
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `justin025-onthespot.yml`
-- **URL**: https://github.com/justin025/onthespot/releases/download/v1.1.4/OnTheSpot-1.1.4-x86_64.exe
+- **URL**: https://github.com/ots-downloader/onthespot/releases/download/v1.8.1/OnTheSpot-x86_64.exe
 
 #### justingrote-pingometer
 
@@ -38640,7 +38649,7 @@ Total entries processed: 9321
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `karnyadavdev-fontwizard.yml`
-- **URL**: https://github.com/karnyadavdev/FontWizard/releases/download/v2.0/FontWizard.exe
+- **URL**: https://github.com/karnyadavdev/FontWizard/releases/download/v3.0/FontWizard.exe
 
 #### karuzip-karuzip
 
@@ -38802,7 +38811,7 @@ Total entries processed: 9321
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-akregator.yml`
-- **URL**: https://cdn.kde.org/ci-builds/pim/akregator/master/windows/akregator-master-2737-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/pim/akregator/master/windows/akregator-master-2818-windows-cl-msvc2022-x86_64.exe
 
 #### kde-alkimia
 
@@ -41412,7 +41421,7 @@ Total entries processed: 9321
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lbjlaq-antigravitytools.yml`
-- **URL**: https://github.com/lbjlaq/Antigravity-Manager/releases/download/v4.6.7/Antigravity.Tools_4.6.7_x64-setup.exe
+- **URL**: https://github.com/lbjlaq/Antigravity-Manager/releases/download/v4.6.8/Antigravity.Tools_4.6.8_x64-setup.exe
 
 #### lbry-lbry
 
@@ -42582,7 +42591,7 @@ Total entries processed: 9321
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `localsend-localsend-cli.yml`
-- **URL**: https://github.com/localsend/localsend/releases/download/v1.18.0/LocalSend-CLI-1.18.0-windows-x86-64.exe
+- **URL**: https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-windows-x86-64.exe
 
 #### localsend-localsend
 
@@ -43041,7 +43050,7 @@ Total entries processed: 9321
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lovasoa-dezoomify-rs.yml`
-- **URL**: https://github.com/lovasoa/dezoomify-rs/releases/download/v2.19.0/dezoomify-rs.exe
+- **URL**: https://github.com/lovasoa/dezoomify-rs/releases/download/v2.20.0/dezoomify-rs.exe
 
 #### love2d-love2d
 
@@ -43077,7 +43086,7 @@ Total entries processed: 9321
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lrclib-lrcget.yml`
-- **URL**: https://github.com/tranxuanthang/lrcget/releases/download/2.1.0/LRCGET_2.1.0_x64-setup.exe
+- **URL**: https://github.com/tranxuanthang/lrcget/releases/download/2.2.0/LRCGET_2.2.0_x64-setup.exe
 
 #### lseg-refinitivworkspace
 
@@ -47100,7 +47109,7 @@ Total entries processed: 9321
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-safetyscanner.yml`
-- **URL**: https://definitionupdates.microsoft.com/packages/content/msert.exe?packageType=Scanner&packageVersion=1.459.64.0&arch=amd64
+- **URL**: https://definitionupdates.microsoft.com/packages/content/msert.exe?packageType=Scanner&packageVersion=1.459.76.0&arch=amd64
 
 #### microsoft-sbomtool
 
@@ -56190,7 +56199,7 @@ Total entries processed: 9321
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ntwind-uploadremote.yml`
-- **URL**: https://www.ntwind.com/files/UploadRemote_2.0.2-win-x64.exe
+- **URL**: https://www.ntwind.com/files/UploadRemote_2.0.3-win-x64.exe
 
 #### ntwind-vistaswitcher
 
@@ -59484,7 +59493,7 @@ Total entries processed: 9321
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `paranoiaworks-pfte.yml`
-- **URL**: https://paranoiaworks.com/download/ParanoiaFileTextEnc-17.1.43.msi
+- **URL**: https://paranoiaworks.com/download/ParanoiaFileTextEnc-17.2.43.msi
 
 #### parr0tboy-trace
 
@@ -60618,7 +60627,7 @@ Total entries processed: 9321
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pithflow-pithflow.yml`
-- **URL**: https://pithflow.com/downloads/Pithflow_1.35.0_x64-setup.exe
+- **URL**: https://pithflow.com/downloads/Pithflow_1.36.0_x64-setup.exe
 
 #### piuspp-celestial
 
@@ -64344,7 +64353,7 @@ Total entries processed: 9321
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `recol-dlssupdater.yml`
-- **URL**: https://github.com/Recol/DLSS-Updater/releases/download/V4.8.1/DLSS.Updater.4.8.1.msi
+- **URL**: https://github.com/Recol/DLSS-Updater/releases/download/V5.0.0/DLSS.Updater.5.0.0.msi
 
 #### recoupler-audiobookconverter
 
@@ -68250,7 +68259,7 @@ Total entries processed: 9321
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-09-03/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-09-05/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -69861,7 +69870,7 @@ Total entries processed: 9321
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `soft64-fr-canscan.yml`
-- **URL**: https://github.com/Lob2018/CanScan/releases/download/v1.2.1.0/CanScan-1.2.1.0-x64-Setup.exe
+- **URL**: https://github.com/Lob2018/CanScan/releases/download/v1.2.2.1/CanScan-1.2.2.1-x64-Setup.exe
 
 #### softdeluxe-freedownloadmanager
 
@@ -70536,7 +70545,7 @@ Total entries processed: 9321
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sourcegraph-amp.yml`
-- **URL**: https://static.ampcode.com/cli/0.0.1788624043-gf294bf/amp-windows-x64-baseline.exe
+- **URL**: https://static.ampcode.com/cli/0.0.1788667243-gdb7abb/amp-windows-x64-baseline.exe
 
 #### southrivertechnologies-webdrive
 
@@ -71688,7 +71697,7 @@ Total entries processed: 9321
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `stevethekiller-killerscan.yml`
-- **URL**: https://github.com/SteveTheKiller/KillerScan/releases/download/v1.6.1/KillerScan.exe
+- **URL**: https://github.com/SteveTheKiller/KillerScan/releases/download/v1.7.0/KillerScan.exe
 
 #### stevethekiller-killershell
 
@@ -75090,7 +75099,7 @@ Total entries processed: 9321
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `thewh1teagle-vibe.yml`
-- **URL**: https://github.com/thewh1teagle/vibe/releases/download/v3.2.1/vibe_3.2.1_x64-setup.exe
+- **URL**: https://github.com/thewh1teagle/vibe/releases/download/v3.2.2/vibe_3.2.2_x64-setup.exe
 
 #### thewisemonkey-azurevpn-cli
 
@@ -76962,7 +76971,7 @@ Total entries processed: 9321
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tulip-tulipplayer.yml`
-- **URL**: https://download.tulip.co/releases/prod/win/Tulip%20Player%20Setup.msi
+- **URL**: https://download.tulip.co/releases/prod/win/Tulip%20Player%20Setup.exe
 
 #### tunein-tunein
 
@@ -81723,7 +81732,7 @@ Total entries processed: 9321
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xarthurx-whisperi.yml`
-- **URL**: https://github.com/xarthurx/whisperi/releases/download/v0.8.7/Whisperi_0.8.7_x64-setup.exe
+- **URL**: https://github.com/xarthurx/whisperi/releases/download/v0.8.8/Whisperi_0.8.8_x64-setup.exe
 
 #### xavierroche-httrack
 
