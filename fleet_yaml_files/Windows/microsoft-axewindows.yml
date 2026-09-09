@@ -1,4 +1,4 @@
-url: https://files.gyazo.com/setup/Gyazo-11.2.0.pkg
+url: https://github.com/microsoft/axe-windows/releases/download/v2.4.2/AxeWindowsCLI-2.4.2.msi
 automatic_install: false
 self_service: false
 categories: []

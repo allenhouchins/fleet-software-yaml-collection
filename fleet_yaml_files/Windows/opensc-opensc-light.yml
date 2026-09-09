@@ -1,4 +1,4 @@
-url: https://github.com/OpenSC/OpenSC/releases/download/0.26.1/OpenSC-0.26.1_win64-Light.msi
+url: https://github.com/OpenSC/OpenSC/releases/download/0.27.1/OpenSC-0.27.1-Light_x64.msi
 automatic_install: false
 self_service: false
 categories: []
