@@ -1,4 +1,4 @@
-url: https://starkrats.de/x86_64-win64/toolbox-installer.exe
+url: https://starkrats.de/x86_64_avx-win64/toolbox-installer.exe
 automatic_install: false
 self_service: false
 categories: []
