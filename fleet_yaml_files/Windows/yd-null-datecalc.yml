@@ -1,4 +1,4 @@
-url: https://s3.dualstack.us-east-1.amazonaws.com/gitlab-runner-downloads/v19.4.0/binaries/gitlab-runner-windows-amd64.exe
+url: https://github.com/yd-null/datacalc/releases/download/v0.1.0/DateCalc_0.1.0_x64.exe
 automatic_install: false
 self_service: false
 categories: []

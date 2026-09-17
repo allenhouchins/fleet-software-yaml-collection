@@ -1,4 +1,4 @@
-url: https://s3.dualstack.us-east-1.amazonaws.com/gitlab-runner-downloads/v19.4.0/binaries/gitlab-runner-windows-amd64.exe
+url: https://starwhisper.ai/downloads/pkg/StarWhisper-Setup-Base-1.3.296.exe
 automatic_install: false
 self_service: false
 categories: []
