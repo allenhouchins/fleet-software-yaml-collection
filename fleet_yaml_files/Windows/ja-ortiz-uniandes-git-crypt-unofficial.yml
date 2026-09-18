@@ -1,4 +1,4 @@
-url: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/153.3.1esr/win64/rm/Thunderbird%20Setup%20153.3.1esr.exe
+url: https://github.com/ja-ortiz-uniandes/git-crypt-windows-builds/releases/download/0.8.0/git-crypt-0.8.0-x86_64.exe
 automatic_install: false
 self_service: false
 categories: []
