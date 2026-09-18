@@ -1,4 +1,4 @@
-url: https://github.com/avarwand/ANE/raw/refs/heads/master/src/WinGet/1.9.0.43/ANE1.9.exe
+url: https://github.com/avarwand/ANE/releases/download/wgane/ANE-1.9-Setup.exe
 automatic_install: false
 self_service: false
 categories: []
