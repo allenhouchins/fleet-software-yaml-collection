@@ -1,4 +1,4 @@
-url: https://update-cardano-mainnet.iohk.io/daedalus-11.4.0-87230-mainnet-9be560111-aarch64-darwin.pkg
+url: https://github.com/ringover/ringover-desktop-v2/releases/download/2.1.17/Ringover.msi
 automatic_install: false
 self_service: false
 categories: []

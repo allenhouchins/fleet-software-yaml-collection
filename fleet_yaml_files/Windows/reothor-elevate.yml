@@ -1,4 +1,4 @@
-url: https://update-cardano-mainnet.iohk.io/daedalus-11.4.0-87230-mainnet-9be560111-aarch64-darwin.pkg
+url: https://github.com/FrodeHus/elevate/releases/download/v1.7.0/Elevate-1.7.0-x64.msi
 automatic_install: false
 self_service: false
 categories: []

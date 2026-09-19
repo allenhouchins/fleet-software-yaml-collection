@@ -1,4 +1,4 @@
-url: https://update-cardano-mainnet.iohk.io/daedalus-11.4.0-87230-mainnet-9be560111-aarch64-darwin.pkg
+url: https://github.com/xcomart/jdbgen/releases/download/v0.3.2/jdbgen-0.3.2.msi
 automatic_install: false
 self_service: false
 categories: []
