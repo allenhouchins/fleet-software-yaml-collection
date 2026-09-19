@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-09-19 10:03:58 UTC
+Generated on: 2026-09-19 19:51:18 UTC
 
 ## Summary
 
@@ -217,7 +217,7 @@ Total entries processed: 9432
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `auto-subs.yml`
-- **URL**: https://github.com/tmoroney/auto-subs/releases/download/v3.10.0/AutoSubs-Mac-ARM.pkg
+- **URL**: https://github.com/tmoroney/auto-subs/releases/download/v3.10.1/AutoSubs-Mac-ARM.pkg
 
 #### autodeskfusion360admininstall
 
@@ -460,7 +460,7 @@ Total entries processed: 9432
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `capsomnia.yml`
-- **URL**: https://github.com/fuji-mak/Capsomnia/releases/download/v4.0.0/Capsomnia-4.0.0.pkg
+- **URL**: https://github.com/fuji-mak/Capsomnia/releases/download/v4.1.0/Capsomnia-4.1.0.pkg
 
 #### cardinal
 
@@ -26490,7 +26490,7 @@ Total entries processed: 9432
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `factoryai-factory.yml`
-- **URL**: https://downloads.factory.ai/factory-desktop/releases/0.179.0/win32/x64/Factory-0.179.0%20Setup.exe
+- **URL**: https://downloads.factory.ai/factory-desktop/releases/0.180.0/win32/x64/Factory-0.180.0%20Setup.exe
 
 #### factset-factsetworkstation
 
@@ -43113,7 +43113,7 @@ Total entries processed: 9432
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lody-lody.yml`
-- **URL**: https://updates.lody.ai/production/Lody-0.97.0-x64-setup.exe
+- **URL**: https://updates.lody.ai/production/Lody-0.97.1-x64-setup.exe
 
 #### loft-sh-vcluster
 
@@ -45741,7 +45741,7 @@ Total entries processed: 9432
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `memoirstudio-memoir.yml`
-- **URL**: https://github.com/Memoir-Studio/Memoir/releases/download/v0.3.4/memoir_0.3.4_x64-setup.exe
+- **URL**: https://github.com/Memoir-Studio/Memoir/releases/download/v0.3.5/memoir_0.3.5_x64-setup.exe
 
 #### memstechtips-winhance
 
@@ -49242,7 +49242,7 @@ Total entries processed: 9432
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `moises-moises.yml`
-- **URL**: https://download.todesktop.com/220410vabqjud82/Moises%20Setup%202.0.6%20-%20Build%202609181mkz6im6m-x64.exe
+- **URL**: https://download.todesktop.com/220410vabqjud82/Moises%20Setup%202.0.7%20-%20Build%2026091864rld8pkn-x64.exe
 
 #### moisesvalero-sideglass
 
@@ -56064,7 +56064,7 @@ Total entries processed: 9432
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ningbainb-deepseekharnessdesktop.yml`
-- **URL**: https://github.com/ningbainb/deepseek-harness-desktop/releases/download/desktop-v4.1.0/DeepSeek-Harness-Desktop-Setup-4.1.0-x64.exe
+- **URL**: https://github.com/ningbainb/deepseek-harness-desktop/releases/download/desktop-v4.2.0/DeepSeek-Harness-Desktop-Setup-4.2.0-x64.exe
 
 #### nirosoftware-serialflow
 
@@ -71346,7 +71346,7 @@ Total entries processed: 9432
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sourcegraph-amp.yml`
-- **URL**: https://static.ampcode.com/cli/0.0.1789776094-g9dbec2/amp-windows-x64-baseline.exe
+- **URL**: https://static.ampcode.com/cli/0.0.1789819237-ge34793/amp-windows-x64-baseline.exe
 
 #### southrivertechnologies-webdrive
 
