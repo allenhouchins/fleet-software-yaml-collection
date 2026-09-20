@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-09-20 10:23:18 UTC
+Generated on: 2026-09-20 20:05:15 UTC
 
 ## Summary
 
-Total entries processed: 9435
+Total entries processed: 9437
 - macOS files: 444
-- Windows files: 8991
+- Windows files: 8993
 
 ## Generated Files
 
@@ -838,7 +838,7 @@ Total entries processed: 9435
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `clash-party.yml`
-- **URL**: https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.2/clash-party-macos-2.0.2-arm64.pkg
+- **URL**: https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.3/clash-party-macos-2.0.3-arm64.pkg
 
 #### clip-studio-paint
 
@@ -1954,7 +1954,7 @@ Total entries processed: 9435
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `mac-performance-monitor.yml`
-- **URL**: https://github.com/Zesty0wl/mac-performance-monitor/releases/download/v2.1.0.236/MacPerformanceMonitor.pkg
+- **URL**: https://github.com/Zesty0wl/mac-performance-monitor/releases/download/v2.2.0.260/MacPerformanceMonitor.pkg
 
 #### mactex
 
@@ -25249,6 +25249,15 @@ Total entries processed: 9435
 - **Version**: 
 - **File**: `emdisoftware-simplnote.yml`
 - **URL**: https://github.com/AdamAnomatik/SimplNote-Releases/releases/download/v1.1.0/SimplNote-1.1.0-win-x64-setup.exe
+
+#### emdisoftware-simplplayer
+
+- **Source**: winget
+- **Name**: emdisoftware-simplplayer
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `emdisoftware-simplplayer.yml`
+- **URL**: https://github.com/AdamAnomatik/SimplPlayer-Releases/releases/download/v1.1.0/SimplPlayer-1.1.0-win-x64-setup.exe
 
 #### emdisoftware-simpltask
 
@@ -68845,6 +68854,15 @@ Total entries processed: 9435
 - **Version**: 
 - **File**: `sensetime-ads-cli.yml`
 - **URL**: https://quark.aoss.cn-sh-01.sensecoreapi-oss.cn/ads-cli/release/v1.11.0/ads-cli.exe
+
+#### sensslen-cameracontrol
+
+- **Source**: winget
+- **Name**: sensslen-cameracontrol
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `sensslen-cameracontrol.yml`
+- **URL**: https://github.com/sensslen/Cgf.CameraControl.Net/releases/download/v0.4.0/CameraControl-0.4.0-win-x64-setup.exe
 
 #### sentinel-sentinelcli
 
