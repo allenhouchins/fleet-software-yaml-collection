@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-09-19 19:51:18 UTC
+Generated on: 2026-09-20 10:23:18 UTC
 
 ## Summary
 
-Total entries processed: 9432
+Total entries processed: 9435
 - macOS files: 444
-- Windows files: 8988
+- Windows files: 8991
 
 ## Generated Files
 
@@ -460,7 +460,7 @@ Total entries processed: 9432
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `capsomnia.yml`
-- **URL**: https://github.com/fuji-mak/Capsomnia/releases/download/v4.1.0/Capsomnia-4.1.0.pkg
+- **URL**: https://github.com/fuji-mak/Capsomnia/releases/download/v4.2.0/Capsomnia-4.2.0.pkg
 
 #### cardinal
 
@@ -2557,7 +2557,7 @@ Total entries processed: 9432
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `opencore-patcher.yml`
-- **URL**: https://github.com/dortania/OpenCore-Legacy-Patcher/releases/download/2.5.0/OpenCore-Patcher.pkg
+- **URL**: https://github.com/dortania/OpenCore-Legacy-Patcher/releases/download/2.5.1/OpenCore-Patcher.pkg
 
 #### opencpn
 
@@ -3358,7 +3358,7 @@ Total entries processed: 9432
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `starnet2.yml`
-- **URL**: https://download.starnetastro.com/StarNet2_macos-arm64_2.6.2-0241_COREML_arm64.pkg
+- **URL**: https://download.starnetastro.com/StarNet2_macos-arm64_2.6.2-0242_COREML_arm64.pkg
 
 #### steelseries-gg
 
@@ -33420,7 +33420,7 @@ Total entries processed: 9432
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `hp-connectivitykit.yml`
-- **URL**: https://updates.moravia-consulting.com/HP_Prime_Connectivity_Kit_x64_20250915.exe
+- **URL**: https://updates.moravia-consulting.com/HP_Prime_Connectivity_Kit_x64_20260909.exe
 
 #### hp-hpclick
 
@@ -57128,6 +57128,15 @@ Total entries processed: 9432
 - **File**: `o2sh-onefetch.yml`
 - **URL**: https://github.com/o2sh/onefetch/releases/download/2.22.0/onefetch-setup.exe
 
+#### obd2faultfinder-obd2faultfinder
+
+- **Source**: winget
+- **Name**: obd2faultfinder-obd2faultfinder
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `obd2faultfinder-obd2faultfinder.yml`
+- **URL**: https://dl.obd2faultfinder.com/OBD2-FaultFinder-1.1.3-win.exe
+
 #### obiddable-obiddable
 
 - **Source**: winget
@@ -63192,7 +63201,7 @@ Total entries processed: 9432
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pulsehd-pulsehd.yml`
-- **URL**: https://storage.googleapis.com/pulsehd/PulseHD%20Setup%205.4.3.exe
+- **URL**: https://storage.googleapis.com/pulsehd/PulseHD%20Setup%208.7.0.exe
 
 #### pulsejet-edgeandbingdeflector
 
@@ -68808,7 +68817,7 @@ Total entries processed: 9432
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sejinchun-imagine.yml`
-- **URL**: https://raw.githubusercontent.com/nyam1003/imagine/91d316652821fe83111dc296f0efc8d28bc0a496/x64/Imagine_2.6.4_x64_Unicode_Full.exe
+- **URL**: https://raw.githubusercontent.com/nyam1003/imagine/8a2f04db3f28857f3cbb7e6d2b8572d455f64341/x64/Imagine_2.6.5_x64_Unicode_Full.exe
 
 #### selebrowproject-selebrow
 
@@ -69026,6 +69035,15 @@ Total entries processed: 9432
 - **File**: `servo-servo.yml`
 - **URL**: https://github.com/servo/servo/releases/download/v0.5.0/servo-x86_64-windows-msvc.exe
 
+#### serzhyale-fastmediasorter-server
+
+- **Source**: winget
+- **Name**: serzhyale-fastmediasorter-server
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `serzhyale-fastmediasorter-server.yml`
+- **URL**: https://github.com/SerZhyAle/FastMediaSorter_Lite/releases/download/v26.8.15.1510/FastMediaSorter-26.8.15.1510-windows-x64-server-setup.exe
+
 #### serzhyale-fastmediasorter
 
 - **Source**: winget
@@ -69133,6 +69151,15 @@ Total entries processed: 9432
 - **Version**: 
 - **File**: `sfxtechinnovation-simplefixai.yml`
 - **URL**: https://updates.simplefixai.com/SimpleFixAI_1.7.55_x64-setup.exe
+
+#### sgard-vpx
+
+- **Source**: winget
+- **Name**: sgard-vpx
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `sgard-vpx.yml`
+- **URL**: https://github.com/hellfirespriston-art/vpx-releases/releases/download/v2.0.54/VPX-Setup.exe
 
 #### shabinder-spotiflyer
 
