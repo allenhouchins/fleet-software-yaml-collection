@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-09-20 20:05:15 UTC
+Generated on: 2026-09-21 11:36:49 UTC
 
 ## Summary
 
@@ -73,7 +73,7 @@ Total entries processed: 9437
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `amneziavpn.yml`
-- **URL**: https://github.com/amnezia-vpn/amnezia-client/releases/download/5.0.1.5/AmneziaVPN_5.0.1.5_macos_x64.pkg
+- **URL**: https://github.com/amnezia-vpn/amnezia-client/releases/download/5.0.3.0/AmneziaVPN_5.0.3.0_macos_x64.pkg
 
 #### anka-build-cloud-controller
 
@@ -1261,7 +1261,7 @@ Total entries processed: 9437
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `entry.yml`
-- **URL**: https://playentry.org/uploads/data/installers/Entry-2.1.35.pkg
+- **URL**: https://playentry.org/uploads/data/installers/Entry-2.1.36.pkg
 
 #### epoccam
 
@@ -56235,7 +56235,7 @@ Total entries processed: 9437
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nlitesoft-ntlite.yml`
-- **URL**: https://downloads.ntlite.com/files/packages/2026.08.11723/NTLite_setup_x64.exe
+- **URL**: https://downloads.ntlite.com/files/packages/2026.09.12200/NTLite_setup_x64.exe
 
 #### nlnetlabs-unbound
 
