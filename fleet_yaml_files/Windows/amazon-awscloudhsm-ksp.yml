@@ -1,4 +1,4 @@
-url: https://s3.amazonaws.com/cloudhsmv2-software/CloudHsmClient/Windows/AWSCloudHSMKSP-5.17.2-1.msi
+url: https://s3.amazonaws.com/cloudhsmv2-software/CloudHsmClient/Windows/AWSCloudHSMCLI-5.18.0-1.msi
 automatic_install: false
 self_service: false
 categories: []
