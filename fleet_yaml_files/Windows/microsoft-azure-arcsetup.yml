@@ -1,4 +1,4 @@
-url: https://gbl.his.arc.azure.com/azcmagent/latest/arcsetup.exe
+url: https://gbl.his.arc.azure.com/azcmagent/1.68/arcsetup.exe
 automatic_install: false
 self_service: false
 categories: []
