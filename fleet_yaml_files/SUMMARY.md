@@ -1,12 +1,12 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-10-01 22:13:27 UTC
+Generated on: 2026-10-02 11:41:25 UTC
 
 ## Summary
 
-Total entries processed: 9690
+Total entries processed: 9713
 - macOS files: 445
-- Windows files: 9245
+- Windows files: 9268
 
 ## Generated Files
 
@@ -2343,6 +2343,15 @@ Total entries processed: 9690
 - **File**: `munki.yml`
 - **URL**: https://github.com/munki/munki/releases/download/v7.3.0/munkitools-7.3.0.5808.pkg
 
+#### napari
+
+- **Source**: homebrew/installomator
+- **Name**: napari
+- **Description**: Generated from Homebrew cask or Installomator script
+- **Version**: 
+- **File**: `napari.yml`
+- **URL**: https://github.com/napari/napari/releases/download/v0.9.2/napari-0.9.2-macOS-arm64.pkg
+
 #### naps2
 
 - **Source**: homebrew/installomator
@@ -2350,7 +2359,7 @@ Total entries processed: 9690
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `naps2.yml`
-- **URL**: https://github.com/cyanfish/naps2/releases/download/v8.3.2/naps2-8.3.2-mac-arm64.pkg
+- **URL**: https://github.com/cyanfish/naps2/releases/download/v8.4.0/naps2-8.4.0-mac-arm64.pkg
 
 #### ndi-tools
 
@@ -2368,7 +2377,7 @@ Total entries processed: 9690
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `netbeans.yml`
-- **URL**: https://github.com/Friends-of-Apache-NetBeans/netbeans-installers/releases/download/nb30-zulu25/Apache-NetBeans-30-zulu-25-arm64.pkg
+- **URL**: https://github.com/Friends-of-Apache-NetBeans/netbeans-installers/releases/download/nb31/Apache-NetBeans-31-arm64.pkg
 
 #### network-weather
 
@@ -3468,15 +3477,6 @@ Total entries processed: 9690
 - **File**: `teladocproviderinstaller.yml`
 - **URL**: https://update.intouchreports.com/cdn/PROD/ida/provider/mac/universal/manual/TeladocProviderInstaller_${appNewVersion}_mac_universal_manual.pkg
 
-#### teleport-suite-16
-
-- **Source**: homebrew/installomator
-- **Name**: teleport-suite-16
-- **Description**: Generated from Homebrew cask or Installomator script
-- **Version**: 
-- **File**: `teleport-suite-16.yml`
-- **URL**: https://cdn.teleport.dev/teleport-16.5.18.pkg
-
 #### teleport-suite-17
 
 - **Source**: homebrew/installomator
@@ -3691,7 +3691,7 @@ Total entries processed: 9690
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `unity-ios-support-for-editor.yml`
-- **URL**: https://download.unity3d.com/download_unity/45d8eee7de74/MacEditorTargetInstaller/UnitySetup-iOS-Support-for-Editor-6000.6.3f1.pkg
+- **URL**: https://download.unity3d.com/download_unity/12bfff696524/MacEditorTargetInstaller/UnitySetup-iOS-Support-for-Editor-6000.6.4f1.pkg
 
 #### unity-webgl-support-for-editor
 
@@ -3700,7 +3700,7 @@ Total entries processed: 9690
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `unity-webgl-support-for-editor.yml`
-- **URL**: https://download.unity3d.com/download_unity/45d8eee7de74/MacEditorTargetInstaller/UnitySetup-WebGL-Support-for-Editor-6000.6.3f1.pkg
+- **URL**: https://download.unity3d.com/download_unity/12bfff696524/MacEditorTargetInstaller/UnitySetup-WebGL-Support-for-Editor-6000.6.4f1.pkg
 
 #### unity-windows-support-for-editor
 
@@ -3709,7 +3709,7 @@ Total entries processed: 9690
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `unity-windows-support-for-editor.yml`
-- **URL**: https://download.unity3d.com/download_unity/45d8eee7de74/MacEditorTargetInstaller/UnitySetup-Windows-Mono-Support-for-Editor-6000.6.3f1.pkg
+- **URL**: https://download.unity3d.com/download_unity/12bfff696524/MacEditorTargetInstaller/UnitySetup-Windows-Mono-Support-for-Editor-6000.6.4f1.pkg
 
 #### unity
 
@@ -4224,7 +4224,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `37signals-basecamp.yml`
-- **URL**: https://basecamp.com/desktop/Basecamp-5.2.0-setup.exe
+- **URL**: https://basecamp.com/desktop/Basecamp-5.2.1-setup.exe
 
 #### 3cx-callflowdesigner
 
@@ -4431,7 +4431,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `66hex-frame.yml`
-- **URL**: https://github.com/66HEX/frame/releases/download/0.33.0/Frame-x86_64.exe
+- **URL**: https://github.com/66HEX/frame/releases/download/0.33.1/Frame-x86_64.exe
 
 #### 720kb-ndm
 
@@ -5683,6 +5683,15 @@ Total entries processed: 9690
 - **Version**: 
 - **File**: `afas-profitcommunicationcenter-8.yml`
 - **URL**: https://profitdownload.afas.nl/download/PCC/PccSetup8.01.exe
+
+#### affluentlabs-zestssh
+
+- **Source**: winget
+- **Name**: affluentlabs-zestssh
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `affluentlabs-zestssh.yml`
+- **URL**: https://zestssh.com/downloads/ZestSSH-1.9.0-Setup.exe
 
 #### afkarxyz-spotiflac
 
@@ -8409,7 +8418,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `amintacccp-githubstarsmanager.yml`
-- **URL**: https://github.com/AmintaCCCP/GithubStarsManager/releases/download/v0.8.4/GitHub.Stars.Manager.Setup.0.8.4.exe
+- **URL**: https://github.com/AmintaCCCP/GithubStarsManager/releases/download/v0.8.5/GitHub.Stars.Manager.Setup.0.8.5.exe
 
 #### amiproconverter-amiproconverter
 
@@ -9130,6 +9139,15 @@ Total entries processed: 9690
 - **Version**: 
 - **File**: `antstreamltd-antstream.yml`
 - **URL**: https://downloads.antstream.com/antstreamInstaller-2.1.2744.exe
+
+#### anttiak-lofeline
+
+- **Source**: winget
+- **Name**: anttiak-lofeline
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `anttiak-lofeline.yml`
+- **URL**: https://github.com/anttiak/lofeline-windows/releases/download/v1.0.0/LoFeline-1.0.0-setup.exe
 
 #### antutu-antutubenchmark
 
@@ -10038,7 +10056,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aryapaw-voxely.yml`
-- **URL**: https://github.com/AryaPaw/voxely/releases/download/v0.2.12/Voxely_0.2.12_x64-setup.exe
+- **URL**: https://github.com/AryaPaw/voxely/releases/download/v0.2.13/Voxely_0.2.13_x64-setup.exe
 
 #### arylmera-tokendashboard
 
@@ -10632,7 +10650,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `aurelioavila-redaxa.yml`
-- **URL**: https://github.com/AurelioAvila/redaxa/releases/download/v0.4.6/Redaxa_0.4.6_x64-setup.exe
+- **URL**: https://github.com/AurelioAvila/redaxa/releases/download/v0.4.7/Redaxa_0.4.7_x64-setup.exe
 
 #### aurora-aurora
 
@@ -10668,7 +10686,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `austin-patrician-wordless.yml`
-- **URL**: https://github.com/Austin-Patrician/Wordless/releases/download/v0.6.3/Wordless-0.6.3-win-x64.exe
+- **URL**: https://github.com/Austin-Patrician/Wordless/releases/download/v0.6.6/Wordless-0.6.6-win-x64.exe
 
 #### austinleath-r6rc
 
@@ -12081,7 +12099,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `barracuda-secureedgeagent.yml`
-- **URL**: https://d.barracuda.com/SEA/SecureEdgeAgent_3.0.4-25_x64.msi
+- **URL**: https://d.barracuda.com/SEA/SecureEdgeAgent_3.0.5-35_x64.msi
 
 #### barrycarlyon-barrycarlyonextensiontools
 
@@ -13099,6 +13117,15 @@ Total entries processed: 9690
 - **Version**: 
 - **File**: `bellsoft-libericajre-25.yml`
 - **URL**: https://download.bell-sw.com/java/25.0.4+9/bellsoft-jre25.0.4+9-windows-amd64.msi
+
+#### bellsoft-libericajre-26-full
+
+- **Source**: winget
+- **Name**: bellsoft-libericajre-26-full
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `bellsoft-libericajre-26-full.yml`
+- **URL**: https://download.bell-sw.com/java/26.0.2.1+1/bellsoft-jre26.0.2.1+1-windows-amd64-full.msi
 
 #### bellsoft-libericajre-8-full
 
@@ -14484,7 +14511,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `blenderfoundation-blender.yml`
-- **URL**: https://download.blender.org/release/Blender5.2/blender-5.2.1-windows-x64.msi
+- **URL**: https://download.blender.org/release/Blender5.2/blender-5.2.2-windows-x64.msi
 
 #### blife-customcursor
 
@@ -14952,7 +14979,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `bostrot-wslmanager.yml`
-- **URL**: https://github.com/bostrot/wslmanager/releases/download/v2.4.1/wsl2-distro-manager-v2.4.1-setup.exe
+- **URL**: https://github.com/bostrot/wslmanager/releases/download/v2.5.0/wsl2-distro-manager-v2.5.0-setup.exe
 
 #### bosyun-boardmix-cn
 
@@ -16941,7 +16968,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `chaitanyagiri-munderdifflin.yml`
-- **URL**: https://github.com/chaitanyagiri/munder-difflin/releases/download/v0.5.3/Munder-Difflin-0.5.3-win-x64-setup.exe
+- **URL**: https://github.com/chaitanyagiri/munder-difflin/releases/download/v0.5.5/Munder-Difflin-0.5.5-win-x64-setup.exe
 
 #### changemakerstudios-papercut-smtp
 
@@ -19643,6 +19670,15 @@ Total entries processed: 9690
 - **File**: `cosmicpredator-chibi.yml`
 - **URL**: https://github.com/CosmicPredator/chibi-cli/releases/download/1.2.1/chibi_1.2.1_installer.exe
 
+#### cosmoboyn-adminpro
+
+- **Source**: winget
+- **Name**: cosmoboyn-adminpro
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `cosmoboyn-adminpro.yml`
+- **URL**: https://github.com/Cosmoboyn/AdminPRO/releases/download/1.0.0/AdminPRO_Setup.exe
+
 #### cosmox-lepton
 
 - **Source**: winget
@@ -20065,6 +20101,15 @@ Total entries processed: 9690
 - **Version**: 
 - **File**: `crloewen-lazywslc.yml`
 - **URL**: https://github.com/craigloewen-msft/lazywslc/releases/download/v0.1.4/lazywslc-0.1.4-x86_64.msi
+
+#### cromis-alcove
+
+- **Source**: winget
+- **Name**: cromis-alcove
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `cromis-alcove.yml`
+- **URL**: https://github.com/izkac/alcove/releases/download/v0.2.4/Alcove_0.2.4_x64-setup.exe
 
 #### croppick-croppickvoice
 
@@ -20532,7 +20577,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `cyanfish-naps2.yml`
-- **URL**: https://github.com/cyanfish/naps2/releases/download/v8.3.2/naps2-8.3.2-win-x64.exe
+- **URL**: https://github.com/cyanfish/naps2/releases/download/v8.4.0/naps2-8.4.0-win-x64.exe
 
 #### cyanreg-cyanrip
 
@@ -21198,7 +21243,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dataflare-dataflare.yml`
-- **URL**: https://assets.dataflare.app/release/windows/x86_64/Dataflare-Setup-3.2.2.exe
+- **URL**: https://assets.dataflare.app/release/windows/x86_64/Dataflare-Setup-3.2.4.exe
 
 #### datafortresscloud-goatlymeetingsummarizer
 
@@ -21864,7 +21909,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `delinea-thycoticagent.yml`
-- **URL**: https://tmsnuget.thycotic.com/software/Agents/ThycoticAgent_x64_12_0_5290.msi
+- **URL**: https://tmsnuget.thycotic.com/software/Agents/DelineaAgent_x64_13_0_1041.msi
 
 #### delinea-thycoticapplicationcontrolagent
 
@@ -21891,7 +21936,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `delinea-thycoticlocalsecurityagent.yml`
-- **URL**: https://tmsnuget.thycotic.com/software/Agents/Thycotic_LocalSecurityAgent_x64_12_0_5290.msi
+- **URL**: https://tmsnuget.thycotic.com/software/Agents/Delinea_LocalSecurityAgent_x64_13_0_1041.msi
 
 #### deliro-mt
 
@@ -22467,7 +22512,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `dfnetresearch-dfsend.yml`
-- **URL**: https://www.dfnetresearch.com/wp-content/uploads/dfdiscover/5.11.1apps/DFsend_5_11_1.msi
+- **URL**: https://www.dfnetresearch.com/wp-content/uploads/dfdiscover/5.11.2apps/DFsend_5_11_2.msi
 
 #### dfrobot-mind-
 
@@ -22962,7 +23007,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `discord-discord-ptb.yml`
-- **URL**: https://ptb.dl2.discordapp.net/distro/app/ptb/win/x64/1.0.1222/DiscordPTBSetup.exe
+- **URL**: https://ptb.dl2.discordapp.net/distro/app/ptb/win/x64/1.0.1223/DiscordPTBSetup.exe
 
 #### discord-discord
 
@@ -25347,7 +25392,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ekkolearnai-hermesstudio.yml`
-- **URL**: https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.7.26/Ekko.Studio-0.7.26-x64.exe
+- **URL**: https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.7.27/Ekko.Studio-0.7.27-x64.exe
 
 #### ekvedaras-redis-gui
 
@@ -27075,7 +27120,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `factoryai-factory.yml`
-- **URL**: https://downloads.factory.ai/factory-desktop/releases/0.188.0/win32/x64/Factory-0.188.0%20Setup.exe
+- **URL**: https://downloads.factory.ai/factory-desktop/releases/0.189.0/win32/x64/Factory-0.189.0%20Setup.exe
 
 #### factset-factsetworkstation
 
@@ -28642,6 +28687,15 @@ Total entries processed: 9690
 - **Version**: 
 - **File**: `flowjo-flowjo.yml`
 - **URL**: https://downloads.bdaccessportal.com/v11/win/x64/FlowJo-11.2.0-installer.exe
+
+#### flowkeeper-flowkeeper
+
+- **Source**: winget
+- **Name**: flowkeeper-flowkeeper
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `flowkeeper-flowkeeper.yml`
+- **URL**: https://github.com/flowkeeper-org/fk-desktop/releases/download/v1.1.0/flowkeeper-1.1.0-windows-2022-nuitka-installer.exe
 
 #### flowseal-tgwsproxy
 
@@ -31503,7 +31557,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-canary.yml`
-- **URL**: https://dl.google.com/release2/chrome/ad2sleeuollkjjjozq4alw5karga_157.0.8081.0/157.0.8081.0_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/hbn5prrsayz3whkw364p5x5zqu_157.0.8082.0/157.0.8082.0_chrome_installer_uncompressed.exe
 
 #### google-chrome-dev-exe
 
@@ -31530,7 +31584,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `google-chrome-exe.yml`
-- **URL**: https://dl.google.com/release2/chrome/jn2gux5cxlyyg3xmconseuamzu_154.0.8037.93/154.0.8037.93_chrome_installer_uncompressed.exe
+- **URL**: https://dl.google.com/release2/chrome/ac3stf7x6z62hvwmphhro6dpbhpq_154.0.8037.98/154.0.8037.98_chrome_installer_uncompressed.exe
 
 #### google-chrome
 
@@ -32620,6 +32674,15 @@ Total entries processed: 9690
 - **Version**: 
 - **File**: `gynzy-gynzydesktop.yml`
 - **URL**: https://github.com/gynzy/gynzy-desktop-releases/releases/download/v2.5.0/GynzyDesktop.exe
+
+#### h2depot-clipls
+
+- **Source**: winget
+- **Name**: h2depot-clipls
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `h2depot-clipls.yml`
+- **URL**: https://github.com/h2depot/clipls/releases/download/v0.1.0/clipls.exe
 
 #### h3poteto-fedistar
 
@@ -34124,6 +34187,15 @@ Total entries processed: 9690
 - **File**: `hoverth-fdroidcl.yml`
 - **URL**: https://github.com/Hoverth/fdroidcl/releases/download/v0.8.1/fdroidcl_v0.8.1_windows_amd64.exe
 
+#### hp-aicompanion
+
+- **Source**: winget
+- **Name**: hp-aicompanion
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `hp-aicompanion.yml`
+- **URL**: https://ftp.hp.com/pub/softpaq/sp165501-166000/sp165958.exe
+
 #### hp-anywarepcoipclient
 
 - **Source**: winget
@@ -34222,6 +34294,15 @@ Total entries processed: 9690
 - **Version**: 
 - **File**: `hp-primevirtualcalculator.yml`
 - **URL**: https://updates.moravia-consulting.com/HP_Prime_Virtual_Calculator_x64_2026_09_09.exe
+
+#### hp-supportassistant
+
+- **Source**: winget
+- **Name**: hp-supportassistant
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `hp-supportassistant.yml`
+- **URL**: https://ftp.hp.com/pub/softpaq/sp173501-174000/sp173774.exe
 
 #### hql287-manta
 
@@ -34401,7 +34482,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `humanity-djv2.yml`
-- **URL**: https://github.com/grizzlypeak3d/DJV/releases/download/3.5.0/djv-3.5.0-windows-amd64.exe
+- **URL**: https://github.com/grizzlypeak3d/DJV/releases/download/3.7.1/djv-3.7.1-windows-amd64.exe
 
 #### humbinal-parqforge
 
@@ -35553,7 +35634,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `imfeh2-pinote.yml`
-- **URL**: https://github.com/ImFeH2/pinote/releases/download/v0.6.1/Pinote_0.6.1_x64_en-US.msi
+- **URL**: https://github.com/ImFeH2/pinote/releases/download/v0.6.2/Pinote_0.6.2_x64_en-US.msi
 
 #### iminetsoft-darkswitcher
 
@@ -38064,7 +38145,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `jericx-syncclipboard.yml`
-- **URL**: https://github.com/Jeric-X/SyncClipboard/releases/download/v3.3.0/SyncClipboard_win_x64_installer.exe
+- **URL**: https://github.com/Jeric-X/SyncClipboard/releases/download/v3.3.1/SyncClipboard_win_x64_installer.exe
 
 #### jernejsimoncic-wget
 
@@ -40071,7 +40152,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kawayiyokami-p-ai.yml`
-- **URL**: https://github.com/kawayiYokami/P-ai/releases/download/v0.96.1/P-ai_0.96.1_x64-setup.exe
+- **URL**: https://github.com/kawayiYokami/P-ai/releases/download/v0.96.2/P-ai_0.96.2_x64-setup.exe
 
 #### kay-ou-simtradedesk
 
@@ -40269,7 +40350,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-falkon-nightly.yml`
-- **URL**: https://cdn.kde.org/ci-builds/network/falkon/master/windows/falkon-master-2794-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/network/falkon/master/windows/falkon-master-2798-windows-cl-msvc2022-x86_64.exe
 
 #### kde-falkon
 
@@ -40287,7 +40368,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-filelight.yml`
-- **URL**: https://cdn.kde.org/ci-builds/utilities/filelight/release-26.08/windows/filelight-release_26.08-2185-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/utilities/filelight/release-26.08/windows/filelight-release_26.08-2202-windows-cl-msvc2022-x86_64.exe
 
 #### kde-gcompris
 
@@ -40386,7 +40467,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kasts.yml`
-- **URL**: https://cdn.kde.org/ci-builds/multimedia/kasts/release-26.08/windows/kasts-release_26.08-4771-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/multimedia/kasts/release-26.08/windows/kasts-release_26.08-4806-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kate
 
@@ -40449,7 +40530,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-kbruch.yml`
-- **URL**: https://cdn.kde.org/ci-builds/education/kbruch/master/windows/kbruch-master-915-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/education/kbruch/master/windows/kbruch-master-916-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kdeconnect
 
@@ -40638,7 +40719,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-konsole.yml`
-- **URL**: https://cdn.kde.org/ci-builds/utilities/konsole/master/windows/konsole-master-5342-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/utilities/konsole/master/windows/konsole-master-5345-windows-cl-msvc2022-x86_64.exe
 
 #### kde-kontact
 
@@ -40908,7 +40989,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-skrooge.yml`
-- **URL**: https://cdn.kde.org/ci-builds/office/skrooge/master/windows/skrooge-master-1499-windows-gcc-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/office/skrooge/master/windows/skrooge-master-1504-windows-gcc-x86_64.exe
 
 #### kde-tellico
 
@@ -40935,7 +41016,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kde-umbrello.yml`
-- **URL**: https://cdn.kde.org/ci-builds/sdk/umbrello/release-26.08/windows/umbrello-release_26.08-1832-windows-cl-msvc2022-x86_64.exe
+- **URL**: https://cdn.kde.org/ci-builds/sdk/umbrello/release-26.08/windows/umbrello-release_26.08-1839-windows-cl-msvc2022-x86_64.exe
 
 #### kdevora-pumpselector
 
@@ -41053,6 +41134,15 @@ Total entries processed: 9690
 - **Version**: 
 - **File**: `keif888-ssismhash.yml`
 - **URL**: https://github.com/keif888/SSISMHash/releases/download/v1.7.6.0/MultipleHashInstallerx64.msi
+
+#### kellersystems-vantablack
+
+- **Source**: winget
+- **Name**: kellersystems-vantablack
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `kellersystems-vantablack.yml`
+- **URL**: https://github.com/KELLERBABG/Vantablack/releases/download/v0.8.0/ggn-0.8.0-windows-setup.exe
 
 #### kellyelton-max-backup
 
@@ -41846,6 +41936,15 @@ Total entries processed: 9690
 - **File**: `korigamik-mangu.yml`
 - **URL**: https://github.com/KorigamiK/mangu/releases/download/continuous_releases/ManguReader.Setup.2.3.1.exe
 
+#### korsund-korva
+
+- **Source**: winget
+- **Name**: korsund-korva
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `korsund-korva.yml`
+- **URL**: https://github.com/kai63001/korva-releases/releases/download/v1.8.8/Korva_1.8.8_x64-setup.exe
+
 #### kosainabro-flintcapture
 
 - **Source**: winget
@@ -42267,7 +42366,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `kuddev-pebrel.yml`
-- **URL**: https://github.com/Kuddev/pebrel/releases/download/v2.1.0/Pebrel-v2.1.0-windows-x64-setup.exe
+- **URL**: https://github.com/Kuddev/pebrel/releases/download/v2.1.1/Pebrel-v2.1.1-windows-x64-setup.exe
 
 #### kuestenlogik-bowire
 
@@ -42870,7 +42969,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lbjlaq-antigravitytools.yml`
-- **URL**: https://github.com/lbjlaq/Antigravity-Manager/releases/download/v4.8.4/Antigravity.Tools_4.8.4_x64-setup.exe
+- **URL**: https://github.com/lbjlaq/Antigravity-Manager/releases/download/v4.8.8/Antigravity.Tools_4.8.8_x64-setup.exe
 
 #### lbry-lbry
 
@@ -42915,7 +43014,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `learnpulse-screenpresso.yml`
-- **URL**: https://www.screenpresso.com/binaries/releases/v2-2-09-000/dotnet47/Screenpresso.exe
+- **URL**: https://cdn.screenpresso.com/binaries/releases/v2-3-07-000/dotnet47/Screenpresso.exe
 
 #### leavesafe-leavesafe
 
@@ -44868,7 +44967,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `lunarwerxs-sagethumbs2k.yml`
-- **URL**: https://github.com/LunarWerxs/SageThumbs-2k/releases/download/v3.4.1/SageThumbs2K-Setup-3.4.1.exe
+- **URL**: https://github.com/LunarWerxs/SageThumbs-2k/releases/download/v3.5.0/SageThumbs2K-Setup-3.5.0.exe
 
 #### lunasans-movieshelf
 
@@ -46038,7 +46137,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `masterlxz-truthid.yml`
-- **URL**: https://github.com/masterlxz/truthid/releases/download/v2.2.2/TruthID_2.2.2_x64_en-US.msi
+- **URL**: https://github.com/masterlxz/truthid/releases/download/v2.2.3/TruthID_2.2.3_x64_en-US.msi
 
 #### masterpackager-masterpackagerdev
 
@@ -47064,7 +47163,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mg-chao-snow-shot.yml`
-- **URL**: https://github.com/mg-chao/snow-apps/releases/download/v1.1.9_snow-shot/snow-shot-1.1.9-windows-x64-offline.exe
+- **URL**: https://github.com/mg-chao/snow-apps/releases/download/v1.2.0_snow-shot/snow-shot-1.2.0-windows-x64-offline.exe
 
 #### mgth-littlebigmouse
 
@@ -48207,7 +48306,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-edgewebview2runtime.yml`
-- **URL**: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b5e242e2-acf4-4414-85c3-1a4dfe51a528/MicrosoftEdgeWebView2RuntimeInstallerX64.exe
+- **URL**: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/d7548c8b-0dc9-4e81-87dd-a346cc9b73a5/MicrosoftEdgeWebView2RuntimeInstallerX64.exe
 
 #### microsoft-enterprisestateclassify
 
@@ -53778,7 +53877,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-af.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/af/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/af/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-ar
 
@@ -53787,7 +53886,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-ar.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/ar/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/ar/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-ast
 
@@ -53796,7 +53895,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-ast.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/ast/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/ast/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-be
 
@@ -53805,7 +53904,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-be.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/be/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/be/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-bg
 
@@ -53814,7 +53913,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-bg.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/bg/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/bg/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-br
 
@@ -53823,7 +53922,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-br.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/br/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/br/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-ca
 
@@ -53832,7 +53931,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-ca.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/ca/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/ca/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-cak
 
@@ -53841,7 +53940,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-cak.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/cak/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/cak/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-cs
 
@@ -53850,7 +53949,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-cs.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/cs/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/cs/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-cy
 
@@ -53859,7 +53958,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-cy.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/cy/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/cy/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-da
 
@@ -53868,7 +53967,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-da.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/da/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/da/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-de
 
@@ -53877,7 +53976,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-de.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/de/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/de/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-dsb
 
@@ -53886,7 +53985,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-dsb.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/dsb/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/dsb/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-el
 
@@ -53895,7 +53994,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-el.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/el/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/el/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-en-ca
 
@@ -53904,7 +54003,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-en-ca.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/en-CA/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/en-CA/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-en-gb
 
@@ -53913,7 +54012,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-en-gb.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/en-GB/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/en-GB/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-es-ar
 
@@ -53922,7 +54021,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-es-ar.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/es-AR/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/es-AR/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-es-es
 
@@ -53931,7 +54030,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-es-es.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/es-ES/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/es-ES/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-es-mx
 
@@ -53940,7 +54039,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-es-mx.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/es-MX/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/es-MX/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-esr-af
 
@@ -54543,7 +54642,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-et.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/et/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/et/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-eu
 
@@ -54552,7 +54651,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-eu.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/eu/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/eu/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-fi
 
@@ -54561,7 +54660,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-fi.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/fi/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/fi/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-fr
 
@@ -54570,7 +54669,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-fr.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/fr/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/fr/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-fy-nl
 
@@ -54579,7 +54678,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-fy-nl.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/fy-NL/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/fy-NL/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-ga-ie
 
@@ -54588,7 +54687,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-ga-ie.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/ga-IE/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/ga-IE/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-gd
 
@@ -54597,7 +54696,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-gd.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/gd/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/gd/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-gl
 
@@ -54606,7 +54705,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-gl.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/gl/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/gl/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-he
 
@@ -54615,7 +54714,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-he.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/he/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/he/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-hr
 
@@ -54624,7 +54723,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-hr.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/hr/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/hr/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-hsb
 
@@ -54633,7 +54732,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-hsb.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/hsb/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/hsb/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-hu
 
@@ -54642,7 +54741,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-hu.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/hu/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/hu/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-hy-am
 
@@ -54651,7 +54750,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-hy-am.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/hy-AM/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/hy-AM/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-id
 
@@ -54660,7 +54759,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-id.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/id/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/id/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-is
 
@@ -54669,7 +54768,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-is.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/is/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/is/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-it
 
@@ -54678,7 +54777,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-it.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/it/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/it/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-ja
 
@@ -54687,7 +54786,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-ja.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/ja/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/ja/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-ka
 
@@ -54696,7 +54795,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-ka.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/ka/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/ka/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-kab
 
@@ -54705,7 +54804,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-kab.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/kab/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/kab/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-kk
 
@@ -54714,7 +54813,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-kk.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/kk/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/kk/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-ko
 
@@ -54723,7 +54822,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-ko.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/ko/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/ko/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-lt
 
@@ -54732,7 +54831,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-lt.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/lt/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/lt/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-lv
 
@@ -54741,7 +54840,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-lv.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/lv/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/lv/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-ms
 
@@ -54750,7 +54849,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-ms.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/ms/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/ms/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-nb-no
 
@@ -54759,7 +54858,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-nb-no.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/nb-NO/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/nb-NO/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-nl
 
@@ -54768,7 +54867,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-nl.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/nl/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/nl/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-nn-no
 
@@ -54777,7 +54876,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-nn-no.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/nn-NO/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/nn-NO/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-pa-in
 
@@ -54786,7 +54885,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-pa-in.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/pa-IN/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/pa-IN/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-pl
 
@@ -54795,7 +54894,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-pl.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/pl/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/pl/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-pt-br
 
@@ -54804,7 +54903,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-pt-br.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/pt-BR/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/pt-BR/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-pt-pt
 
@@ -54813,7 +54912,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-pt-pt.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/pt-PT/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/pt-PT/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-rm
 
@@ -54822,7 +54921,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-rm.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/rm/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/rm/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-ro
 
@@ -54831,7 +54930,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-ro.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/ro/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/ro/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-ru
 
@@ -54840,7 +54939,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-ru.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/ru/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/ru/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-sk
 
@@ -54849,7 +54948,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-sk.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/sk/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/sk/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-sl
 
@@ -54858,7 +54957,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-sl.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/sl/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/sl/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-sq
 
@@ -54876,7 +54975,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-sr.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/sr/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/sr/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-sv-se
 
@@ -54885,7 +54984,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-sv-se.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/sv-SE/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/sv-SE/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-th
 
@@ -54894,7 +54993,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-th.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/th/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/th/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-tr
 
@@ -54903,7 +55002,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-tr.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/tr/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/tr/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-uk
 
@@ -54912,7 +55011,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-uk.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/uk/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/uk/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-uz
 
@@ -54921,7 +55020,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-uz.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/uz/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/uz/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-vi
 
@@ -54930,7 +55029,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-vi.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/vi/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/vi/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-zh-cn
 
@@ -54939,7 +55038,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-zh-cn.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/zh-CN/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/zh-CN/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird-zh-tw
 
@@ -54948,7 +55047,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `mozilla-thunderbird-zh-tw.yml`
-- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0/win64/zh-TW/Thunderbird%20Setup%20157.0.exe
+- **URL**: https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/zh-TW/Thunderbird%20Setup%20157.0.1.exe
 
 #### mozilla-thunderbird
 
@@ -55065,7 +55164,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `msendpointmgr-intunedebugtoolkit.yml`
-- **URL**: https://raw.githubusercontent.com/MSEndpointMgr/IntuneDebugToolkit/5e4ef4776fb7a5d192a02fb9bf5d5f097df2380b/IntuneDebugToolsv2.3.msi
+- **URL**: https://raw.githubusercontent.com/MSEndpointMgr/IntuneDebugToolkit/e1cdc69c3d4aa63f3f023352e7cbbb517d0657f3/IntuneDebugToolkit-3.0.0.msi
 
 #### msgify-lite
 
@@ -55596,7 +55695,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `n3uronconnectivitysystems-n3uron.yml`
-- **URL**: https://binaries.n3uron.com/release/n3uron-setup-1.22.5-x86_64-win32-msvc-260910.0857.exe
+- **URL**: https://binaries.n3uron.com/release/n3uron-setup-1.22.6-x86_64-win32-msvc-261001.1632.exe
 
 #### n457-uncolored
 
@@ -56361,7 +56460,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `netbird-netbird.yml`
-- **URL**: https://github.com/netbirdio/netbird/releases/download/v0.79.0/netbird_installer_0.79.0_windows_amd64.msi
+- **URL**: https://github.com/netbirdio/netbird/releases/download/v0.80.0/netbird_installer_0.80.0_windows_amd64.msi
 
 #### netease-cloudmusic
 
@@ -57207,7 +57306,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nightmaretv-nightmaretv.yml`
-- **URL**: https://github.com/zeze89/nightmare-tv-releases/releases/download/v2.1.81/Nightmare-2.1.81-Setup.exe
+- **URL**: https://github.com/zeze89/nightmare-tv-releases/releases/download/v2.1.86/Nightmare-2.1.86-Setup.exe
 
 #### nihitdev-yoo
 
@@ -57693,7 +57792,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `nomacs-nomacs.yml`
-- **URL**: https://github.com/nomacs/nomacs/releases/download/3.22.3/nomacs-setup-x64.msi
+- **URL**: https://github.com/nomacs/nomacs/releases/download/3.22.4/nomacs-setup-x64.msi
 
 #### nomandhoni-blinkeye
 
@@ -59079,7 +59178,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `olimoffdev-devprojex.yml`
-- **URL**: https://github.com/Avazbek22/DevProjex/releases/download/v5.1/DevProjex.v5.1.win-x64.exe
+- **URL**: https://github.com/Avazbek22/DevProjex/releases/download/v5.2/DevProjex.v5.2.win-x64.exe
 
 #### olimoffdev-omengaminghubunlocker
 
@@ -59754,7 +59853,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `opengeos-geolibre.yml`
-- **URL**: https://github.com/opengeos/GeoLibre/releases/download/v3.1.0/GeoLibre.Desktop_3.1.0_x64-setup.exe
+- **URL**: https://github.com/opengeos/GeoLibre/releases/download/v3.2.0/GeoLibre.Desktop_3.2.0_x64-setup.exe
 
 #### opengoal-launcher
 
@@ -61007,6 +61106,15 @@ Total entries processed: 9690
 - **File**: `outcasts-fuseforks.yml`
 - **URL**: https://github.com/betyourluck/Fuseforks/releases/download/v0.4.0/fuseforks_0.4.0_x64_en-US.msi
 
+#### outcasts-lorekeel
+
+- **Source**: winget
+- **Name**: outcasts-lorekeel
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `outcasts-lorekeel.yml`
+- **URL**: https://github.com/betyourluck/Lorekeel/releases/download/v0.7.0/Lorekeel_0.7.0_x64_en-US.msi
+
 #### outerbase-studio
 
 - **Source**: winget
@@ -61556,6 +61664,15 @@ Total entries processed: 9690
 - **File**: `paradoxinteractive-paradoxlauncher.yml`
 - **URL**: https://launcher.paradoxinteractive.com/v2/paradox-launcher-installer-2025_14.exe
 
+#### paralellterminal-paterminal
+
+- **Source**: winget
+- **Name**: paralellterminal-paterminal
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `paralellterminal-paterminal.yml`
+- **URL**: https://github.com/saisai-web/PATerminal/releases/download/v0.2.5/PATerminal_0.2.5_x64-setup.exe
+
 #### parallels-parallels
 
 - **Source**: winget
@@ -62015,6 +62132,15 @@ Total entries processed: 9690
 - **File**: `pdfgear-pdfgear.yml`
 - **URL**: https://www.pdfgear.com/download/pdfgear_setup_v2.1.8.exe
 
+#### pdfmarin-pdfmarin
+
+- **Source**: winget
+- **Name**: pdfmarin-pdfmarin
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `pdfmarin-pdfmarin.yml`
+- **URL**: https://github.com/pdf-marin/pdf-marin.github.io/releases/download/v0.1.2/PDF-MARIN-Setup-0.1.2.exe
+
 #### pdfsam-pdfsam
 
 - **Source**: winget
@@ -62022,7 +62148,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pdfsam-pdfsam.yml`
-- **URL**: https://github.com/torakiki/pdfsam/releases/download/v6.0.5/pdfsam-basic-6.0.5-windows-x64.msi
+- **URL**: https://github.com/torakiki/pdfsam/releases/download/v6.0.6/pdfsam-basic-6.0.6-windows-x64.msi
 
 #### pdfzus-pdfzusammenfuegen
 
@@ -62742,7 +62868,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `pithflow-pithflow.yml`
-- **URL**: https://pithflow.com/downloads/Pithflow_1.40.0_x64-setup.exe
+- **URL**: https://pithflow.com/downloads/Pithflow_1.40.4_x64-setup.exe
 
 #### piuspp-celestial
 
@@ -62950,6 +63076,15 @@ Total entries processed: 9690
 - **Version**: 
 - **File**: `platten-playlistforge.yml`
 - **URL**: https://github.com/platten/playlistforge/releases/download/v0.2.2/playlist-forge-0.2.2-windows-amd64-setup.exe
+
+#### platwa-kanjiwidget
+
+- **Source**: winget
+- **Name**: platwa-kanjiwidget
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `platwa-kanjiwidget.yml`
+- **URL**: https://github.com/platwa/KanjiWidget/releases/download/v1.4.1/KanjiWidget-1.4.1-x64.msi
 
 #### playstation-playstationaccessories
 
@@ -64695,7 +64830,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `ptrtech-uvtools.yml`
-- **URL**: https://github.com/sn4k3/UVtools/releases/download/v7.0.0/UVtools_win-x64_v7.0.0.msi
+- **URL**: https://github.com/sn4k3/UVtools/releases/download/v7.0.1/UVtools_win-x64_v7.0.1.msi
 
 #### ptweezy-cronstable
 
@@ -65631,7 +65766,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `quadrillion-qualia.yml`
-- **URL**: https://quadrillion.ai/download/qualia-0.8.4-windows-x64-user-setup.exe
+- **URL**: https://quadrillion.ai/download/qualia-0.9.0-windows-x64-user-setup.exe
 
 #### quadspinner-gaea
 
@@ -66477,7 +66612,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `readai-readai.yml`
-- **URL**: https://desktop.read.ai/updates/windows/x86_64/1.39.0/Read%20AI_1.39.0_x64-setup.exe
+- **URL**: https://desktop.read.ai/updates/windows/x86_64/1.40.0/Read%20AI_1.40.0_x64-setup.exe
 
 #### readdle-spark
 
@@ -66721,6 +66856,15 @@ Total entries processed: 9690
 - **Version**: 
 - **File**: `redeyenetworksolutions-hopper.yml`
 - **URL**: https://download.redeyenetworks.com/hopper/releases/0.1.1/Hopper-win-x64-setup.exe
+
+#### redfireforge-redfireforge
+
+- **Source**: winget
+- **Name**: redfireforge-redfireforge
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `redfireforge-redfireforge.yml`
+- **URL**: https://github.com/redfireforge/redfireforge-public/releases/download/v0.8.15/RedfireForge_0.8.15_x64-setup.exe
 
 #### redhale-c5-ide
 
@@ -66972,7 +67116,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `remio-remioclient.yml`
-- **URL**: https://github.com/remioapp/releases/releases/download/v3.0.8-win/Remio-Client-Windows-x64-Setup.exe
+- **URL**: https://github.com/remioapp/releases/releases/download/v3.1.0-win/Remio-Client-Windows-x64-Setup.exe
 
 #### remio-remiohost
 
@@ -66981,7 +67125,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `remio-remiohost.yml`
-- **URL**: https://github.com/remioapp/releases/releases/download/v3.0.8-win/Remio-Host-Windows-x64-Setup.exe
+- **URL**: https://github.com/remioapp/releases/releases/download/v3.1.0-win/Remio-Host-Windows-x64-Setup.exe
 
 #### remixteam-remixide
 
@@ -67098,7 +67242,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `reothor-elevate.yml`
-- **URL**: https://github.com/FrodeHus/elevate/releases/download/v1.8.0/Elevate-1.8.0-x64.msi
+- **URL**: https://github.com/FrodeHus/elevate/releases/download/v1.8.1/Elevate-1.8.1-x64.msi
 
 #### replylayer-cli
 
@@ -67369,6 +67513,15 @@ Total entries processed: 9690
 - **Version**: 
 - **File**: `rhinode-tradingpaints.yml`
 - **URL**: https://www.tradingpaints.com/downloader/tp_setup_2_0_37.msi
+
+#### rhrusha-winfocus
+
+- **Source**: winget
+- **Name**: rhrusha-winfocus
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `rhrusha-winfocus.yml`
+- **URL**: https://github.com/rhrusha/winfocus/releases/download/v1.0.1/winfocus.exe
 
 #### rhshourav-hydracast
 
@@ -68358,7 +68511,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rorkai-asc.yml`
-- **URL**: https://github.com/rorkai/App-Store-Connect-CLI/releases/download/5.9.0/asc_5.9.0_windows_amd64.exe
+- **URL**: https://github.com/rorkai/App-Store-Connect-CLI/releases/download/5.9.1/asc_5.9.1_windows_amd64.exe
 
 #### roryok-poe-writer
 
@@ -68736,7 +68889,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `rubyinstallerteam-rubywithdevkit-4-0.yml`
-- **URL**: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-4.0.6-1/rubyinstaller-devkit-4.0.6-1-x64.exe
+- **URL**: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-4.0.7-1/rubyinstaller-devkit-4.0.7-1-x64.exe
 
 #### rubymetric-chsrc
 
@@ -70743,7 +70896,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `servo-servo-nightly.yml`
-- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-09-30/servo-x86_64-windows-msvc.exe
+- **URL**: https://github.com/servo/servo-nightly-builds/releases/download/2026-10-01/servo-x86_64-windows-msvc.exe
 
 #### servo-servo
 
@@ -73164,7 +73317,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `sourcegraph-amp.yml`
-- **URL**: https://static.ampcode.com/cli/0.0.1790871178-g5cbe9b/amp-windows-x64-baseline.exe
+- **URL**: https://static.ampcode.com/cli/0.0.1790926488-g24b332/amp-windows-x64-baseline.exe
 
 #### southboundsoftware-matteshot
 
@@ -74478,7 +74631,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `stirlingtools-stirlingpdf.yml`
-- **URL**: https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.1/Stirling-PDF-windows-x86_64.msi
+- **URL**: https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.0.2/Stirling-PDF-windows-x86_64.msi
 
 #### stoplight-prism
 
@@ -76935,7 +77088,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `tenable-nessus.yml`
-- **URL**: https://www.tenable.com/downloads/api/v2/pages/nessus/files/Nessus-10.12.4-x64.msi
+- **URL**: https://www.tenable.com/downloads/api/v2/pages/nessus/files/Nessus-10.12.5-x64.msi
 
 #### tenable-nessusagent
 
@@ -78935,6 +79088,15 @@ Total entries processed: 9690
 - **File**: `tom94-tev.yml`
 - **URL**: https://github.com/Tom94/tev/releases/download/v2.9.0/tev-installer.msi
 
+#### tomasbruckner-dbc
+
+- **Source**: winget
+- **Name**: tomasbruckner-dbc
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `tomasbruckner-dbc.yml`
+- **URL**: https://github.com/tomasbruckner/dbc/releases/download/v0.36.0/dbc-win-Setup.exe
+
 #### tomasrudh-winsize4
 
 - **Source**: winget
@@ -79104,7 +79266,16 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `toolport-toolport.yml`
-- **URL**: https://github.com/btsouth/toolport/releases/download/v1.23.3/Toolport_1.23.3_x64-setup.exe
+- **URL**: https://github.com/btsouth/toolport/releases/download/v1.23.4/Toolport_1.23.4_x64-setup.exe
+
+#### toolsmonk-toolsmonk
+
+- **Source**: winget
+- **Name**: toolsmonk-toolsmonk
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `toolsmonk-toolsmonk.yml`
+- **URL**: https://github.com/vksingh5995/toolsmonk-releases/releases/download/v1.1.23/ToolsMonk-Setup-1.1.23.exe
 
 #### tooyi-ishell
 
@@ -79429,6 +79600,15 @@ Total entries processed: 9690
 - **Version**: 
 - **File**: `transip-stack.yml`
 - **URL**: https://mirror.transip.net/stack/software/windows/stack-2.8.2-20210809-setup.exe
+
+#### transitaisoftware-transit
+
+- **Source**: winget
+- **Name**: transitaisoftware-transit
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `transitaisoftware-transit.yml`
+- **URL**: https://downloads.transitai.app/v6.5.1/Transit_6.5.1_x64-setup.exe
 
 #### transmission-transmission
 
@@ -81543,7 +81723,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `vim-vim-nightly.yml`
-- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.1161/gvim_9.2.1161_x64.exe
+- **URL**: https://github.com/vim/vim-win32-installer/releases/download/v9.2.1162/gvim_9.2.1162_x64.exe
 
 #### vim-vim
 
@@ -82634,6 +82814,15 @@ Total entries processed: 9690
 - **File**: `walkme-walkmeeditor.yml`
 - **URL**: https://cdn.walkme.com/walkme-editor/Container/Distributables/GA/x64/Windows/PerUserInstallers/WalkMe%20Editor-5.6.0-13-commercial.exe
 
+#### walkoud-palisades
+
+- **Source**: winget
+- **Name**: walkoud-palisades
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `walkoud-palisades.yml`
+- **URL**: https://github.com/Walkoud/Palisades/releases/download/v1.4.0/Palisades_setup.exe
+
 #### walkovertechnologies-giddh
 
 - **Source**: winget
@@ -82668,7 +82857,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `walterfr-uskmaker.yml`
-- **URL**: https://github.com/walterfr/UltraStarKaraokeMaker/releases/download/v0.24.0/USKMaker_0.24.0_x64-setup.exe
+- **URL**: https://github.com/walterfr/UltraStarKaraokeMaker/releases/download/v0.24.1/USKMaker_0.24.1_x64-setup.exe
 
 #### waltrone-mousekeeper
 
@@ -83885,6 +84074,15 @@ Total entries processed: 9690
 - **File**: `wisedu-cat.yml`
 - **URL**: https://wecres.campusphere.net/counselor-client/辅导猫_1.0.4_Setup.exe
 
+#### wisprflow-wisprflow
+
+- **Source**: winget
+- **Name**: wisprflow-wisprflow
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `wisprflow-wisprflow.yml`
+- **URL**: https://dl.wisprflow.com/wispr-flow/win32/x64/WisprFlowSetup-v1.6.774.exe
+
 #### withsecure-elementsagent
 
 - **Source**: winget
@@ -84326,6 +84524,15 @@ Total entries processed: 9690
 - **File**: `wondershare-pdfelement-12.yml`
 - **URL**: https://download.wondershare.com/cbs_down/pdfelement-pro_64bit_12.2.2_full5239.exe
 
+#### wondershare-pdfelement-13
+
+- **Source**: winget
+- **Name**: wondershare-pdfelement-13
+- **Description**: Generated from WinGet repository
+- **Version**: 
+- **File**: `wondershare-pdfelement-13.yml`
+- **URL**: https://download.wondershare.com/cbs_down/pdfelement-pro_64bit_13.0.6_full5239.exe
+
 #### wondershare-pdfelement-8
 
 - **Source**: winget
@@ -84747,7 +84954,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `xai-grokbot.yml`
-- **URL**: https://downloads.cursor.com/grokbot/stable/win32-x64/0.65.0/Grok_Bot_0.65.0_Setup.exe
+- **URL**: https://downloads.cursor.com/grokbot/stable/win32-x64/0.66.0/Grok_Bot_0.66.0_Setup.exe
 
 #### xai-grokbuild
 
@@ -85746,7 +85953,7 @@ Total entries processed: 9690
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `yaps-yaps.yml`
-- **URL**: https://github.com/richawo/yaps-releases/releases/download/v2.4.469/Yaps_2.4.469_x64-setup.exe
+- **URL**: https://github.com/richawo/yaps-releases/releases/download/v2.4.524/Yaps_2.4.524_x64-setup.exe
 
 #### yarc-yarclauncher
 
