@@ -1,10 +1,7 @@
-url: https://cdn.refinitiv.com/public/packages/Workspace/RefinitivWorkspace-installer_1.26.843.exe
+url: https://download.microsoft.com/download/c69eb5c6-5057-4ea5-8664-d59ec939e6e2/CopilotStableEnterpriseX64.msi
 automatic_install: false
 self_service: false
 categories: []
-install_script: '# TODO: Add install script for this EXE'
-uninstall_script: '# TODO: Add uninstall script for this EXE'
 
 # Categories are currently limited to Browsers, Communication, Developer tools, and Productivity.
 # This is a minimum version of this file. All configurable parameters can be seen at https://fleetdm.com/docs/rest-api/rest-api#parameters139
-# Note: Any exe requires an install script and uninstall script to be defined
