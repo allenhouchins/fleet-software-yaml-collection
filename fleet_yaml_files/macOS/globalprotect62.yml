@@ -1,4 +1,4 @@
-url: https://github.com/Zesty0wl/mac-performance-monitor/releases/download/v2.3.0.279/MacPerformanceMonitor.pkg
+url: ${globalProtectBucketURL}/${appNewVersion}/GlobalProtect.pkg
 automatic_install: false
 self_service: false
 categories: []
