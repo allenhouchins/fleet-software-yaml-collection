@@ -1,4 +1,4 @@
-url: https://download.dremio.com/arrow-flight-sql-odbc-driver/0.9.7/arrow-flight-sql-odbc-0.9.7.1195-win64.msi
+url: https://download.dremio.com/arrow-flight-sql-odbc-driver/25.0.1/Apache-Arrow-Flight-SQL-ODBC-25.0.1-win64.msi
 automatic_install: false
 self_service: false
 categories: []
