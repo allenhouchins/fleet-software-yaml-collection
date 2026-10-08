@@ -1,4 +1,4 @@
-url: https://github.com/ooni/probe-desktop/releases/download/v3.9.9/OONI-Probe-Setup-3.9.9.exe
+url: https://github.com/ooni/probe-multiplatform/releases/download/v6.2.1/OONI-Probe-6.2.1.exe
 automatic_install: false
 self_service: false
 categories: []
