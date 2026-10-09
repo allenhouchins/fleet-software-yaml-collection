@@ -1,4 +1,4 @@
-url: https://td.telegram.org/win-x64/td-setup-win-x64-7.3.0.exe
+url: https://github.com/telegramdesktop/tdesktop/releases/download/v7.3.0/td-setup-win-x64-7.3.0.exe
 automatic_install: false
 self_service: false
 categories: []
