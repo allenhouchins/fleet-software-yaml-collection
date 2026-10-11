@@ -1,0 +1,7 @@
+url: https://download3.terra-master.com/Apps/TNAS%20PC/macOS/arm/TNAS%20PC-arm64-5.2.548.pkg
+automatic_install: false
+self_service: false
+categories: []
+
+# Categories are currently limited to Browsers, Communication, Developer tools, and Productivity.
+# This is a minimum version of this file. All configurable parameters can be seen at https://fleetdm.com/docs/rest-api/rest-api#parameters139
