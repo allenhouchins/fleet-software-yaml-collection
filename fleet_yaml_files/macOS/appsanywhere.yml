@@ -1,4 +1,4 @@
-url: https://files.appsanywhere.com/clients/appsanywhere/mac/${latestVersion}/apps-anywhere-setup-InstitutionId-${latestVersion}.pkg
+url: https://files.appsanywhere.com/clients/appsanywhere/mac/${appNewVersion}/apps-anywhere-setup-InstitutionId-${appNewVersion}.pkg
 automatic_install: false
 self_service: false
 categories: []

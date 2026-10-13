@@ -1,0 +1,7 @@
+url: $(curl -fsL "${curlOptions[@]}" "https://www.adinstruments.com/support/downloads/mac/labchart-reader" | grep -Eo "https://go\.adinstruments\.com/Installers/mac/LabChartReader_[0-9]+(\.[0-9]+)+\.pkg" | head -1)
+automatic_install: false
+self_service: false
+categories: []
+
+# Categories are currently limited to Browsers, Communication, Developer tools, and Productivity.
+# This is a minimum version of this file. All configurable parameters can be seen at https://fleetdm.com/docs/rest-api/rest-api#parameters139
