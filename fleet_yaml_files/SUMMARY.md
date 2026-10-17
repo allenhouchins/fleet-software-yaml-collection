@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-10-17 10:00:10 UTC
+Generated on: 2026-10-17 19:57:24 UTC
 
 ## Summary
 
@@ -1999,7 +1999,7 @@ Total entries processed: 9998
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `mac-performance-monitor.yml`
-- **URL**: https://github.com/Zesty0wl/mac-performance-monitor/releases/download/v2.3.1.280/MacPerformanceMonitor.pkg
+- **URL**: https://github.com/Zesty0wl/mac-performance-monitor/releases/download/v2.4.0.289/MacPerformanceMonitor.pkg
 
 #### mactex-no-gui
 
@@ -2539,7 +2539,7 @@ Total entries processed: 9998
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `ntfstool.yml`
-- **URL**: https://github.com/ntfstool/ntfstool/releases/download/4.7.2.6/Ntfstool_4.7.2.6_release.pkg
+- **URL**: https://github.com/ntfstool/ntfstool/releases/download/4.7.2.8/Ntfstool_4.7.2.8_release.pkg
 
 #### nudge
 
@@ -3763,7 +3763,7 @@ Total entries processed: 9998
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `unity-ios-support-for-editor.yml`
-- **URL**: https://download.unity3d.com/download_unity/3ff58d469c8a/MacEditorTargetInstaller/UnitySetup-iOS-Support-for-Editor-6000.6.5f1.pkg
+- **URL**: https://download.unity3d.com/download_unity/d20c9ac777da/MacEditorTargetInstaller/UnitySetup-iOS-Support-for-Editor-6000.6.6f1.pkg
 
 #### unity-webgl-support-for-editor
 
@@ -3772,7 +3772,7 @@ Total entries processed: 9998
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `unity-webgl-support-for-editor.yml`
-- **URL**: https://download.unity3d.com/download_unity/3ff58d469c8a/MacEditorTargetInstaller/UnitySetup-WebGL-Support-for-Editor-6000.6.5f1.pkg
+- **URL**: https://download.unity3d.com/download_unity/d20c9ac777da/MacEditorTargetInstaller/UnitySetup-WebGL-Support-for-Editor-6000.6.6f1.pkg
 
 #### unity-windows-support-for-editor
 
@@ -3781,7 +3781,7 @@ Total entries processed: 9998
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `unity-windows-support-for-editor.yml`
-- **URL**: https://download.unity3d.com/download_unity/3ff58d469c8a/MacEditorTargetInstaller/UnitySetup-Windows-Mono-Support-for-Editor-6000.6.5f1.pkg
+- **URL**: https://download.unity3d.com/download_unity/d20c9ac777da/MacEditorTargetInstaller/UnitySetup-Windows-Mono-Support-for-Editor-6000.6.6f1.pkg
 
 #### unity
 
@@ -50358,7 +50358,7 @@ Total entries processed: 9998
 - **Description**: Generated from WinGet repository
 - **Version**: 
 - **File**: `microsoft-safetyscanner.yml`
-- **URL**: https://definitionupdates.microsoft.com/packages/content/msert.exe?packageType=Scanner&packageVersion=1.461.61.0&arch=amd64
+- **URL**: https://definitionupdates.microsoft.com/packages/content/msert.exe?packageType=Scanner&packageVersion=1.461.74.0&arch=amd64
 
 #### microsoft-sbomtool
 
