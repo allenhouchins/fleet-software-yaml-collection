@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-10-17 19:57:24 UTC
+Generated on: 2026-10-18 10:11:12 UTC
 
 ## Summary
 
@@ -478,7 +478,7 @@ Total entries processed: 9998
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `capsomnia.yml`
-- **URL**: https://github.com/fuji-mak/Capsomnia/releases/download/v4.2.4/Capsomnia-4.2.4.pkg
+- **URL**: https://github.com/fuji-mak/Capsomnia/releases/download/v4.2.5/Capsomnia-4.2.5.pkg
 
 #### cardinal
 
