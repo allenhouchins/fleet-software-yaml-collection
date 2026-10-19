@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-10-18 19:56:37 UTC
+Generated on: 2026-10-19 11:44:18 UTC
 
 ## Summary
 
@@ -2890,7 +2890,7 @@ Total entries processed: 9998
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `power-monitor.yml`
-- **URL**: https://github.com/SAP/power-monitoring-tool-for-macos/releases/download/1.3.4/PowerMonitor_1.3.4.pkg
+- **URL**: https://github.com/SAP/power-monitoring-tool-for-macos/releases/download/1.3.5/PowerMonitor_1.3.5.pkg
 
 #### powerpanel
 
@@ -3187,7 +3187,7 @@ Total entries processed: 9998
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `seadrive.yml`
-- **URL**: https://sos-ch-dk-2.exo.io/seafile-downloads/seadrive-3.0.26.pkg
+- **URL**: https://sos-ch-dk-2.exo.io/seafile-downloads/seadrive-3.0.27.pkg
 
 #### securesafe
 
