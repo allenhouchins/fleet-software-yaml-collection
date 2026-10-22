@@ -1,4 +1,4 @@
-url: https://github.com/myiam-io/homebrew-tap/releases/download/due2-v2.0.0/due2-2.0.0-windows-x64-setup.exe
+url: https://github.com/due2-app/due2-releases/releases/download/due2-v2.7.4/due2-2.7.4-windows-x64-setup.exe
 automatic_install: false
 self_service: false
 categories: []
