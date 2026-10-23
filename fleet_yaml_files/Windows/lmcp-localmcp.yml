@@ -1,4 +1,4 @@
-url: https://download.local-mcp.com/LMCP-Setup.exe
+url: https://download.local-mcp.com/winget/LMCP-Setup-3.0.423.exe
 automatic_install: false
 self_service: false
 categories: []
