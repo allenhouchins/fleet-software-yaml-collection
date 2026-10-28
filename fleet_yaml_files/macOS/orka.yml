@@ -1,4 +1,4 @@
-url: https://cli-builds-public.s3.amazonaws.com/official/2.4.0/macos/orka.pkg
+url: https://cli-builds-public.s3.amazonaws.com/official/4.0.0/orka/macos/arm64/orka.pkg
 automatic_install: false
 self_service: false
 categories: []

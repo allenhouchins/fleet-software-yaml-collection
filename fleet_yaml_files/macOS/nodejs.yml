@@ -1,4 +1,4 @@
-url: https://nodejs.org/dist/latest/node-$(curl -s -L https://nodejs.org/dist/latest/ | sed -nE 's|.*>node-(.*)\.pkg</a>.*|\1|p').pkg
+url: https://nodejs.org/dist/${appNewVersion}/node-${appNewVersion}.pkg
 automatic_install: false
 self_service: false
 categories: []

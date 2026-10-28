@@ -1,4 +1,4 @@
-url: https://sourceforge.net/projects/winmerge/files/stable/2.16.6/WinMerge-2.16.6-Setup.exe/download
+url: https://github.com/WinMerge/winmerge/releases/download/v2.16.60/WinMerge-2.16.60-x64-PerUser-Setup.exe
 automatic_install: false
 self_service: false
 categories: []
