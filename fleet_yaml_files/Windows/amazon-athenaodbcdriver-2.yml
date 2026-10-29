@@ -1,4 +1,4 @@
-url: https://aws-analytics-downloads-us-east-1.s3.us-east-1.amazonaws.com/athena/ODBC/v2.4.0.0/Windows/AmazonAthenaODBC-2.4.0.0-windows-amd64.msi
+url: https://aws-analytics-downloads-us-east-1.s3.us-east-1.amazonaws.com/athena/ODBC/v2.5.0.0/Windows/AmazonAthenaODBC-2.5.0.0-windows-amd64.msi
 automatic_install: false
 self_service: false
 categories: []
