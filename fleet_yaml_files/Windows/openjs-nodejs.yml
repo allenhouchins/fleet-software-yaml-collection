@@ -1,4 +1,4 @@
-url: https://nodejs.org/dist/v26.9.0/node-v26.9.0-x64.msi
+url: https://nodejs.org/dist/v27.0.0-alpha.0.0.0/node-v27.0.0-alpha.0.0.0-x64.msi
 automatic_install: false
 self_service: false
 categories: []
