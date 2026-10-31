@@ -1,4 +1,4 @@
-url: https://github.com/taizod1024/redis-windows-fork/releases/download/8.10.3/redis-windows-fork-setup.exe
+url: https://github.com/ispysoftware/agent-install-scripts/releases/download/v8.0.7.0/AgentDVRSetup_8_0_7_0.exe
 automatic_install: false
 self_service: false
 categories: []
