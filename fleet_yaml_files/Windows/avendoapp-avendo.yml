@@ -1,0 +1,7 @@
+url: https://github.com/dima5163/avendo-downloads/releases/download/avendo-1.0.17-direct/Avendo-1.0.17-windows-x64-233a6366.msi
+automatic_install: false
+self_service: false
+categories: []
+
+# Categories are currently limited to Browsers, Communication, Developer tools, and Productivity.
+# This is a minimum version of this file. All configurable parameters can be seen at https://fleetdm.com/docs/rest-api/rest-api#parameters139
