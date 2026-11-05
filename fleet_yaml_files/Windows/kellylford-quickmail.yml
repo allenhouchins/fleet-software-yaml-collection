@@ -1,0 +1,7 @@
+url: https://github.com/kellylford/QuickMail/releases/download/v0.8.65/QuickMail-0.8.65-win.msi
+automatic_install: false
+self_service: false
+categories: []
+
+# Categories are currently limited to Browsers, Communication, Developer tools, and Productivity.
+# This is a minimum version of this file. All configurable parameters can be seen at https://fleetdm.com/docs/rest-api/rest-api#parameters139
