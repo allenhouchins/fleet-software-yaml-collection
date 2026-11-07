@@ -1,4 +1,4 @@
-url: https://github.com/coreos/ignition/releases/download/v2.26.0/ignition-validate-x86_64-pc-windows-gnu.exe
+url: https://github.com/coreos/ignition/releases/download/v2.28.0/ignition-validate-x86_64-pc-windows-gnu.exe
 automatic_install: false
 self_service: false
 categories: []
