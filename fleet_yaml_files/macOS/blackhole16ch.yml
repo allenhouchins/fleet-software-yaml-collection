@@ -1,4 +1,4 @@
-url: https://files.jamfconnect.com/NoMAD.pkg
+url: https://existential.audio/downloads/BlackHole16ch-${appNewVersion}.pkg
 automatic_install: false
 self_service: false
 categories: []
