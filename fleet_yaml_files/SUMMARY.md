@@ -1,6 +1,6 @@
 # Fleet YAML Files Generated from Homebrew Casks, Installomator, and WinGet
 
-Generated on: 2026-11-22 13:52:59 UTC
+Generated on: 2026-11-22 23:03:29 UTC
 
 ## Summary
 
@@ -307,7 +307,7 @@ Total entries processed: 10642
 - **Description**: Generated from Homebrew cask or Installomator script
 - **Version**: 
 - **File**: `azookey.yml`
-- **URL**: https://github.com/azooKey/azooKey-Desktop/releases/download/v0.1.4/azooKey-release-signed.pkg
+- **URL**: https://github.com/azooKey/azooKey-Desktop/releases/download/v0.1.5/azooKey-release-signed.pkg
 
 #### background-music
 
