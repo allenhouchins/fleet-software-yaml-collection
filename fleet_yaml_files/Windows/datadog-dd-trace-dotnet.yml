@@ -1,4 +1,4 @@
-url: https://github.com/DataDog/dd-trace-dotnet/releases/download/v3.58.0/datadog-dotnet-apm-3.58.0-x64.msi
+url: https://github.com/DataDog/dd-trace-dotnet/releases/download/v3.59.0/datadog-dotnet-apm-3.59.0-x64.msi
 automatic_install: false
 self_service: false
 categories: []
