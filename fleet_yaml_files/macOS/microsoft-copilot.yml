@@ -1,0 +1,7 @@
+url: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/aebe7225-40e8-4c6e-a6ae-0a98c6b2c713/Copilot-158.0.4370.33.pkg
+automatic_install: false
+self_service: false
+categories: []
+
+# Categories are currently limited to Browsers, Communication, Developer tools, and Productivity.
+# This is a minimum version of this file. All configurable parameters can be seen at https://fleetdm.com/docs/rest-api/rest-api#parameters139
